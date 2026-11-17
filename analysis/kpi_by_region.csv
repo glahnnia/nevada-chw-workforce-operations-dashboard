@@ -1,0 +1,5 @@
+region,enrollments,unique_learners,completion_eligible_enrollments,completed_enrollments,withdrawn_enrollments,completion_rate_pct,withdrawal_rate_pct,average_module_progress_pct,median_days_to_completion
+Northern Nevada,894,843,818,606,146,74.08,17.85,77.71,79.0
+Rural/Frontier,546,513,494,383,78,77.53,15.79,79.4,77
+Southern Nevada,1154,1073,1042,809,161,77.64,15.45,79.89,78
+Unknown,22,21,18,11,7,61.11,38.89,73.86,82

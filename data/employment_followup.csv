@@ -1,0 +1,2063 @@
+employment_record_id,learner_id,observation_date,months_after_completion,employment_status,employer_sector,employment_start_date,verification_source
+EF00001,L00097,2024-05-26,3,Employed in CHW role,Healthcare,2024-04-02,Synthetic scenario
+EF00002,L00098,2025-03-06,3,Employed in CHW role,Other,2025-01-31,Synthetic scenario
+EF00003,L00195,2024-08-22,6,Unknown,Unknown,,Synthetic scenario
+EF00004,L00265,2024-05-26,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00005,L00265,2024-08-26,6,Employed in other role,Other,2024-07-12,Synthetic scenario
+EF00006,L00292,2024-06-05,3,Employed in other role,Community nonprofit,2024-05-26,Synthetic scenario
+EF00007,L00292,2024-09-05,6,Employed in CHW role,Other,2024-09-01,Synthetic scenario
+EF00008,L00295,2024-05-22,3,Employed in other role,Other,2024-03-11,Synthetic scenario
+EF00009,L00295,2024-08-22,6,Employed in CHW role,Community nonprofit,2024-08-03,Synthetic scenario
+EF00010,L00458,2024-05-28,3,Not seeking work,Unknown,,Synthetic scenario
+EF00011,L00583,2024-05-24,3,Employed in CHW role,Healthcare,2024-04-06,Synthetic scenario
+EF00012,L00583,2024-08-24,6,Employed in CHW role,Government,2024-04-06,Synthetic scenario
+EF00013,L00591,2024-05-25,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00014,L00651,2024-05-28,3,Employed in CHW role,Community nonprofit,2024-04-09,Synthetic scenario
+EF00015,L00651,2024-08-28,6,Employed in CHW role,Healthcare,2024-04-09,Synthetic scenario
+EF00016,L00714,2024-05-24,3,Unknown,Unknown,,Synthetic scenario
+EF00017,L00714,2024-08-24,6,Employed in other role,Other,2024-05-30,Synthetic scenario
+EF00018,L00749,2024-05-25,3,Employed in CHW role,Other,2024-03-11,Synthetic scenario
+EF00019,L00749,2024-08-25,6,Employed in CHW role,Community nonprofit,2024-03-11,Synthetic scenario
+EF00020,L00788,2024-05-22,3,Unknown,Unknown,,Synthetic scenario
+EF00021,L01012,2024-06-03,3,Employed in CHW role,Government,2024-03-18,Synthetic scenario
+EF00022,L01012,2024-09-03,6,Unknown,Unknown,,Synthetic scenario
+EF00023,L01067,2024-05-23,3,Employed in other role,Healthcare,2024-05-03,Synthetic scenario
+EF00024,L01067,2024-08-23,6,Employed in other role,Healthcare,2024-08-07,Synthetic scenario
+EF00025,L01095,2024-08-24,6,Employed in other role,Community nonprofit,2024-08-22,Synthetic scenario
+EF00026,L01103,2024-08-28,6,Employed in CHW role,Government,2024-04-12,Synthetic scenario
+EF00027,L01122,2024-05-22,3,Employed in CHW role,Healthcare,2024-04-27,Synthetic scenario
+EF00028,L01122,2024-08-22,6,Employed in CHW role,Other,2024-04-27,Synthetic scenario
+EF00029,L01135,2024-05-28,3,Employed in other role,Government,2024-03-25,Synthetic scenario
+EF00030,L01246,2024-05-22,3,Employed in CHW role,Healthcare,2024-05-07,Synthetic scenario
+EF00031,L01259,2024-05-22,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00032,L01259,2024-08-22,6,Unknown,Unknown,,Synthetic scenario
+EF00033,L01263,2024-05-26,3,Employed in CHW role,Healthcare,2024-03-08,Synthetic scenario
+EF00034,L01263,2024-08-26,6,Employed in CHW role,Healthcare,2024-03-08,Synthetic scenario
+EF00035,L01316,2024-08-22,6,Employed in other role,Healthcare,2024-08-01,Synthetic scenario
+EF00036,L01320,2024-06-05,3,Employed in CHW role,Healthcare,2024-04-13,Synthetic scenario
+EF00037,L01321,2024-05-23,3,Employed in CHW role,Community nonprofit,2024-03-19,Synthetic scenario
+EF00038,L01321,2024-08-23,6,Employed in CHW role,Healthcare,2024-03-19,Synthetic scenario
+EF00039,L01430,2024-05-29,3,Not seeking work,Unknown,,Synthetic scenario
+EF00040,L01481,2024-06-05,3,Employed in CHW role,Community nonprofit,2024-03-17,Synthetic scenario
+EF00041,L01486,2024-06-05,3,Employed in CHW role,Healthcare,2024-03-31,Synthetic scenario
+EF00042,L01486,2024-09-05,6,Employed in CHW role,Healthcare,2024-03-31,Synthetic scenario
+EF00043,L01499,2024-06-05,3,Employed in other role,Other,2024-05-11,Synthetic scenario
+EF00044,L01566,2024-05-22,3,Employed in CHW role,Community nonprofit,2024-04-12,Synthetic scenario
+EF00045,L01567,2024-08-27,6,Employed in CHW role,Healthcare,2024-07-23,Synthetic scenario
+EF00046,L01609,2024-05-27,3,Employed in other role,Other,2024-03-13,Synthetic scenario
+EF00047,L01609,2024-08-27,6,Employed in CHW role,Community nonprofit,2024-07-20,Synthetic scenario
+EF00048,L01633,2024-06-05,3,Employed in CHW role,Community nonprofit,2024-05-16,Synthetic scenario
+EF00049,L01634,2024-06-04,3,Employed in CHW role,Community nonprofit,2024-03-17,Synthetic scenario
+EF00050,L01703,2024-06-03,3,Employed in CHW role,Healthcare,2024-05-27,Synthetic scenario
+EF00051,L01703,2024-09-03,6,Employed in CHW role,Other,2024-05-27,Synthetic scenario
+EF00052,L01706,2024-05-28,3,Employed in CHW role,Healthcare,2024-04-29,Synthetic scenario
+EF00053,L01706,2024-08-28,6,Employed in CHW role,Healthcare,2024-04-29,Synthetic scenario
+EF00054,L01761,2024-09-01,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00055,L01836,2024-09-02,6,Not seeking work,Unknown,,Synthetic scenario
+EF00056,L01892,2024-09-05,6,Employed in CHW role,Community nonprofit,2024-06-13,Synthetic scenario
+EF00057,L01981,2024-05-24,3,Employed in CHW role,Healthcare,2024-05-04,Synthetic scenario
+EF00058,L01981,2024-08-24,6,Employed in CHW role,Healthcare,2024-05-04,Synthetic scenario
+EF00059,L02080,2024-05-24,3,Employed in CHW role,Community nonprofit,2024-03-20,Synthetic scenario
+EF00060,L02091,2024-06-02,3,Employed in other role,Other,2024-05-15,Synthetic scenario
+EF00061,L02091,2024-09-02,6,Employed in CHW role,Community nonprofit,2024-07-29,Synthetic scenario
+EF00062,L02172,2024-05-28,3,Unknown,Unknown,,Synthetic scenario
+EF00063,L02180,2024-06-01,3,Employed in CHW role,Community nonprofit,2024-04-14,Synthetic scenario
+EF00064,L02180,2024-09-01,6,Employed in CHW role,Community nonprofit,2024-04-14,Synthetic scenario
+EF00065,L02246,2024-05-26,3,Employed in other role,Community nonprofit,2024-04-26,Synthetic scenario
+EF00066,L02246,2024-08-26,6,Employed in CHW role,Healthcare,2024-04-26,Synthetic scenario
+EF00067,L02269,2024-06-04,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00068,L02269,2024-09-04,6,Employed in CHW role,Community nonprofit,2024-03-24,Synthetic scenario
+EF00069,L02309,2024-06-02,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00070,L02309,2024-09-02,6,Employed in other role,Community nonprofit,2024-05-23,Synthetic scenario
+EF00071,L00009,2024-06-02,3,Employed in CHW role,Other,2024-04-18,Synthetic scenario
+EF00072,L00009,2024-09-02,6,Employed in CHW role,Government,2024-04-18,Synthetic scenario
+EF00073,L00122,2024-06-04,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00074,L00145,2024-05-24,3,Employed in other role,Other,2024-03-13,Synthetic scenario
+EF00075,L00191,2024-09-04,3,Employed in CHW role,Healthcare,2024-06-16,Synthetic scenario
+EF00076,L00233,2024-05-29,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00077,L00239,2024-06-07,3,Employed in CHW role,Healthcare,2024-05-08,Synthetic scenario
+EF00078,L00239,2024-09-07,6,Employed in CHW role,Other,2024-05-08,Synthetic scenario
+EF00079,L00256,2024-05-24,3,Employed in CHW role,Community nonprofit,2024-05-22,Synthetic scenario
+EF00080,L00256,2024-08-24,6,Employed in CHW role,Healthcare,2024-05-22,Synthetic scenario
+EF00081,L00268,2024-06-04,3,Employed in other role,Other,2024-03-28,Synthetic scenario
+EF00082,L00268,2024-09-04,6,Employed in CHW role,Government,2024-04-26,Synthetic scenario
+EF00083,L00274,2024-05-24,3,Employed in CHW role,Healthcare,2024-04-29,Synthetic scenario
+EF00084,L00274,2024-08-24,6,Employed in CHW role,Community nonprofit,2024-04-29,Synthetic scenario
+EF00085,L00299,2024-06-05,3,Employed in CHW role,Community nonprofit,2024-06-04,Synthetic scenario
+EF00086,L00299,2024-09-05,6,Employed in CHW role,Community nonprofit,2024-06-04,Synthetic scenario
+EF00087,L00408,2024-05-28,3,Employed in CHW role,Healthcare,2024-04-25,Synthetic scenario
+EF00088,L00408,2024-08-28,6,Employed in CHW role,Community nonprofit,2024-04-25,Synthetic scenario
+EF00089,L00463,2024-05-25,3,Employed in CHW role,Community nonprofit,2024-03-09,Synthetic scenario
+EF00090,L00463,2024-08-25,6,Employed in CHW role,Government,2024-03-09,Synthetic scenario
+EF00091,L00519,2024-06-01,3,Employed in CHW role,Community nonprofit,2024-06-01,Synthetic scenario
+EF00092,L00556,2024-06-07,3,Employed in CHW role,Community nonprofit,2024-06-06,Synthetic scenario
+EF00093,L00556,2024-09-07,6,Employed in other role,Other,2024-04-16,Synthetic scenario
+EF00094,L00565,2024-06-06,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00095,L00565,2024-09-06,6,Employed in CHW role,Other,2024-04-14,Synthetic scenario
+EF00096,L00601,2024-09-03,6,Employed in CHW role,Healthcare,2024-03-27,Synthetic scenario
+EF00097,L00619,2024-06-05,3,Employed in CHW role,Other,2024-06-04,Synthetic scenario
+EF00098,L00619,2024-09-05,6,Employed in CHW role,Community nonprofit,2024-06-04,Synthetic scenario
+EF00099,L00726,2024-05-28,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00100,L00803,2024-05-24,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00101,L00837,2024-05-29,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00102,L01045,2024-06-04,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00103,L01088,2024-06-05,3,Employed in CHW role,Community nonprofit,2024-04-06,Synthetic scenario
+EF00104,L01088,2024-09-05,6,Employed in CHW role,Healthcare,2024-04-06,Synthetic scenario
+EF00105,L01107,2024-06-07,3,Employed in CHW role,Community nonprofit,2024-05-03,Synthetic scenario
+EF00106,L01107,2024-09-07,6,Employed in CHW role,Healthcare,2024-05-03,Synthetic scenario
+EF00107,L01136,2024-06-01,3,Unknown,Unknown,,Synthetic scenario
+EF00108,L01136,2024-09-01,6,Employed in CHW role,Healthcare,2024-07-15,Synthetic scenario
+EF00109,L01181,2024-06-04,3,Employed in CHW role,Healthcare,2024-06-02,Synthetic scenario
+EF00110,L01223,2024-06-03,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00111,L01223,2024-09-03,6,Employed in CHW role,Community nonprofit,2024-06-16,Synthetic scenario
+EF00112,L01230,2024-05-25,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00113,L01270,2024-05-25,3,Employed in CHW role,Community nonprofit,2024-05-19,Synthetic scenario
+EF00114,L01360,2024-05-25,3,Employed in other role,Healthcare,2024-05-10,Synthetic scenario
+EF00115,L01534,2024-05-29,3,Employed in other role,Community nonprofit,2024-05-18,Synthetic scenario
+EF00116,L01565,2024-05-29,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00117,L01602,2024-09-06,6,Employed in CHW role,Community nonprofit,2024-05-26,Synthetic scenario
+EF00118,L01619,2024-06-07,3,Employed in CHW role,Healthcare,2024-03-29,Synthetic scenario
+EF00119,L01619,2024-09-07,6,Employed in CHW role,Other,2024-03-29,Synthetic scenario
+EF00120,L01807,2024-05-27,3,Employed in CHW role,Healthcare,2024-04-01,Synthetic scenario
+EF00121,L01807,2024-08-27,6,Unknown,Unknown,,Synthetic scenario
+EF00122,L01968,2024-05-29,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00123,L02019,2024-06-01,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00124,L02019,2024-09-01,6,Employed in other role,Other,2024-05-25,Synthetic scenario
+EF00125,L02071,2024-05-27,3,Employed in CHW role,Community nonprofit,2024-05-18,Synthetic scenario
+EF00126,L02071,2024-08-27,6,Employed in CHW role,Government,2024-05-18,Synthetic scenario
+EF00127,L02079,2026-02-25,3,Employed in CHW role,Community nonprofit,2026-01-16,Synthetic scenario
+EF00128,L02079,2026-05-25,6,Employed in CHW role,Government,2026-01-16,Synthetic scenario
+EF00129,L02106,2024-05-25,3,Employed in CHW role,Community nonprofit,2024-03-26,Synthetic scenario
+EF00130,L02106,2024-08-25,6,Employed in CHW role,Healthcare,2024-03-26,Synthetic scenario
+EF00131,L02128,2024-05-24,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00132,L02128,2024-08-24,6,Employed in other role,Other,2024-03-10,Synthetic scenario
+EF00133,L02198,2024-05-26,3,Employed in other role,Other,2024-04-10,Synthetic scenario
+EF00134,L02198,2024-08-26,6,Employed in other role,Healthcare,2024-04-06,Synthetic scenario
+EF00135,L02241,2024-05-27,3,Employed in CHW role,Healthcare,2024-04-28,Synthetic scenario
+EF00136,L02241,2024-08-27,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00137,L00020,2024-06-16,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00138,L00059,2024-06-16,3,Employed in other role,Healthcare,2024-04-28,Synthetic scenario
+EF00139,L00059,2024-09-16,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00140,L00168,2024-06-14,3,Employed in other role,Other,2024-03-26,Synthetic scenario
+EF00141,L00168,2024-09-14,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00142,L00257,2024-06-13,3,Employed in CHW role,Healthcare,2024-05-09,Synthetic scenario
+EF00143,L00257,2024-09-13,6,Unknown,Unknown,,Synthetic scenario
+EF00144,L00520,2024-06-15,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00145,L00520,2024-09-15,6,Employed in other role,Other,2024-04-30,Synthetic scenario
+EF00146,L00675,2024-06-06,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00147,L00675,2024-09-06,6,Employed in other role,Community nonprofit,2024-05-29,Synthetic scenario
+EF00148,L00795,2024-06-08,3,Employed in CHW role,Healthcare,2024-04-14,Synthetic scenario
+EF00149,L00862,2024-06-10,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00150,L00862,2024-09-10,6,Employed in CHW role,Government,2024-07-07,Synthetic scenario
+EF00151,L00899,2024-06-11,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00152,L00935,2024-09-13,6,Employed in CHW role,Healthcare,2024-08-05,Synthetic scenario
+EF00153,L00972,2024-09-17,6,Employed in CHW role,Healthcare,2024-06-19,Synthetic scenario
+EF00154,L01076,2024-06-10,3,Employed in CHW role,Healthcare,2024-05-10,Synthetic scenario
+EF00155,L01076,2024-09-10,6,Employed in CHW role,Community nonprofit,2024-05-10,Synthetic scenario
+EF00156,L01344,2024-06-17,3,Employed in CHW role,Healthcare,2024-03-28,Synthetic scenario
+EF00157,L01344,2024-09-17,6,Employed in CHW role,Government,2024-03-28,Synthetic scenario
+EF00158,L01351,2024-06-07,3,Employed in CHW role,Healthcare,2024-05-25,Synthetic scenario
+EF00159,L01361,2024-06-12,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00160,L01369,2024-06-09,3,Unknown,Unknown,,Synthetic scenario
+EF00161,L01369,2024-09-09,6,Employed in CHW role,Healthcare,2024-05-17,Synthetic scenario
+EF00162,L01429,2024-06-10,3,Not seeking work,Unknown,,Synthetic scenario
+EF00163,L01429,2024-09-10,6,Employed in CHW role,Government,2024-08-01,Synthetic scenario
+EF00164,L01461,2024-06-13,3,Employed in CHW role,Community nonprofit,2024-03-26,Synthetic scenario
+EF00165,L01461,2024-09-13,6,Employed in CHW role,Healthcare,2024-03-26,Synthetic scenario
+EF00166,L01525,2024-09-10,6,Employed in CHW role,Government,2024-05-13,Synthetic scenario
+EF00167,L01559,2024-06-09,3,Employed in CHW role,Healthcare,2024-04-25,Synthetic scenario
+EF00168,L01559,2024-09-09,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00169,L01615,2024-11-25,3,Employed in CHW role,Healthcare,2024-11-24,Synthetic scenario
+EF00170,L01615,2025-02-25,6,Employed in CHW role,Healthcare,2024-11-24,Synthetic scenario
+EF00171,L01637,2024-06-09,3,Unknown,Unknown,,Synthetic scenario
+EF00172,L01637,2024-09-09,6,Employed in CHW role,Healthcare,2024-07-15,Synthetic scenario
+EF00173,L01698,2024-06-15,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00174,L01698,2024-09-15,6,Employed in CHW role,Community nonprofit,2024-04-10,Synthetic scenario
+EF00175,L01711,2024-06-13,3,Employed in CHW role,Healthcare,2024-06-01,Synthetic scenario
+EF00176,L01711,2024-09-13,6,Employed in CHW role,Community nonprofit,2024-06-01,Synthetic scenario
+EF00177,L01760,2024-06-13,3,Employed in CHW role,Healthcare,2024-05-14,Synthetic scenario
+EF00178,L01760,2024-09-13,6,Employed in CHW role,Government,2024-05-14,Synthetic scenario
+EF00179,L01788,2024-12-03,3,Not seeking work,Unknown,,Synthetic scenario
+EF00180,L01788,2025-03-03,6,Not seeking work,Unknown,,Synthetic scenario
+EF00181,L01822,2024-06-17,3,Employed in CHW role,Healthcare,2024-03-29,Synthetic scenario
+EF00182,L01822,2024-09-17,6,Employed in other role,Community nonprofit,2024-05-13,Synthetic scenario
+EF00183,L01840,2024-06-12,3,Employed in CHW role,Healthcare,2024-05-04,Synthetic scenario
+EF00184,L01878,2024-06-06,3,Employed in CHW role,Community nonprofit,2024-05-30,Synthetic scenario
+EF00185,L01878,2024-09-06,6,Employed in other role,Other,2024-04-27,Synthetic scenario
+EF00186,L01887,2024-06-11,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00187,L01887,2024-09-11,6,Not seeking work,Unknown,,Synthetic scenario
+EF00188,L01940,2024-06-12,3,Employed in CHW role,Community nonprofit,2024-04-19,Synthetic scenario
+EF00189,L01940,2024-09-12,6,Employed in CHW role,Healthcare,2024-04-19,Synthetic scenario
+EF00190,L02094,2024-06-05,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00191,L02094,2024-09-05,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00192,L02235,2024-06-07,3,Employed in other role,Government,2024-05-29,Synthetic scenario
+EF00193,L02240,2024-06-11,3,Employed in other role,Government,2024-03-26,Synthetic scenario
+EF00194,L02245,2024-06-06,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00195,L02245,2024-09-06,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00196,L02254,2024-06-07,3,Employed in other role,Healthcare,2024-05-23,Synthetic scenario
+EF00197,L02254,2024-09-07,6,Employed in CHW role,Community nonprofit,2024-07-05,Synthetic scenario
+EF00198,L02262,2024-06-05,3,Employed in other role,Government,2024-05-23,Synthetic scenario
+EF00199,L02365,2024-06-08,3,Employed in CHW role,Government,2024-04-20,Synthetic scenario
+EF00200,L02365,2024-09-08,6,Employed in CHW role,Healthcare,2024-04-20,Synthetic scenario
+EF00201,L02409,2024-06-06,3,Employed in CHW role,Healthcare,2024-05-03,Synthetic scenario
+EF00202,L00038,2024-08-23,3,Unknown,Unknown,,Synthetic scenario
+EF00203,L00038,2024-11-23,6,Employed in other role,Healthcare,2024-07-03,Synthetic scenario
+EF00204,L00157,2024-12-04,6,Employed in CHW role,Government,2024-08-03,Synthetic scenario
+EF00205,L00192,2024-11-23,6,Employed in CHW role,Community nonprofit,2024-08-06,Synthetic scenario
+EF00206,L00220,2024-11-30,6,Employed in CHW role,Other,2024-08-11,Synthetic scenario
+EF00207,L00230,2024-09-02,3,Employed in CHW role,Community nonprofit,2024-07-23,Synthetic scenario
+EF00208,L00230,2024-12-02,6,Employed in CHW role,Community nonprofit,2024-07-23,Synthetic scenario
+EF00209,L00330,2024-09-03,3,Employed in other role,Other,2024-08-03,Synthetic scenario
+EF00210,L00359,2024-08-29,3,Employed in CHW role,Government,2024-07-17,Synthetic scenario
+EF00211,L00359,2024-11-29,6,Employed in CHW role,Healthcare,2024-07-17,Synthetic scenario
+EF00212,L00372,2026-06-16,3,Employed in other role,Healthcare,2026-06-13,Synthetic scenario
+EF00213,L00372,2026-09-16,6,Employed in CHW role,Government,2026-05-18,Synthetic scenario
+EF00214,L00423,2024-08-24,3,Employed in CHW role,Community nonprofit,2024-08-03,Synthetic scenario
+EF00215,L00533,2024-08-31,3,Employed in other role,Healthcare,2024-07-17,Synthetic scenario
+EF00216,L00533,2024-11-30,6,Employed in CHW role,Community nonprofit,2024-11-03,Synthetic scenario
+EF00217,L00611,2024-11-23,6,Employed in CHW role,Community nonprofit,2024-07-22,Synthetic scenario
+EF00218,L00731,2026-09-01,3,Employed in CHW role,Healthcare,2026-08-13,Synthetic scenario
+EF00219,L00769,2024-08-27,3,Employed in CHW role,Government,2024-07-21,Synthetic scenario
+EF00220,L00769,2024-11-27,6,Not seeking work,Unknown,,Synthetic scenario
+EF00221,L00793,2024-08-28,3,Not seeking work,Unknown,,Synthetic scenario
+EF00222,L00793,2024-11-28,6,Employed in CHW role,Community nonprofit,2024-08-21,Synthetic scenario
+EF00223,L00823,2024-09-03,3,Employed in other role,Community nonprofit,2024-07-11,Synthetic scenario
+EF00224,L00823,2024-12-03,6,Employed in CHW role,Government,2024-06-24,Synthetic scenario
+EF00225,L00895,2024-08-25,3,Employed in CHW role,Community nonprofit,2024-08-07,Synthetic scenario
+EF00226,L00895,2024-11-25,6,Unknown,Unknown,,Synthetic scenario
+EF00227,L00896,2024-09-04,3,Unknown,Unknown,,Synthetic scenario
+EF00228,L00896,2024-12-04,6,Employed in CHW role,Community nonprofit,2024-07-15,Synthetic scenario
+EF00229,L00952,2024-09-03,3,Employed in CHW role,Healthcare,2024-08-28,Synthetic scenario
+EF00230,L01025,2024-08-25,3,Employed in CHW role,Healthcare,2024-08-22,Synthetic scenario
+EF00231,L01025,2024-11-25,6,Employed in CHW role,Government,2024-08-22,Synthetic scenario
+EF00232,L01036,2024-08-24,3,Employed in CHW role,Healthcare,2024-06-19,Synthetic scenario
+EF00233,L01050,2024-08-24,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00234,L01050,2024-11-24,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00235,L01183,2024-09-03,3,Employed in CHW role,Government,2024-08-29,Synthetic scenario
+EF00236,L01183,2024-12-03,6,Employed in CHW role,Healthcare,2024-08-29,Synthetic scenario
+EF00237,L01217,2024-12-01,6,Employed in other role,Healthcare,2024-10-06,Synthetic scenario
+EF00238,L01229,2024-11-28,6,Employed in CHW role,Healthcare,2024-09-11,Synthetic scenario
+EF00239,L01289,2024-08-29,3,Employed in other role,Other,2024-08-13,Synthetic scenario
+EF00240,L01294,2024-08-29,3,Employed in CHW role,Healthcare,2024-07-14,Synthetic scenario
+EF00241,L01332,2024-08-30,3,Unknown,Unknown,,Synthetic scenario
+EF00242,L01400,2024-08-25,3,Unknown,Unknown,,Synthetic scenario
+EF00243,L01400,2024-11-25,6,Employed in CHW role,Other,2024-09-25,Synthetic scenario
+EF00244,L01407,2024-08-26,3,Unknown,Unknown,,Synthetic scenario
+EF00245,L01407,2024-11-26,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00246,L01433,2024-09-01,3,Employed in CHW role,Government,2024-08-03,Synthetic scenario
+EF00247,L01433,2024-12-01,6,Not seeking work,Unknown,,Synthetic scenario
+EF00248,L01496,2024-08-23,3,Employed in CHW role,Government,2024-07-13,Synthetic scenario
+EF00249,L01496,2024-11-23,6,Employed in other role,Other,2024-06-25,Synthetic scenario
+EF00250,L01595,2024-08-30,3,Employed in other role,Community nonprofit,2024-08-18,Synthetic scenario
+EF00251,L01595,2024-11-30,6,Employed in other role,Community nonprofit,2024-07-23,Synthetic scenario
+EF00252,L01613,2024-08-24,3,Employed in other role,Other,2024-06-28,Synthetic scenario
+EF00253,L01613,2024-11-24,6,Employed in CHW role,Other,2024-10-25,Synthetic scenario
+EF00254,L01663,2024-09-04,3,Employed in CHW role,Other,2024-07-30,Synthetic scenario
+EF00255,L01663,2024-12-04,6,Employed in CHW role,Other,2024-07-30,Synthetic scenario
+EF00256,L01680,2024-08-28,3,Employed in other role,Community nonprofit,2024-07-28,Synthetic scenario
+EF00257,L01680,2024-11-28,6,Employed in CHW role,Healthcare,2024-06-27,Synthetic scenario
+EF00258,L01789,2024-12-03,6,Employed in CHW role,Community nonprofit,2024-09-27,Synthetic scenario
+EF00259,L01803,2024-08-29,3,Employed in CHW role,Community nonprofit,2024-07-09,Synthetic scenario
+EF00260,L01803,2024-11-29,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00261,L01833,2024-08-28,3,Employed in other role,Other,2024-06-12,Synthetic scenario
+EF00262,L01833,2024-11-28,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00263,L01843,2024-09-01,3,Employed in CHW role,Healthcare,2024-06-17,Synthetic scenario
+EF00264,L01843,2024-12-01,6,Employed in CHW role,Healthcare,2024-06-17,Synthetic scenario
+EF00265,L01891,2024-12-04,6,Unknown,Unknown,,Synthetic scenario
+EF00266,L01904,2024-08-26,3,Employed in CHW role,Community nonprofit,2024-08-10,Synthetic scenario
+EF00267,L01904,2024-11-26,6,Employed in CHW role,Healthcare,2024-08-10,Synthetic scenario
+EF00268,L01923,2024-08-26,3,Employed in CHW role,Community nonprofit,2024-08-11,Synthetic scenario
+EF00269,L01923,2024-11-26,6,Employed in CHW role,Healthcare,2024-08-11,Synthetic scenario
+EF00270,L01930,2024-08-23,3,Employed in CHW role,Government,2024-06-27,Synthetic scenario
+EF00271,L01930,2024-11-23,6,Employed in CHW role,Healthcare,2024-06-27,Synthetic scenario
+EF00272,L01966,2024-08-23,3,Employed in CHW role,Other,2024-08-09,Synthetic scenario
+EF00273,L01979,2024-09-04,3,Employed in CHW role,Healthcare,2024-08-07,Synthetic scenario
+EF00274,L02087,2024-09-03,3,Employed in CHW role,Community nonprofit,2024-08-24,Synthetic scenario
+EF00275,L02087,2024-12-03,6,Employed in other role,Community nonprofit,2024-10-04,Synthetic scenario
+EF00276,L02183,2024-08-28,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00277,L02183,2024-11-28,6,Employed in CHW role,Community nonprofit,2024-09-02,Synthetic scenario
+EF00278,L02205,2024-08-31,3,Employed in CHW role,Healthcare,2024-08-14,Synthetic scenario
+EF00279,L02205,2024-11-30,6,Employed in CHW role,Community nonprofit,2024-08-14,Synthetic scenario
+EF00280,L02238,2024-08-29,3,Employed in CHW role,Community nonprofit,2024-08-20,Synthetic scenario
+EF00281,L02310,2024-08-27,3,Employed in other role,Other,2024-06-22,Synthetic scenario
+EF00282,L02425,2024-08-28,3,Employed in CHW role,Healthcare,2024-07-25,Synthetic scenario
+EF00283,L02425,2024-11-28,6,Employed in CHW role,Community nonprofit,2024-07-25,Synthetic scenario
+EF00284,L02447,2024-09-03,3,Unknown,Unknown,,Synthetic scenario
+EF00285,L02447,2024-12-03,6,Unknown,Unknown,,Synthetic scenario
+EF00286,L00069,2024-08-31,3,Unknown,Unknown,,Synthetic scenario
+EF00287,L00069,2024-11-30,6,Employed in CHW role,Other,2024-09-04,Synthetic scenario
+EF00288,L00141,2024-08-28,3,Unknown,Unknown,,Synthetic scenario
+EF00289,L00141,2024-11-28,6,Employed in other role,Community nonprofit,2024-08-27,Synthetic scenario
+EF00290,L00182,2025-09-08,3,Employed in other role,Healthcare,2025-06-26,Synthetic scenario
+EF00291,L00182,2025-12-08,6,Employed in CHW role,Healthcare,2025-11-07,Synthetic scenario
+EF00292,L00187,2024-08-28,3,Employed in CHW role,Community nonprofit,2024-08-07,Synthetic scenario
+EF00293,L00187,2024-11-28,6,Employed in CHW role,Healthcare,2024-08-07,Synthetic scenario
+EF00294,L00196,2024-08-30,3,Employed in other role,Other,2024-08-10,Synthetic scenario
+EF00295,L00231,2024-08-31,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00296,L00231,2024-11-30,6,Employed in other role,Other,2024-08-27,Synthetic scenario
+EF00297,L00258,2024-09-06,3,Employed in other role,Other,2024-06-16,Synthetic scenario
+EF00298,L00277,2024-11-30,6,Employed in CHW role,Government,2024-09-05,Synthetic scenario
+EF00299,L00284,2024-11-30,6,Employed in CHW role,Government,2024-09-06,Synthetic scenario
+EF00300,L00304,2024-08-27,3,Employed in CHW role,Community nonprofit,2024-07-30,Synthetic scenario
+EF00301,L00304,2024-11-27,6,Employed in CHW role,Government,2024-07-30,Synthetic scenario
+EF00302,L00353,2024-09-01,3,Employed in other role,Other,2024-07-13,Synthetic scenario
+EF00303,L00357,2024-08-26,3,Employed in other role,Healthcare,2024-08-15,Synthetic scenario
+EF00304,L00357,2024-11-26,6,Employed in CHW role,Community nonprofit,2024-08-25,Synthetic scenario
+EF00305,L00364,2024-08-31,3,Employed in CHW role,Healthcare,2024-07-26,Synthetic scenario
+EF00306,L00364,2024-11-30,6,Employed in other role,Government,2024-08-07,Synthetic scenario
+EF00307,L00409,2024-09-04,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00308,L00409,2024-12-04,6,Unknown,Unknown,,Synthetic scenario
+EF00309,L00428,2024-09-01,3,Employed in other role,Other,2024-08-14,Synthetic scenario
+EF00310,L00460,2026-09-04,3,Employed in other role,Community nonprofit,2026-08-27,Synthetic scenario
+EF00311,L00464,2025-03-05,3,Not seeking work,Unknown,,Synthetic scenario
+EF00312,L00665,2026-08-27,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00313,L00689,2024-09-07,3,Employed in CHW role,Community nonprofit,2024-07-09,Synthetic scenario
+EF00314,L00692,2025-03-01,3,Employed in other role,Community nonprofit,2024-12-21,Synthetic scenario
+EF00315,L00692,2025-06-01,6,Employed in other role,Government,2025-01-12,Synthetic scenario
+EF00316,L00727,2024-08-31,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00317,L00757,2024-11-25,6,Employed in other role,Other,2024-08-28,Synthetic scenario
+EF00318,L00768,2024-08-28,3,Employed in CHW role,Healthcare,2024-06-08,Synthetic scenario
+EF00319,L00821,2024-11-25,6,Employed in CHW role,Community nonprofit,2024-11-22,Synthetic scenario
+EF00320,L00840,2024-08-26,3,Employed in CHW role,Healthcare,2024-06-15,Synthetic scenario
+EF00321,L00840,2024-11-26,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00322,L00885,2026-05-23,6,Employed in CHW role,Community nonprofit,2025-12-21,Synthetic scenario
+EF00323,L00912,2024-09-02,3,Employed in CHW role,Government,2024-08-16,Synthetic scenario
+EF00324,L00912,2024-12-02,6,Unknown,Unknown,,Synthetic scenario
+EF00325,L01018,2026-03-14,3,Employed in CHW role,Community nonprofit,2026-01-22,Synthetic scenario
+EF00326,L01018,2026-06-14,6,Employed in other role,Other,2026-04-05,Synthetic scenario
+EF00327,L01035,2024-12-01,6,Employed in other role,Community nonprofit,2024-09-27,Synthetic scenario
+EF00328,L01072,2024-09-04,3,Not seeking work,Unknown,,Synthetic scenario
+EF00329,L01072,2024-12-04,6,Employed in CHW role,Government,2024-08-01,Synthetic scenario
+EF00330,L01134,2024-09-06,3,Employed in CHW role,Healthcare,2024-07-21,Synthetic scenario
+EF00331,L01134,2024-12-06,6,Employed in CHW role,Government,2024-07-21,Synthetic scenario
+EF00332,L01233,2024-11-28,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00333,L01342,2024-11-27,6,Employed in other role,Healthcare,2024-08-18,Synthetic scenario
+EF00334,L01378,2024-08-25,3,Employed in other role,Community nonprofit,2024-06-30,Synthetic scenario
+EF00335,L01378,2024-11-25,6,Employed in CHW role,Community nonprofit,2024-07-22,Synthetic scenario
+EF00336,L01411,2024-09-04,3,Employed in other role,Other,2024-06-24,Synthetic scenario
+EF00337,L01411,2024-12-04,6,Employed in other role,Community nonprofit,2024-07-03,Synthetic scenario
+EF00338,L01418,2024-08-31,3,Employed in other role,Other,2024-06-12,Synthetic scenario
+EF00339,L01424,2024-08-27,3,Employed in CHW role,Community nonprofit,2024-08-21,Synthetic scenario
+EF00340,L01424,2024-11-27,6,Employed in CHW role,Community nonprofit,2024-08-21,Synthetic scenario
+EF00341,L01452,2024-08-29,3,Employed in CHW role,Community nonprofit,2024-07-31,Synthetic scenario
+EF00342,L01452,2024-11-29,6,Employed in CHW role,Community nonprofit,2024-07-31,Synthetic scenario
+EF00343,L01560,2024-09-01,3,Employed in CHW role,Community nonprofit,2024-06-16,Synthetic scenario
+EF00344,L01560,2024-12-01,6,Employed in CHW role,Healthcare,2024-06-16,Synthetic scenario
+EF00345,L01696,2025-05-23,3,Employed in CHW role,Healthcare,2025-03-18,Synthetic scenario
+EF00346,L01712,2025-06-07,3,Employed in CHW role,Healthcare,2025-06-01,Synthetic scenario
+EF00347,L01712,2025-09-07,6,Employed in other role,Government,2025-05-31,Synthetic scenario
+EF00348,L01719,2024-12-06,6,Employed in CHW role,Government,2024-10-25,Synthetic scenario
+EF00349,L01777,2024-09-06,3,Employed in other role,Government,2024-08-23,Synthetic scenario
+EF00350,L01783,2024-09-03,3,Employed in other role,Healthcare,2024-06-28,Synthetic scenario
+EF00351,L01783,2024-12-03,6,Employed in CHW role,Government,2024-07-21,Synthetic scenario
+EF00352,L01793,2024-08-26,3,Employed in CHW role,Government,2024-07-21,Synthetic scenario
+EF00353,L01793,2024-11-26,6,Employed in CHW role,Government,2024-07-21,Synthetic scenario
+EF00354,L01797,2026-02-28,3,Employed in other role,Other,2026-02-22,Synthetic scenario
+EF00355,L01804,2024-09-02,3,Employed in CHW role,Healthcare,2024-07-06,Synthetic scenario
+EF00356,L01804,2024-12-02,6,Employed in CHW role,Community nonprofit,2024-07-06,Synthetic scenario
+EF00357,L01825,2024-08-27,3,Employed in CHW role,Healthcare,2024-06-30,Synthetic scenario
+EF00358,L01825,2024-11-27,6,Employed in CHW role,Community nonprofit,2024-06-30,Synthetic scenario
+EF00359,L01865,2024-12-02,6,Employed in CHW role,Community nonprofit,2024-09-27,Synthetic scenario
+EF00360,L01867,2024-12-05,3,Employed in CHW role,Government,2024-11-22,Synthetic scenario
+EF00361,L01867,2025-03-05,6,Employed in CHW role,Healthcare,2024-11-22,Synthetic scenario
+EF00362,L01883,2024-08-31,3,Employed in other role,Other,2024-06-21,Synthetic scenario
+EF00363,L01931,2024-11-30,6,Employed in CHW role,Community nonprofit,2024-06-16,Synthetic scenario
+EF00364,L01952,2024-09-06,3,Employed in other role,Community nonprofit,2024-08-05,Synthetic scenario
+EF00365,L01952,2024-12-06,6,Employed in other role,Other,2024-09-13,Synthetic scenario
+EF00366,L01985,2026-02-28,3,Employed in CHW role,Healthcare,2026-01-14,Synthetic scenario
+EF00367,L01985,2026-05-29,6,Unknown,Unknown,,Synthetic scenario
+EF00368,L02108,2024-08-25,3,Employed in CHW role,Healthcare,2024-08-09,Synthetic scenario
+EF00369,L02115,2026-05-26,3,Employed in CHW role,Government,2026-03-18,Synthetic scenario
+EF00370,L02211,2024-09-06,3,Employed in CHW role,Other,2024-09-01,Synthetic scenario
+EF00371,L02211,2024-12-06,6,Employed in CHW role,Community nonprofit,2024-09-01,Synthetic scenario
+EF00372,L02220,2026-09-16,3,Unknown,Unknown,,Synthetic scenario
+EF00373,L02257,2025-12-03,3,Employed in CHW role,Healthcare,2025-09-26,Synthetic scenario
+EF00374,L02257,2026-03-03,6,Employed in CHW role,Community nonprofit,2025-09-26,Synthetic scenario
+EF00375,L02321,2026-02-28,3,Employed in CHW role,Healthcare,2026-02-16,Synthetic scenario
+EF00376,L02343,2024-09-02,3,Employed in other role,Healthcare,2024-06-16,Synthetic scenario
+EF00377,L02343,2024-12-02,6,Employed in other role,Community nonprofit,2024-08-16,Synthetic scenario
+EF00378,L02372,2024-08-27,3,Employed in CHW role,Healthcare,2024-08-05,Synthetic scenario
+EF00379,L02377,2026-02-22,3,Employed in CHW role,Government,2026-02-18,Synthetic scenario
+EF00380,L02377,2026-05-22,6,Employed in CHW role,Healthcare,2026-02-18,Synthetic scenario
+EF00381,L02439,2024-09-02,3,Employed in CHW role,Healthcare,2024-09-02,Synthetic scenario
+EF00382,L02439,2024-12-02,6,Employed in CHW role,Healthcare,2024-09-02,Synthetic scenario
+EF00383,L00016,2024-12-12,6,Employed in other role,Other,2024-09-04,Synthetic scenario
+EF00384,L00055,2024-09-08,3,Employed in CHW role,Community nonprofit,2024-06-22,Synthetic scenario
+EF00385,L00079,2024-09-08,3,Employed in CHW role,Healthcare,2024-08-03,Synthetic scenario
+EF00386,L00079,2024-12-08,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00387,L00148,2024-09-12,3,Employed in CHW role,Healthcare,2024-09-12,Synthetic scenario
+EF00388,L00738,2024-12-04,6,Employed in CHW role,Government,2024-11-14,Synthetic scenario
+EF00389,L00762,2024-09-09,3,Employed in CHW role,Government,2024-07-26,Synthetic scenario
+EF00390,L00762,2024-12-09,6,Employed in CHW role,Healthcare,2024-07-26,Synthetic scenario
+EF00391,L00777,2024-12-15,6,Employed in CHW role,Other,2024-07-09,Synthetic scenario
+EF00392,L00922,2024-09-11,3,Unknown,Unknown,,Synthetic scenario
+EF00393,L00922,2024-12-11,6,Employed in CHW role,Healthcare,2024-10-27,Synthetic scenario
+EF00394,L00941,2024-12-16,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00395,L01041,2024-09-16,3,Not seeking work,Unknown,,Synthetic scenario
+EF00396,L01041,2024-12-16,6,Employed in CHW role,Government,2024-07-08,Synthetic scenario
+EF00397,L01484,2024-09-06,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00398,L01484,2024-12-06,6,Employed in CHW role,Healthcare,2024-09-09,Synthetic scenario
+EF00399,L01653,2024-09-05,3,Employed in CHW role,Healthcare,2024-06-21,Synthetic scenario
+EF00400,L01684,2024-09-04,3,Not seeking work,Unknown,,Synthetic scenario
+EF00401,L01684,2024-12-04,6,Employed in CHW role,Healthcare,2024-06-27,Synthetic scenario
+EF00402,L01831,2024-09-14,3,Employed in other role,Government,2024-07-16,Synthetic scenario
+EF00403,L01831,2024-12-14,6,Employed in CHW role,Community nonprofit,2024-08-28,Synthetic scenario
+EF00404,L01847,2024-09-11,3,Employed in CHW role,Community nonprofit,2024-08-29,Synthetic scenario
+EF00405,L01876,2024-09-11,3,Not seeking work,Unknown,,Synthetic scenario
+EF00406,L01889,2024-09-14,3,Employed in other role,Other,2024-07-15,Synthetic scenario
+EF00407,L01937,2024-12-11,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00408,L02037,2024-09-16,3,Employed in CHW role,Government,2024-07-25,Synthetic scenario
+EF00409,L02038,2024-12-04,6,Employed in CHW role,Community nonprofit,2024-08-10,Synthetic scenario
+EF00410,L02063,2024-12-06,6,Employed in CHW role,Healthcare,2024-07-08,Synthetic scenario
+EF00411,L02125,2024-12-06,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00412,L02137,2024-09-15,3,Employed in CHW role,Community nonprofit,2024-09-04,Synthetic scenario
+EF00413,L02137,2024-12-15,6,Employed in CHW role,Other,2024-09-04,Synthetic scenario
+EF00414,L02174,2024-09-04,3,Not seeking work,Unknown,,Synthetic scenario
+EF00415,L02208,2024-09-15,3,Employed in other role,Other,2024-08-30,Synthetic scenario
+EF00416,L02208,2024-12-15,6,Employed in CHW role,Community nonprofit,2024-12-05,Synthetic scenario
+EF00417,L02263,2024-09-13,3,Employed in CHW role,Healthcare,2024-08-23,Synthetic scenario
+EF00418,L02263,2024-12-13,6,Employed in CHW role,Community nonprofit,2024-08-23,Synthetic scenario
+EF00419,L02294,2024-12-16,6,Unknown,Unknown,,Synthetic scenario
+EF00420,L02362,2024-12-05,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00421,L02397,2024-09-15,3,Employed in CHW role,Healthcare,2024-08-09,Synthetic scenario
+EF00422,L00027,2025-02-24,6,Unknown,Unknown,,Synthetic scenario
+EF00423,L00086,2024-11-22,3,Employed in CHW role,Healthcare,2024-10-22,Synthetic scenario
+EF00424,L00086,2025-02-22,6,Employed in CHW role,Healthcare,2024-10-22,Synthetic scenario
+EF00425,L00155,2024-11-24,3,Employed in CHW role,Healthcare,2024-11-23,Synthetic scenario
+EF00426,L00218,2024-11-23,3,Employed in CHW role,Healthcare,2024-09-16,Synthetic scenario
+EF00427,L00218,2025-02-23,6,Employed in CHW role,Government,2024-09-16,Synthetic scenario
+EF00428,L00275,2024-12-01,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00429,L00275,2025-03-01,6,Employed in other role,Other,2025-02-03,Synthetic scenario
+EF00430,L00287,2024-11-27,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00431,L00340,2024-11-30,3,Employed in other role,Healthcare,2024-11-17,Synthetic scenario
+EF00432,L00340,2025-02-28,6,Employed in CHW role,Healthcare,2024-11-06,Synthetic scenario
+EF00433,L00358,2024-11-24,3,Employed in CHW role,Government,2024-11-15,Synthetic scenario
+EF00434,L00401,2024-12-03,3,Employed in other role,Other,2024-11-06,Synthetic scenario
+EF00435,L00453,2024-11-24,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00436,L00453,2025-02-24,6,Employed in CHW role,Community nonprofit,2024-10-22,Synthetic scenario
+EF00437,L00491,2024-12-01,3,Employed in CHW role,Healthcare,2024-11-15,Synthetic scenario
+EF00438,L00517,2024-11-30,3,Employed in CHW role,Healthcare,2024-10-14,Synthetic scenario
+EF00439,L00517,2025-02-28,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00440,L00536,2024-12-03,3,Employed in CHW role,Healthcare,2024-12-01,Synthetic scenario
+EF00441,L00538,2024-11-26,3,Employed in CHW role,Community nonprofit,2024-11-04,Synthetic scenario
+EF00442,L00538,2025-02-26,6,Employed in CHW role,Healthcare,2024-11-04,Synthetic scenario
+EF00443,L00859,2025-02-23,6,Employed in CHW role,Community nonprofit,2025-01-10,Synthetic scenario
+EF00444,L00879,2024-11-27,3,Employed in other role,Other,2024-10-22,Synthetic scenario
+EF00445,L00881,2024-11-30,3,Employed in CHW role,Community nonprofit,2024-11-24,Synthetic scenario
+EF00446,L00881,2025-02-28,6,Employed in CHW role,Community nonprofit,2024-11-24,Synthetic scenario
+EF00447,L00905,2025-03-02,6,Employed in other role,Other,2024-11-26,Synthetic scenario
+EF00448,L00946,2024-11-26,3,Employed in other role,Community nonprofit,2024-10-13,Synthetic scenario
+EF00449,L01064,2024-11-27,3,Unknown,Unknown,,Synthetic scenario
+EF00450,L01077,2025-02-23,6,Employed in other role,Other,2025-02-08,Synthetic scenario
+EF00451,L01202,2024-11-23,3,Employed in CHW role,Healthcare,2024-11-07,Synthetic scenario
+EF00452,L01202,2025-02-23,6,Employed in other role,Other,2025-01-26,Synthetic scenario
+EF00453,L01222,2025-02-23,6,Employed in other role,Government,2025-02-15,Synthetic scenario
+EF00454,L01225,2024-12-01,3,Employed in CHW role,Healthcare,2024-10-30,Synthetic scenario
+EF00455,L01225,2025-03-01,6,Unknown,Unknown,,Synthetic scenario
+EF00456,L01279,2024-11-27,3,Employed in CHW role,Community nonprofit,2024-11-14,Synthetic scenario
+EF00457,L01279,2025-02-27,6,Employed in CHW role,Other,2024-11-14,Synthetic scenario
+EF00458,L01455,2024-11-23,3,Employed in CHW role,Healthcare,2024-10-25,Synthetic scenario
+EF00459,L01455,2025-02-23,6,Employed in CHW role,Community nonprofit,2024-10-25,Synthetic scenario
+EF00460,L01456,2024-12-02,3,Employed in CHW role,Community nonprofit,2024-10-08,Synthetic scenario
+EF00461,L01456,2025-03-02,6,Employed in CHW role,Healthcare,2024-10-08,Synthetic scenario
+EF00462,L01661,2025-02-28,6,Employed in other role,Community nonprofit,2024-11-02,Synthetic scenario
+EF00463,L01666,2026-06-08,3,Employed in CHW role,Healthcare,2026-04-11,Synthetic scenario
+EF00464,L01715,2024-11-26,3,Employed in CHW role,Healthcare,2024-09-06,Synthetic scenario
+EF00465,L01715,2025-02-26,6,Employed in CHW role,Community nonprofit,2024-09-06,Synthetic scenario
+EF00466,L01730,2026-09-05,3,Employed in CHW role,Healthcare,2026-08-16,Synthetic scenario
+EF00467,L01751,2024-11-27,3,Unknown,Unknown,,Synthetic scenario
+EF00468,L01751,2025-02-27,6,Not seeking work,Unknown,,Synthetic scenario
+EF00469,L01800,2024-11-25,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00470,L01800,2025-02-25,6,Employed in CHW role,Healthcare,2024-10-18,Synthetic scenario
+EF00471,L01808,2024-11-22,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00472,L01832,2024-12-03,3,Not seeking work,Unknown,,Synthetic scenario
+EF00473,L01832,2025-03-03,6,Unknown,Unknown,,Synthetic scenario
+EF00474,L01872,2024-11-22,3,Employed in CHW role,Other,2024-11-14,Synthetic scenario
+EF00475,L01872,2025-02-22,6,Employed in CHW role,Other,2024-11-14,Synthetic scenario
+EF00476,L01897,2024-11-30,3,Employed in CHW role,Healthcare,2024-09-28,Synthetic scenario
+EF00477,L01925,2024-11-30,3,Employed in other role,Other,2024-11-27,Synthetic scenario
+EF00478,L01925,2025-02-28,6,Employed in CHW role,Healthcare,2025-02-14,Synthetic scenario
+EF00479,L02025,2024-11-28,3,Employed in CHW role,Healthcare,2024-10-25,Synthetic scenario
+EF00480,L02082,2024-11-24,3,Employed in CHW role,Community nonprofit,2024-09-26,Synthetic scenario
+EF00481,L02082,2025-02-24,6,Employed in other role,Government,2024-10-28,Synthetic scenario
+EF00482,L02089,2024-12-03,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00483,L02089,2025-03-03,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00484,L02167,2024-11-22,3,Employed in other role,Community nonprofit,2024-11-01,Synthetic scenario
+EF00485,L02405,2024-11-29,3,Not seeking work,Unknown,,Synthetic scenario
+EF00486,L02405,2025-02-28,6,Employed in other role,Healthcare,2024-11-01,Synthetic scenario
+EF00487,L02416,2025-02-24,6,Employed in CHW role,Healthcare,2024-11-11,Synthetic scenario
+EF00488,L00033,2024-11-27,3,Employed in CHW role,Healthcare,2024-10-19,Synthetic scenario
+EF00489,L00033,2025-02-27,6,Employed in other role,Other,2025-02-25,Synthetic scenario
+EF00490,L00036,2025-02-28,6,Employed in other role,Community nonprofit,2024-11-15,Synthetic scenario
+EF00491,L00047,2024-11-30,3,Employed in other role,Other,2024-10-18,Synthetic scenario
+EF00492,L00047,2025-02-28,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00493,L00078,2024-11-30,3,Employed in CHW role,Government,2024-09-14,Synthetic scenario
+EF00494,L00078,2025-02-28,6,Employed in CHW role,Community nonprofit,2024-09-14,Synthetic scenario
+EF00495,L00111,2024-12-03,3,Employed in CHW role,Healthcare,2024-12-02,Synthetic scenario
+EF00496,L00111,2025-03-03,6,Employed in CHW role,Healthcare,2024-12-02,Synthetic scenario
+EF00497,L00222,2024-11-26,3,Employed in other role,Healthcare,2024-10-07,Synthetic scenario
+EF00498,L00222,2025-02-26,6,Employed in CHW role,Healthcare,2025-01-27,Synthetic scenario
+EF00499,L00234,2024-11-29,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00500,L00373,2025-09-08,3,Employed in other role,Community nonprofit,2025-07-25,Synthetic scenario
+EF00501,L00435,2024-12-01,3,Employed in CHW role,Community nonprofit,2024-10-09,Synthetic scenario
+EF00502,L00442,2024-11-25,3,Employed in CHW role,Community nonprofit,2024-11-05,Synthetic scenario
+EF00503,L00494,2024-12-01,3,Employed in other role,Other,2024-10-22,Synthetic scenario
+EF00504,L00546,2024-12-05,3,Employed in CHW role,Healthcare,2024-09-19,Synthetic scenario
+EF00505,L00546,2025-03-05,6,Employed in CHW role,Healthcare,2024-09-19,Synthetic scenario
+EF00506,L00554,2025-02-28,6,Employed in other role,Healthcare,2025-01-10,Synthetic scenario
+EF00507,L00595,2024-11-24,3,Employed in CHW role,Government,2024-10-30,Synthetic scenario
+EF00508,L00595,2025-02-24,6,Employed in CHW role,Community nonprofit,2024-10-30,Synthetic scenario
+EF00509,L00603,2025-02-28,6,Employed in other role,Healthcare,2024-10-12,Synthetic scenario
+EF00510,L00608,2024-12-01,3,Employed in other role,Community nonprofit,2024-09-14,Synthetic scenario
+EF00511,L00608,2025-03-01,6,Employed in CHW role,Community nonprofit,2024-12-20,Synthetic scenario
+EF00512,L00661,2024-11-29,3,Employed in CHW role,Government,2024-09-12,Synthetic scenario
+EF00513,L00736,2024-11-30,3,Unknown,Unknown,,Synthetic scenario
+EF00514,L00736,2025-02-28,6,Employed in CHW role,Community nonprofit,2024-12-24,Synthetic scenario
+EF00515,L00915,2024-11-25,3,Employed in CHW role,Healthcare,2024-09-18,Synthetic scenario
+EF00516,L00915,2025-02-25,6,Employed in CHW role,Healthcare,2024-09-18,Synthetic scenario
+EF00517,L00974,2025-03-05,6,Employed in CHW role,Community nonprofit,2025-01-29,Synthetic scenario
+EF00518,L01014,2024-11-26,3,Employed in CHW role,Healthcare,2024-09-05,Synthetic scenario
+EF00519,L01083,2024-12-02,3,Employed in CHW role,Community nonprofit,2024-10-02,Synthetic scenario
+EF00520,L01083,2025-03-02,6,Employed in CHW role,Healthcare,2024-10-02,Synthetic scenario
+EF00521,L01150,2024-11-27,3,Employed in other role,Other,2024-11-10,Synthetic scenario
+EF00522,L01150,2025-02-27,6,Employed in CHW role,Healthcare,2024-11-27,Synthetic scenario
+EF00523,L01158,2025-02-24,6,Employed in CHW role,Community nonprofit,2024-12-12,Synthetic scenario
+EF00524,L01272,2024-11-24,3,Employed in other role,Government,2024-10-31,Synthetic scenario
+EF00525,L01272,2025-02-24,6,Employed in other role,Other,2024-10-07,Synthetic scenario
+EF00526,L01350,2024-11-27,3,Not seeking work,Unknown,,Synthetic scenario
+EF00527,L01375,2024-11-25,3,Employed in other role,Community nonprofit,2024-10-08,Synthetic scenario
+EF00528,L01375,2025-02-25,6,Employed in CHW role,Community nonprofit,2024-12-18,Synthetic scenario
+EF00529,L01394,2024-11-30,3,Employed in CHW role,Healthcare,2024-10-21,Synthetic scenario
+EF00530,L01395,2025-02-28,6,Employed in CHW role,Healthcare,2025-01-26,Synthetic scenario
+EF00531,L01413,2024-11-25,3,Employed in CHW role,Healthcare,2024-09-11,Synthetic scenario
+EF00532,L01413,2025-02-25,6,Employed in CHW role,Healthcare,2024-09-11,Synthetic scenario
+EF00533,L01466,2024-11-27,3,Employed in other role,Other,2024-10-25,Synthetic scenario
+EF00534,L01550,2024-11-28,3,Not seeking work,Unknown,,Synthetic scenario
+EF00535,L01550,2025-02-28,6,Employed in CHW role,Healthcare,2024-11-17,Synthetic scenario
+EF00536,L01757,2025-02-27,6,Employed in other role,Healthcare,2024-09-19,Synthetic scenario
+EF00537,L01776,2024-11-29,3,Employed in CHW role,Community nonprofit,2024-11-24,Synthetic scenario
+EF00538,L01776,2025-02-28,6,Employed in CHW role,Healthcare,2024-11-24,Synthetic scenario
+EF00539,L01855,2024-11-30,3,Not seeking work,Unknown,,Synthetic scenario
+EF00540,L01855,2025-02-28,6,Employed in CHW role,Healthcare,2024-09-29,Synthetic scenario
+EF00541,L01963,2024-12-01,3,Not seeking work,Unknown,,Synthetic scenario
+EF00542,L01963,2025-03-01,6,Employed in CHW role,Healthcare,2024-12-12,Synthetic scenario
+EF00543,L01986,2024-11-28,3,Employed in other role,Healthcare,2024-11-25,Synthetic scenario
+EF00544,L02096,2024-11-27,3,Employed in CHW role,Community nonprofit,2024-11-05,Synthetic scenario
+EF00545,L02155,2024-12-01,3,Employed in CHW role,Community nonprofit,2024-09-30,Synthetic scenario
+EF00546,L02155,2025-03-01,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00547,L02192,2024-11-25,3,Employed in CHW role,Healthcare,2024-11-19,Synthetic scenario
+EF00548,L02192,2025-02-25,6,Employed in CHW role,Government,2024-11-19,Synthetic scenario
+EF00549,L02207,2024-11-30,3,Employed in other role,Other,2024-10-30,Synthetic scenario
+EF00550,L02207,2025-02-28,6,Employed in CHW role,Healthcare,2024-10-16,Synthetic scenario
+EF00551,L02231,2024-12-04,3,Unknown,Unknown,,Synthetic scenario
+EF00552,L02231,2025-03-04,6,Employed in CHW role,Community nonprofit,2025-01-07,Synthetic scenario
+EF00553,L02259,2024-12-01,3,Unknown,Unknown,,Synthetic scenario
+EF00554,L02277,2024-11-24,3,Unknown,Unknown,,Synthetic scenario
+EF00555,L02277,2025-02-24,6,Employed in other role,Other,2024-10-02,Synthetic scenario
+EF00556,L02284,2024-11-25,3,Employed in CHW role,Community nonprofit,2024-10-03,Synthetic scenario
+EF00557,L02338,2024-11-30,3,Employed in CHW role,Community nonprofit,2024-11-25,Synthetic scenario
+EF00558,L02338,2025-02-28,6,Employed in CHW role,Healthcare,2024-11-25,Synthetic scenario
+EF00559,L02369,2024-11-29,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00560,L02369,2025-02-28,6,Employed in other role,Other,2024-09-16,Synthetic scenario
+EF00561,L02400,2024-12-03,3,Employed in other role,Healthcare,2024-09-19,Synthetic scenario
+EF00562,L02400,2025-03-03,6,Employed in CHW role,Community nonprofit,2024-12-11,Synthetic scenario
+EF00563,L02437,2024-12-04,3,Not seeking work,Unknown,,Synthetic scenario
+EF00564,L02445,2024-11-30,3,Employed in CHW role,Healthcare,2024-09-28,Synthetic scenario
+EF00565,L02450,2024-11-29,3,Employed in other role,Other,2024-10-07,Synthetic scenario
+EF00566,L00073,2025-03-10,6,Not seeking work,Unknown,,Synthetic scenario
+EF00567,L00167,2024-12-10,3,Employed in other role,Healthcare,2024-09-26,Synthetic scenario
+EF00568,L00171,2024-12-11,3,Employed in CHW role,Community nonprofit,2024-10-10,Synthetic scenario
+EF00569,L00171,2025-03-11,6,Employed in CHW role,Other,2024-10-10,Synthetic scenario
+EF00570,L00273,2024-12-09,3,Employed in other role,Other,2024-11-14,Synthetic scenario
+EF00571,L00273,2025-03-09,6,Employed in other role,Healthcare,2024-12-14,Synthetic scenario
+EF00572,L00305,2024-12-03,3,Unknown,Unknown,,Synthetic scenario
+EF00573,L00305,2025-03-03,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00574,L00466,2024-12-08,3,Employed in CHW role,Community nonprofit,2024-11-05,Synthetic scenario
+EF00575,L00499,2024-12-05,3,Unknown,Unknown,,Synthetic scenario
+EF00576,L00499,2025-03-05,6,Employed in CHW role,Community nonprofit,2025-02-13,Synthetic scenario
+EF00577,L00552,2025-03-04,6,Employed in other role,Healthcare,2024-11-16,Synthetic scenario
+EF00578,L00706,2024-12-08,3,Employed in CHW role,Healthcare,2024-10-04,Synthetic scenario
+EF00579,L00706,2025-03-08,6,Employed in CHW role,Community nonprofit,2024-10-04,Synthetic scenario
+EF00580,L00807,2024-12-13,3,Employed in CHW role,Community nonprofit,2024-10-30,Synthetic scenario
+EF00581,L00807,2025-03-13,6,Employed in other role,Community nonprofit,2024-12-30,Synthetic scenario
+EF00582,L00836,2025-03-13,6,Employed in other role,Government,2025-02-02,Synthetic scenario
+EF00583,L00855,2024-12-07,3,Employed in CHW role,Healthcare,2024-10-17,Synthetic scenario
+EF00584,L00865,2025-03-03,6,Employed in CHW role,Healthcare,2024-10-23,Synthetic scenario
+EF00585,L00877,2024-12-07,3,Employed in other role,Healthcare,2024-11-08,Synthetic scenario
+EF00586,L00914,2024-12-10,3,Employed in CHW role,Community nonprofit,2024-10-07,Synthetic scenario
+EF00587,L00914,2025-03-10,6,Unknown,Unknown,,Synthetic scenario
+EF00588,L00977,2024-12-04,3,Employed in CHW role,Community nonprofit,2024-10-11,Synthetic scenario
+EF00589,L00977,2025-03-04,6,Employed in CHW role,Healthcare,2024-10-11,Synthetic scenario
+EF00590,L01013,2024-12-05,3,Employed in other role,Community nonprofit,2024-11-16,Synthetic scenario
+EF00591,L01013,2025-03-05,6,Employed in other role,Other,2024-12-27,Synthetic scenario
+EF00592,L01029,2024-12-08,3,Employed in CHW role,Healthcare,2024-11-15,Synthetic scenario
+EF00593,L01029,2025-03-08,6,Employed in CHW role,Healthcare,2024-11-15,Synthetic scenario
+EF00594,L01078,2024-12-12,3,Employed in CHW role,Community nonprofit,2024-12-04,Synthetic scenario
+EF00595,L01160,2024-12-09,3,Employed in CHW role,Healthcare,2024-09-24,Synthetic scenario
+EF00596,L01164,2024-12-04,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00597,L01174,2024-12-03,3,Employed in other role,Healthcare,2024-09-16,Synthetic scenario
+EF00598,L01192,2024-12-08,3,Employed in CHW role,Healthcare,2024-11-21,Synthetic scenario
+EF00599,L01192,2025-03-08,6,Employed in other role,Other,2025-01-24,Synthetic scenario
+EF00600,L01213,2024-12-14,3,Employed in CHW role,Community nonprofit,2024-10-26,Synthetic scenario
+EF00601,L01213,2025-03-14,6,Employed in CHW role,Government,2024-10-26,Synthetic scenario
+EF00602,L01300,2024-12-12,3,Employed in CHW role,Government,2024-10-22,Synthetic scenario
+EF00603,L01300,2025-03-12,6,Employed in CHW role,Community nonprofit,2024-10-22,Synthetic scenario
+EF00604,L01312,2024-12-13,3,Employed in CHW role,Community nonprofit,2024-09-23,Synthetic scenario
+EF00605,L01403,2024-12-09,3,Employed in other role,Healthcare,2024-09-27,Synthetic scenario
+EF00606,L01498,2024-12-13,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00607,L01503,2025-03-11,6,Employed in CHW role,Healthcare,2024-10-18,Synthetic scenario
+EF00608,L01523,2024-12-07,3,Unknown,Unknown,,Synthetic scenario
+EF00609,L01546,2024-12-06,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00610,L01546,2025-03-06,6,Employed in other role,Other,2024-11-01,Synthetic scenario
+EF00611,L01584,2024-12-06,3,Employed in other role,Other,2024-11-26,Synthetic scenario
+EF00612,L01584,2025-03-06,6,Employed in CHW role,Government,2024-09-25,Synthetic scenario
+EF00613,L01651,2024-12-03,3,Employed in CHW role,Government,2024-11-18,Synthetic scenario
+EF00614,L01651,2025-03-03,6,Employed in CHW role,Healthcare,2024-11-18,Synthetic scenario
+EF00615,L01670,2025-03-09,6,Employed in CHW role,Community nonprofit,2024-12-23,Synthetic scenario
+EF00616,L01790,2024-12-04,3,Employed in CHW role,Other,2024-11-03,Synthetic scenario
+EF00617,L01790,2025-03-04,6,Employed in CHW role,Community nonprofit,2024-11-03,Synthetic scenario
+EF00618,L01811,2024-12-10,3,Employed in CHW role,Healthcare,2024-10-08,Synthetic scenario
+EF00619,L01820,2024-12-04,3,Employed in CHW role,Community nonprofit,2024-10-06,Synthetic scenario
+EF00620,L01848,2024-12-09,3,Employed in CHW role,Healthcare,2024-11-09,Synthetic scenario
+EF00621,L01848,2025-03-09,6,Employed in CHW role,Community nonprofit,2024-11-09,Synthetic scenario
+EF00622,L01850,2025-03-09,6,Employed in other role,Other,2024-12-20,Synthetic scenario
+EF00623,L01870,2024-12-15,3,Employed in CHW role,Community nonprofit,2024-11-10,Synthetic scenario
+EF00624,L01870,2025-03-15,6,Employed in other role,Other,2024-09-30,Synthetic scenario
+EF00625,L01882,2024-12-04,3,Employed in CHW role,Healthcare,2024-10-21,Synthetic scenario
+EF00626,L01882,2025-03-04,6,Employed in CHW role,Other,2024-10-21,Synthetic scenario
+EF00627,L02003,2024-12-11,3,Employed in CHW role,Community nonprofit,2024-11-25,Synthetic scenario
+EF00628,L02003,2025-03-11,6,Employed in CHW role,Healthcare,2024-11-25,Synthetic scenario
+EF00629,L02057,2024-12-05,3,Employed in other role,Healthcare,2024-09-28,Synthetic scenario
+EF00630,L02057,2025-03-05,6,Employed in CHW role,Government,2024-09-20,Synthetic scenario
+EF00631,L02116,2024-12-07,3,Employed in CHW role,Healthcare,2024-10-22,Synthetic scenario
+EF00632,L02116,2025-03-07,6,Employed in CHW role,Community nonprofit,2024-10-22,Synthetic scenario
+EF00633,L02189,2024-12-08,3,Employed in CHW role,Other,2024-12-01,Synthetic scenario
+EF00634,L02189,2025-03-08,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00635,L02200,2024-12-08,3,Employed in CHW role,Community nonprofit,2024-10-16,Synthetic scenario
+EF00636,L02250,2024-12-04,3,Employed in CHW role,Community nonprofit,2024-10-21,Synthetic scenario
+EF00637,L02250,2025-03-04,6,Employed in CHW role,Healthcare,2024-10-21,Synthetic scenario
+EF00638,L02270,2024-12-08,3,Employed in CHW role,Community nonprofit,2024-10-09,Synthetic scenario
+EF00639,L02355,2024-12-04,3,Employed in CHW role,Community nonprofit,2024-11-16,Synthetic scenario
+EF00640,L02385,2024-12-03,3,Employed in other role,Community nonprofit,2024-11-22,Synthetic scenario
+EF00641,L02385,2025-03-03,6,Employed in CHW role,Healthcare,2024-11-28,Synthetic scenario
+EF00642,L02391,2024-12-08,3,Employed in CHW role,Healthcare,2024-12-05,Synthetic scenario
+EF00643,L02414,2024-12-09,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00644,L02414,2025-03-09,6,Employed in other role,Healthcare,2025-02-01,Synthetic scenario
+EF00645,L02429,2024-12-04,3,Employed in CHW role,Healthcare,2024-10-02,Synthetic scenario
+EF00646,L00021,2025-02-22,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00647,L00021,2025-05-22,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00648,L00083,2025-05-27,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00649,L00200,2025-03-03,3,Employed in other role,Community nonprofit,2025-02-15,Synthetic scenario
+EF00650,L00200,2025-06-03,6,Employed in CHW role,Healthcare,2024-12-20,Synthetic scenario
+EF00651,L00254,2025-02-28,3,Employed in CHW role,Healthcare,2025-01-30,Synthetic scenario
+EF00652,L00325,2025-06-01,6,Employed in CHW role,Community nonprofit,2025-03-12,Synthetic scenario
+EF00653,L00562,2025-02-26,3,Employed in other role,Other,2024-12-06,Synthetic scenario
+EF00654,L00582,2025-02-24,3,Employed in CHW role,Community nonprofit,2025-01-25,Synthetic scenario
+EF00655,L00582,2025-05-24,6,Employed in CHW role,Community nonprofit,2025-01-25,Synthetic scenario
+EF00656,L00632,2025-02-28,3,Employed in other role,Government,2024-12-22,Synthetic scenario
+EF00657,L00843,2025-02-23,3,Employed in other role,Government,2024-12-17,Synthetic scenario
+EF00658,L00843,2025-05-23,6,Employed in CHW role,Community nonprofit,2025-04-22,Synthetic scenario
+EF00659,L00848,2025-02-28,3,Employed in CHW role,Other,2025-01-06,Synthetic scenario
+EF00660,L00848,2025-05-28,6,Employed in CHW role,Healthcare,2025-01-06,Synthetic scenario
+EF00661,L00943,2025-02-24,3,Employed in CHW role,Healthcare,2025-01-23,Synthetic scenario
+EF00662,L00943,2025-05-24,6,Employed in CHW role,Community nonprofit,2025-01-23,Synthetic scenario
+EF00663,L01063,2025-02-26,3,Employed in CHW role,Healthcare,2024-12-17,Synthetic scenario
+EF00664,L01090,2025-03-04,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00665,L01090,2025-06-04,6,Employed in other role,Other,2024-12-28,Synthetic scenario
+EF00666,L01185,2025-02-28,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00667,L01190,2025-03-03,3,Employed in CHW role,Healthcare,2024-12-22,Synthetic scenario
+EF00668,L01190,2025-06-03,6,Employed in CHW role,Government,2024-12-22,Synthetic scenario
+EF00669,L01193,2025-03-04,3,Employed in other role,Other,2025-02-07,Synthetic scenario
+EF00670,L01215,2025-02-28,3,Employed in CHW role,Government,2025-01-11,Synthetic scenario
+EF00671,L01215,2025-05-29,6,Employed in CHW role,Government,2025-01-11,Synthetic scenario
+EF00672,L01253,2025-03-04,3,Employed in CHW role,Healthcare,2025-01-02,Synthetic scenario
+EF00673,L01253,2025-06-04,6,Employed in CHW role,Community nonprofit,2025-01-02,Synthetic scenario
+EF00674,L01258,2025-03-02,3,Employed in CHW role,Other,2025-02-03,Synthetic scenario
+EF00675,L01258,2025-06-02,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00676,L01292,2025-06-02,6,Employed in other role,Government,2024-12-15,Synthetic scenario
+EF00677,L01405,2025-03-01,3,Employed in CHW role,Community nonprofit,2025-02-15,Synthetic scenario
+EF00678,L01416,2025-05-30,6,Employed in other role,Other,2024-12-27,Synthetic scenario
+EF00679,L01445,2025-02-23,3,Employed in other role,Other,2025-01-15,Synthetic scenario
+EF00680,L01493,2025-02-28,3,Employed in CHW role,Healthcare,2024-12-28,Synthetic scenario
+EF00681,L01699,2025-02-27,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00682,L01738,2025-03-02,3,Employed in other role,Other,2025-01-20,Synthetic scenario
+EF00683,L01738,2025-06-02,6,Employed in CHW role,Community nonprofit,2025-04-04,Synthetic scenario
+EF00684,L01745,2025-02-25,3,Employed in CHW role,Healthcare,2025-02-02,Synthetic scenario
+EF00685,L01813,2025-02-22,3,Employed in other role,Community nonprofit,2025-01-12,Synthetic scenario
+EF00686,L01813,2025-05-22,6,Employed in other role,Other,2025-04-04,Synthetic scenario
+EF00687,L01826,2025-02-24,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00688,L01826,2025-05-24,6,Employed in other role,Other,2025-04-19,Synthetic scenario
+EF00689,L01869,2025-02-22,3,Employed in CHW role,Healthcare,2024-12-22,Synthetic scenario
+EF00690,L01869,2025-05-22,6,Employed in other role,Community nonprofit,2025-02-19,Synthetic scenario
+EF00691,L01926,2025-05-24,6,Employed in CHW role,Healthcare,2025-05-17,Synthetic scenario
+EF00692,L01942,2025-05-27,6,Employed in CHW role,Community nonprofit,2024-12-22,Synthetic scenario
+EF00693,L02002,2025-02-28,3,Employed in CHW role,Healthcare,2025-01-12,Synthetic scenario
+EF00694,L02002,2025-05-29,6,Employed in other role,Other,2024-12-28,Synthetic scenario
+EF00695,L02040,2025-02-27,3,Employed in CHW role,Healthcare,2025-02-17,Synthetic scenario
+EF00696,L02040,2025-05-27,6,Employed in CHW role,Community nonprofit,2025-02-17,Synthetic scenario
+EF00697,L02059,2025-02-27,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00698,L02059,2025-05-27,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00699,L02066,2025-02-27,3,Employed in CHW role,Healthcare,2025-01-08,Synthetic scenario
+EF00700,L02066,2025-05-27,6,Employed in CHW role,Healthcare,2025-01-08,Synthetic scenario
+EF00701,L02075,2025-03-04,3,Employed in CHW role,Community nonprofit,2025-02-06,Synthetic scenario
+EF00702,L02075,2025-06-04,6,Employed in CHW role,Community nonprofit,2025-02-06,Synthetic scenario
+EF00703,L02105,2025-02-26,3,Employed in CHW role,Community nonprofit,2024-12-20,Synthetic scenario
+EF00704,L02105,2025-05-26,6,Not seeking work,Unknown,,Synthetic scenario
+EF00705,L02204,2025-05-29,6,Employed in other role,Other,2025-03-05,Synthetic scenario
+EF00706,L02213,2025-02-22,3,Unknown,Unknown,,Synthetic scenario
+EF00707,L02213,2025-05-22,6,Employed in other role,Other,2025-02-10,Synthetic scenario
+EF00708,L02275,2025-03-04,3,Employed in CHW role,Healthcare,2025-01-07,Synthetic scenario
+EF00709,L02275,2025-06-04,6,Employed in CHW role,Community nonprofit,2025-01-07,Synthetic scenario
+EF00710,L02381,2025-02-27,3,Employed in CHW role,Healthcare,2025-02-17,Synthetic scenario
+EF00711,L02381,2025-05-27,6,Employed in CHW role,Community nonprofit,2025-02-17,Synthetic scenario
+EF00712,L02412,2025-02-27,3,Employed in CHW role,Healthcare,2025-01-27,Synthetic scenario
+EF00713,L02412,2025-05-27,6,Employed in CHW role,Healthcare,2025-01-27,Synthetic scenario
+EF00714,L02424,2025-02-28,3,Employed in CHW role,Healthcare,2025-01-19,Synthetic scenario
+EF00715,L00031,2025-05-27,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00716,L00042,2025-03-04,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00717,L00075,2025-06-03,6,Employed in CHW role,Healthcare,2025-02-28,Synthetic scenario
+EF00718,L00118,2025-02-24,3,Employed in CHW role,Healthcare,2025-01-04,Synthetic scenario
+EF00719,L00123,2025-05-30,6,Employed in CHW role,Healthcare,2025-05-14,Synthetic scenario
+EF00720,L00134,2025-05-28,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00721,L00139,2025-02-27,3,Employed in CHW role,Community nonprofit,2025-02-16,Synthetic scenario
+EF00722,L00139,2025-05-27,6,Employed in CHW role,Community nonprofit,2025-02-16,Synthetic scenario
+EF00723,L00173,2025-03-05,3,Employed in other role,Healthcare,2025-01-12,Synthetic scenario
+EF00724,L00201,2025-03-06,3,Employed in other role,Other,2025-02-18,Synthetic scenario
+EF00725,L00201,2025-06-06,6,Employed in CHW role,Healthcare,2025-05-26,Synthetic scenario
+EF00726,L00247,2025-02-28,3,Employed in CHW role,Government,2025-02-24,Synthetic scenario
+EF00727,L00247,2025-05-28,6,Employed in CHW role,Government,2025-02-24,Synthetic scenario
+EF00728,L00297,2025-03-03,3,Employed in other role,Healthcare,2025-02-17,Synthetic scenario
+EF00729,L00297,2025-06-03,6,Employed in CHW role,Community nonprofit,2025-05-10,Synthetic scenario
+EF00730,L00312,2025-03-04,3,Employed in other role,Other,2025-01-15,Synthetic scenario
+EF00731,L00354,2025-03-04,3,Employed in CHW role,Other,2024-12-21,Synthetic scenario
+EF00732,L00354,2025-06-04,6,Employed in CHW role,Healthcare,2024-12-21,Synthetic scenario
+EF00733,L00405,2025-02-28,3,Employed in CHW role,Community nonprofit,2025-02-10,Synthetic scenario
+EF00734,L00405,2025-05-29,6,Employed in CHW role,Other,2025-02-10,Synthetic scenario
+EF00735,L00454,2025-03-02,3,Employed in CHW role,Community nonprofit,2025-02-04,Synthetic scenario
+EF00736,L00454,2025-06-02,6,Employed in CHW role,Community nonprofit,2025-02-04,Synthetic scenario
+EF00737,L00487,2025-02-27,3,Employed in other role,Other,2025-02-14,Synthetic scenario
+EF00738,L00500,2025-02-28,3,Employed in CHW role,Healthcare,2025-01-10,Synthetic scenario
+EF00739,L00500,2025-05-28,6,Employed in CHW role,Community nonprofit,2025-01-10,Synthetic scenario
+EF00740,L00623,2025-03-03,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00741,L00623,2025-06-03,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00742,L00635,2025-02-26,3,Employed in other role,Other,2024-12-31,Synthetic scenario
+EF00743,L00635,2025-05-26,6,Employed in CHW role,Community nonprofit,2025-03-13,Synthetic scenario
+EF00744,L00662,2025-05-24,6,Employed in CHW role,Healthcare,2025-04-13,Synthetic scenario
+EF00745,L00674,2025-02-28,3,Employed in other role,Other,2025-01-12,Synthetic scenario
+EF00746,L00674,2025-05-29,6,Employed in CHW role,Community nonprofit,2025-05-19,Synthetic scenario
+EF00747,L00695,2026-06-13,3,Employed in other role,Community nonprofit,2026-05-14,Synthetic scenario
+EF00748,L00695,2026-09-13,6,Employed in other role,Healthcare,2026-04-23,Synthetic scenario
+EF00749,L00702,2025-03-03,3,Employed in CHW role,Healthcare,2024-12-19,Synthetic scenario
+EF00750,L00712,2025-02-25,3,Employed in CHW role,Healthcare,2024-12-30,Synthetic scenario
+EF00751,L00780,2025-03-05,3,Unknown,Unknown,,Synthetic scenario
+EF00752,L00780,2025-06-05,6,Unknown,Unknown,,Synthetic scenario
+EF00753,L00852,2025-02-26,3,Employed in CHW role,Other,2025-02-18,Synthetic scenario
+EF00754,L00852,2025-05-26,6,Employed in CHW role,Healthcare,2025-02-18,Synthetic scenario
+EF00755,L00886,2025-03-04,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00756,L00886,2025-06-04,6,Employed in CHW role,Government,2025-06-02,Synthetic scenario
+EF00757,L01021,2025-03-03,3,Employed in other role,Other,2024-12-28,Synthetic scenario
+EF00758,L01021,2025-06-03,6,Employed in CHW role,Healthcare,2025-01-07,Synthetic scenario
+EF00759,L01054,2025-02-28,3,Employed in other role,Other,2025-01-20,Synthetic scenario
+EF00760,L01054,2025-05-29,6,Employed in CHW role,Healthcare,2024-12-27,Synthetic scenario
+EF00761,L01082,2025-03-01,3,Employed in CHW role,Healthcare,2025-01-30,Synthetic scenario
+EF00762,L01082,2025-06-01,6,Employed in CHW role,Healthcare,2025-01-30,Synthetic scenario
+EF00763,L01129,2025-06-05,6,Employed in other role,Healthcare,2025-05-07,Synthetic scenario
+EF00764,L01142,2025-02-28,3,Employed in CHW role,Healthcare,2025-01-06,Synthetic scenario
+EF00765,L01172,2025-05-24,6,Employed in other role,Healthcare,2025-01-31,Synthetic scenario
+EF00766,L01200,2025-02-26,3,Employed in CHW role,Community nonprofit,2024-12-15,Synthetic scenario
+EF00767,L01228,2025-02-25,3,Employed in CHW role,Community nonprofit,2025-02-12,Synthetic scenario
+EF00768,L01302,2025-02-24,3,Employed in CHW role,Government,2025-02-06,Synthetic scenario
+EF00769,L01323,2025-02-28,3,Employed in other role,Healthcare,2024-12-19,Synthetic scenario
+EF00770,L01323,2025-05-28,6,Employed in CHW role,Healthcare,2025-03-08,Synthetic scenario
+EF00771,L01356,2025-02-28,3,Not seeking work,Unknown,,Synthetic scenario
+EF00772,L01362,2025-02-24,3,Employed in other role,Other,2025-02-06,Synthetic scenario
+EF00773,L01362,2025-05-24,6,Employed in CHW role,Government,2025-04-28,Synthetic scenario
+EF00774,L01487,2025-03-02,3,Employed in other role,Community nonprofit,2025-02-20,Synthetic scenario
+EF00775,L01487,2025-06-02,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00776,L01575,2025-02-28,3,Unknown,Unknown,,Synthetic scenario
+EF00777,L01575,2025-05-30,6,Employed in CHW role,Other,2025-05-21,Synthetic scenario
+EF00778,L01621,2025-02-28,3,Unknown,Unknown,,Synthetic scenario
+EF00779,L01630,2025-02-24,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00780,L01630,2025-05-24,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00781,L01648,2025-03-03,3,Employed in CHW role,Healthcare,2025-01-27,Synthetic scenario
+EF00782,L01648,2025-06-03,6,Employed in CHW role,Healthcare,2025-01-27,Synthetic scenario
+EF00783,L01686,2025-02-25,3,Employed in other role,Healthcare,2024-12-24,Synthetic scenario
+EF00784,L01686,2025-05-25,6,Employed in other role,Government,2025-02-23,Synthetic scenario
+EF00785,L01713,2025-03-01,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00786,L01713,2025-06-01,6,Employed in CHW role,Healthcare,2025-05-14,Synthetic scenario
+EF00787,L01835,2025-02-28,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00788,L01835,2025-05-29,6,Employed in CHW role,Healthcare,2025-04-07,Synthetic scenario
+EF00789,L01873,2025-05-30,6,Employed in CHW role,Healthcare,2025-05-26,Synthetic scenario
+EF00790,L01881,2025-05-25,6,Employed in other role,Healthcare,2025-01-08,Synthetic scenario
+EF00791,L01896,2025-03-01,3,Employed in CHW role,Community nonprofit,2024-12-20,Synthetic scenario
+EF00792,L01900,2025-05-26,6,Employed in other role,Other,2025-04-12,Synthetic scenario
+EF00793,L01991,2025-02-28,3,Employed in CHW role,Healthcare,2025-01-07,Synthetic scenario
+EF00794,L02067,2025-02-28,3,Not seeking work,Unknown,,Synthetic scenario
+EF00795,L02067,2025-05-29,6,Employed in CHW role,Community nonprofit,2025-04-24,Synthetic scenario
+EF00796,L02102,2025-03-06,3,Employed in CHW role,Community nonprofit,2025-02-04,Synthetic scenario
+EF00797,L02102,2025-06-06,6,Employed in CHW role,Government,2025-02-04,Synthetic scenario
+EF00798,L02157,2025-02-24,3,Employed in other role,Other,2025-01-25,Synthetic scenario
+EF00799,L02157,2025-05-24,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00800,L02212,2025-02-26,3,Employed in CHW role,Community nonprofit,2024-12-23,Synthetic scenario
+EF00801,L02258,2025-03-01,3,Employed in other role,Other,2025-01-13,Synthetic scenario
+EF00802,L02258,2025-06-01,6,Employed in CHW role,Healthcare,2025-02-05,Synthetic scenario
+EF00803,L02272,2025-02-27,3,Employed in other role,Other,2025-01-26,Synthetic scenario
+EF00804,L02272,2025-05-27,6,Employed in CHW role,Government,2025-02-08,Synthetic scenario
+EF00805,L02370,2025-02-27,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00806,L02392,2025-02-25,3,Employed in CHW role,Healthcare,2025-02-05,Synthetic scenario
+EF00807,L02392,2025-05-25,6,Employed in CHW role,Community nonprofit,2025-02-05,Synthetic scenario
+EF00808,L00001,2025-03-07,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00809,L00001,2025-06-07,6,Employed in other role,Community nonprofit,2025-01-15,Synthetic scenario
+EF00810,L00032,2025-03-16,3,Employed in other role,Healthcare,2025-02-20,Synthetic scenario
+EF00811,L00032,2025-06-16,6,Employed in CHW role,Government,2025-04-19,Synthetic scenario
+EF00812,L00279,2025-06-09,6,Employed in CHW role,Healthcare,2025-05-31,Synthetic scenario
+EF00813,L00302,2025-03-07,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00814,L00302,2025-06-07,6,Employed in other role,Healthcare,2025-04-17,Synthetic scenario
+EF00815,L00349,2025-03-05,3,Employed in other role,Community nonprofit,2025-01-04,Synthetic scenario
+EF00816,L00427,2025-03-08,3,Employed in other role,Community nonprofit,2025-02-02,Synthetic scenario
+EF00817,L00427,2025-06-08,6,Employed in other role,Healthcare,2025-03-29,Synthetic scenario
+EF00818,L00451,2025-03-12,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00819,L00451,2025-06-12,6,Employed in CHW role,Healthcare,2025-05-09,Synthetic scenario
+EF00820,L00510,2025-03-14,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00821,L00510,2025-06-14,6,Employed in CHW role,Healthcare,2025-05-28,Synthetic scenario
+EF00822,L00513,2025-03-15,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00823,L00513,2025-06-15,6,Employed in CHW role,Government,2025-05-25,Synthetic scenario
+EF00824,L00567,2025-06-15,6,Not seeking work,Unknown,,Synthetic scenario
+EF00825,L00622,2025-03-08,3,Unknown,Unknown,,Synthetic scenario
+EF00826,L00622,2025-06-08,6,Employed in CHW role,Healthcare,2024-12-21,Synthetic scenario
+EF00827,L00656,2025-03-10,3,Unknown,Unknown,,Synthetic scenario
+EF00828,L00680,2025-03-12,3,Employed in CHW role,Healthcare,2025-01-04,Synthetic scenario
+EF00829,L00682,2025-03-11,3,Employed in CHW role,Community nonprofit,2025-03-02,Synthetic scenario
+EF00830,L00682,2025-06-11,6,Employed in other role,Healthcare,2025-03-27,Synthetic scenario
+EF00831,L00734,2025-03-04,3,Employed in CHW role,Community nonprofit,2025-01-08,Synthetic scenario
+EF00832,L00734,2025-06-04,6,Employed in CHW role,Community nonprofit,2025-01-08,Synthetic scenario
+EF00833,L00800,2025-03-04,3,Employed in other role,Other,2025-02-04,Synthetic scenario
+EF00834,L00800,2025-06-04,6,Employed in CHW role,Healthcare,2025-01-09,Synthetic scenario
+EF00835,L00808,2025-03-04,3,Not seeking work,Unknown,,Synthetic scenario
+EF00836,L00808,2025-06-04,6,Employed in other role,Other,2024-12-21,Synthetic scenario
+EF00837,L00811,2025-06-11,6,Employed in CHW role,Healthcare,2025-03-18,Synthetic scenario
+EF00838,L00827,2025-03-08,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00839,L00827,2025-06-08,6,Employed in CHW role,Healthcare,2025-05-20,Synthetic scenario
+EF00840,L01053,2025-03-07,3,Employed in other role,Other,2025-01-08,Synthetic scenario
+EF00841,L01384,2025-03-15,3,Employed in CHW role,Healthcare,2025-01-12,Synthetic scenario
+EF00842,L01521,2025-06-05,6,Employed in CHW role,Healthcare,2025-05-29,Synthetic scenario
+EF00843,L01591,2025-03-12,3,Not seeking work,Unknown,,Synthetic scenario
+EF00844,L01591,2025-06-12,6,Employed in CHW role,Government,2025-04-25,Synthetic scenario
+EF00845,L01629,2025-03-07,3,Employed in CHW role,Healthcare,2025-01-12,Synthetic scenario
+EF00846,L01688,2025-03-10,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00847,L01729,2025-03-12,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00848,L01729,2025-06-12,6,Employed in other role,Other,2025-02-20,Synthetic scenario
+EF00849,L01844,2025-06-15,6,Unknown,Unknown,,Synthetic scenario
+EF00850,L01912,2025-03-15,3,Employed in other role,Healthcare,2025-02-22,Synthetic scenario
+EF00851,L01951,2025-03-15,3,Employed in other role,Healthcare,2025-03-13,Synthetic scenario
+EF00852,L01988,2025-03-04,3,Employed in other role,Other,2025-01-21,Synthetic scenario
+EF00853,L01988,2025-06-04,6,Employed in CHW role,Government,2025-06-02,Synthetic scenario
+EF00854,L01999,2025-03-15,3,Employed in other role,Government,2025-01-31,Synthetic scenario
+EF00855,L01999,2025-06-15,6,Employed in other role,Government,2025-01-13,Synthetic scenario
+EF00856,L02053,2025-03-06,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00857,L02068,2025-06-08,6,Employed in CHW role,Government,2025-05-21,Synthetic scenario
+EF00858,L02097,2025-03-14,3,Employed in CHW role,Healthcare,2025-03-03,Synthetic scenario
+EF00859,L02120,2025-03-04,3,Employed in other role,Healthcare,2025-02-28,Synthetic scenario
+EF00860,L02120,2025-06-04,6,Employed in CHW role,Community nonprofit,2025-05-22,Synthetic scenario
+EF00861,L02252,2025-03-08,3,Employed in CHW role,Healthcare,2025-02-19,Synthetic scenario
+EF00862,L02252,2025-06-08,6,Employed in CHW role,Healthcare,2025-02-19,Synthetic scenario
+EF00863,L00010,2025-06-06,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00864,L00010,2025-09-06,6,Employed in CHW role,Healthcare,2025-03-20,Synthetic scenario
+EF00865,L00017,2025-06-05,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00866,L00017,2025-09-05,6,Employed in other role,Other,2025-08-14,Synthetic scenario
+EF00867,L00164,2025-05-26,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00868,L00227,2025-06-01,3,Employed in CHW role,Government,2025-03-15,Synthetic scenario
+EF00869,L00227,2025-09-01,6,Employed in CHW role,Healthcare,2025-03-15,Synthetic scenario
+EF00870,L00261,2025-06-01,3,Employed in CHW role,Government,2025-03-11,Synthetic scenario
+EF00871,L00332,2025-05-25,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00872,L00332,2025-08-25,6,Employed in CHW role,Community nonprofit,2025-03-14,Synthetic scenario
+EF00873,L00360,2025-06-04,3,Employed in CHW role,Community nonprofit,2025-04-22,Synthetic scenario
+EF00874,L00360,2025-09-04,6,Employed in CHW role,Community nonprofit,2025-04-22,Synthetic scenario
+EF00875,L00381,2025-08-25,6,Employed in CHW role,Government,2025-05-22,Synthetic scenario
+EF00876,L00448,2025-05-22,3,Employed in CHW role,Other,2025-05-14,Synthetic scenario
+EF00877,L00448,2025-08-22,6,Employed in other role,Healthcare,2025-05-19,Synthetic scenario
+EF00878,L00573,2025-05-24,3,Employed in other role,Healthcare,2025-04-06,Synthetic scenario
+EF00879,L00573,2025-08-24,6,Employed in CHW role,Healthcare,2025-07-07,Synthetic scenario
+EF00880,L00578,2025-05-26,3,Employed in other role,Other,2025-03-18,Synthetic scenario
+EF00881,L00600,2025-05-25,3,Not seeking work,Unknown,,Synthetic scenario
+EF00882,L00600,2025-08-25,6,Employed in CHW role,Healthcare,2025-03-31,Synthetic scenario
+EF00883,L00625,2025-05-26,3,Employed in CHW role,Healthcare,2025-03-22,Synthetic scenario
+EF00884,L00654,2025-09-03,6,Employed in CHW role,Healthcare,2025-07-16,Synthetic scenario
+EF00885,L00677,2025-09-04,6,Employed in other role,Healthcare,2025-05-19,Synthetic scenario
+EF00886,L00770,2026-05-22,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00887,L00798,2025-05-23,3,Employed in CHW role,Healthcare,2025-03-11,Synthetic scenario
+EF00888,L00798,2025-08-23,6,Employed in CHW role,Healthcare,2025-03-11,Synthetic scenario
+EF00889,L00809,2025-06-04,3,Employed in CHW role,Community nonprofit,2025-05-14,Synthetic scenario
+EF00890,L00809,2025-09-04,6,Employed in CHW role,Government,2025-05-14,Synthetic scenario
+EF00891,L00982,2025-05-26,3,Employed in other role,Other,2025-03-11,Synthetic scenario
+EF00892,L00982,2025-08-26,6,Employed in other role,Healthcare,2025-05-20,Synthetic scenario
+EF00893,L00986,2025-05-28,3,Employed in CHW role,Healthcare,2025-04-03,Synthetic scenario
+EF00894,L00986,2025-08-28,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00895,L01032,2025-06-05,3,Employed in other role,Community nonprofit,2025-03-18,Synthetic scenario
+EF00896,L01032,2025-09-05,6,Not seeking work,Unknown,,Synthetic scenario
+EF00897,L01068,2025-06-05,3,Not seeking work,Unknown,,Synthetic scenario
+EF00898,L01068,2025-09-05,6,Not seeking work,Unknown,,Synthetic scenario
+EF00899,L01281,2025-05-22,3,Employed in other role,Government,2025-05-15,Synthetic scenario
+EF00900,L01281,2025-08-22,6,Employed in CHW role,Government,2025-07-27,Synthetic scenario
+EF00901,L01308,2025-05-23,3,Employed in other role,Other,2025-05-18,Synthetic scenario
+EF00902,L01387,2025-06-02,3,Employed in CHW role,Community nonprofit,2025-05-21,Synthetic scenario
+EF00903,L01399,2025-06-02,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00904,L01399,2025-09-02,6,Unknown,Unknown,,Synthetic scenario
+EF00905,L01421,2026-08-25,3,Not seeking work,Unknown,,Synthetic scenario
+EF00906,L01453,2025-06-01,3,Employed in CHW role,Community nonprofit,2025-04-02,Synthetic scenario
+EF00907,L01453,2025-09-01,6,Employed in CHW role,Healthcare,2025-04-02,Synthetic scenario
+EF00908,L01508,2025-06-03,3,Employed in CHW role,Community nonprofit,2025-03-16,Synthetic scenario
+EF00909,L01508,2025-09-03,6,Employed in CHW role,Healthcare,2025-03-16,Synthetic scenario
+EF00910,L01552,2025-05-24,3,Employed in other role,Government,2025-05-06,Synthetic scenario
+EF00911,L01552,2025-08-24,6,Employed in CHW role,Government,2025-03-23,Synthetic scenario
+EF00912,L01553,2025-05-22,3,Employed in other role,Healthcare,2025-03-13,Synthetic scenario
+EF00913,L01553,2025-08-22,6,Employed in other role,Other,2025-05-16,Synthetic scenario
+EF00914,L01579,2025-06-01,3,Employed in other role,Other,2025-05-17,Synthetic scenario
+EF00915,L01579,2025-09-01,6,Employed in CHW role,Community nonprofit,2025-05-17,Synthetic scenario
+EF00916,L01705,2025-08-28,6,Employed in CHW role,Government,2025-07-03,Synthetic scenario
+EF00917,L01714,2025-05-25,3,Employed in other role,Healthcare,2025-03-17,Synthetic scenario
+EF00918,L01782,2025-08-28,6,Employed in CHW role,Community nonprofit,2025-07-28,Synthetic scenario
+EF00919,L01834,2026-06-14,3,Employed in other role,Other,2026-04-18,Synthetic scenario
+EF00920,L01841,2025-09-05,6,Employed in CHW role,Community nonprofit,2025-07-23,Synthetic scenario
+EF00921,L01908,2025-05-28,3,Employed in CHW role,Healthcare,2025-04-10,Synthetic scenario
+EF00922,L01976,2025-06-01,3,Employed in other role,Community nonprofit,2025-05-01,Synthetic scenario
+EF00923,L02013,2025-08-25,6,Employed in CHW role,Other,2025-05-19,Synthetic scenario
+EF00924,L02014,2025-08-27,6,Employed in CHW role,Healthcare,2025-07-08,Synthetic scenario
+EF00925,L02036,2025-06-05,3,Employed in CHW role,Government,2025-04-30,Synthetic scenario
+EF00926,L02036,2025-09-05,6,Employed in CHW role,Healthcare,2025-04-30,Synthetic scenario
+EF00927,L02049,2025-06-05,3,Employed in other role,Other,2025-03-21,Synthetic scenario
+EF00928,L02139,2025-09-02,6,Employed in other role,Other,2025-07-07,Synthetic scenario
+EF00929,L02152,2025-06-06,3,Employed in other role,Community nonprofit,2025-03-25,Synthetic scenario
+EF00930,L02203,2025-08-28,6,Employed in CHW role,Healthcare,2025-05-12,Synthetic scenario
+EF00931,L02230,2025-05-25,3,Employed in CHW role,Community nonprofit,2025-04-11,Synthetic scenario
+EF00932,L02255,2025-06-06,3,Employed in CHW role,Community nonprofit,2025-03-20,Synthetic scenario
+EF00933,L02255,2025-09-06,6,Employed in CHW role,Healthcare,2025-03-20,Synthetic scenario
+EF00934,L02266,2025-06-01,3,Employed in CHW role,Healthcare,2025-03-19,Synthetic scenario
+EF00935,L02266,2025-09-01,6,Employed in other role,Community nonprofit,2025-08-02,Synthetic scenario
+EF00936,L02286,2025-08-24,6,Employed in CHW role,Healthcare,2025-07-10,Synthetic scenario
+EF00937,L02300,2025-06-06,3,Unknown,Unknown,,Synthetic scenario
+EF00938,L02422,2025-06-06,3,Employed in CHW role,Healthcare,2025-04-01,Synthetic scenario
+EF00939,L02422,2025-09-06,6,Employed in CHW role,Government,2025-04-01,Synthetic scenario
+EF00940,L00044,2025-06-01,3,Unknown,Unknown,,Synthetic scenario
+EF00941,L00044,2025-09-01,6,Employed in other role,Other,2025-08-24,Synthetic scenario
+EF00942,L00064,2025-05-24,3,Employed in other role,Other,2025-05-19,Synthetic scenario
+EF00943,L00064,2025-08-24,6,Employed in CHW role,Community nonprofit,2025-04-06,Synthetic scenario
+EF00944,L00103,2025-06-08,3,Unknown,Unknown,,Synthetic scenario
+EF00945,L00103,2025-09-08,6,Employed in CHW role,Government,2025-07-27,Synthetic scenario
+EF00946,L00124,2025-06-05,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00947,L00124,2025-09-05,6,Employed in CHW role,Government,2025-07-29,Synthetic scenario
+EF00948,L00229,2025-09-05,6,Employed in other role,Healthcare,2025-04-22,Synthetic scenario
+EF00949,L00251,2025-06-06,3,Employed in other role,Other,2025-05-31,Synthetic scenario
+EF00950,L00251,2025-09-06,6,Employed in CHW role,Healthcare,2025-08-13,Synthetic scenario
+EF00951,L00294,2025-08-26,6,Employed in CHW role,Government,2025-03-26,Synthetic scenario
+EF00952,L00323,2025-05-26,3,Employed in other role,Other,2025-04-06,Synthetic scenario
+EF00953,L00331,2025-06-06,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00954,L00362,2025-05-28,3,Employed in CHW role,Government,2025-05-05,Synthetic scenario
+EF00955,L00388,2025-06-07,3,Employed in CHW role,Healthcare,2025-04-05,Synthetic scenario
+EF00956,L00388,2025-09-07,6,Employed in CHW role,Healthcare,2025-04-05,Synthetic scenario
+EF00957,L00413,2025-06-04,3,Employed in other role,Healthcare,2025-04-04,Synthetic scenario
+EF00958,L00413,2025-09-04,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00959,L00419,2025-06-08,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00960,L00419,2025-09-08,6,Employed in CHW role,Community nonprofit,2025-08-25,Synthetic scenario
+EF00961,L00441,2025-06-08,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00962,L00441,2025-09-08,6,Employed in CHW role,Healthcare,2025-07-31,Synthetic scenario
+EF00963,L00485,2025-09-06,6,Employed in CHW role,Other,2025-06-11,Synthetic scenario
+EF00964,L00558,2025-05-27,3,Employed in other role,Healthcare,2025-03-27,Synthetic scenario
+EF00965,L00598,2025-09-03,6,Not seeking work,Unknown,,Synthetic scenario
+EF00966,L00636,2025-06-03,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00967,L00636,2025-09-03,6,Employed in CHW role,Government,2025-04-04,Synthetic scenario
+EF00968,L00725,2025-05-24,3,Employed in CHW role,Healthcare,2025-03-11,Synthetic scenario
+EF00969,L00725,2025-08-24,6,Employed in CHW role,Healthcare,2025-03-11,Synthetic scenario
+EF00970,L00737,2025-06-07,3,Employed in CHW role,Community nonprofit,2025-05-11,Synthetic scenario
+EF00971,L00737,2025-09-07,6,Employed in other role,Government,2025-05-09,Synthetic scenario
+EF00972,L00745,2025-05-24,3,Not seeking work,Unknown,,Synthetic scenario
+EF00973,L00799,2025-06-03,3,Employed in CHW role,Community nonprofit,2025-04-01,Synthetic scenario
+EF00974,L00799,2025-09-03,6,Employed in other role,Other,2025-05-11,Synthetic scenario
+EF00975,L00832,2025-06-03,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00976,L00832,2025-09-03,6,Employed in CHW role,Healthcare,2025-05-01,Synthetic scenario
+EF00977,L00833,2025-09-05,6,Employed in CHW role,Healthcare,2025-05-13,Synthetic scenario
+EF00978,L00873,2025-05-28,3,Employed in CHW role,Community nonprofit,2025-04-11,Synthetic scenario
+EF00979,L00873,2025-08-28,6,Employed in CHW role,Healthcare,2025-04-11,Synthetic scenario
+EF00980,L00888,2025-06-03,3,Employed in CHW role,Community nonprofit,2025-03-26,Synthetic scenario
+EF00981,L00888,2025-09-03,6,Employed in CHW role,Healthcare,2025-03-26,Synthetic scenario
+EF00982,L00964,2025-06-02,3,Employed in CHW role,Government,2025-03-14,Synthetic scenario
+EF00983,L00964,2025-09-02,6,Employed in CHW role,Community nonprofit,2025-03-14,Synthetic scenario
+EF00984,L00997,2025-06-06,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00985,L01055,2026-08-29,3,Employed in CHW role,Government,2026-07-11,Synthetic scenario
+EF00986,L01070,2025-09-06,6,Employed in other role,Community nonprofit,2025-06-25,Synthetic scenario
+EF00987,L01087,2025-05-26,3,Employed in other role,Other,2025-04-20,Synthetic scenario
+EF00988,L01087,2025-08-26,6,Employed in other role,Other,2025-04-18,Synthetic scenario
+EF00989,L01130,2025-08-26,6,Employed in CHW role,Healthcare,2025-03-28,Synthetic scenario
+EF00990,L01138,2025-06-03,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00991,L01138,2025-09-03,6,Employed in CHW role,Community nonprofit,2025-08-21,Synthetic scenario
+EF00992,L01139,2025-06-07,3,Employed in CHW role,Community nonprofit,2025-04-27,Synthetic scenario
+EF00993,L01159,2026-03-13,3,Employed in CHW role,Community nonprofit,2026-02-12,Synthetic scenario
+EF00994,L01159,2026-06-13,6,Employed in other role,Community nonprofit,2026-01-12,Synthetic scenario
+EF00995,L01198,2025-06-02,3,Employed in CHW role,Healthcare,2025-03-29,Synthetic scenario
+EF00996,L01207,2025-06-07,3,Unknown,Unknown,,Synthetic scenario
+EF00997,L01207,2025-09-07,6,Employed in other role,Other,2025-04-29,Synthetic scenario
+EF00998,L01210,2025-05-28,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF00999,L01306,2025-09-06,6,Employed in other role,Other,2025-05-11,Synthetic scenario
+EF01000,L01329,2025-09-06,6,Employed in CHW role,Healthcare,2025-08-02,Synthetic scenario
+EF01001,L01530,2025-06-08,3,Employed in CHW role,Community nonprofit,2025-05-06,Synthetic scenario
+EF01002,L01530,2025-09-08,6,Employed in CHW role,Healthcare,2025-05-06,Synthetic scenario
+EF01003,L01531,2025-09-07,6,Employed in CHW role,Other,2025-05-17,Synthetic scenario
+EF01004,L01568,2025-05-24,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01005,L01568,2025-08-24,6,Employed in CHW role,Healthcare,2025-06-11,Synthetic scenario
+EF01006,L01586,2025-06-06,3,Employed in CHW role,Healthcare,2025-04-20,Synthetic scenario
+EF01007,L01586,2025-09-06,6,Employed in CHW role,Community nonprofit,2025-04-20,Synthetic scenario
+EF01008,L01588,2025-06-06,3,Employed in other role,Other,2025-03-28,Synthetic scenario
+EF01009,L01626,2025-06-01,3,Employed in other role,Other,2025-04-04,Synthetic scenario
+EF01010,L01636,2025-06-08,3,Employed in CHW role,Government,2025-05-05,Synthetic scenario
+EF01011,L01636,2025-09-08,6,Employed in CHW role,Government,2025-05-05,Synthetic scenario
+EF01012,L01727,2025-06-01,3,Employed in CHW role,Healthcare,2025-04-15,Synthetic scenario
+EF01013,L01739,2025-06-06,3,Employed in CHW role,Community nonprofit,2025-05-24,Synthetic scenario
+EF01014,L01749,2025-06-08,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01015,L01828,2025-06-06,3,Employed in CHW role,Healthcare,2025-03-23,Synthetic scenario
+EF01016,L01828,2025-09-06,6,Employed in CHW role,Community nonprofit,2025-03-23,Synthetic scenario
+EF01017,L01866,2025-05-28,3,Employed in CHW role,Healthcare,2025-03-25,Synthetic scenario
+EF01018,L01924,2025-06-02,3,Employed in other role,Other,2025-04-03,Synthetic scenario
+EF01019,L01924,2025-09-02,6,Employed in CHW role,Healthcare,2025-08-02,Synthetic scenario
+EF01020,L01957,2025-06-02,3,Employed in other role,Community nonprofit,2025-05-10,Synthetic scenario
+EF01021,L01993,2025-06-04,3,Unknown,Unknown,,Synthetic scenario
+EF01022,L01993,2025-09-04,6,Employed in CHW role,Healthcare,2025-07-21,Synthetic scenario
+EF01023,L02026,2025-06-04,3,Employed in other role,Healthcare,2025-04-30,Synthetic scenario
+EF01024,L02026,2025-09-04,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01025,L02086,2025-06-06,3,Employed in CHW role,Healthcare,2025-04-24,Synthetic scenario
+EF01026,L02086,2025-09-06,6,Employed in CHW role,Community nonprofit,2025-04-24,Synthetic scenario
+EF01027,L02138,2025-05-25,3,Not seeking work,Unknown,,Synthetic scenario
+EF01028,L02346,2025-06-03,3,Employed in CHW role,Healthcare,2025-03-16,Synthetic scenario
+EF01029,L02357,2025-08-25,6,Employed in other role,Government,2025-04-25,Synthetic scenario
+EF01030,L02376,2025-05-24,3,Employed in CHW role,Healthcare,2025-03-30,Synthetic scenario
+EF01031,L02376,2025-08-24,6,Employed in CHW role,Community nonprofit,2025-03-30,Synthetic scenario
+EF01032,L02407,2026-06-06,3,Employed in CHW role,Healthcare,2026-04-02,Synthetic scenario
+EF01033,L02407,2026-09-06,6,Employed in CHW role,Healthcare,2026-04-02,Synthetic scenario
+EF01034,L02418,2025-09-03,6,Employed in CHW role,Healthcare,2025-05-21,Synthetic scenario
+EF01035,L00012,2025-06-13,3,Employed in CHW role,Community nonprofit,2025-04-04,Synthetic scenario
+EF01036,L00028,2025-06-07,3,Employed in CHW role,Community nonprofit,2025-05-01,Synthetic scenario
+EF01037,L00040,2025-06-10,3,Employed in CHW role,Community nonprofit,2025-04-18,Synthetic scenario
+EF01038,L00046,2025-06-11,3,Employed in other role,Healthcare,2025-04-02,Synthetic scenario
+EF01039,L00046,2025-09-11,6,Employed in CHW role,Healthcare,2025-05-02,Synthetic scenario
+EF01040,L00210,2025-06-10,3,Employed in CHW role,Government,2025-05-16,Synthetic scenario
+EF01041,L00210,2025-09-10,6,Employed in CHW role,Community nonprofit,2025-05-16,Synthetic scenario
+EF01042,L00232,2025-06-16,3,Employed in CHW role,Community nonprofit,2025-04-11,Synthetic scenario
+EF01043,L00232,2025-09-16,6,Employed in CHW role,Community nonprofit,2025-04-11,Synthetic scenario
+EF01044,L00248,2025-06-10,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01045,L00248,2025-09-10,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01046,L00338,2025-09-14,6,Employed in CHW role,Healthcare,2025-08-23,Synthetic scenario
+EF01047,L00386,2025-06-13,3,Employed in other role,Government,2025-03-26,Synthetic scenario
+EF01048,L00462,2025-06-12,3,Employed in other role,Government,2025-05-11,Synthetic scenario
+EF01049,L00462,2025-09-12,6,Employed in other role,Healthcare,2025-05-28,Synthetic scenario
+EF01050,L00476,2025-06-09,3,Employed in CHW role,Community nonprofit,2025-04-15,Synthetic scenario
+EF01051,L00476,2025-09-09,6,Employed in CHW role,Community nonprofit,2025-04-15,Synthetic scenario
+EF01052,L00547,2025-06-09,3,Employed in other role,Healthcare,2025-04-21,Synthetic scenario
+EF01053,L00547,2025-09-09,6,Employed in other role,Healthcare,2025-06-05,Synthetic scenario
+EF01054,L00720,2025-06-13,3,Employed in other role,Other,2025-04-29,Synthetic scenario
+EF01055,L00720,2025-09-13,6,Employed in CHW role,Community nonprofit,2025-07-19,Synthetic scenario
+EF01056,L00742,2025-06-17,3,Employed in other role,Government,2025-04-22,Synthetic scenario
+EF01057,L00742,2025-09-17,6,Employed in CHW role,Healthcare,2025-05-11,Synthetic scenario
+EF01058,L00797,2025-09-14,6,Employed in other role,Other,2025-07-31,Synthetic scenario
+EF01059,L00868,2025-06-16,3,Not seeking work,Unknown,,Synthetic scenario
+EF01060,L00868,2025-09-16,6,Employed in CHW role,Community nonprofit,2025-07-16,Synthetic scenario
+EF01061,L00887,2025-06-15,3,Unknown,Unknown,,Synthetic scenario
+EF01062,L00887,2025-09-15,6,Employed in CHW role,Government,2025-07-14,Synthetic scenario
+EF01063,L00945,2025-06-16,3,Employed in other role,Community nonprofit,2025-04-10,Synthetic scenario
+EF01064,L00956,2025-06-11,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01065,L00956,2025-09-11,6,Employed in CHW role,Community nonprofit,2025-04-03,Synthetic scenario
+EF01066,L00987,2025-06-16,3,Employed in CHW role,Government,2025-05-11,Synthetic scenario
+EF01067,L00987,2025-09-16,6,Employed in CHW role,Healthcare,2025-05-11,Synthetic scenario
+EF01068,L00994,2025-09-15,6,Employed in CHW role,Healthcare,2025-09-13,Synthetic scenario
+EF01069,L01009,2025-06-06,3,Employed in CHW role,Healthcare,2025-03-16,Synthetic scenario
+EF01070,L01009,2025-09-06,6,Employed in CHW role,Healthcare,2025-03-16,Synthetic scenario
+EF01071,L01030,2025-09-11,6,Employed in other role,Healthcare,2025-04-03,Synthetic scenario
+EF01072,L01124,2025-06-15,3,Employed in other role,Other,2025-06-02,Synthetic scenario
+EF01073,L01141,2025-06-16,3,Employed in CHW role,Community nonprofit,2025-05-02,Synthetic scenario
+EF01074,L01141,2025-09-16,6,Employed in CHW role,Healthcare,2025-05-02,Synthetic scenario
+EF01075,L01199,2025-06-13,3,Employed in CHW role,Other,2025-05-15,Synthetic scenario
+EF01076,L01419,2025-06-15,3,Employed in CHW role,Government,2025-04-17,Synthetic scenario
+EF01077,L01419,2025-09-15,6,Employed in CHW role,Healthcare,2025-04-17,Synthetic scenario
+EF01078,L01425,2025-06-09,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01079,L01427,2025-06-07,3,Employed in CHW role,Government,2025-05-05,Synthetic scenario
+EF01080,L01427,2025-09-07,6,Employed in other role,Healthcare,2025-04-08,Synthetic scenario
+EF01081,L01447,2025-06-10,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01082,L01460,2025-06-09,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01083,L01460,2025-09-09,6,Employed in CHW role,Government,2025-06-21,Synthetic scenario
+EF01084,L01540,2025-06-17,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01085,L01540,2025-09-17,6,Employed in CHW role,Community nonprofit,2025-06-04,Synthetic scenario
+EF01086,L01640,2025-09-10,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01087,L01641,2025-06-07,3,Employed in CHW role,Community nonprofit,2025-04-17,Synthetic scenario
+EF01088,L01641,2025-09-07,6,Employed in CHW role,Healthcare,2025-04-17,Synthetic scenario
+EF01089,L01645,2025-06-14,3,Employed in other role,Other,2025-06-12,Synthetic scenario
+EF01090,L01707,2025-06-13,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01091,L01707,2025-09-13,6,Employed in CHW role,Healthcare,2025-07-02,Synthetic scenario
+EF01092,L01898,2025-06-17,3,Employed in other role,Other,2025-06-16,Synthetic scenario
+EF01093,L01911,2025-06-15,3,Employed in other role,Community nonprofit,2025-03-28,Synthetic scenario
+EF01094,L01911,2025-09-15,6,Employed in CHW role,Community nonprofit,2025-09-11,Synthetic scenario
+EF01095,L01935,2025-06-12,3,Employed in CHW role,Healthcare,2025-05-05,Synthetic scenario
+EF01096,L01935,2025-09-12,6,Employed in CHW role,Healthcare,2025-05-05,Synthetic scenario
+EF01097,L02077,2025-09-12,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01098,L02099,2025-09-13,6,Employed in other role,Healthcare,2025-04-16,Synthetic scenario
+EF01099,L02243,2025-06-11,3,Employed in CHW role,Community nonprofit,2025-05-10,Synthetic scenario
+EF01100,L02243,2025-09-11,6,Employed in other role,Other,2025-04-29,Synthetic scenario
+EF01101,L02326,2025-06-10,3,Employed in CHW role,Government,2025-04-20,Synthetic scenario
+EF01102,L02326,2025-09-10,6,Employed in CHW role,Community nonprofit,2025-04-20,Synthetic scenario
+EF01103,L02348,2025-06-12,3,Employed in CHW role,Community nonprofit,2025-03-30,Synthetic scenario
+EF01104,L02348,2025-09-12,6,Employed in other role,Other,2025-06-14,Synthetic scenario
+EF01105,L02364,2025-06-13,3,Employed in other role,Other,2025-06-11,Synthetic scenario
+EF01106,L02403,2025-06-10,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01107,L02403,2025-09-10,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01108,L02404,2025-06-10,3,Employed in CHW role,Government,2025-05-28,Synthetic scenario
+EF01109,L00018,2025-08-26,3,Employed in CHW role,Healthcare,2025-07-19,Synthetic scenario
+EF01110,L00133,2025-09-01,3,Employed in CHW role,Government,2025-08-02,Synthetic scenario
+EF01111,L00146,2025-12-01,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01112,L00162,2025-11-26,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01113,L00301,2025-08-27,3,Employed in CHW role,Community nonprofit,2025-06-26,Synthetic scenario
+EF01114,L00301,2025-11-27,6,Employed in other role,Healthcare,2025-11-04,Synthetic scenario
+EF01115,L00316,2025-09-02,3,Employed in other role,Government,2025-07-18,Synthetic scenario
+EF01116,L00316,2025-12-02,6,Employed in CHW role,Community nonprofit,2025-11-20,Synthetic scenario
+EF01117,L00319,2025-09-03,3,Employed in CHW role,Community nonprofit,2025-07-29,Synthetic scenario
+EF01118,L00320,2025-08-27,3,Employed in CHW role,Healthcare,2025-06-16,Synthetic scenario
+EF01119,L00320,2025-11-27,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01120,L00379,2025-09-03,3,Employed in CHW role,Healthcare,2025-07-20,Synthetic scenario
+EF01121,L00387,2025-08-24,3,Employed in other role,Government,2025-07-15,Synthetic scenario
+EF01122,L00438,2025-08-23,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01123,L00438,2025-11-23,6,Employed in other role,Other,2025-06-10,Synthetic scenario
+EF01124,L00504,2025-08-23,3,Unknown,Unknown,,Synthetic scenario
+EF01125,L00630,2025-08-23,3,Employed in CHW role,Healthcare,2025-06-16,Synthetic scenario
+EF01126,L00630,2025-11-23,6,Employed in CHW role,Healthcare,2025-06-16,Synthetic scenario
+EF01127,L00732,2025-09-02,3,Employed in other role,Other,2025-07-09,Synthetic scenario
+EF01128,L00733,2025-08-26,3,Employed in CHW role,Healthcare,2025-06-05,Synthetic scenario
+EF01129,L00733,2025-11-26,6,Employed in CHW role,Community nonprofit,2025-06-05,Synthetic scenario
+EF01130,L00766,2025-08-29,3,Employed in other role,Community nonprofit,2025-08-12,Synthetic scenario
+EF01131,L00766,2025-11-29,6,Employed in CHW role,Government,2025-10-21,Synthetic scenario
+EF01132,L00796,2025-09-03,3,Employed in CHW role,Community nonprofit,2025-07-05,Synthetic scenario
+EF01133,L00796,2025-12-03,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01134,L00910,2025-11-26,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01135,L00911,2025-11-30,6,Employed in CHW role,Healthcare,2025-06-24,Synthetic scenario
+EF01136,L00960,2025-08-29,3,Employed in CHW role,Healthcare,2025-08-15,Synthetic scenario
+EF01137,L00960,2025-11-29,6,Employed in CHW role,Community nonprofit,2025-08-15,Synthetic scenario
+EF01138,L01003,2025-12-01,6,Employed in CHW role,Healthcare,2025-10-06,Synthetic scenario
+EF01139,L01006,2025-09-01,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01140,L01006,2025-12-01,6,Employed in CHW role,Healthcare,2025-10-06,Synthetic scenario
+EF01141,L01069,2025-09-02,3,Employed in other role,Other,2025-08-04,Synthetic scenario
+EF01142,L01069,2025-12-02,6,Not seeking work,Unknown,,Synthetic scenario
+EF01143,L01098,2025-08-27,3,Employed in other role,Other,2025-07-23,Synthetic scenario
+EF01144,L01170,2025-08-26,3,Employed in CHW role,Healthcare,2025-08-23,Synthetic scenario
+EF01145,L01170,2025-11-26,6,Employed in CHW role,Healthcare,2025-08-23,Synthetic scenario
+EF01146,L01232,2025-08-25,3,Employed in other role,Other,2025-07-25,Synthetic scenario
+EF01147,L01247,2025-08-24,3,Employed in CHW role,Community nonprofit,2025-06-16,Synthetic scenario
+EF01148,L01247,2025-11-24,6,Employed in CHW role,Healthcare,2025-06-16,Synthetic scenario
+EF01149,L01257,2025-09-04,3,Employed in CHW role,Community nonprofit,2025-07-05,Synthetic scenario
+EF01150,L01257,2025-12-04,6,Employed in CHW role,Other,2025-07-05,Synthetic scenario
+EF01151,L01275,2025-08-24,3,Employed in CHW role,Healthcare,2025-08-11,Synthetic scenario
+EF01152,L01423,2025-11-25,6,Employed in CHW role,Community nonprofit,2025-11-22,Synthetic scenario
+EF01153,L01475,2025-08-27,3,Employed in CHW role,Community nonprofit,2025-07-25,Synthetic scenario
+EF01154,L01509,2025-08-30,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01155,L01570,2025-08-26,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01156,L01604,2025-11-29,6,Employed in other role,Other,2025-10-21,Synthetic scenario
+EF01157,L01618,2025-09-03,3,Not seeking work,Unknown,,Synthetic scenario
+EF01158,L01618,2025-12-03,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01159,L01675,2025-08-23,3,Employed in other role,Healthcare,2025-08-07,Synthetic scenario
+EF01160,L01708,2025-08-26,3,Employed in CHW role,Healthcare,2025-06-26,Synthetic scenario
+EF01161,L01816,2025-08-25,3,Unknown,Unknown,,Synthetic scenario
+EF01162,L01816,2025-11-25,6,Employed in CHW role,Community nonprofit,2025-10-07,Synthetic scenario
+EF01163,L01885,2025-11-23,6,Employed in CHW role,Community nonprofit,2025-06-30,Synthetic scenario
+EF01164,L01907,2025-08-28,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01165,L01907,2025-11-28,6,Employed in other role,Other,2025-09-24,Synthetic scenario
+EF01166,L01921,2025-08-26,3,Employed in CHW role,Community nonprofit,2025-07-22,Synthetic scenario
+EF01167,L01933,2025-08-27,3,Employed in CHW role,Healthcare,2025-06-13,Synthetic scenario
+EF01168,L01941,2025-08-29,3,Employed in CHW role,Healthcare,2025-07-23,Synthetic scenario
+EF01169,L01948,2025-08-29,3,Unknown,Unknown,,Synthetic scenario
+EF01170,L01948,2025-11-29,6,Not seeking work,Unknown,,Synthetic scenario
+EF01171,L02043,2025-09-02,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01172,L02132,2025-09-01,3,Unknown,Unknown,,Synthetic scenario
+EF01173,L02147,2025-09-03,3,Employed in other role,Other,2025-07-12,Synthetic scenario
+EF01174,L02147,2025-12-03,6,Employed in CHW role,Healthcare,2025-08-10,Synthetic scenario
+EF01175,L02201,2025-12-02,6,Unknown,Unknown,,Synthetic scenario
+EF01176,L02233,2025-09-01,3,Employed in other role,Other,2025-06-18,Synthetic scenario
+EF01177,L02233,2025-12-01,6,Unknown,Unknown,,Synthetic scenario
+EF01178,L02288,2025-11-24,6,Employed in CHW role,Community nonprofit,2025-11-13,Synthetic scenario
+EF01179,L02337,2025-08-30,3,Employed in other role,Community nonprofit,2025-06-09,Synthetic scenario
+EF01180,L02337,2025-11-30,6,Employed in other role,Other,2025-10-21,Synthetic scenario
+EF01181,L02379,2025-09-03,3,Employed in other role,Other,2025-06-21,Synthetic scenario
+EF01182,L02379,2025-12-03,6,Employed in CHW role,Community nonprofit,2025-09-23,Synthetic scenario
+EF01183,L02402,2025-08-27,3,Employed in other role,Government,2025-06-29,Synthetic scenario
+EF01184,L02402,2025-11-27,6,Employed in CHW role,Healthcare,2025-08-30,Synthetic scenario
+EF01185,L02428,2025-08-24,3,Employed in other role,Healthcare,2025-08-16,Synthetic scenario
+EF01186,L02428,2025-11-24,6,Employed in other role,Healthcare,2025-09-04,Synthetic scenario
+EF01187,L00052,2025-08-27,3,Not seeking work,Unknown,,Synthetic scenario
+EF01188,L00052,2025-11-27,6,Employed in other role,Healthcare,2025-10-10,Synthetic scenario
+EF01189,L00067,2025-09-01,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01190,L00067,2025-12-01,6,Employed in CHW role,Healthcare,2025-11-28,Synthetic scenario
+EF01191,L00070,2025-11-26,6,Employed in CHW role,Healthcare,2025-11-03,Synthetic scenario
+EF01192,L00175,2025-08-31,3,Employed in CHW role,Community nonprofit,2025-08-30,Synthetic scenario
+EF01193,L00259,2025-09-06,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01194,L00281,2025-08-31,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01195,L00281,2025-11-30,6,Employed in CHW role,Community nonprofit,2025-10-31,Synthetic scenario
+EF01196,L00400,2025-09-04,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01197,L00400,2025-12-04,6,Not seeking work,Unknown,,Synthetic scenario
+EF01198,L00417,2025-08-26,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01199,L00417,2025-11-26,6,Employed in CHW role,Community nonprofit,2025-06-14,Synthetic scenario
+EF01200,L00515,2025-08-27,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01201,L00515,2025-11-27,6,Employed in other role,Healthcare,2025-06-11,Synthetic scenario
+EF01202,L00544,2025-08-30,3,Employed in CHW role,Community nonprofit,2025-07-03,Synthetic scenario
+EF01203,L00559,2025-11-29,6,Employed in CHW role,Community nonprofit,2025-07-18,Synthetic scenario
+EF01204,L00574,2025-08-27,3,Employed in other role,Healthcare,2025-08-20,Synthetic scenario
+EF01205,L00586,2025-09-01,3,Employed in other role,Healthcare,2025-06-18,Synthetic scenario
+EF01206,L00586,2025-12-01,6,Unknown,Unknown,,Synthetic scenario
+EF01207,L00698,2025-09-04,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01208,L00698,2025-12-04,6,Employed in CHW role,Community nonprofit,2025-07-13,Synthetic scenario
+EF01209,L00752,2025-08-25,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01210,L00752,2025-11-25,6,Employed in other role,Other,2025-09-28,Synthetic scenario
+EF01211,L00813,2025-09-03,3,Employed in CHW role,Community nonprofit,2025-08-30,Synthetic scenario
+EF01212,L00813,2025-12-03,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01213,L00857,2025-09-02,3,Employed in other role,Healthcare,2025-06-29,Synthetic scenario
+EF01214,L00921,2025-12-06,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01215,L00950,2025-11-27,6,Employed in CHW role,Healthcare,2025-07-29,Synthetic scenario
+EF01216,L01020,2025-08-25,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01217,L01047,2025-09-06,3,Employed in CHW role,Healthcare,2025-07-03,Synthetic scenario
+EF01218,L01049,2025-11-30,6,Employed in other role,Other,2025-08-03,Synthetic scenario
+EF01219,L01052,2025-08-27,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01220,L01254,2025-09-03,3,Employed in other role,Other,2025-08-09,Synthetic scenario
+EF01221,L01254,2025-12-03,6,Employed in CHW role,Healthcare,2025-10-09,Synthetic scenario
+EF01222,L01417,2025-08-28,3,Employed in other role,Government,2025-07-19,Synthetic scenario
+EF01223,L01510,2025-08-28,3,Employed in CHW role,Healthcare,2025-08-17,Synthetic scenario
+EF01224,L01510,2025-11-28,6,Employed in CHW role,Healthcare,2025-08-17,Synthetic scenario
+EF01225,L01607,2025-08-28,3,Employed in other role,Healthcare,2025-07-20,Synthetic scenario
+EF01226,L01607,2025-11-28,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01227,L01665,2025-08-29,3,Unknown,Unknown,,Synthetic scenario
+EF01228,L01665,2025-11-29,6,Employed in CHW role,Community nonprofit,2025-10-27,Synthetic scenario
+EF01229,L01860,2025-08-30,3,Employed in CHW role,Community nonprofit,2025-07-14,Synthetic scenario
+EF01230,L01863,2025-08-27,3,Employed in CHW role,Healthcare,2025-07-17,Synthetic scenario
+EF01231,L01863,2025-11-27,6,Employed in CHW role,Other,2025-07-17,Synthetic scenario
+EF01232,L01915,2025-09-04,3,Unknown,Unknown,,Synthetic scenario
+EF01233,L01971,2025-09-01,3,Not seeking work,Unknown,,Synthetic scenario
+EF01234,L01971,2025-12-01,6,Employed in CHW role,Healthcare,2025-10-17,Synthetic scenario
+EF01235,L02039,2025-09-03,3,Not seeking work,Unknown,,Synthetic scenario
+EF01236,L02039,2025-12-03,6,Employed in CHW role,Healthcare,2025-09-29,Synthetic scenario
+EF01237,L02044,2025-08-26,3,Employed in other role,Other,2025-08-25,Synthetic scenario
+EF01238,L02045,2025-09-05,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01239,L02045,2025-12-05,6,Employed in CHW role,Healthcare,2025-08-31,Synthetic scenario
+EF01240,L02062,2025-08-28,3,Employed in CHW role,Healthcare,2025-08-22,Synthetic scenario
+EF01241,L02090,2025-09-01,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01242,L02090,2025-12-01,6,Employed in CHW role,Healthcare,2025-11-25,Synthetic scenario
+EF01243,L02181,2025-08-28,3,Employed in CHW role,Healthcare,2025-08-20,Synthetic scenario
+EF01244,L02181,2025-11-28,6,Employed in CHW role,Healthcare,2025-08-20,Synthetic scenario
+EF01245,L02193,2025-08-27,3,Employed in other role,Healthcare,2025-07-21,Synthetic scenario
+EF01246,L02193,2025-11-27,6,Employed in CHW role,Community nonprofit,2025-10-16,Synthetic scenario
+EF01247,L02194,2025-08-25,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01248,L02194,2025-11-25,6,Employed in CHW role,Healthcare,2025-11-21,Synthetic scenario
+EF01249,L02199,2025-09-06,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01250,L02199,2025-12-06,6,Employed in CHW role,Community nonprofit,2025-11-23,Synthetic scenario
+EF01251,L02223,2025-09-06,3,Employed in CHW role,Healthcare,2025-07-24,Synthetic scenario
+EF01252,L02223,2025-12-06,6,Employed in other role,Government,2025-07-15,Synthetic scenario
+EF01253,L00063,2025-09-13,3,Employed in CHW role,Healthcare,2025-07-26,Synthetic scenario
+EF01254,L00063,2025-12-13,6,Employed in CHW role,Community nonprofit,2025-07-26,Synthetic scenario
+EF01255,L00085,2025-09-11,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01256,L00090,2026-08-26,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01257,L00101,2025-09-15,3,Employed in CHW role,Community nonprofit,2025-07-26,Synthetic scenario
+EF01258,L00166,2025-09-11,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01259,L00166,2025-12-11,6,Employed in other role,Other,2025-07-30,Synthetic scenario
+EF01260,L00205,2025-09-04,3,Employed in CHW role,Community nonprofit,2025-07-18,Synthetic scenario
+EF01261,L00209,2025-09-05,3,Not seeking work,Unknown,,Synthetic scenario
+EF01262,L00209,2025-12-05,6,Employed in CHW role,Healthcare,2025-09-13,Synthetic scenario
+EF01263,L00577,2025-09-04,3,Not seeking work,Unknown,,Synthetic scenario
+EF01264,L00577,2025-12-04,6,Not seeking work,Unknown,,Synthetic scenario
+EF01265,L00697,2025-09-07,3,Employed in other role,Other,2025-07-10,Synthetic scenario
+EF01266,L00697,2025-12-07,6,Unknown,Unknown,,Synthetic scenario
+EF01267,L00704,2025-09-07,3,Not seeking work,Unknown,,Synthetic scenario
+EF01268,L00723,2025-09-14,3,Employed in CHW role,Government,2025-08-02,Synthetic scenario
+EF01269,L00723,2025-12-14,6,Employed in CHW role,Community nonprofit,2025-08-02,Synthetic scenario
+EF01270,L00863,2025-12-11,6,Employed in CHW role,Healthcare,2025-09-17,Synthetic scenario
+EF01271,L00880,2025-09-14,3,Unknown,Unknown,,Synthetic scenario
+EF01272,L00880,2025-12-14,6,Employed in CHW role,Community nonprofit,2025-12-10,Synthetic scenario
+EF01273,L00917,2025-09-08,3,Employed in other role,Government,2025-06-19,Synthetic scenario
+EF01274,L00917,2025-12-08,6,Employed in CHW role,Healthcare,2025-10-14,Synthetic scenario
+EF01275,L01075,2025-09-04,3,Employed in CHW role,Community nonprofit,2025-06-16,Synthetic scenario
+EF01276,L01161,2025-09-06,3,Employed in other role,Healthcare,2025-07-22,Synthetic scenario
+EF01277,L01168,2025-09-16,3,Unknown,Unknown,,Synthetic scenario
+EF01278,L01176,2025-09-08,3,Employed in CHW role,Community nonprofit,2025-07-12,Synthetic scenario
+EF01279,L01196,2025-09-16,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01280,L01196,2025-12-16,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01281,L01242,2025-12-15,6,Employed in other role,Healthcare,2025-08-19,Synthetic scenario
+EF01282,L01465,2025-09-11,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01283,L01465,2025-12-11,6,Employed in CHW role,Other,2025-08-02,Synthetic scenario
+EF01284,L01504,2025-09-13,3,Employed in CHW role,Community nonprofit,2025-08-30,Synthetic scenario
+EF01285,L01504,2025-12-13,6,Employed in other role,Community nonprofit,2025-09-22,Synthetic scenario
+EF01286,L01580,2025-09-10,3,Employed in CHW role,Healthcare,2025-07-16,Synthetic scenario
+EF01287,L01580,2025-12-10,6,Employed in CHW role,Community nonprofit,2025-07-16,Synthetic scenario
+EF01288,L01589,2025-09-12,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01289,L01589,2025-12-12,6,Employed in CHW role,Healthcare,2025-11-10,Synthetic scenario
+EF01290,L01642,2025-09-05,3,Employed in CHW role,Healthcare,2025-06-16,Synthetic scenario
+EF01291,L01654,2025-12-07,6,Not seeking work,Unknown,,Synthetic scenario
+EF01292,L01660,2025-09-10,3,Employed in other role,Government,2025-07-16,Synthetic scenario
+EF01293,L01660,2025-12-10,6,Employed in CHW role,Healthcare,2025-07-28,Synthetic scenario
+EF01294,L01728,2025-09-12,3,Not seeking work,Unknown,,Synthetic scenario
+EF01295,L01728,2025-12-12,6,Employed in CHW role,Healthcare,2025-08-15,Synthetic scenario
+EF01296,L01851,2025-12-09,6,Employed in other role,Healthcare,2025-08-16,Synthetic scenario
+EF01297,L01875,2025-09-05,3,Employed in other role,Healthcare,2025-07-14,Synthetic scenario
+EF01298,L01934,2025-09-04,3,Employed in CHW role,Government,2025-07-18,Synthetic scenario
+EF01299,L01934,2025-12-04,6,Employed in CHW role,Healthcare,2025-07-18,Synthetic scenario
+EF01300,L01962,2025-09-11,3,Unknown,Unknown,,Synthetic scenario
+EF01301,L01962,2025-12-11,6,Employed in CHW role,Community nonprofit,2025-08-05,Synthetic scenario
+EF01302,L01982,2025-09-12,3,Employed in other role,Healthcare,2025-08-23,Synthetic scenario
+EF01303,L02046,2025-09-07,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01304,L02046,2025-12-07,6,Employed in CHW role,Healthcare,2025-08-13,Synthetic scenario
+EF01305,L02065,2025-09-13,3,Employed in other role,Other,2025-07-07,Synthetic scenario
+EF01306,L02175,2025-09-07,3,Employed in CHW role,Community nonprofit,2025-08-26,Synthetic scenario
+EF01307,L02175,2025-12-07,6,Employed in CHW role,Community nonprofit,2025-08-26,Synthetic scenario
+EF01308,L02195,2025-09-15,3,Employed in other role,Government,2025-08-01,Synthetic scenario
+EF01309,L02195,2025-12-15,6,Employed in CHW role,Healthcare,2025-11-15,Synthetic scenario
+EF01310,L02224,2025-09-13,3,Employed in CHW role,Community nonprofit,2025-07-14,Synthetic scenario
+EF01311,L02224,2025-12-13,6,Employed in CHW role,Healthcare,2025-07-14,Synthetic scenario
+EF01312,L02325,2025-09-05,3,Employed in other role,Community nonprofit,2025-06-18,Synthetic scenario
+EF01313,L02325,2025-12-05,6,Employed in CHW role,Healthcare,2025-06-25,Synthetic scenario
+EF01314,L02356,2025-09-14,3,Employed in CHW role,Healthcare,2025-09-04,Synthetic scenario
+EF01315,L00053,2026-02-24,6,Employed in other role,Healthcare,2025-09-25,Synthetic scenario
+EF01316,L00061,2025-12-03,3,Employed in CHW role,Community nonprofit,2025-10-05,Synthetic scenario
+EF01317,L00061,2026-03-03,6,Employed in CHW role,Government,2025-10-05,Synthetic scenario
+EF01318,L00102,2025-11-26,3,Employed in other role,Government,2025-11-22,Synthetic scenario
+EF01319,L00102,2026-02-26,6,Employed in CHW role,Healthcare,2025-10-08,Synthetic scenario
+EF01320,L00109,2025-12-02,3,Employed in CHW role,Healthcare,2025-11-20,Synthetic scenario
+EF01321,L00109,2026-03-02,6,Employed in CHW role,Other,2025-11-20,Synthetic scenario
+EF01322,L00183,2025-11-26,3,Employed in CHW role,Healthcare,2025-09-07,Synthetic scenario
+EF01323,L00183,2026-02-26,6,Employed in other role,Other,2026-02-23,Synthetic scenario
+EF01324,L00286,2025-11-23,3,Employed in CHW role,Community nonprofit,2025-09-15,Synthetic scenario
+EF01325,L00368,2025-11-29,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01326,L00511,2025-11-30,3,Employed in other role,Government,2025-10-08,Synthetic scenario
+EF01327,L00511,2026-02-28,6,Employed in CHW role,Healthcare,2026-02-18,Synthetic scenario
+EF01328,L00529,2025-12-01,3,Employed in CHW role,Healthcare,2025-10-05,Synthetic scenario
+EF01329,L00549,2025-11-28,3,Employed in other role,Other,2025-10-25,Synthetic scenario
+EF01330,L00643,2026-02-22,6,Employed in CHW role,Government,2026-02-09,Synthetic scenario
+EF01331,L00649,2025-12-02,3,Employed in CHW role,Government,2025-11-23,Synthetic scenario
+EF01332,L00649,2026-03-02,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01333,L00717,2026-02-28,6,Employed in CHW role,Healthcare,2026-02-20,Synthetic scenario
+EF01334,L00759,2025-12-03,3,Employed in other role,Other,2025-11-22,Synthetic scenario
+EF01335,L00759,2026-03-03,6,Employed in CHW role,Healthcare,2025-10-29,Synthetic scenario
+EF01336,L00783,2026-05-29,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01337,L00785,2025-12-02,3,Not seeking work,Unknown,,Synthetic scenario
+EF01338,L00785,2026-03-02,6,Employed in other role,Government,2025-12-23,Synthetic scenario
+EF01339,L00824,2025-12-02,3,Employed in other role,Other,2025-11-09,Synthetic scenario
+EF01340,L00824,2026-03-02,6,Employed in CHW role,Healthcare,2025-11-11,Synthetic scenario
+EF01341,L00826,2025-11-30,3,Employed in other role,Other,2025-11-23,Synthetic scenario
+EF01342,L00890,2025-12-03,3,Employed in CHW role,Other,2025-10-25,Synthetic scenario
+EF01343,L00890,2026-03-03,6,Employed in CHW role,Other,2025-10-25,Synthetic scenario
+EF01344,L00894,2025-12-02,3,Employed in other role,Government,2025-09-21,Synthetic scenario
+EF01345,L00920,2026-02-28,6,Employed in CHW role,Healthcare,2025-09-30,Synthetic scenario
+EF01346,L00958,2025-12-02,3,Employed in other role,Healthcare,2025-11-01,Synthetic scenario
+EF01347,L00958,2026-03-02,6,Employed in other role,Other,2026-02-19,Synthetic scenario
+EF01348,L00976,2025-11-24,3,Employed in CHW role,Government,2025-09-16,Synthetic scenario
+EF01349,L01000,2025-11-28,3,Employed in other role,Community nonprofit,2025-11-27,Synthetic scenario
+EF01350,L01033,2025-11-30,3,Employed in other role,Community nonprofit,2025-11-21,Synthetic scenario
+EF01351,L01033,2026-02-28,6,Not seeking work,Unknown,,Synthetic scenario
+EF01352,L01061,2025-12-02,3,Employed in other role,Healthcare,2025-11-21,Synthetic scenario
+EF01353,L01113,2025-11-28,3,Employed in other role,Government,2025-11-26,Synthetic scenario
+EF01354,L01113,2026-02-28,6,Employed in other role,Healthcare,2025-09-30,Synthetic scenario
+EF01355,L01147,2025-11-28,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01356,L01171,2025-11-30,3,Employed in other role,Other,2025-10-16,Synthetic scenario
+EF01357,L01171,2026-02-28,6,Employed in CHW role,Healthcare,2026-01-19,Synthetic scenario
+EF01358,L01212,2025-11-30,3,Employed in CHW role,Community nonprofit,2025-09-30,Synthetic scenario
+EF01359,L01212,2026-02-28,6,Employed in CHW role,Government,2025-09-30,Synthetic scenario
+EF01360,L01309,2025-12-01,3,Employed in CHW role,Community nonprofit,2025-09-20,Synthetic scenario
+EF01361,L01324,2025-11-24,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01362,L01340,2025-12-01,3,Employed in other role,Healthcare,2025-09-16,Synthetic scenario
+EF01363,L01340,2026-03-01,6,Employed in other role,Government,2025-09-28,Synthetic scenario
+EF01364,L01450,2025-11-26,3,Employed in other role,Healthcare,2025-09-10,Synthetic scenario
+EF01365,L01491,2025-11-28,3,Employed in CHW role,Healthcare,2025-11-07,Synthetic scenario
+EF01366,L01506,2026-03-02,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01367,L01631,2025-11-22,3,Employed in CHW role,Community nonprofit,2025-09-21,Synthetic scenario
+EF01368,L01664,2026-02-28,6,Employed in CHW role,Other,2025-12-15,Synthetic scenario
+EF01369,L01725,2025-11-25,3,Employed in CHW role,Community nonprofit,2025-09-17,Synthetic scenario
+EF01370,L01758,2025-11-25,3,Employed in CHW role,Healthcare,2025-10-28,Synthetic scenario
+EF01371,L01764,2025-11-30,3,Employed in other role,Healthcare,2025-11-10,Synthetic scenario
+EF01372,L01764,2026-02-28,6,Employed in other role,Healthcare,2025-10-08,Synthetic scenario
+EF01373,L01766,2025-11-29,3,Not seeking work,Unknown,,Synthetic scenario
+EF01374,L01766,2026-02-28,6,Employed in other role,Community nonprofit,2025-12-11,Synthetic scenario
+EF01375,L01913,2025-11-24,3,Employed in other role,Other,2025-10-12,Synthetic scenario
+EF01376,L01913,2026-02-24,6,Employed in CHW role,Community nonprofit,2026-01-01,Synthetic scenario
+EF01377,L02021,2025-11-28,3,Employed in other role,Government,2025-11-01,Synthetic scenario
+EF01378,L02228,2025-11-28,3,Employed in CHW role,Healthcare,2025-10-09,Synthetic scenario
+EF01379,L02271,2025-11-23,3,Employed in CHW role,Healthcare,2025-09-16,Synthetic scenario
+EF01380,L02271,2026-02-23,6,Employed in other role,Other,2025-11-21,Synthetic scenario
+EF01381,L02296,2025-11-30,3,Employed in CHW role,Healthcare,2025-10-15,Synthetic scenario
+EF01382,L02296,2026-02-28,6,Employed in CHW role,Healthcare,2025-10-15,Synthetic scenario
+EF01383,L02311,2025-12-01,3,Employed in other role,Healthcare,2025-10-14,Synthetic scenario
+EF01384,L02311,2026-03-01,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01385,L02331,2025-12-03,3,Employed in CHW role,Community nonprofit,2025-10-18,Synthetic scenario
+EF01386,L02331,2026-03-03,6,Employed in CHW role,Healthcare,2025-10-18,Synthetic scenario
+EF01387,L02349,2026-02-24,6,Employed in other role,Other,2025-09-03,Synthetic scenario
+EF01388,L02360,2025-11-24,3,Employed in CHW role,Healthcare,2025-09-12,Synthetic scenario
+EF01389,L02360,2026-02-24,6,Employed in CHW role,Government,2025-09-12,Synthetic scenario
+EF01390,L00074,2026-03-05,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01391,L00104,2025-11-28,3,Employed in other role,Community nonprofit,2025-11-19,Synthetic scenario
+EF01392,L00104,2026-02-28,6,Employed in CHW role,Community nonprofit,2025-11-14,Synthetic scenario
+EF01393,L00119,2025-11-30,3,Employed in other role,Healthcare,2025-10-03,Synthetic scenario
+EF01394,L00126,2026-02-28,6,Unknown,Unknown,,Synthetic scenario
+EF01395,L00170,2025-12-02,3,Employed in CHW role,Healthcare,2025-11-10,Synthetic scenario
+EF01396,L00170,2026-03-02,6,Employed in CHW role,Government,2025-11-10,Synthetic scenario
+EF01397,L00278,2026-02-25,6,Employed in CHW role,Healthcare,2025-11-30,Synthetic scenario
+EF01398,L00293,2025-12-04,3,Employed in other role,Other,2025-09-30,Synthetic scenario
+EF01399,L00293,2026-03-04,6,Employed in CHW role,Healthcare,2025-12-24,Synthetic scenario
+EF01400,L00343,2025-11-26,3,Employed in other role,Other,2025-09-20,Synthetic scenario
+EF01401,L00424,2025-12-03,3,Employed in other role,Healthcare,2025-11-12,Synthetic scenario
+EF01402,L00424,2026-03-03,6,Employed in other role,Other,2025-12-27,Synthetic scenario
+EF01403,L00447,2025-12-03,3,Unknown,Unknown,,Synthetic scenario
+EF01404,L00447,2026-03-03,6,Employed in CHW role,Healthcare,2025-10-29,Synthetic scenario
+EF01405,L00461,2025-11-25,3,Employed in other role,Other,2025-10-28,Synthetic scenario
+EF01406,L00461,2026-02-25,6,Employed in CHW role,Government,2025-12-27,Synthetic scenario
+EF01407,L00535,2025-11-27,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01408,L00535,2026-02-27,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01409,L00639,2025-12-03,3,Employed in CHW role,Healthcare,2025-10-06,Synthetic scenario
+EF01410,L00671,2026-03-01,6,Employed in CHW role,Healthcare,2026-01-22,Synthetic scenario
+EF01411,L00696,2025-12-02,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01412,L00696,2026-03-02,6,Employed in CHW role,Healthcare,2026-01-16,Synthetic scenario
+EF01413,L00708,2025-11-25,3,Employed in CHW role,Healthcare,2025-11-13,Synthetic scenario
+EF01414,L00708,2026-02-25,6,Employed in CHW role,Community nonprofit,2025-11-13,Synthetic scenario
+EF01415,L00778,2025-12-04,3,Employed in CHW role,Healthcare,2025-09-29,Synthetic scenario
+EF01416,L00778,2026-03-04,6,Employed in CHW role,Healthcare,2025-09-29,Synthetic scenario
+EF01417,L00819,2025-11-28,3,Employed in CHW role,Healthcare,2025-10-24,Synthetic scenario
+EF01418,L00819,2026-02-28,6,Employed in CHW role,Community nonprofit,2025-10-24,Synthetic scenario
+EF01419,L00908,2025-12-04,3,Employed in CHW role,Other,2025-11-23,Synthetic scenario
+EF01420,L00908,2026-03-04,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01421,L00949,2025-12-02,3,Employed in other role,Other,2025-09-13,Synthetic scenario
+EF01422,L01071,2026-02-28,6,Unknown,Unknown,,Synthetic scenario
+EF01423,L01089,2025-12-01,3,Employed in CHW role,Healthcare,2025-10-19,Synthetic scenario
+EF01424,L01089,2026-03-01,6,Employed in CHW role,Government,2025-10-19,Synthetic scenario
+EF01425,L01093,2025-12-01,3,Employed in CHW role,Government,2025-11-10,Synthetic scenario
+EF01426,L01155,2025-11-26,3,Employed in CHW role,Community nonprofit,2025-10-15,Synthetic scenario
+EF01427,L01155,2026-02-26,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01428,L01379,2025-11-29,3,Not seeking work,Unknown,,Synthetic scenario
+EF01429,L01379,2026-02-28,6,Employed in other role,Other,2025-09-12,Synthetic scenario
+EF01430,L01420,2025-12-01,3,Employed in CHW role,Healthcare,2025-10-01,Synthetic scenario
+EF01431,L01420,2026-03-01,6,Employed in other role,Healthcare,2025-09-30,Synthetic scenario
+EF01432,L01495,2025-11-29,3,Employed in CHW role,Government,2025-10-24,Synthetic scenario
+EF01433,L01538,2026-02-28,6,Unknown,Unknown,,Synthetic scenario
+EF01434,L01697,2026-03-03,6,Employed in CHW role,Healthcare,2025-10-14,Synthetic scenario
+EF01435,L01702,2025-12-02,3,Employed in other role,Community nonprofit,2025-10-22,Synthetic scenario
+EF01436,L01702,2026-03-02,6,Employed in other role,Government,2026-01-25,Synthetic scenario
+EF01437,L01723,2025-11-26,3,Employed in CHW role,Healthcare,2025-11-12,Synthetic scenario
+EF01438,L01723,2026-02-26,6,Employed in CHW role,Other,2025-11-12,Synthetic scenario
+EF01439,L01763,2025-12-05,3,Employed in CHW role,Healthcare,2025-10-27,Synthetic scenario
+EF01440,L01796,2025-12-03,3,Employed in other role,Other,2025-09-27,Synthetic scenario
+EF01441,L01796,2026-03-03,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01442,L01810,2025-11-24,3,Not seeking work,Unknown,,Synthetic scenario
+EF01443,L01838,2025-12-01,3,Employed in CHW role,Healthcare,2025-10-29,Synthetic scenario
+EF01444,L01838,2026-03-01,6,Employed in CHW role,Healthcare,2025-10-29,Synthetic scenario
+EF01445,L01877,2025-11-26,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01446,L01894,2025-11-24,3,Employed in CHW role,Healthcare,2025-11-13,Synthetic scenario
+EF01447,L01894,2026-02-24,6,Employed in CHW role,Healthcare,2025-11-13,Synthetic scenario
+EF01448,L01956,2025-11-29,3,Employed in CHW role,Healthcare,2025-09-25,Synthetic scenario
+EF01449,L02188,2025-11-25,3,Unknown,Unknown,,Synthetic scenario
+EF01450,L02188,2026-02-25,6,Employed in CHW role,Community nonprofit,2025-11-22,Synthetic scenario
+EF01451,L00072,2025-12-06,3,Employed in CHW role,Healthcare,2025-10-14,Synthetic scenario
+EF01452,L00072,2026-03-06,6,Employed in other role,Other,2026-01-06,Synthetic scenario
+EF01453,L00199,2025-12-15,3,Unknown,Unknown,,Synthetic scenario
+EF01454,L00199,2026-03-15,6,Employed in CHW role,Community nonprofit,2026-02-11,Synthetic scenario
+EF01455,L00221,2025-12-06,3,Employed in other role,Healthcare,2025-12-05,Synthetic scenario
+EF01456,L00221,2026-03-06,6,Unknown,Unknown,,Synthetic scenario
+EF01457,L00252,2025-12-05,3,Employed in other role,Community nonprofit,2025-10-13,Synthetic scenario
+EF01458,L00252,2026-03-05,6,Employed in CHW role,Community nonprofit,2025-11-30,Synthetic scenario
+EF01459,L00272,2025-12-08,3,Employed in other role,Healthcare,2025-11-09,Synthetic scenario
+EF01460,L00272,2026-03-08,6,Employed in other role,Healthcare,2026-01-13,Synthetic scenario
+EF01461,L00303,2026-03-05,6,Employed in other role,Healthcare,2025-11-09,Synthetic scenario
+EF01462,L00329,2025-12-03,3,Employed in other role,Community nonprofit,2025-10-06,Synthetic scenario
+EF01463,L00329,2026-03-03,6,Employed in CHW role,Government,2025-11-04,Synthetic scenario
+EF01464,L00367,2025-12-10,3,Employed in CHW role,Government,2025-10-03,Synthetic scenario
+EF01465,L00367,2026-03-10,6,Employed in CHW role,Community nonprofit,2025-10-03,Synthetic scenario
+EF01466,L00402,2025-12-14,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01467,L00407,2025-12-05,3,Employed in CHW role,Community nonprofit,2025-11-06,Synthetic scenario
+EF01468,L00407,2026-03-05,6,Employed in other role,Community nonprofit,2025-09-28,Synthetic scenario
+EF01469,L00542,2025-12-14,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01470,L00585,2025-12-06,3,Employed in CHW role,Healthcare,2025-10-29,Synthetic scenario
+EF01471,L00694,2025-12-13,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01472,L00694,2026-03-13,6,Employed in CHW role,Government,2025-12-05,Synthetic scenario
+EF01473,L00786,2025-12-10,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01474,L00786,2026-03-10,6,Employed in other role,Healthcare,2026-02-12,Synthetic scenario
+EF01475,L00856,2025-12-05,3,Employed in CHW role,Healthcare,2025-10-20,Synthetic scenario
+EF01476,L00961,2025-12-12,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01477,L00961,2026-03-12,6,Employed in CHW role,Healthcare,2025-12-01,Synthetic scenario
+EF01478,L01022,2025-12-09,3,Employed in other role,Healthcare,2025-11-02,Synthetic scenario
+EF01479,L01177,2025-12-05,3,Employed in other role,Other,2025-09-20,Synthetic scenario
+EF01480,L01248,2025-12-06,3,Employed in other role,Community nonprofit,2025-11-18,Synthetic scenario
+EF01481,L01248,2026-03-06,6,Employed in other role,Community nonprofit,2026-01-12,Synthetic scenario
+EF01482,L01264,2025-12-08,3,Employed in CHW role,Healthcare,2025-10-22,Synthetic scenario
+EF01483,L01264,2026-03-08,6,Employed in other role,Government,2025-11-24,Synthetic scenario
+EF01484,L01468,2025-12-09,3,Unknown,Unknown,,Synthetic scenario
+EF01485,L01468,2026-03-09,6,Employed in CHW role,Community nonprofit,2026-02-18,Synthetic scenario
+EF01486,L01489,2025-12-12,3,Not seeking work,Unknown,,Synthetic scenario
+EF01487,L01539,2025-12-12,3,Employed in other role,Community nonprofit,2025-11-03,Synthetic scenario
+EF01488,L01539,2026-03-12,6,Employed in other role,Other,2025-12-22,Synthetic scenario
+EF01489,L01594,2025-12-11,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01490,L01594,2026-03-11,6,Employed in other role,Community nonprofit,2026-02-20,Synthetic scenario
+EF01491,L01599,2025-12-09,3,Employed in CHW role,Healthcare,2025-09-22,Synthetic scenario
+EF01492,L01616,2026-03-12,6,Employed in other role,Community nonprofit,2026-01-25,Synthetic scenario
+EF01493,L01627,2025-12-12,3,Employed in CHW role,Healthcare,2025-11-11,Synthetic scenario
+EF01494,L01769,2025-12-05,3,Employed in CHW role,Healthcare,2025-11-07,Synthetic scenario
+EF01495,L01902,2025-12-10,3,Employed in other role,Other,2025-10-13,Synthetic scenario
+EF01496,L01970,2025-12-10,3,Employed in CHW role,Healthcare,2025-10-17,Synthetic scenario
+EF01497,L02020,2025-12-06,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01498,L02020,2026-03-06,6,Employed in CHW role,Healthcare,2025-10-29,Synthetic scenario
+EF01499,L02055,2025-12-13,3,Not seeking work,Unknown,,Synthetic scenario
+EF01500,L02104,2025-12-08,3,Employed in other role,Other,2025-12-02,Synthetic scenario
+EF01501,L02104,2026-03-08,6,Employed in other role,Community nonprofit,2025-11-25,Synthetic scenario
+EF01502,L02153,2025-12-11,3,Employed in other role,Healthcare,2025-11-19,Synthetic scenario
+EF01503,L02153,2026-03-11,6,Employed in CHW role,Community nonprofit,2025-10-11,Synthetic scenario
+EF01504,L02154,2025-12-13,3,Employed in CHW role,Healthcare,2025-12-09,Synthetic scenario
+EF01505,L02154,2026-03-13,6,Employed in CHW role,Community nonprofit,2025-12-09,Synthetic scenario
+EF01506,L02209,2025-12-15,3,Not seeking work,Unknown,,Synthetic scenario
+EF01507,L02209,2026-03-15,6,Employed in CHW role,Government,2025-10-05,Synthetic scenario
+EF01508,L02226,2025-12-11,3,Employed in other role,Other,2025-11-28,Synthetic scenario
+EF01509,L02226,2026-03-11,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01510,L02291,2025-12-07,3,Employed in other role,Other,2025-10-09,Synthetic scenario
+EF01511,L02291,2026-03-07,6,Employed in CHW role,Government,2025-11-06,Synthetic scenario
+EF01512,L02308,2025-12-10,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01513,L02308,2026-03-10,6,Unknown,Unknown,,Synthetic scenario
+EF01514,L02358,2025-12-03,3,Employed in other role,Other,2025-09-16,Synthetic scenario
+EF01515,L02389,2025-12-09,3,Employed in CHW role,Healthcare,2025-10-23,Synthetic scenario
+EF01516,L00151,2026-02-23,3,Employed in CHW role,Community nonprofit,2026-02-10,Synthetic scenario
+EF01517,L00211,2026-02-27,3,Employed in CHW role,Community nonprofit,2026-01-31,Synthetic scenario
+EF01518,L00211,2026-05-27,6,Employed in CHW role,Healthcare,2026-01-31,Synthetic scenario
+EF01519,L00249,2026-02-26,3,Employed in other role,Other,2026-02-20,Synthetic scenario
+EF01520,L00249,2026-05-26,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01521,L00276,2026-02-27,3,Employed in CHW role,Healthcare,2026-01-01,Synthetic scenario
+EF01522,L00276,2026-05-27,6,Employed in other role,Community nonprofit,2026-04-29,Synthetic scenario
+EF01523,L00334,2026-03-03,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01524,L00361,2026-02-25,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01525,L00361,2026-05-25,6,Not seeking work,Unknown,,Synthetic scenario
+EF01526,L00389,2026-02-23,3,Employed in other role,Other,2026-02-22,Synthetic scenario
+EF01527,L00389,2026-05-23,6,Employed in other role,Other,2025-12-12,Synthetic scenario
+EF01528,L00397,2026-05-26,6,Employed in CHW role,Healthcare,2025-12-18,Synthetic scenario
+EF01529,L00404,2026-02-25,3,Employed in CHW role,Community nonprofit,2026-02-21,Synthetic scenario
+EF01530,L00404,2026-05-25,6,Employed in CHW role,Government,2026-02-21,Synthetic scenario
+EF01531,L00434,2026-02-24,3,Employed in CHW role,Healthcare,2025-12-05,Synthetic scenario
+EF01532,L00434,2026-05-24,6,Employed in CHW role,Healthcare,2025-12-05,Synthetic scenario
+EF01533,L00495,2026-05-26,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01534,L00550,2026-03-04,3,Employed in other role,Government,2026-02-27,Synthetic scenario
+EF01535,L00568,2026-03-02,3,Employed in other role,Community nonprofit,2026-02-27,Synthetic scenario
+EF01536,L00570,2026-06-01,6,Employed in other role,Other,2026-01-10,Synthetic scenario
+EF01537,L00610,2026-02-25,3,Employed in other role,Other,2026-02-18,Synthetic scenario
+EF01538,L00612,2026-03-03,3,Employed in CHW role,Healthcare,2026-01-24,Synthetic scenario
+EF01539,L00612,2026-06-03,6,Employed in other role,Healthcare,2025-12-25,Synthetic scenario
+EF01540,L00615,2026-05-30,6,Employed in other role,Other,2026-02-20,Synthetic scenario
+EF01541,L00628,2026-03-03,3,Employed in CHW role,Community nonprofit,2025-12-23,Synthetic scenario
+EF01542,L00628,2026-06-03,6,Employed in CHW role,Healthcare,2025-12-23,Synthetic scenario
+EF01543,L00653,2026-03-02,3,Employed in CHW role,Community nonprofit,2026-01-13,Synthetic scenario
+EF01544,L00750,2026-02-28,3,Employed in CHW role,Community nonprofit,2025-12-20,Synthetic scenario
+EF01545,L00750,2026-05-29,6,Employed in CHW role,Healthcare,2025-12-20,Synthetic scenario
+EF01546,L00861,2026-05-29,6,Employed in other role,Healthcare,2026-05-20,Synthetic scenario
+EF01547,L00931,2026-02-24,3,Employed in CHW role,Healthcare,2025-12-30,Synthetic scenario
+EF01548,L00933,2026-02-26,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01549,L00933,2026-05-26,6,Employed in CHW role,Government,2025-12-07,Synthetic scenario
+EF01550,L01058,2026-06-02,6,Employed in CHW role,Community nonprofit,2026-03-06,Synthetic scenario
+EF01551,L01104,2026-03-04,3,Employed in CHW role,Other,2026-01-22,Synthetic scenario
+EF01552,L01104,2026-06-04,6,Employed in CHW role,Healthcare,2026-01-22,Synthetic scenario
+EF01553,L01105,2026-03-03,3,Employed in other role,Healthcare,2026-02-16,Synthetic scenario
+EF01554,L01105,2026-06-03,6,Employed in CHW role,Community nonprofit,2026-03-29,Synthetic scenario
+EF01555,L01125,2026-02-28,3,Employed in other role,Government,2025-12-30,Synthetic scenario
+EF01556,L01125,2026-05-30,6,Employed in CHW role,Healthcare,2026-05-21,Synthetic scenario
+EF01557,L01187,2026-02-24,3,Employed in other role,Government,2026-01-16,Synthetic scenario
+EF01558,L01209,2026-02-24,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01559,L01209,2026-05-24,6,Employed in CHW role,Community nonprofit,2025-12-15,Synthetic scenario
+EF01560,L01303,2026-02-27,3,Employed in CHW role,Community nonprofit,2026-01-28,Synthetic scenario
+EF01561,L01303,2026-05-27,6,Employed in CHW role,Healthcare,2026-01-28,Synthetic scenario
+EF01562,L01315,2026-03-02,3,Employed in other role,Other,2026-01-22,Synthetic scenario
+EF01563,L01315,2026-06-02,6,Employed in CHW role,Healthcare,2026-01-31,Synthetic scenario
+EF01564,L01373,2026-06-02,6,Employed in CHW role,Healthcare,2026-02-14,Synthetic scenario
+EF01565,L01385,2026-06-09,3,Employed in CHW role,Healthcare,2026-04-28,Synthetic scenario
+EF01566,L01385,2026-09-09,6,Employed in CHW role,Government,2026-04-28,Synthetic scenario
+EF01567,L01390,2026-03-04,3,Employed in CHW role,Healthcare,2026-02-17,Synthetic scenario
+EF01568,L01390,2026-06-04,6,Employed in CHW role,Government,2026-02-17,Synthetic scenario
+EF01569,L01392,2026-02-28,3,Employed in other role,Healthcare,2026-01-11,Synthetic scenario
+EF01570,L01392,2026-05-28,6,Employed in CHW role,Healthcare,2026-03-31,Synthetic scenario
+EF01571,L01402,2026-06-04,6,Not seeking work,Unknown,,Synthetic scenario
+EF01572,L01410,2026-03-03,3,Employed in CHW role,Community nonprofit,2026-02-18,Synthetic scenario
+EF01573,L01410,2026-06-03,6,Employed in CHW role,Community nonprofit,2026-02-18,Synthetic scenario
+EF01574,L01431,2026-02-26,3,Employed in CHW role,Healthcare,2026-02-04,Synthetic scenario
+EF01575,L01536,2026-02-27,3,Employed in CHW role,Community nonprofit,2026-01-10,Synthetic scenario
+EF01576,L01536,2026-05-27,6,Employed in CHW role,Healthcare,2026-01-10,Synthetic scenario
+EF01577,L01625,2026-02-28,3,Employed in other role,Other,2025-12-13,Synthetic scenario
+EF01578,L01625,2026-05-29,6,Employed in other role,Other,2026-02-19,Synthetic scenario
+EF01579,L01682,2026-02-27,3,Employed in CHW role,Community nonprofit,2026-01-06,Synthetic scenario
+EF01580,L01682,2026-05-27,6,Employed in CHW role,Healthcare,2026-01-06,Synthetic scenario
+EF01581,L01773,2026-05-26,6,Employed in CHW role,Community nonprofit,2026-02-15,Synthetic scenario
+EF01582,L01784,2026-02-24,3,Employed in CHW role,Community nonprofit,2025-12-08,Synthetic scenario
+EF01583,L01784,2026-05-24,6,Employed in CHW role,Government,2025-12-08,Synthetic scenario
+EF01584,L01818,2026-06-02,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01585,L01864,2026-03-03,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01586,L01901,2026-03-03,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01587,L01901,2026-06-03,6,Employed in CHW role,Healthcare,2026-03-17,Synthetic scenario
+EF01588,L01919,2026-02-24,3,Employed in CHW role,Healthcare,2026-02-24,Synthetic scenario
+EF01589,L01990,2026-02-24,3,Employed in CHW role,Other,2026-02-09,Synthetic scenario
+EF01590,L01990,2026-05-24,6,Unknown,Unknown,,Synthetic scenario
+EF01591,L01995,2026-05-26,6,Employed in CHW role,Healthcare,2026-01-12,Synthetic scenario
+EF01592,L02033,2026-02-25,3,Employed in other role,Other,2025-12-29,Synthetic scenario
+EF01593,L02101,2026-02-28,3,Employed in CHW role,Healthcare,2026-01-30,Synthetic scenario
+EF01594,L02103,2026-02-27,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01595,L02121,2026-03-02,3,Employed in CHW role,Community nonprofit,2026-01-28,Synthetic scenario
+EF01596,L02121,2026-06-02,6,Employed in CHW role,Government,2026-01-28,Synthetic scenario
+EF01597,L02126,2026-03-01,3,Not seeking work,Unknown,,Synthetic scenario
+EF01598,L02126,2026-06-01,6,Employed in other role,Other,2025-12-29,Synthetic scenario
+EF01599,L02395,2026-02-27,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01600,L02395,2026-05-27,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01601,L00014,2026-02-24,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01602,L00014,2026-05-24,6,Employed in CHW role,Community nonprofit,2026-02-12,Synthetic scenario
+EF01603,L00015,2026-02-28,3,Employed in CHW role,Healthcare,2026-01-31,Synthetic scenario
+EF01604,L00015,2026-05-28,6,Employed in CHW role,Healthcare,2026-01-31,Synthetic scenario
+EF01605,L00057,2026-06-06,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01606,L00190,2026-02-25,3,Employed in CHW role,Government,2026-01-16,Synthetic scenario
+EF01607,L00202,2026-02-25,3,Employed in CHW role,Community nonprofit,2026-02-09,Synthetic scenario
+EF01608,L00202,2026-05-25,6,Employed in other role,Other,2026-01-16,Synthetic scenario
+EF01609,L00228,2026-02-26,3,Employed in CHW role,Other,2025-12-06,Synthetic scenario
+EF01610,L00228,2026-05-26,6,Not seeking work,Unknown,,Synthetic scenario
+EF01611,L00266,2026-05-27,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01612,L00378,2026-05-24,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01613,L00420,2026-05-27,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01614,L00473,2026-08-28,3,Employed in other role,Other,2026-08-21,Synthetic scenario
+EF01615,L00483,2026-05-29,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01616,L00493,2026-06-11,3,Employed in CHW role,Healthcare,2026-05-20,Synthetic scenario
+EF01617,L00493,2026-09-11,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01618,L00514,2026-03-03,3,Unknown,Unknown,,Synthetic scenario
+EF01619,L00514,2026-06-03,6,Employed in CHW role,Community nonprofit,2026-03-06,Synthetic scenario
+EF01620,L00525,2026-02-28,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01621,L00525,2026-05-28,6,Employed in CHW role,Other,2025-12-08,Synthetic scenario
+EF01622,L00543,2026-02-24,3,Employed in other role,Community nonprofit,2026-01-25,Synthetic scenario
+EF01623,L00557,2026-06-01,3,Employed in other role,Healthcare,2026-04-25,Synthetic scenario
+EF01624,L00557,2026-09-01,6,Unknown,Unknown,,Synthetic scenario
+EF01625,L00584,2026-03-06,3,Employed in CHW role,Government,2026-03-02,Synthetic scenario
+EF01626,L00584,2026-06-06,6,Employed in CHW role,Healthcare,2026-03-02,Synthetic scenario
+EF01627,L00668,2026-06-09,6,Unknown,Unknown,,Synthetic scenario
+EF01628,L00673,2026-05-25,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01629,L00699,2026-06-05,6,Employed in CHW role,Healthcare,2026-04-23,Synthetic scenario
+EF01630,L00713,2026-02-26,3,Employed in CHW role,Healthcare,2025-12-21,Synthetic scenario
+EF01631,L00713,2026-05-26,6,Employed in CHW role,Community nonprofit,2025-12-21,Synthetic scenario
+EF01632,L00744,2026-03-06,3,Employed in other role,Other,2025-12-23,Synthetic scenario
+EF01633,L00753,2026-03-03,3,Employed in other role,Healthcare,2025-12-17,Synthetic scenario
+EF01634,L00822,2026-03-03,3,Employed in CHW role,Healthcare,2026-01-05,Synthetic scenario
+EF01635,L00841,2026-02-28,3,Employed in other role,Other,2026-02-16,Synthetic scenario
+EF01636,L00841,2026-05-28,6,Employed in CHW role,Healthcare,2026-02-20,Synthetic scenario
+EF01637,L00860,2026-03-06,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01638,L00860,2026-06-06,6,Employed in CHW role,Healthcare,2025-12-28,Synthetic scenario
+EF01639,L00906,2026-03-06,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01640,L00906,2026-06-06,6,Employed in CHW role,Healthcare,2026-02-05,Synthetic scenario
+EF01641,L00967,2026-05-24,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01642,L01119,2026-02-24,3,Employed in CHW role,Healthcare,2026-02-02,Synthetic scenario
+EF01643,L01184,2026-05-24,6,Employed in CHW role,Healthcare,2026-04-28,Synthetic scenario
+EF01644,L01269,2026-06-04,6,Employed in other role,Healthcare,2026-03-28,Synthetic scenario
+EF01645,L01301,2026-03-05,3,Employed in CHW role,Government,2025-12-21,Synthetic scenario
+EF01646,L01507,2026-03-02,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01647,L01517,2026-03-02,3,Employed in other role,Other,2025-12-23,Synthetic scenario
+EF01648,L01517,2026-06-02,6,Employed in other role,Other,2025-12-12,Synthetic scenario
+EF01649,L01555,2026-03-06,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01650,L01555,2026-06-06,6,Employed in other role,Other,2026-02-20,Synthetic scenario
+EF01651,L01569,2026-05-26,6,Employed in CHW role,Community nonprofit,2026-02-19,Synthetic scenario
+EF01652,L01583,2026-02-28,3,Employed in CHW role,Healthcare,2025-12-26,Synthetic scenario
+EF01653,L01756,2026-06-05,6,Employed in CHW role,Healthcare,2026-01-05,Synthetic scenario
+EF01654,L01814,2026-02-28,3,Employed in CHW role,Healthcare,2025-12-10,Synthetic scenario
+EF01655,L01814,2026-05-29,6,Employed in CHW role,Community nonprofit,2025-12-10,Synthetic scenario
+EF01656,L01880,2026-02-26,3,Employed in other role,Other,2025-12-30,Synthetic scenario
+EF01657,L01880,2026-05-26,6,Employed in other role,Community nonprofit,2026-02-15,Synthetic scenario
+EF01658,L01893,2026-03-01,3,Employed in CHW role,Government,2025-12-14,Synthetic scenario
+EF01659,L01893,2026-06-01,6,Employed in CHW role,Community nonprofit,2025-12-14,Synthetic scenario
+EF01660,L01939,2026-03-06,3,Employed in other role,Other,2026-03-05,Synthetic scenario
+EF01661,L01939,2026-06-06,6,Employed in CHW role,Government,2026-02-05,Synthetic scenario
+EF01662,L01945,2026-03-05,3,Employed in other role,Healthcare,2026-02-04,Synthetic scenario
+EF01663,L01945,2026-06-05,6,Employed in other role,Government,2026-04-21,Synthetic scenario
+EF01664,L02032,2026-05-26,6,Employed in other role,Government,2026-03-05,Synthetic scenario
+EF01665,L02069,2026-03-02,3,Employed in CHW role,Community nonprofit,2026-01-24,Synthetic scenario
+EF01666,L02069,2026-06-02,6,Unknown,Unknown,,Synthetic scenario
+EF01667,L02146,2026-03-03,3,Employed in CHW role,Healthcare,2026-02-27,Synthetic scenario
+EF01668,L02150,2026-06-02,6,Employed in CHW role,Healthcare,2026-03-21,Synthetic scenario
+EF01669,L02170,2026-03-02,3,Employed in CHW role,Community nonprofit,2026-01-22,Synthetic scenario
+EF01670,L02170,2026-06-02,6,Employed in CHW role,Healthcare,2026-01-22,Synthetic scenario
+EF01671,L02217,2026-02-27,3,Employed in CHW role,Community nonprofit,2025-12-07,Synthetic scenario
+EF01672,L02217,2026-05-27,6,Employed in CHW role,Healthcare,2025-12-07,Synthetic scenario
+EF01673,L02236,2026-06-04,3,Employed in other role,Other,2026-06-04,Synthetic scenario
+EF01674,L02248,2026-02-24,3,Employed in CHW role,Healthcare,2025-12-24,Synthetic scenario
+EF01675,L02248,2026-05-24,6,Employed in CHW role,Other,2025-12-24,Synthetic scenario
+EF01676,L02260,2026-03-05,3,Employed in other role,Government,2026-01-10,Synthetic scenario
+EF01677,L02260,2026-06-05,6,Employed in CHW role,Community nonprofit,2026-01-27,Synthetic scenario
+EF01678,L02298,2026-03-01,3,Employed in CHW role,Community nonprofit,2026-02-25,Synthetic scenario
+EF01679,L02361,2026-05-26,6,Employed in CHW role,Community nonprofit,2026-02-20,Synthetic scenario
+EF01680,L02419,2026-02-26,3,Employed in other role,Other,2025-12-14,Synthetic scenario
+EF01681,L00077,2026-03-16,3,Employed in CHW role,Healthcare,2026-01-25,Synthetic scenario
+EF01682,L00081,2026-03-14,3,Employed in CHW role,Healthcare,2026-02-05,Synthetic scenario
+EF01683,L00081,2026-06-14,6,Employed in CHW role,Healthcare,2026-02-05,Synthetic scenario
+EF01684,L00114,2026-03-11,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01685,L00114,2026-06-11,6,Employed in CHW role,Government,2026-01-29,Synthetic scenario
+EF01686,L00135,2026-03-09,3,Employed in CHW role,Healthcare,2026-02-04,Synthetic scenario
+EF01687,L00135,2026-06-09,6,Employed in CHW role,Healthcare,2026-02-04,Synthetic scenario
+EF01688,L00306,2026-03-08,3,Employed in other role,Healthcare,2026-01-03,Synthetic scenario
+EF01689,L00306,2026-06-08,6,Employed in CHW role,Other,2026-04-15,Synthetic scenario
+EF01690,L00317,2026-06-05,6,Not seeking work,Unknown,,Synthetic scenario
+EF01691,L00709,2026-03-16,3,Employed in CHW role,Healthcare,2026-01-19,Synthetic scenario
+EF01692,L00709,2026-06-16,6,Employed in CHW role,Government,2026-01-19,Synthetic scenario
+EF01693,L00758,2026-03-15,3,Employed in CHW role,Government,2026-01-09,Synthetic scenario
+EF01694,L00758,2026-06-15,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01695,L00874,2026-03-09,3,Employed in CHW role,Government,2026-01-06,Synthetic scenario
+EF01696,L00874,2026-06-09,6,Unknown,Unknown,,Synthetic scenario
+EF01697,L00998,2026-03-09,3,Employed in other role,Other,2025-12-28,Synthetic scenario
+EF01698,L00998,2026-06-09,6,Employed in other role,Other,2026-03-08,Synthetic scenario
+EF01699,L01002,2026-03-05,3,Employed in CHW role,Healthcare,2026-02-16,Synthetic scenario
+EF01700,L01002,2026-06-05,6,Employed in CHW role,Government,2026-02-16,Synthetic scenario
+EF01701,L01016,2026-03-06,3,Unknown,Unknown,,Synthetic scenario
+EF01702,L01016,2026-06-06,6,Employed in CHW role,Healthcare,2026-01-31,Synthetic scenario
+EF01703,L01081,2026-03-06,3,Employed in CHW role,Community nonprofit,2025-12-26,Synthetic scenario
+EF01704,L01244,2026-03-05,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01705,L01388,2026-03-08,3,Employed in other role,Healthcare,2026-01-27,Synthetic scenario
+EF01706,L01389,2026-06-05,6,Employed in CHW role,Healthcare,2026-05-25,Synthetic scenario
+EF01707,L01474,2026-03-07,3,Employed in other role,Community nonprofit,2026-01-05,Synthetic scenario
+EF01708,L01544,2026-03-16,3,Employed in CHW role,Community nonprofit,2026-03-03,Synthetic scenario
+EF01709,L01683,2026-03-11,3,Employed in CHW role,Community nonprofit,2026-02-11,Synthetic scenario
+EF01710,L01778,2026-03-06,3,Employed in CHW role,Healthcare,2026-01-05,Synthetic scenario
+EF01711,L01857,2026-03-14,3,Employed in other role,Healthcare,2026-01-11,Synthetic scenario
+EF01712,L01857,2026-06-14,6,Employed in other role,Other,2026-02-03,Synthetic scenario
+EF01713,L01958,2026-03-06,3,Unknown,Unknown,,Synthetic scenario
+EF01714,L01967,2026-03-04,3,Employed in CHW role,Healthcare,2025-12-29,Synthetic scenario
+EF01715,L01967,2026-06-04,6,Employed in CHW role,Government,2025-12-29,Synthetic scenario
+EF01716,L01997,2026-03-10,3,Employed in CHW role,Community nonprofit,2026-03-03,Synthetic scenario
+EF01717,L02093,2026-03-10,3,Employed in CHW role,Healthcare,2026-03-09,Synthetic scenario
+EF01718,L02093,2026-06-10,6,Employed in CHW role,Community nonprofit,2026-03-09,Synthetic scenario
+EF01719,L02122,2026-03-07,3,Employed in CHW role,Healthcare,2026-01-21,Synthetic scenario
+EF01720,L02122,2026-06-07,6,Employed in CHW role,Government,2026-01-21,Synthetic scenario
+EF01721,L02156,2026-03-16,3,Employed in CHW role,Healthcare,2026-01-25,Synthetic scenario
+EF01722,L02225,2026-03-11,3,Unknown,Unknown,,Synthetic scenario
+EF01723,L02225,2026-06-11,6,Employed in other role,Healthcare,2026-05-07,Synthetic scenario
+EF01724,L02366,2026-06-16,6,Employed in other role,Healthcare,2026-03-18,Synthetic scenario
+EF01725,L02431,2026-03-13,3,Not seeking work,Unknown,,Synthetic scenario
+EF01726,L02444,2026-03-13,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01727,L00076,2026-08-22,6,Employed in CHW role,Healthcare,2026-06-17,Synthetic scenario
+EF01728,L00087,2026-06-03,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01729,L00087,2026-09-03,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01730,L00095,2026-06-06,3,Employed in CHW role,Community nonprofit,2026-04-21,Synthetic scenario
+EF01731,L00095,2026-09-06,6,Employed in CHW role,Healthcare,2026-04-21,Synthetic scenario
+EF01732,L00177,2026-05-26,3,Employed in CHW role,Healthcare,2026-05-09,Synthetic scenario
+EF01733,L00177,2026-08-26,6,Employed in CHW role,Healthcare,2026-05-09,Synthetic scenario
+EF01734,L00246,2026-05-24,3,Employed in CHW role,Community nonprofit,2026-05-16,Synthetic scenario
+EF01735,L00246,2026-08-24,6,Employed in CHW role,Community nonprofit,2026-05-16,Synthetic scenario
+EF01736,L00324,2026-05-27,3,Employed in CHW role,Government,2026-05-15,Synthetic scenario
+EF01737,L00324,2026-08-27,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01738,L00406,2026-09-10,3,Employed in other role,Other,2026-07-05,Synthetic scenario
+EF01739,L00422,2026-09-01,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01740,L00436,2026-08-22,6,Employed in CHW role,Government,2026-05-10,Synthetic scenario
+EF01741,L00469,2026-05-25,3,Unknown,Unknown,,Synthetic scenario
+EF01742,L00469,2026-08-25,6,Unknown,Unknown,,Synthetic scenario
+EF01743,L00664,2026-06-05,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01744,L00664,2026-09-05,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01745,L00747,2026-05-22,3,Employed in CHW role,Healthcare,2026-04-01,Synthetic scenario
+EF01746,L00747,2026-08-22,6,Employed in CHW role,Community nonprofit,2026-04-01,Synthetic scenario
+EF01747,L00851,2026-05-27,3,Employed in CHW role,Healthcare,2026-05-11,Synthetic scenario
+EF01748,L00851,2026-08-27,6,Employed in CHW role,Community nonprofit,2026-05-11,Synthetic scenario
+EF01749,L00853,2026-05-23,3,Employed in CHW role,Community nonprofit,2026-03-22,Synthetic scenario
+EF01750,L00853,2026-08-23,6,Employed in CHW role,Community nonprofit,2026-03-22,Synthetic scenario
+EF01751,L00869,2026-06-02,3,Employed in other role,Other,2026-05-25,Synthetic scenario
+EF01752,L00869,2026-09-02,6,Employed in CHW role,Other,2026-08-18,Synthetic scenario
+EF01753,L00893,2026-06-05,3,Employed in CHW role,Healthcare,2026-05-31,Synthetic scenario
+EF01754,L00963,2026-06-05,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01755,L00963,2026-09-05,6,Employed in CHW role,Community nonprofit,2026-05-13,Synthetic scenario
+EF01756,L00988,2026-08-30,3,Employed in CHW role,Community nonprofit,2026-08-18,Synthetic scenario
+EF01757,L00992,2026-05-28,3,Employed in CHW role,Government,2026-03-24,Synthetic scenario
+EF01758,L00992,2026-08-28,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01759,L01092,2026-05-25,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01760,L01092,2026-08-25,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01761,L01096,2026-09-06,6,Employed in CHW role,Community nonprofit,2026-08-05,Synthetic scenario
+EF01762,L01099,2026-06-02,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01763,L01099,2026-09-02,6,Employed in other role,Other,2026-05-02,Synthetic scenario
+EF01764,L01116,2026-06-03,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01765,L01116,2026-09-03,6,Employed in CHW role,Community nonprofit,2026-03-27,Synthetic scenario
+EF01766,L01131,2026-09-02,6,Not seeking work,Unknown,,Synthetic scenario
+EF01767,L01154,2026-05-28,3,Employed in other role,Government,2026-05-26,Synthetic scenario
+EF01768,L01179,2026-06-04,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01769,L01194,2026-05-27,3,Employed in CHW role,Healthcare,2026-04-18,Synthetic scenario
+EF01770,L01194,2026-08-27,6,Employed in CHW role,Healthcare,2026-04-18,Synthetic scenario
+EF01771,L01352,2026-08-23,6,Employed in CHW role,Government,2026-06-14,Synthetic scenario
+EF01772,L01370,2026-08-27,6,Employed in CHW role,Healthcare,2026-06-12,Synthetic scenario
+EF01773,L01397,2026-05-28,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01774,L01397,2026-08-28,6,Not seeking work,Unknown,,Synthetic scenario
+EF01775,L01449,2026-09-06,6,Employed in other role,Healthcare,2026-06-12,Synthetic scenario
+EF01776,L01500,2026-05-27,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01777,L01500,2026-08-27,6,Employed in CHW role,Healthcare,2026-04-26,Synthetic scenario
+EF01778,L01522,2026-06-02,3,Employed in CHW role,Community nonprofit,2026-05-13,Synthetic scenario
+EF01779,L01524,2026-05-22,3,Employed in CHW role,Other,2026-05-22,Synthetic scenario
+EF01780,L01668,2026-05-25,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01781,L01731,2026-06-04,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01782,L01731,2026-09-04,6,Employed in other role,Other,2026-08-12,Synthetic scenario
+EF01783,L01770,2026-08-23,6,Employed in CHW role,Community nonprofit,2026-06-14,Synthetic scenario
+EF01784,L01823,2026-05-24,3,Employed in other role,Other,2026-04-05,Synthetic scenario
+EF01785,L01823,2026-08-24,6,Employed in CHW role,Healthcare,2026-04-09,Synthetic scenario
+EF01786,L01856,2026-06-03,3,Employed in CHW role,Community nonprofit,2026-03-26,Synthetic scenario
+EF01787,L01856,2026-09-03,6,Employed in CHW role,Community nonprofit,2026-03-26,Synthetic scenario
+EF01788,L01964,2026-05-25,3,Employed in other role,Other,2026-05-16,Synthetic scenario
+EF01789,L02004,2026-06-05,3,Employed in CHW role,Other,2026-03-31,Synthetic scenario
+EF01790,L02004,2026-09-05,6,Employed in CHW role,Healthcare,2026-03-31,Synthetic scenario
+EF01791,L02012,2026-09-05,6,Employed in CHW role,Healthcare,2026-04-30,Synthetic scenario
+EF01792,L02085,2026-05-26,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01793,L02124,2026-09-03,6,Not seeking work,Unknown,,Synthetic scenario
+EF01794,L02151,2026-05-26,3,Not seeking work,Unknown,,Synthetic scenario
+EF01795,L02179,2026-05-23,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01796,L02227,2026-08-26,6,Employed in other role,Healthcare,2026-06-14,Synthetic scenario
+EF01797,L02239,2026-06-03,3,Employed in other role,Other,2026-05-21,Synthetic scenario
+EF01798,L02239,2026-09-03,6,Employed in CHW role,Community nonprofit,2026-03-22,Synthetic scenario
+EF01799,L02330,2026-06-02,3,Employed in CHW role,Healthcare,2026-03-17,Synthetic scenario
+EF01800,L02330,2026-09-02,6,Employed in CHW role,Healthcare,2026-03-17,Synthetic scenario
+EF01801,L02401,2026-05-24,3,Employed in CHW role,Healthcare,2026-04-16,Synthetic scenario
+EF01802,L02401,2026-08-24,6,Employed in other role,Other,2026-07-20,Synthetic scenario
+EF01803,L02410,2026-09-01,6,Employed in CHW role,Community nonprofit,2026-07-16,Synthetic scenario
+EF01804,L00212,2026-05-24,3,Employed in CHW role,Government,2026-03-28,Synthetic scenario
+EF01805,L00212,2026-08-24,6,Employed in CHW role,Government,2026-03-28,Synthetic scenario
+EF01806,L00262,2026-06-08,3,Employed in CHW role,Healthcare,2026-04-16,Synthetic scenario
+EF01807,L00280,2026-06-06,3,Employed in CHW role,Healthcare,2026-04-20,Synthetic scenario
+EF01808,L00280,2026-09-06,6,Employed in CHW role,Community nonprofit,2026-04-20,Synthetic scenario
+EF01809,L00328,2026-06-01,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01810,L00328,2026-09-01,6,Unknown,Unknown,,Synthetic scenario
+EF01811,L00333,2026-06-08,3,Employed in CHW role,Healthcare,2026-04-25,Synthetic scenario
+EF01812,L00333,2026-09-08,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01813,L00377,2026-06-08,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01814,L00445,2026-06-06,3,Employed in CHW role,Other,2026-04-28,Synthetic scenario
+EF01815,L00445,2026-09-06,6,Employed in CHW role,Community nonprofit,2026-04-28,Synthetic scenario
+EF01816,L00516,2026-05-26,3,Employed in CHW role,Healthcare,2026-03-10,Synthetic scenario
+EF01817,L00555,2026-06-07,3,Employed in CHW role,Healthcare,2026-04-26,Synthetic scenario
+EF01818,L00555,2026-09-07,6,Employed in CHW role,Healthcare,2026-04-26,Synthetic scenario
+EF01819,L00646,2026-06-04,3,Employed in CHW role,Other,2026-05-26,Synthetic scenario
+EF01820,L00646,2026-09-04,6,Employed in CHW role,Healthcare,2026-05-26,Synthetic scenario
+EF01821,L00655,2026-06-02,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01822,L00655,2026-09-02,6,Employed in CHW role,Community nonprofit,2026-05-26,Synthetic scenario
+EF01823,L00681,2026-09-02,6,Employed in CHW role,Healthcare,2026-04-28,Synthetic scenario
+EF01824,L00760,2026-08-27,3,Employed in CHW role,Community nonprofit,2026-06-09,Synthetic scenario
+EF01825,L00916,2026-06-03,3,Employed in CHW role,Healthcare,2026-05-26,Synthetic scenario
+EF01826,L00927,2026-06-04,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01827,L00927,2026-09-04,6,Employed in CHW role,Healthcare,2026-08-30,Synthetic scenario
+EF01828,L00938,2026-06-03,3,Employed in other role,Healthcare,2026-05-09,Synthetic scenario
+EF01829,L01038,2026-06-04,3,Employed in CHW role,Healthcare,2026-03-16,Synthetic scenario
+EF01830,L01038,2026-09-04,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01831,L01043,2026-05-28,3,Employed in CHW role,Government,2026-03-29,Synthetic scenario
+EF01832,L01086,2026-09-08,6,Employed in CHW role,Community nonprofit,2026-07-04,Synthetic scenario
+EF01833,L01132,2026-05-24,3,Employed in CHW role,Government,2026-05-14,Synthetic scenario
+EF01834,L01153,2026-05-28,3,Employed in other role,Other,2026-04-19,Synthetic scenario
+EF01835,L01182,2026-06-04,3,Employed in other role,Healthcare,2026-03-19,Synthetic scenario
+EF01836,L01182,2026-09-04,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01837,L01189,2026-06-05,3,Employed in other role,Healthcare,2026-05-08,Synthetic scenario
+EF01838,L01333,2026-06-07,3,Unknown,Unknown,,Synthetic scenario
+EF01839,L01346,2026-09-08,6,Employed in CHW role,Community nonprofit,2026-08-26,Synthetic scenario
+EF01840,L01365,2026-08-26,6,Employed in CHW role,Healthcare,2026-03-23,Synthetic scenario
+EF01841,L01393,2026-05-24,3,Employed in CHW role,Healthcare,2026-03-19,Synthetic scenario
+EF01842,L01401,2026-05-27,3,Employed in CHW role,Government,2026-04-19,Synthetic scenario
+EF01843,L01401,2026-08-27,6,Employed in CHW role,Healthcare,2026-04-19,Synthetic scenario
+EF01844,L01473,2026-05-24,3,Employed in other role,Government,2026-04-29,Synthetic scenario
+EF01845,L01488,2026-05-27,3,Unknown,Unknown,,Synthetic scenario
+EF01846,L01596,2026-06-01,3,Employed in other role,Community nonprofit,2026-03-16,Synthetic scenario
+EF01847,L01628,2026-05-25,3,Employed in CHW role,Community nonprofit,2026-05-24,Synthetic scenario
+EF01848,L01628,2026-08-25,6,Employed in CHW role,Healthcare,2026-05-24,Synthetic scenario
+EF01849,L01667,2026-06-05,3,Employed in other role,Healthcare,2026-05-04,Synthetic scenario
+EF01850,L01667,2026-09-05,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01851,L01689,2026-06-06,3,Employed in other role,Other,2026-05-08,Synthetic scenario
+EF01852,L01689,2026-09-06,6,Employed in CHW role,Community nonprofit,2026-09-06,Synthetic scenario
+EF01853,L01693,2026-06-02,3,Employed in other role,Healthcare,2026-04-15,Synthetic scenario
+EF01854,L01693,2026-09-02,6,Employed in CHW role,Government,2026-03-16,Synthetic scenario
+EF01855,L01717,2026-08-28,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01856,L01775,2026-05-24,3,Employed in other role,Other,2026-03-15,Synthetic scenario
+EF01857,L01775,2026-08-24,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01858,L01812,2026-06-03,3,Employed in CHW role,Healthcare,2026-05-13,Synthetic scenario
+EF01859,L01906,2026-06-08,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01860,L01906,2026-09-08,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01861,L02050,2026-06-04,3,Unknown,Unknown,,Synthetic scenario
+EF01862,L02092,2026-05-26,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01863,L02092,2026-08-26,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01864,L02129,2026-06-08,3,Employed in CHW role,Government,2026-04-01,Synthetic scenario
+EF01865,L02135,2026-08-24,6,Not seeking work,Unknown,,Synthetic scenario
+EF01866,L02191,2026-06-07,3,Employed in CHW role,Healthcare,2026-05-28,Synthetic scenario
+EF01867,L02191,2026-09-07,6,Employed in CHW role,Government,2026-05-28,Synthetic scenario
+EF01868,L02297,2026-06-06,3,Employed in CHW role,Government,2026-05-27,Synthetic scenario
+EF01869,L02297,2026-09-06,6,Employed in CHW role,Community nonprofit,2026-05-27,Synthetic scenario
+EF01870,L00035,2026-06-16,3,Employed in CHW role,Government,2026-05-29,Synthetic scenario
+EF01871,L00035,2026-09-16,6,Employed in CHW role,Government,2026-05-29,Synthetic scenario
+EF01872,L00120,2026-06-13,3,Employed in CHW role,Other,2026-04-30,Synthetic scenario
+EF01873,L00120,2026-09-13,6,Employed in CHW role,Healthcare,2026-04-30,Synthetic scenario
+EF01874,L00137,2026-09-17,6,Employed in CHW role,Community nonprofit,2026-08-08,Synthetic scenario
+EF01875,L00158,2026-06-17,3,Employed in CHW role,Government,2026-06-05,Synthetic scenario
+EF01876,L00238,2026-09-11,6,Employed in other role,Other,2026-05-20,Synthetic scenario
+EF01877,L00285,2026-09-16,6,Employed in CHW role,Healthcare,2026-09-16,Synthetic scenario
+EF01878,L00396,2026-06-08,3,Employed in CHW role,Government,2026-05-04,Synthetic scenario
+EF01879,L00444,2026-06-18,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01880,L00560,2026-06-17,3,Not seeking work,Unknown,,Synthetic scenario
+EF01881,L00560,2026-09-17,6,Employed in other role,Government,2026-05-02,Synthetic scenario
+EF01882,L00589,2026-06-10,3,Employed in CHW role,Healthcare,2026-06-06,Synthetic scenario
+EF01883,L00589,2026-09-10,6,Employed in CHW role,Community nonprofit,2026-06-06,Synthetic scenario
+EF01884,L00599,2026-06-10,3,Employed in CHW role,Community nonprofit,2026-03-20,Synthetic scenario
+EF01885,L00620,2026-06-10,3,Employed in other role,Healthcare,2026-06-05,Synthetic scenario
+EF01886,L00641,2026-06-16,3,Employed in CHW role,Government,2026-04-22,Synthetic scenario
+EF01887,L00700,2026-06-15,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01888,L00831,2026-06-17,3,Employed in CHW role,Community nonprofit,2026-06-16,Synthetic scenario
+EF01889,L00844,2026-06-07,3,Employed in other role,Other,2026-06-05,Synthetic scenario
+EF01890,L00844,2026-09-07,6,Employed in other role,Healthcare,2026-09-05,Synthetic scenario
+EF01891,L00847,2026-06-15,3,Employed in CHW role,Government,2026-06-14,Synthetic scenario
+EF01892,L00924,2026-06-15,3,Not seeking work,Unknown,,Synthetic scenario
+EF01893,L00947,2026-06-08,3,Employed in CHW role,Community nonprofit,2026-03-23,Synthetic scenario
+EF01894,L00947,2026-09-08,6,Employed in CHW role,Healthcare,2026-03-23,Synthetic scenario
+EF01895,L00959,2026-09-08,6,Employed in CHW role,Healthcare,2026-06-02,Synthetic scenario
+EF01896,L01027,2026-06-06,3,Not seeking work,Unknown,,Synthetic scenario
+EF01897,L01027,2026-09-06,6,Employed in CHW role,Government,2026-06-20,Synthetic scenario
+EF01898,L01056,2026-06-10,3,Unknown,Unknown,,Synthetic scenario
+EF01899,L01085,2026-06-07,3,Employed in CHW role,Healthcare,2026-04-16,Synthetic scenario
+EF01900,L01097,2026-06-07,3,Employed in CHW role,Government,2026-05-19,Synthetic scenario
+EF01901,L01152,2026-06-15,3,Employed in CHW role,Community nonprofit,2026-05-06,Synthetic scenario
+EF01902,L01211,2026-06-12,3,Employed in CHW role,Healthcare,2026-05-23,Synthetic scenario
+EF01903,L01216,2026-06-17,3,Employed in other role,Healthcare,2026-04-04,Synthetic scenario
+EF01904,L01216,2026-09-17,6,Not seeking work,Unknown,,Synthetic scenario
+EF01905,L01221,2026-09-08,6,Employed in other role,Healthcare,2026-07-27,Synthetic scenario
+EF01906,L01234,2026-06-07,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01907,L01234,2026-09-07,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01908,L01243,2026-09-13,6,Employed in other role,Other,2026-08-06,Synthetic scenario
+EF01909,L01337,2026-06-15,3,Employed in CHW role,Healthcare,2026-04-29,Synthetic scenario
+EF01910,L01337,2026-09-15,6,Employed in CHW role,Community nonprofit,2026-04-29,Synthetic scenario
+EF01911,L01368,2026-06-15,3,Employed in CHW role,Government,2026-05-23,Synthetic scenario
+EF01912,L01422,2026-09-15,6,Employed in other role,Other,2026-09-07,Synthetic scenario
+EF01913,L01511,2026-06-10,3,Employed in CHW role,Healthcare,2026-05-25,Synthetic scenario
+EF01914,L01511,2026-09-10,6,Unknown,Unknown,,Synthetic scenario
+EF01915,L01545,2026-06-11,3,Employed in CHW role,Healthcare,2026-06-03,Synthetic scenario
+EF01916,L01545,2026-09-11,6,Employed in CHW role,Government,2026-06-03,Synthetic scenario
+EF01917,L01821,2026-06-06,3,Employed in CHW role,Healthcare,2026-04-20,Synthetic scenario
+EF01918,L01821,2026-09-06,6,Employed in CHW role,Healthcare,2026-04-20,Synthetic scenario
+EF01919,L01917,2026-06-14,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01920,L01917,2026-09-14,6,Employed in CHW role,Healthcare,2026-09-02,Synthetic scenario
+EF01921,L01946,2026-09-12,6,Employed in CHW role,Healthcare,2026-06-01,Synthetic scenario
+EF01922,L02056,2026-06-07,3,Employed in other role,Government,2026-04-05,Synthetic scenario
+EF01923,L02056,2026-09-07,6,Employed in other role,Other,2026-06-20,Synthetic scenario
+EF01924,L02081,2026-06-13,3,Employed in other role,Community nonprofit,2026-06-10,Synthetic scenario
+EF01925,L02081,2026-09-13,6,Not seeking work,Unknown,,Synthetic scenario
+EF01926,L02114,2026-06-14,3,Unknown,Unknown,,Synthetic scenario
+EF01927,L02114,2026-09-14,6,Employed in CHW role,Healthcare,2026-08-17,Synthetic scenario
+EF01928,L02131,2026-09-12,6,Unknown,Unknown,,Synthetic scenario
+EF01929,L02173,2026-06-15,3,Employed in CHW role,Community nonprofit,2026-03-31,Synthetic scenario
+EF01930,L02173,2026-09-15,6,Employed in other role,Government,2026-04-06,Synthetic scenario
+EF01931,L02299,2026-06-13,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01932,L02342,2026-06-10,3,Employed in CHW role,Community nonprofit,2026-05-04,Synthetic scenario
+EF01933,L02342,2026-09-10,6,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01934,L02393,2026-06-15,3,Employed in CHW role,Healthcare,2026-06-11,Synthetic scenario
+EF01935,L02441,2026-09-15,6,Employed in CHW role,Healthcare,2026-05-20,Synthetic scenario
+EF01936,L00056,2026-08-29,3,Employed in CHW role,Community nonprofit,2026-06-24,Synthetic scenario
+EF01937,L00106,2026-08-25,3,Employed in CHW role,Healthcare,2026-07-14,Synthetic scenario
+EF01938,L00127,2026-08-27,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01939,L00189,2026-08-28,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01940,L00310,2026-08-23,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01941,L00347,2026-09-03,3,Employed in CHW role,Healthcare,2026-06-20,Synthetic scenario
+EF01942,L00380,2026-08-30,3,Not seeking work,Unknown,,Synthetic scenario
+EF01943,L00390,2026-08-26,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01944,L00414,2026-08-30,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01945,L00421,2026-08-29,3,Employed in CHW role,Community nonprofit,2026-07-02,Synthetic scenario
+EF01946,L00479,2026-09-02,3,Employed in other role,Healthcare,2026-06-20,Synthetic scenario
+EF01947,L00507,2026-08-28,3,Not seeking work,Unknown,,Synthetic scenario
+EF01948,L00537,2026-08-30,3,Employed in CHW role,Healthcare,2026-07-06,Synthetic scenario
+EF01949,L00572,2026-08-23,3,Employed in other role,Other,2026-07-21,Synthetic scenario
+EF01950,L00618,2026-08-23,3,Employed in CHW role,Healthcare,2026-07-01,Synthetic scenario
+EF01951,L00666,2026-08-23,3,Employed in other role,Community nonprofit,2026-06-07,Synthetic scenario
+EF01952,L00672,2026-08-25,3,Employed in CHW role,Community nonprofit,2026-07-12,Synthetic scenario
+EF01953,L00691,2026-09-03,3,Employed in CHW role,Community nonprofit,2026-07-24,Synthetic scenario
+EF01954,L00902,2026-08-26,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01955,L01328,2026-08-28,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01956,L01426,2026-08-28,3,Employed in CHW role,Healthcare,2026-08-05,Synthetic scenario
+EF01957,L01691,2026-08-28,3,Employed in CHW role,Healthcare,2026-08-19,Synthetic scenario
+EF01958,L01886,2026-08-31,3,Not seeking work,Unknown,,Synthetic scenario
+EF01959,L01974,2026-08-26,3,Employed in CHW role,Healthcare,2026-08-07,Synthetic scenario
+EF01960,L02145,2026-08-24,3,Employed in CHW role,Healthcare,2026-07-12,Synthetic scenario
+EF01961,L02159,2026-08-28,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01962,L02261,2026-09-04,3,Employed in other role,Community nonprofit,2026-08-16,Synthetic scenario
+EF01963,L02304,2026-09-02,3,Employed in CHW role,Healthcare,2026-07-29,Synthetic scenario
+EF01964,L02334,2026-08-25,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01965,L02345,2026-08-23,3,Employed in CHW role,Healthcare,2026-06-02,Synthetic scenario
+EF01966,L00008,2026-08-29,3,Employed in CHW role,Healthcare,2026-08-02,Synthetic scenario
+EF01967,L00049,2026-08-25,3,Employed in CHW role,Community nonprofit,2026-07-11,Synthetic scenario
+EF01968,L00179,2026-08-31,3,Employed in CHW role,Government,2026-07-19,Synthetic scenario
+EF01969,L00213,2026-08-31,3,Employed in other role,Community nonprofit,2026-08-17,Synthetic scenario
+EF01970,L00411,2026-08-30,3,Employed in other role,Healthcare,2026-07-19,Synthetic scenario
+EF01971,L00521,2026-09-05,3,Employed in CHW role,Healthcare,2026-08-28,Synthetic scenario
+EF01972,L00523,2026-09-06,3,Employed in other role,Community nonprofit,2026-07-27,Synthetic scenario
+EF01973,L00541,2026-08-30,3,Employed in other role,Government,2026-06-26,Synthetic scenario
+EF01974,L00553,2026-09-04,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01975,L00590,2026-08-31,3,Employed in other role,Community nonprofit,2026-06-12,Synthetic scenario
+EF01976,L00617,2026-09-04,3,Employed in CHW role,Community nonprofit,2026-08-27,Synthetic scenario
+EF01977,L00676,2026-08-28,3,Employed in CHW role,Healthcare,2026-07-30,Synthetic scenario
+EF01978,L00678,2026-08-28,3,Employed in CHW role,Healthcare,2026-06-28,Synthetic scenario
+EF01979,L00740,2026-08-27,3,Employed in CHW role,Government,2026-07-07,Synthetic scenario
+EF01980,L00812,2026-08-26,3,Employed in CHW role,Healthcare,2026-08-19,Synthetic scenario
+EF01981,L00815,2026-08-31,3,Employed in other role,Other,2026-08-14,Synthetic scenario
+EF01982,L00817,2026-08-26,3,Employed in CHW role,Healthcare,2026-07-21,Synthetic scenario
+EF01983,L00835,2026-08-31,3,Employed in CHW role,Community nonprofit,2026-06-13,Synthetic scenario
+EF01984,L01046,2026-08-31,3,Employed in CHW role,Community nonprofit,2026-07-10,Synthetic scenario
+EF01985,L01251,2026-09-05,3,Employed in other role,Government,2026-07-23,Synthetic scenario
+EF01986,L01285,2026-09-05,3,Employed in CHW role,Community nonprofit,2026-08-07,Synthetic scenario
+EF01987,L01331,2026-08-26,3,Employed in other role,Other,2026-07-21,Synthetic scenario
+EF01988,L01335,2026-08-31,3,Employed in CHW role,Healthcare,2026-07-06,Synthetic scenario
+EF01989,L01462,2026-08-30,3,Employed in CHW role,Healthcare,2026-08-02,Synthetic scenario
+EF01990,L01485,2026-08-29,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF01991,L01582,2026-08-27,3,Employed in other role,Community nonprofit,2026-08-24,Synthetic scenario
+EF01992,L01597,2026-08-29,3,Employed in CHW role,Government,2026-06-16,Synthetic scenario
+EF01993,L01704,2026-08-30,3,Employed in CHW role,Healthcare,2026-07-25,Synthetic scenario
+EF01994,L01720,2026-08-29,3,Employed in CHW role,Healthcare,2026-06-26,Synthetic scenario
+EF01995,L01726,2026-08-31,3,Employed in other role,Other,2026-07-30,Synthetic scenario
+EF01996,L01791,2026-09-03,3,Employed in CHW role,Healthcare,2026-07-27,Synthetic scenario
+EF01997,L01852,2026-08-31,3,Employed in CHW role,Healthcare,2026-07-14,Synthetic scenario
+EF01998,L01884,2026-09-05,3,Unknown,Unknown,,Synthetic scenario
+EF01999,L01918,2026-08-28,3,Employed in CHW role,Other,2026-08-04,Synthetic scenario
+EF02000,L02061,2026-09-01,3,Employed in CHW role,Healthcare,2026-08-20,Synthetic scenario
+EF02001,L02229,2026-09-04,3,Not seeking work,Unknown,,Synthetic scenario
+EF02002,L02264,2026-09-04,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF02003,L02283,2026-08-31,3,Employed in CHW role,Healthcare,2026-07-21,Synthetic scenario
+EF02004,L02306,2026-08-25,3,Employed in CHW role,Government,2026-06-25,Synthetic scenario
+EF02005,L02322,2026-08-27,3,Employed in CHW role,Healthcare,2026-07-16,Synthetic scenario
+EF02006,L02421,2026-08-25,3,Employed in CHW role,Community nonprofit,2026-06-07,Synthetic scenario
+EF02007,L02440,2026-09-01,3,Employed in other role,Other,2026-08-28,Synthetic scenario
+EF02008,L00002,2026-09-14,3,Employed in other role,Other,2026-09-14,Synthetic scenario
+EF02009,L00039,2026-09-08,3,Employed in other role,Healthcare,2026-07-10,Synthetic scenario
+EF02010,L00041,2026-09-15,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF02011,L00131,2026-09-06,3,Employed in CHW role,Community nonprofit,2026-08-09,Synthetic scenario
+EF02012,L00161,2026-09-06,3,Employed in other role,Other,2026-08-23,Synthetic scenario
+EF02013,L00226,2026-09-09,3,Employed in CHW role,Healthcare,2026-07-03,Synthetic scenario
+EF02014,L00235,2026-09-14,3,Unknown,Unknown,,Synthetic scenario
+EF02015,L00269,2026-09-14,3,Employed in CHW role,Healthcare,2026-07-26,Synthetic scenario
+EF02016,L00309,2026-09-11,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF02017,L00314,2026-09-11,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF02018,L00321,2026-09-09,3,Unknown,Unknown,,Synthetic scenario
+EF02019,L00344,2026-09-11,3,Employed in other role,Other,2026-08-23,Synthetic scenario
+EF02020,L00371,2026-09-06,3,Employed in other role,Community nonprofit,2026-08-04,Synthetic scenario
+EF02021,L00375,2026-09-05,3,Employed in other role,Other,2026-07-12,Synthetic scenario
+EF02022,L00459,2026-09-14,3,Employed in CHW role,Healthcare,2026-09-05,Synthetic scenario
+EF02023,L00626,2026-09-15,3,Not seeking work,Unknown,,Synthetic scenario
+EF02024,L00629,2026-09-14,3,Employed in other role,Other,2026-08-16,Synthetic scenario
+EF02025,L00669,2026-09-15,3,Employed in other role,Other,2026-08-28,Synthetic scenario
+EF02026,L00701,2026-09-11,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF02027,L00746,2026-09-16,3,Employed in CHW role,Other,2026-08-06,Synthetic scenario
+EF02028,L00751,2026-09-11,3,Employed in other role,Other,2026-08-18,Synthetic scenario
+EF02029,L00789,2026-09-16,3,Employed in other role,Healthcare,2026-08-21,Synthetic scenario
+EF02030,L00806,2026-09-07,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF02031,L00904,2026-09-15,3,Not seeking work,Unknown,,Synthetic scenario
+EF02032,L00907,2026-09-08,3,Employed in other role,Healthcare,2026-07-11,Synthetic scenario
+EF02033,L00971,2026-09-08,3,Employed in CHW role,Community nonprofit,2026-07-30,Synthetic scenario
+EF02034,L00989,2026-09-13,3,Unknown,Unknown,,Synthetic scenario
+EF02035,L00999,2026-09-11,3,Not seeking work,Unknown,,Synthetic scenario
+EF02036,L01023,2026-09-12,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF02037,L01060,2026-09-09,3,Employed in CHW role,Community nonprofit,2026-06-27,Synthetic scenario
+EF02038,L01157,2026-09-11,3,Employed in other role,Other,2026-08-13,Synthetic scenario
+EF02039,L01239,2026-09-12,3,Employed in CHW role,Community nonprofit,2026-07-14,Synthetic scenario
+EF02040,L01240,2026-09-15,3,Employed in other role,Other,2026-08-27,Synthetic scenario
+EF02041,L01274,2026-09-05,3,Employed in CHW role,Healthcare,2026-07-09,Synthetic scenario
+EF02042,L01287,2026-09-04,3,Employed in other role,Other,2026-07-14,Synthetic scenario
+EF02043,L01354,2026-09-06,3,Employed in CHW role,Healthcare,2026-08-31,Synthetic scenario
+EF02044,L01372,2026-09-13,3,Employed in CHW role,Healthcare,2026-07-20,Synthetic scenario
+EF02045,L01482,2026-09-14,3,Employed in CHW role,Government,2026-08-19,Synthetic scenario
+EF02046,L01573,2026-09-12,3,Employed in CHW role,Government,2026-07-12,Synthetic scenario
+EF02047,L01606,2026-09-11,3,Employed in CHW role,Healthcare,2026-08-10,Synthetic scenario
+EF02048,L01624,2026-09-08,3,Not seeking work,Unknown,,Synthetic scenario
+EF02049,L01681,2026-09-16,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF02050,L01721,2026-09-11,3,Unknown,Unknown,,Synthetic scenario
+EF02051,L01736,2026-09-07,3,Unknown,Unknown,,Synthetic scenario
+EF02052,L01853,2026-09-07,3,Employed in other role,Other,2026-08-14,Synthetic scenario
+EF02053,L02015,2026-09-04,3,Unknown,Unknown,,Synthetic scenario
+EF02054,L02024,2026-09-16,3,Unknown,Unknown,,Synthetic scenario
+EF02055,L02166,2026-09-10,3,Employed in other role,Other,2026-06-25,Synthetic scenario
+EF02056,L02214,2026-09-12,3,Employed in other role,Healthcare,2026-09-01,Synthetic scenario
+EF02057,L02312,2026-09-15,3,Employed in other role,Other,2026-08-14,Synthetic scenario
+EF02058,L02341,2026-09-04,3,Employed in CHW role,Community nonprofit,2026-09-01,Synthetic scenario
+EF02059,L02354,2026-09-08,3,Employed in CHW role,Other,2026-07-16,Synthetic scenario
+EF02060,L02390,2026-09-07,3,Unemployed seeking work,Unknown,,Synthetic scenario
+EF02061,L02427,2026-09-10,3,Employed in CHW role,Community nonprofit,2026-08-25,Synthetic scenario
+EF02062,L02449,2026-09-05,3,Unemployed seeking work,Unknown,,Synthetic scenario

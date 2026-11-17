@@ -1,0 +1,106 @@
+{
+  "snapshot_date": "2026-11-16",
+  "synthetic_only": true,
+  "checks": [
+    {
+      "check": "Unique primary keys",
+      "result": "PASS",
+      "details": "No duplicate row identifiers"
+    },
+    {
+      "check": "Foreign keys",
+      "result": "PASS",
+      "details": "All linked keys exist"
+    },
+    {
+      "check": "Enrollment counts reconcile",
+      "result": "PASS",
+      "details": "Year, region, cohort all reconcile"
+    },
+    {
+      "check": "Eligibility aligns to snapshot",
+      "result": "PASS",
+      "details": "End date <= reporting snapshot"
+    },
+    {
+      "check": "Completed dates valid",
+      "result": "PASS",
+      "details": "Date range and status"
+    },
+    {
+      "check": "Completion rate baseline",
+      "result": "PASS",
+      "details": "Matches Phase 2 report"
+    },
+    {
+      "check": "Enrolled/unique baseline",
+      "result": "PASS",
+      "details": "Matches Phase 2 report"
+    },
+    {
+      "check": "Followup distinct eligible persons",
+      "result": "PASS",
+      "details": "No noneligible people used in rates"
+    },
+    {
+      "check": "No future records",
+      "result": "PASS",
+      "details": "All follow-ups are historical"
+    },
+    {
+      "check": "Cohort fill from raw counts",
+      "result": "PASS",
+      "details": "Seat denominators consistent"
+    }
+  ],
+  "all_passed": true,
+  "baselines": {
+    "enrollments": 2616,
+    "unique_learners": 2450,
+    "completion_eligible_enrollments": 2372,
+    "completed_enrollments": 1809,
+    "withdrawn_enrollments": 392,
+    "completion_rate_pct": 76.26,
+    "withdrawal_rate_pct": 16.53,
+    "average_module_progress_pct": 78.99,
+    "median_days_to_completion": 79
+  },
+  "cert_followup": {
+    "eligible": 1590,
+    "observed": 1111,
+    "certified_latest": 466
+  },
+  "employment_followup": [
+    {
+      "followup_month": 3,
+      "eligible_unique_completers": 1590,
+      "observed_unique_completers": 1190,
+      "followup_coverage_pct": 74.84,
+      "known_status_observations": 1122,
+      "unknown_status_observations": 68,
+      "employed_in_chw_role": 562,
+      "observed_chw_employment_rate_pct": 50.09
+    },
+    {
+      "followup_month": 6,
+      "eligible_unique_completers": 1405,
+      "observed_unique_completers": 872,
+      "followup_coverage_pct": 62.06,
+      "known_status_observations": 835,
+      "unknown_status_observations": 37,
+      "employed_in_chw_role": 540,
+      "observed_chw_employment_rate_pct": 64.67
+    }
+  ],
+  "retention": {
+    "baseline_3month_chw_employed_6month_eligible": 500,
+    "known_6month_status": 302,
+    "retained_chw": 236
+  },
+  "notes": [
+    "No observed outcome is proof of training attribution",
+    "Certification uses the latest observed milestone; not ever-certified",
+    "Retention measures CHW employment at 3 and 6 months, not employer continuity",
+    "2026 in-progress cohorts are in enrollment and progress but excluded from completion denominators"
+  ]
+}

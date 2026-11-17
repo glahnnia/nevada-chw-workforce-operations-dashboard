@@ -1,0 +1,34 @@
+{
+  "snapshot_date": "2026-11-16",
+  "synthetic_only": true,
+  "seed": 20261116,
+  "file_row_counts": {
+    "learners.csv": 2450,
+    "cohorts.csv": 36,
+    "enrollments.csv": 2616,
+    "certification_followup.csv": 1559,
+    "employment_followup.csv": 2062
+  },
+  "eligible_enrollments": 2372,
+  "completed_eligible_enrollments": 1809,
+  "completion_rate_pct": 76.26,
+  "withdrawal_rate_pct": 16.53,
+  "unique_learners": 2450,
+  "repeat_enrollment_learners": 161,
+  "cohorts_over_capacity": [
+    "C202404B",
+    "C202501S",
+    "C202510B",
+    "C202510S",
+    "C202601S",
+    "C202604S",
+    "C202610S"
+  ],
+  "yearly_enrollments": {
+    "2024": 836,
+    "2025": 867,
+    "2026": 913
+  },
+  "validation_checks": "PASS",
+  "errors": []
+}

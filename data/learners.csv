@@ -1,0 +1,2451 @@
+learner_id,county,region,preferred_training_language,registration_date
+L00001,Nye,Rural/Frontier,Unknown,2024-09-27
+L00002,Clark,Southern Nevada,English,2026-04-05
+L00003,Douglas,Northern Nevada,English,2026-03-16
+L00004,Clark,Southern Nevada,Other,2023-12-09
+L00005,Clark,Southern Nevada,English,2026-09-03
+L00006,Carson City,Northern Nevada,English,2025-04-03
+L00007,Washoe,Northern Nevada,English,2025-07-02
+L00008,Clark,Southern Nevada,English,2026-03-22
+L00009,Clark,Southern Nevada,English,2023-11-26
+L00010,Nye,Rural/Frontier,English,2024-03-06
+L00011,Washoe,Northern Nevada,English,2026-09-15
+L00012,Lyon,Rural/Frontier,Other,2024-12-02
+L00013,Clark,Southern Nevada,English,2026-06-20
+L00014,Washoe,Northern Nevada,English,2025-08-25
+L00015,Clark,Southern Nevada,English,2025-09-03
+L00016,Washoe,Northern Nevada,English,2024-04-05
+L00017,Humboldt,Rural/Frontier,English,2025-01-05
+L00018,Douglas,Northern Nevada,English,2025-02-22
+L00019,Clark,Southern Nevada,English,2026-09-18
+L00020,Nye,Rural/Frontier,English,2023-12-21
+L00021,Clark,Southern Nevada,English,2024-09-27
+L00022,Clark,Southern Nevada,English,2025-03-27
+L00023,Clark,Southern Nevada,Spanish,2026-03-20
+L00024,Eureka,Rural/Frontier,English,2025-02-27
+L00025,Washoe,Northern Nevada,English,2023-12-30
+L00026,Lyon,Rural/Frontier,English,2026-08-28
+L00027,Washoe,Northern Nevada,English,2024-06-12
+L00028,Washoe,Northern Nevada,English,2024-11-30
+L00029,Washoe,Northern Nevada,English,2026-09-05
+L00030,Clark,Southern Nevada,Spanish,2025-12-27
+L00031,Washoe,Northern Nevada,English,2024-08-26
+L00032,Lyon,Rural/Frontier,English,2024-10-05
+L00033,Clark,Southern Nevada,English,2024-06-19
+L00034,Lyon,Rural/Frontier,English,2024-06-02
+L00035,Washoe,Northern Nevada,Spanish,2026-01-05
+L00036,Clark,Southern Nevada,English,2024-05-25
+L00037,Clark,Southern Nevada,English,2025-06-06
+L00038,Clark,Southern Nevada,English,2024-04-06
+L00039,Clark,Southern Nevada,English,2026-04-02
+L00040,Washoe,Northern Nevada,English,2024-11-30
+L00041,Clark,Southern Nevada,English,2026-03-19
+L00042,Clark,Southern Nevada,English,2024-09-27
+L00043,Washoe,Northern Nevada,English,2026-09-28
+L00044,Clark,Southern Nevada,English,2024-12-25
+L00045,Carson City,Northern Nevada,English,2024-02-25
+L00046,Lyon,Rural/Frontier,English,2025-01-08
+L00047,Clark,Southern Nevada,English,2024-06-29
+L00048,Clark,Southern Nevada,English,2024-10-06
+L00049,Washoe,Northern Nevada,English,2026-03-27
+L00050,Clark,Southern Nevada,English,2025-11-22
+L00051,Clark,Southern Nevada,English,2026-07-04
+L00052,Clark,Southern Nevada,Spanish,2025-03-20
+L00053,Mineral,Rural/Frontier,English,2025-05-24
+L00054,Washoe,Northern Nevada,English,2026-06-13
+L00055,Clark,Southern Nevada,English,2024-03-30
+L00056,Clark,Southern Nevada,English,2026-02-27
+L00057,Clark,Southern Nevada,Other,2025-08-31
+L00058,Clark,Southern Nevada,English,2026-01-04
+L00059,Eureka,Rural/Frontier,English,2023-11-28
+L00060,Clark,Southern Nevada,English,2025-09-04
+L00061,Lyon,Rural/Frontier,English,2025-06-19
+L00062,White Pine,Rural/Frontier,English,2026-06-19
+L00063,White Pine,Rural/Frontier,English,2025-04-07
+L00064,Eureka,Rural/Frontier,English,2025-01-05
+L00065,Clark,Southern Nevada,English,2023-12-28
+L00066,Washoe,Northern Nevada,English,2026-09-02
+L00067,Clark,Southern Nevada,English,2025-03-23
+L00068,Clark,Southern Nevada,English,2023-11-29
+L00069,Washoe,Northern Nevada,English,2024-02-23
+L00070,White Pine,Rural/Frontier,English,2025-02-27
+L00071,Carson City,Northern Nevada,English,2024-01-04
+L00072,Washoe,Northern Nevada,English,2025-07-06
+L00073,Washoe,Northern Nevada,English,2024-06-19
+L00074,White Pine,Rural/Frontier,English,2025-06-21
+L00075,Washoe,Northern Nevada,English,2024-09-14
+L00076,Washoe,Northern Nevada,English,2025-12-25
+L00077,Clark,Southern Nevada,English,2025-09-20
+L00078,Clark,Southern Nevada,English,2024-06-10
+L00079,Nye,Rural/Frontier,English,2024-04-01
+L00080,Clark,Southern Nevada,English,2025-02-28
+L00081,Humboldt,Rural/Frontier,English,2025-09-19
+L00082,Lyon,Rural/Frontier,English,2026-05-31
+L00083,Washoe,Northern Nevada,Spanish,2024-08-28
+L00084,Washoe,Northern Nevada,English,2026-03-18
+L00085,Clark,Southern Nevada,English,2025-03-24
+L00086,Clark,Southern Nevada,English,2024-03-28
+L00087,Mineral,Rural/Frontier,English,2025-12-02
+L00088,White Pine,Rural/Frontier,English,2026-09-24
+L00089,Washoe,Northern Nevada,English,2026-05-26
+L00090,Clark,Southern Nevada,English,2025-03-12
+L00091,Washoe,Northern Nevada,English,2026-03-17
+L00092,Clark,Southern Nevada,English,2025-06-23
+L00093,Washoe,Northern Nevada,English,2026-03-21
+L00094,Washoe,Northern Nevada,English,2025-08-29
+L00095,Clark,Southern Nevada,English,2025-12-01
+L00096,Washoe,Northern Nevada,English,2026-09-27
+L00097,Clark,Southern Nevada,English,2023-12-01
+L00098,Lyon,Rural/Frontier,English,2023-12-23
+L00099,Washoe,Northern Nevada,Spanish,2025-06-11
+L00100,Clark,Southern Nevada,English,2025-03-03
+L00101,Washoe,Northern Nevada,English,2025-03-01
+L00102,Clark,Southern Nevada,English,2025-06-03
+L00103,Washoe,Northern Nevada,English,2024-12-08
+L00104,Clark,Southern Nevada,English,2025-07-07
+L00105,Clark,Southern Nevada,English,2024-06-24
+L00106,Clark,Southern Nevada,Spanish,2026-02-25
+L00107,Pershing,Rural/Frontier,English,2024-03-27
+L00108,Washoe,Northern Nevada,English,2026-06-06
+L00109,Elko,Rural/Frontier,Spanish,2025-07-01
+L00110,Clark,Southern Nevada,English,2026-09-11
+L00111,Douglas,Northern Nevada,English,2024-06-11
+L00112,Lincoln,Rural/Frontier,English,2026-01-01
+L00113,Lyon,Rural/Frontier,English,2026-09-17
+L00114,Washoe,Northern Nevada,English,2025-09-14
+L00115,White Pine,Rural/Frontier,English,2025-07-04
+L00116,Clark,Southern Nevada,English,2026-05-27
+L00117,Washoe,Northern Nevada,English,2024-12-19
+L00118,Washoe,Northern Nevada,English,2024-08-26
+L00119,White Pine,Rural/Frontier,English,2025-06-17
+L00120,Washoe,Northern Nevada,English,2025-12-07
+L00121,Clark,Southern Nevada,English,2026-06-19
+L00122,Clark,Southern Nevada,English,2023-12-05
+L00123,Washoe,Northern Nevada,English,2024-09-06
+L00124,Clark,Southern Nevada,English,2024-11-30
+L00125,Elko,Rural/Frontier,English,2024-10-05
+L00126,Washoe,Northern Nevada,Spanish,2025-06-30
+L00127,Washoe,Northern Nevada,English,2026-03-20
+L00128,Washoe,Northern Nevada,English,2026-06-18
+L00129,Clark,Southern Nevada,English,2025-12-06
+L00130,Carson City,Northern Nevada,Other,2025-06-26
+L00131,Elko,Rural/Frontier,English,2026-03-20
+L00132,Washoe,Northern Nevada,English,2025-07-03
+L00133,Washoe,Northern Nevada,Spanish,2025-03-14
+L00134,Nye,Rural/Frontier,English,2024-08-27
+L00135,Clark,Southern Nevada,Spanish,2025-09-01
+L00136,Washoe,Northern Nevada,English,2026-06-16
+L00137,Clark,Southern Nevada,English,2025-12-24
+L00138,Nye,Rural/Frontier,English,2026-09-14
+L00139,Clark,Southern Nevada,English,2024-09-13
+L00140,Washoe,Northern Nevada,English,2026-05-28
+L00141,White Pine,Rural/Frontier,English,2024-03-30
+L00142,Clark,Southern Nevada,English,2024-12-28
+L00143,Nye,Rural/Frontier,English,2026-08-31
+L00144,Clark,Southern Nevada,English,2024-06-29
+L00145,White Pine,Rural/Frontier,English,2023-11-25
+L00146,Clark,Southern Nevada,English,2025-02-22
+L00147,Clark,Southern Nevada,English,2024-06-27
+L00148,Washoe,Northern Nevada,English,2024-04-05
+L00149,Elko,Rural/Frontier,English,2025-05-25
+L00150,Clark,Southern Nevada,English,2025-06-06
+L00151,Nye,Rural/Frontier,English,2025-09-16
+L00152,Clark,Southern Nevada,English,2024-03-07
+L00153,Humboldt,Rural/Frontier,English,2026-09-06
+L00154,Lyon,Rural/Frontier,English,2024-09-30
+L00155,Washoe,Northern Nevada,English,2024-05-22
+L00156,Washoe,Northern Nevada,English,2026-03-21
+L00157,Washoe,Northern Nevada,English,2024-03-14
+L00158,Humboldt,Rural/Frontier,English,2025-12-29
+L00159,Douglas,Northern Nevada,English,2025-09-20
+L00160,Clark,Southern Nevada,English,2024-12-20
+L00161,Washoe,Northern Nevada,English,2026-03-25
+L00162,Clark,Southern Nevada,English,2025-03-12
+L00163,Humboldt,Rural/Frontier,English,2026-09-07
+L00164,Clark,Southern Nevada,English,2024-12-27
+L00165,Clark,Southern Nevada,Other,2024-10-01
+L00166,Churchill,Rural/Frontier,English,2025-03-01
+L00167,Clark,Southern Nevada,English,2024-06-29
+L00168,Clark,Southern Nevada,English,2023-12-03
+L00169,Storey,Northern Nevada,English,2025-09-19
+L00170,Clark,Southern Nevada,English,2025-06-28
+L00171,Nye,Rural/Frontier,Spanish,2024-07-09
+L00172,Clark,Southern Nevada,Spanish,2024-07-08
+L00173,Clark,Southern Nevada,English,2024-09-26
+L00174,Lyon,Rural/Frontier,Spanish,2024-03-27
+L00175,Douglas,Northern Nevada,English,2025-03-10
+L00176,Washoe,Northern Nevada,Other,2026-03-05
+L00177,Washoe,Northern Nevada,English,2025-12-01
+L00178,Clark,Southern Nevada,Spanish,2026-09-22
+L00179,Douglas,Northern Nevada,Spanish,2026-03-18
+L00180,Clark,Southern Nevada,English,2025-04-08
+L00181,Douglas,Northern Nevada,English,2025-03-25
+L00182,Mineral,Rural/Frontier,English,2024-03-28
+L00183,Clark,Southern Nevada,English,2025-06-10
+L00184,Clark,Southern Nevada,English,2023-12-04
+L00185,Clark,Southern Nevada,English,2026-03-21
+L00186,Clark,Southern Nevada,English,2026-09-26
+L00187,Clark,Southern Nevada,English,2024-03-29
+L00188,Washoe,Northern Nevada,English,2024-06-20
+L00189,Clark,Southern Nevada,English,2026-03-05
+L00190,Clark,Southern Nevada,English,2025-09-16
+L00191,Esmeralda,Rural/Frontier,English,2023-12-05
+L00192,Douglas,Northern Nevada,English,2024-03-06
+L00193,Washoe,Northern Nevada,English,2026-04-03
+L00194,Washoe,Northern Nevada,English,2024-06-23
+L00195,Clark,Southern Nevada,English,2023-12-17
+L00196,Washoe,Northern Nevada,English,2024-03-20
+L00197,Clark,Southern Nevada,English,2025-03-20
+L00198,White Pine,Rural/Frontier,English,2025-09-17
+L00199,Clark,Southern Nevada,Spanish,2025-06-12
+L00200,Clark,Southern Nevada,English,2024-10-01
+L00201,Washoe,Northern Nevada,English,2024-10-02
+L00202,Churchill,Rural/Frontier,English,2025-09-21
+L00203,Clark,Southern Nevada,Spanish,2025-08-22
+L00204,Clark,Southern Nevada,English,2026-06-11
+L00205,Washoe,Northern Nevada,English,2025-03-25
+L00206,Pershing,Rural/Frontier,English,2025-03-24
+L00207,Carson City,Northern Nevada,English,2025-10-09
+L00208,Clark,Southern Nevada,Spanish,2025-12-23
+L00209,Clark,Southern Nevada,English,2025-04-01
+L00210,Clark,Southern Nevada,Spanish,2024-12-23
+L00211,Washoe,Northern Nevada,English,2025-09-08
+L00212,Clark,Southern Nevada,Spanish,2025-12-21
+L00213,Clark,Southern Nevada,English,2026-03-27
+L00214,Washoe,Northern Nevada,English,2026-03-28
+L00215,Clark,Southern Nevada,Spanish,2026-09-10
+L00216,Washoe,Northern Nevada,English,2025-09-19
+L00217,Clark,Southern Nevada,English,2026-03-11
+L00218,Carson City,Northern Nevada,Spanish,2024-06-29
+L00219,Clark,Southern Nevada,Spanish,2025-09-15
+L00220,White Pine,Rural/Frontier,English,2024-03-22
+L00221,Lincoln,Rural/Frontier,English,2025-06-21
+L00222,Esmeralda,Rural/Frontier,English,2024-06-07
+L00223,Storey,Northern Nevada,English,2024-12-04
+L00224,Washoe,Northern Nevada,English,2023-12-28
+L00225,Clark,Southern Nevada,Spanish,2026-09-23
+L00226,Clark,Southern Nevada,Spanish,2026-04-08
+L00227,Clark,Southern Nevada,English,2024-12-31
+L00228,Esmeralda,Rural/Frontier,English,2025-09-05
+L00229,Clark,Southern Nevada,Spanish,2024-02-20
+L00230,White Pine,Rural/Frontier,English,2024-03-28
+L00231,Carson City,Northern Nevada,Spanish,2024-03-29
+L00232,Washoe,Northern Nevada,Spanish,2024-12-17
+L00233,Nye,Rural/Frontier,Other,2023-12-04
+L00234,Esmeralda,Rural/Frontier,English,2024-06-18
+L00235,Clark,Southern Nevada,English,2026-03-22
+L00236,Clark,Southern Nevada,English,2024-11-27
+L00237,Clark,Southern Nevada,English,2025-10-07
+L00238,Elko,Rural/Frontier,Spanish,2025-11-26
+L00239,Clark,Southern Nevada,English,2023-11-26
+L00240,Clark,Southern Nevada,English,2026-06-10
+L00241,Clark,Southern Nevada,English,2026-06-15
+L00242,Washoe,Northern Nevada,English,2026-09-21
+L00243,Washoe,Northern Nevada,English,2024-07-04
+L00244,Lander,Rural/Frontier,English,2026-01-06
+L00245,Washoe,Northern Nevada,English,2026-08-29
+L00246,Carson City,Northern Nevada,English,2025-12-01
+L00247,Washoe,Northern Nevada,English,2024-10-08
+L00248,Washoe,Northern Nevada,English,2024-12-27
+L00249,Nye,Rural/Frontier,English,2025-10-02
+L00250,Clark,Southern Nevada,English,2024-08-28
+L00251,Washoe,Northern Nevada,English,2025-01-05
+L00252,Clark,Southern Nevada,English,2025-06-15
+L00253,Nye,Rural/Frontier,English,2025-07-02
+L00254,Washoe,Northern Nevada,English,2024-09-04
+L00255,Washoe,Northern Nevada,Spanish,2026-03-09
+L00256,Clark,Southern Nevada,English,2024-01-02
+L00257,Clark,Southern Nevada,English,2024-01-04
+L00258,Washoe,Northern Nevada,English,2024-03-23
+L00259,Clark,Southern Nevada,English,2025-04-08
+L00260,Nye,Rural/Frontier,English,2026-08-26
+L00261,Clark,Southern Nevada,English,2024-11-30
+L00262,Nye,Rural/Frontier,English,2025-12-06
+L00263,Carson City,Northern Nevada,English,2026-05-30
+L00264,Washoe,Northern Nevada,English,2024-03-19
+L00265,Clark,Southern Nevada,English,2023-12-09
+L00266,Clark,Southern Nevada,English,2025-09-26
+L00267,Washoe,Northern Nevada,English,2025-02-23
+L00268,Washoe,Northern Nevada,English,2023-11-30
+L00269,Clark,Southern Nevada,English,2026-04-10
+L00270,Clark,Southern Nevada,Spanish,2026-10-04
+L00271,Clark,Southern Nevada,Other,2026-10-04
+L00272,Clark,Southern Nevada,English,2025-05-29
+L00273,Mineral,Rural/Frontier,English,2024-07-10
+L00274,Nye,Rural/Frontier,English,2023-12-17
+L00275,Clark,Southern Nevada,English,2024-06-27
+L00276,Washoe,Northern Nevada,English,2025-09-28
+L00277,Clark,Southern Nevada,English,2024-02-29
+L00278,Clark,Southern Nevada,English,2025-05-28
+L00279,Elko,Rural/Frontier,English,2024-09-22
+L00280,Churchill,Rural/Frontier,Spanish,2025-12-14
+L00281,Clark,Southern Nevada,Spanish,2025-03-02
+L00282,Washoe,Northern Nevada,Spanish,2024-04-11
+L00283,Clark,Southern Nevada,English,2025-05-22
+L00284,Washoe,Northern Nevada,Spanish,2024-02-26
+L00285,Carson City,Northern Nevada,English,2025-12-05
+L00286,Washoe,Northern Nevada,English,2025-05-23
+L00287,Elko,Rural/Frontier,English,2024-07-03
+L00288,Washoe,Northern Nevada,English,2023-12-26
+L00289,Clark,Southern Nevada,English,2026-09-12
+L00290,Washoe,Northern Nevada,English,2026-08-28
+L00291,Clark,Southern Nevada,English,2025-03-15
+L00292,Pershing,Rural/Frontier,English,2023-12-25
+L00293,Clark,Southern Nevada,English,2025-06-17
+L00294,Clark,Southern Nevada,English,2024-12-31
+L00295,Clark,Southern Nevada,Spanish,2023-11-21
+L00296,Clark,Southern Nevada,English,2025-12-11
+L00297,Lyon,Rural/Frontier,English,2024-10-05
+L00298,Clark,Southern Nevada,Spanish,2025-03-09
+L00299,Clark,Southern Nevada,English,2023-12-23
+L00300,Douglas,Northern Nevada,Spanish,2024-12-22
+L00301,Clark,Southern Nevada,English,2025-03-09
+L00302,Elko,Rural/Frontier,English,2024-09-08
+L00303,Elko,Rural/Frontier,Other,2025-06-21
+L00304,Clark,Southern Nevada,English,2024-03-09
+L00305,Washoe,Northern Nevada,Spanish,2024-06-07
+L00306,Pershing,Rural/Frontier,English,2025-09-15
+L00307,Clark,Southern Nevada,English,2026-03-07
+L00308,Washoe,Northern Nevada,English,2024-09-02
+L00309,White Pine,Rural/Frontier,English,2026-03-12
+L00310,Clark,Southern Nevada,English,2026-02-21
+L00311,Clark,Southern Nevada,English,2024-11-29
+L00312,Clark,Southern Nevada,English,2024-09-18
+L00313,Washoe,Northern Nevada,English,2024-04-03
+L00314,Churchill,Rural/Frontier,English,2024-06-24
+L00315,Washoe,Northern Nevada,English,2025-05-24
+L00316,Washoe,Northern Nevada,Spanish,2025-03-09
+L00317,Clark,Southern Nevada,English,2025-09-22
+L00318,Washoe,Northern Nevada,English,2024-09-21
+L00319,Washoe,Northern Nevada,English,2025-02-19
+L00320,Clark,Southern Nevada,English,2025-03-24
+L00321,Clark,Southern Nevada,Spanish,2026-04-01
+L00322,Humboldt,Rural/Frontier,English,2026-09-14
+L00323,Carson City,Northern Nevada,English,2025-01-03
+L00324,Washoe,Northern Nevada,English,2025-12-22
+L00325,Mineral,Rural/Frontier,English,2024-09-29
+L00326,Clark,Southern Nevada,English,2024-12-31
+L00327,White Pine,Rural/Frontier,English,2024-06-11
+L00328,Clark,Southern Nevada,English,2025-11-29
+L00329,Nye,Rural/Frontier,English,2025-06-05
+L00330,Douglas,Northern Nevada,English,2024-03-23
+L00331,Clark,Southern Nevada,English,2024-12-10
+L00332,Clark,Southern Nevada,Spanish,2024-11-30
+L00333,Washoe,Northern Nevada,English,2025-11-27
+L00334,Storey,Northern Nevada,English,2025-09-27
+L00335,Washoe,Northern Nevada,English,2026-06-30
+L00336,Clark,Southern Nevada,English,2026-02-28
+L00337,Clark,Southern Nevada,Spanish,2026-10-03
+L00338,Churchill,Rural/Frontier,English,2025-01-09
+L00339,White Pine,Rural/Frontier,English,2024-06-01
+L00340,Washoe,Northern Nevada,English,2024-05-24
+L00341,Clark,Southern Nevada,English,2025-11-24
+L00342,Nye,Rural/Frontier,English,2025-12-20
+L00343,Clark,Southern Nevada,English,2025-06-26
+L00344,Washoe,Northern Nevada,English,2026-03-16
+L00345,Clark,Southern Nevada,English,2026-09-03
+L00346,Storey,Northern Nevada,English,2024-12-09
+L00347,Humboldt,Rural/Frontier,English,2026-03-30
+L00348,Washoe,Northern Nevada,English,2026-06-21
+L00349,Clark,Southern Nevada,Spanish,2024-10-05
+L00350,Washoe,Northern Nevada,English,2025-06-14
+L00351,Clark,Southern Nevada,English,2026-07-01
+L00352,Clark,Southern Nevada,English,2025-07-03
+L00353,Clark,Southern Nevada,Spanish,2024-03-26
+L00354,Clark,Southern Nevada,English,2024-09-11
+L00355,Nye,Rural/Frontier,English,2026-06-30
+L00356,Lander,Rural/Frontier,Spanish,2024-08-24
+L00357,Lyon,Rural/Frontier,English,2024-03-13
+L00358,Clark,Southern Nevada,English,2024-06-17
+L00359,Washoe,Northern Nevada,Spanish,2024-04-02
+L00360,Pershing,Rural/Frontier,English,2024-12-21
+L00361,Washoe,Northern Nevada,English,2025-10-04
+L00362,Clark,Southern Nevada,English,2024-11-29
+L00363,Washoe,Northern Nevada,English,2026-09-29
+L00364,Washoe,Northern Nevada,Spanish,2024-04-05
+L00365,Clark,Southern Nevada,English,2024-01-02
+L00366,Clark,Southern Nevada,Spanish,2026-09-12
+L00367,Clark,Southern Nevada,Spanish,2025-06-18
+L00368,Washoe,Northern Nevada,English,2025-06-12
+L00369,Washoe,Northern Nevada,English,2026-08-29
+L00370,Washoe,Northern Nevada,English,2023-12-20
+L00371,Washoe,Northern Nevada,English,2026-03-17
+L00372,Clark,Southern Nevada,English,2024-03-14
+L00373,Clark,Southern Nevada,English,2024-06-28
+L00374,Douglas,Northern Nevada,English,2024-12-22
+L00375,Nye,Rural/Frontier,English,2026-03-06
+L00376,Washoe,Northern Nevada,English,2025-09-10
+L00377,Carson City,Northern Nevada,English,2026-01-03
+L00378,Clark,Southern Nevada,English,2025-08-29
+L00379,Carson City,Northern Nevada,English,2025-03-25
+L00380,Washoe,Northern Nevada,English,2026-02-25
+L00381,Esmeralda,Rural/Frontier,English,2025-01-05
+L00382,Clark,Southern Nevada,English,2025-02-28
+L00383,Clark,Southern Nevada,Spanish,2024-12-06
+L00384,Clark,Southern Nevada,English,2026-06-09
+L00385,Clark,Southern Nevada,English,2025-12-17
+L00386,Clark,Southern Nevada,English,2024-12-26
+L00387,Clark,Southern Nevada,English,2025-02-24
+L00388,Washoe,Northern Nevada,English,2024-12-31
+L00389,Storey,Northern Nevada,English,2025-08-27
+L00390,Clark,Southern Nevada,English,2026-02-25
+L00391,Clark,Southern Nevada,English,2025-06-06
+L00392,Elko,Rural/Frontier,English,2026-03-04
+L00393,Clark,Southern Nevada,English,2026-08-27
+L00394,Clark,Southern Nevada,English,2026-06-29
+L00395,Washoe,Northern Nevada,Spanish,2026-07-06
+L00396,Clark,Southern Nevada,English,2025-12-08
+L00397,Nye,Rural/Frontier,English,2025-09-07
+L00398,Clark,Southern Nevada,English,2025-12-30
+L00399,Lyon,Rural/Frontier,English,2026-10-03
+L00400,Lyon,Rural/Frontier,Spanish,2025-03-23
+L00401,Clark,Southern Nevada,English,2024-06-25
+L00402,Clark,Southern Nevada,English,2025-06-17
+L00403,Clark,Southern Nevada,Spanish,2026-09-01
+L00404,Clark,Southern Nevada,English,2025-09-30
+L00405,Churchill,Rural/Frontier,English,2024-08-29
+L00406,Washoe,Northern Nevada,English,2025-11-23
+L00407,Clark,Southern Nevada,English,2025-07-10
+L00408,Clark,Southern Nevada,English,2023-12-31
+L00409,Carson City,Northern Nevada,Spanish,2024-04-05
+L00410,Clark,Southern Nevada,English,2026-04-07
+L00411,Washoe,Northern Nevada,English,2026-03-26
+L00412,Clark,Southern Nevada,English,2023-11-21
+L00413,Washoe,Northern Nevada,English,2024-12-27
+L00414,Clark,Southern Nevada,English,2026-03-04
+L00415,Clark,Southern Nevada,English,2023-12-03
+L00416,Clark,Southern Nevada,English,2023-12-19
+L00417,Washoe,Northern Nevada,English,2025-03-18
+L00418,Clark,Southern Nevada,English,2025-06-03
+L00419,Esmeralda,Rural/Frontier,English,2025-01-01
+L00420,Elko,Rural/Frontier,English,2025-09-20
+L00421,Clark,Southern Nevada,English,2026-03-07
+L00422,Clark,Southern Nevada,English,2025-12-17
+L00423,Washoe,Northern Nevada,English,2024-03-19
+L00424,Eureka,Rural/Frontier,English,2025-05-31
+L00425,Mineral,Rural/Frontier,English,2026-02-25
+L00426,Pershing,Rural/Frontier,English,2024-06-24
+L00427,Washoe,Northern Nevada,Spanish,2024-08-28
+L00428,Clark,Southern Nevada,English,2024-03-01
+L00429,Elko,Rural/Frontier,English,2026-06-16
+L00430,Clark,Southern Nevada,English,2026-06-04
+L00431,Clark,Southern Nevada,English,2025-12-26
+L00432,Elko,Rural/Frontier,English,2025-06-14
+L00433,Clark,Southern Nevada,English,2023-12-13
+L00434,Douglas,Northern Nevada,English,2025-10-05
+L00435,Clark,Southern Nevada,English,2024-07-02
+L00436,Churchill,Rural/Frontier,English,2025-12-22
+L00437,Washoe,Northern Nevada,English,2026-04-02
+L00438,Lyon,Rural/Frontier,English,2025-03-21
+L00439,Humboldt,Rural/Frontier,English,2025-12-10
+L00440,Clark,Southern Nevada,English,2026-06-07
+L00441,Clark,Southern Nevada,English,2024-11-27
+L00442,Washoe,Northern Nevada,English,2024-05-31
+L00443,Clark,Southern Nevada,Spanish,2024-06-17
+L00444,Carson City,Northern Nevada,English,2025-12-17
+L00445,Washoe,Northern Nevada,English,2025-12-12
+L00446,Washoe,Northern Nevada,English,2026-07-03
+L00447,Esmeralda,Rural/Frontier,English,2025-05-29
+L00448,Washoe,Northern Nevada,English,2024-11-26
+L00449,Douglas,Northern Nevada,English,2026-09-03
+L00450,Carson City,Northern Nevada,English,2026-09-29
+L00451,Clark,Southern Nevada,English,2024-10-02
+L00452,Pershing,Rural/Frontier,English,2026-06-22
+L00453,Washoe,Northern Nevada,English,2024-06-01
+L00454,Douglas,Northern Nevada,Spanish,2024-09-01
+L00455,Washoe,Northern Nevada,Spanish,2024-06-12
+L00456,Clark,Southern Nevada,English,2024-12-17
+L00457,Washoe,Northern Nevada,English,2026-04-01
+L00458,Mineral,Rural/Frontier,Spanish,2023-12-03
+L00459,Clark,Southern Nevada,English,2026-04-02
+L00460,Clark,Southern Nevada,Spanish,2024-03-02
+L00461,Washoe,Northern Nevada,English,2025-06-09
+L00462,Clark,Southern Nevada,English,2025-01-02
+L00463,Washoe,Northern Nevada,English,2023-12-21
+L00464,Clark,Southern Nevada,English,2024-04-06
+L00465,Clark,Southern Nevada,English,2025-12-20
+L00466,Churchill,Rural/Frontier,English,2024-07-03
+L00467,Clark,Southern Nevada,English,2026-07-04
+L00468,Clark,Southern Nevada,English,2026-05-29
+L00469,Washoe,Northern Nevada,English,2025-12-24
+L00470,Washoe,Northern Nevada,English,2024-03-31
+L00471,Clark,Southern Nevada,English,2025-06-27
+L00472,Carson City,Northern Nevada,English,2026-09-07
+L00473,Clark,Southern Nevada,English,2025-10-04
+L00474,Mineral,Rural/Frontier,English,2023-11-23
+L00475,Washoe,Northern Nevada,English,2023-12-30
+L00476,Nye,Rural/Frontier,English,2024-12-17
+L00477,Carson City,Northern Nevada,English,2026-09-22
+L00478,Unknown,Unknown,English,2026-09-25
+L00479,Clark,Southern Nevada,English,2026-03-22
+L00480,Clark,Southern Nevada,English,2026-06-30
+L00481,Clark,Southern Nevada,English,2026-06-15
+L00482,Mineral,Rural/Frontier,English,2024-12-28
+L00483,Clark,Southern Nevada,Spanish,2025-09-07
+L00484,Clark,Southern Nevada,English,2024-09-04
+L00485,Washoe,Northern Nevada,English,2024-12-26
+L00486,Clark,Southern Nevada,English,2026-08-22
+L00487,Clark,Southern Nevada,English,2024-09-20
+L00488,Clark,Southern Nevada,English,2025-09-02
+L00489,Washoe,Northern Nevada,English,2024-12-30
+L00490,Unknown,Unknown,English,2025-03-12
+L00491,Washoe,Northern Nevada,English,2024-06-07
+L00492,Clark,Southern Nevada,English,2024-08-26
+L00493,Washoe,Northern Nevada,English,2025-09-08
+L00494,Washoe,Northern Nevada,English,2024-06-27
+L00495,Lyon,Rural/Frontier,Spanish,2025-10-04
+L00496,Nye,Rural/Frontier,Spanish,2026-09-01
+L00497,Lincoln,Rural/Frontier,English,2023-11-23
+L00498,Clark,Southern Nevada,English,2026-08-21
+L00499,Clark,Southern Nevada,English,2024-06-10
+L00500,Carson City,Northern Nevada,Spanish,2024-09-21
+L00501,Clark,Southern Nevada,Spanish,2026-09-22
+L00502,Washoe,Northern Nevada,English,2026-02-21
+L00503,Humboldt,Rural/Frontier,English,2024-12-29
+L00504,Clark,Southern Nevada,English,2025-03-02
+L00505,Lyon,Rural/Frontier,English,2025-09-05
+L00506,Eureka,Rural/Frontier,English,2025-06-10
+L00507,Pershing,Rural/Frontier,Spanish,2026-03-21
+L00508,Clark,Southern Nevada,English,2026-06-22
+L00509,Clark,Southern Nevada,English,2026-09-30
+L00510,Washoe,Northern Nevada,Spanish,2024-09-16
+L00511,Washoe,Northern Nevada,Spanish,2025-06-23
+L00512,Clark,Southern Nevada,Other,2025-12-14
+L00513,Clark,Southern Nevada,English,2024-09-20
+L00514,Douglas,Northern Nevada,English,2025-09-08
+L00515,Clark,Southern Nevada,English,2025-02-21
+L00516,White Pine,Rural/Frontier,English,2026-01-07
+L00517,Douglas,Northern Nevada,English,2024-05-28
+L00518,Washoe,Northern Nevada,English,2024-11-29
+L00519,White Pine,Rural/Frontier,English,2023-12-16
+L00520,Washoe,Northern Nevada,English,2023-11-28
+L00521,Clark,Southern Nevada,English,2026-04-07
+L00522,Humboldt,Rural/Frontier,English,2026-06-26
+L00523,Washoe,Northern Nevada,English,2026-03-15
+L00524,Clark,Southern Nevada,English,2026-01-01
+L00525,Nye,Rural/Frontier,English,2025-08-31
+L00526,Washoe,Northern Nevada,Spanish,2025-12-16
+L00527,Carson City,Northern Nevada,English,2026-05-31
+L00528,Lincoln,Rural/Frontier,Spanish,2025-12-27
+L00529,Washoe,Northern Nevada,English,2025-05-25
+L00530,Washoe,Northern Nevada,English,2026-09-02
+L00531,Clark,Southern Nevada,English,2026-09-29
+L00532,Clark,Southern Nevada,Spanish,2025-03-19
+L00533,Washoe,Northern Nevada,English,2024-03-07
+L00534,Nye,Rural/Frontier,English,2024-12-03
+L00535,Douglas,Northern Nevada,English,2025-07-07
+L00536,Carson City,Northern Nevada,English,2024-06-26
+L00537,Clark,Southern Nevada,English,2026-03-13
+L00538,Clark,Southern Nevada,English,2024-06-01
+L00539,Washoe,Northern Nevada,English,2025-07-03
+L00540,White Pine,Rural/Frontier,English,2024-09-20
+L00541,Clark,Southern Nevada,English,2026-02-25
+L00542,Clark,Southern Nevada,English,2025-05-28
+L00543,Washoe,Northern Nevada,English,2025-09-13
+L00544,Washoe,Northern Nevada,English,2025-03-19
+L00545,Carson City,Northern Nevada,Other,2024-07-05
+L00546,Pershing,Rural/Frontier,English,2024-06-12
+L00547,Washoe,Northern Nevada,Unknown,2024-12-14
+L00548,Washoe,Northern Nevada,English,2025-12-17
+L00549,Clark,Southern Nevada,English,2025-06-21
+L00550,Washoe,Northern Nevada,English,2025-08-22
+L00551,Clark,Southern Nevada,English,2026-01-10
+L00552,Clark,Southern Nevada,Spanish,2024-06-03
+L00553,Clark,Southern Nevada,English,2026-04-03
+L00554,Nye,Rural/Frontier,Spanish,2024-05-31
+L00555,Washoe,Northern Nevada,English,2025-12-31
+L00556,Clark,Southern Nevada,English,2023-12-26
+L00557,Washoe,Northern Nevada,English,2025-09-17
+L00558,Nye,Rural/Frontier,English,2024-12-01
+L00559,Washoe,Northern Nevada,English,2025-04-05
+L00560,Washoe,Northern Nevada,English,2025-12-06
+L00561,Washoe,Northern Nevada,English,2026-06-11
+L00562,Clark,Southern Nevada,English,2024-09-03
+L00563,Lander,Rural/Frontier,English,2025-12-12
+L00564,Clark,Southern Nevada,English,2026-09-08
+L00565,Washoe,Northern Nevada,Other,2023-12-07
+L00566,Washoe,Northern Nevada,English,2026-07-05
+L00567,Clark,Southern Nevada,Other,2024-10-04
+L00568,Clark,Southern Nevada,English,2025-08-25
+L00569,Clark,Southern Nevada,Spanish,2026-09-01
+L00570,Clark,Southern Nevada,English,2025-08-28
+L00571,Clark,Southern Nevada,English,2026-06-25
+L00572,Clark,Southern Nevada,English,2026-04-03
+L00573,Washoe,Northern Nevada,Spanish,2024-12-31
+L00574,Clark,Southern Nevada,English,2025-03-28
+L00575,Lyon,Rural/Frontier,English,2025-06-30
+L00576,Clark,Southern Nevada,English,2023-12-11
+L00577,Carson City,Northern Nevada,English,2025-03-09
+L00578,Clark,Southern Nevada,English,2024-07-08
+L00579,Clark,Southern Nevada,English,2025-03-25
+L00580,Washoe,Northern Nevada,English,2025-03-23
+L00581,Washoe,Northern Nevada,English,2025-06-11
+L00582,Washoe,Northern Nevada,English,2024-09-05
+L00583,Clark,Southern Nevada,English,2023-12-07
+L00584,Douglas,Northern Nevada,English,2025-09-30
+L00585,Washoe,Northern Nevada,English,2025-06-20
+L00586,Washoe,Northern Nevada,English,2024-03-29
+L00587,Pershing,Rural/Frontier,English,2026-07-02
+L00588,Clark,Southern Nevada,English,2026-03-21
+L00589,Clark,Southern Nevada,Spanish,2025-11-30
+L00590,Storey,Northern Nevada,English,2026-03-05
+L00591,Clark,Southern Nevada,English,2023-11-21
+L00592,Clark,Southern Nevada,Spanish,2026-06-26
+L00593,Clark,Southern Nevada,English,2026-06-06
+L00594,Unknown,Unknown,English,2024-01-11
+L00595,Washoe,Northern Nevada,English,2024-06-01
+L00596,Washoe,Northern Nevada,Spanish,2024-02-29
+L00597,Washoe,Northern Nevada,English,2024-07-11
+L00598,Clark,Southern Nevada,English,2024-12-12
+L00599,Clark,Southern Nevada,Spanish,2025-12-23
+L00600,Clark,Southern Nevada,English,2024-12-15
+L00601,Clark,Southern Nevada,English,2023-12-20
+L00602,Clark,Southern Nevada,Spanish,2026-06-10
+L00603,Unknown,Unknown,English,2024-05-24
+L00604,Clark,Southern Nevada,English,2025-12-21
+L00605,Clark,Southern Nevada,Spanish,2025-10-04
+L00606,Mineral,Rural/Frontier,English,2026-08-25
+L00607,Clark,Southern Nevada,Spanish,2025-05-28
+L00608,Washoe,Northern Nevada,English,2024-06-06
+L00609,Elko,Rural/Frontier,English,2026-05-26
+L00610,Humboldt,Rural/Frontier,English,2024-09-16
+L00611,Washoe,Northern Nevada,English,2024-03-14
+L00612,Douglas,Northern Nevada,English,2025-10-03
+L00613,Clark,Southern Nevada,English,2024-06-25
+L00614,Clark,Southern Nevada,English,2024-11-28
+L00615,Clark,Southern Nevada,English,2025-08-26
+L00616,Clark,Southern Nevada,English,2026-09-16
+L00617,Washoe,Northern Nevada,English,2026-02-23
+L00618,Eureka,Rural/Frontier,English,2026-03-07
+L00619,Humboldt,Rural/Frontier,English,2024-01-08
+L00620,Pershing,Rural/Frontier,English,2025-12-13
+L00621,Humboldt,Rural/Frontier,Spanish,2026-06-01
+L00622,Clark,Southern Nevada,English,2024-09-15
+L00623,Elko,Rural/Frontier,English,2024-09-22
+L00624,White Pine,Rural/Frontier,English,2023-12-31
+L00625,Clark,Southern Nevada,English,2024-12-15
+L00626,Douglas,Northern Nevada,English,2026-03-30
+L00627,Clark,Southern Nevada,Spanish,2026-06-19
+L00628,Washoe,Northern Nevada,English,2025-08-29
+L00629,Storey,Northern Nevada,English,2026-03-17
+L00630,Clark,Southern Nevada,English,2025-02-26
+L00631,Lyon,Rural/Frontier,English,2024-03-19
+L00632,Elko,Rural/Frontier,Spanish,2024-09-28
+L00633,Washoe,Northern Nevada,English,2024-09-01
+L00634,Washoe,Northern Nevada,English,2026-03-10
+L00635,Clark,Southern Nevada,English,2024-09-10
+L00636,Clark,Southern Nevada,English,2024-12-10
+L00637,Clark,Southern Nevada,English,2025-03-01
+L00638,Washoe,Northern Nevada,Spanish,2025-10-01
+L00639,Douglas,Northern Nevada,English,2025-06-21
+L00640,Clark,Southern Nevada,Spanish,2026-02-26
+L00641,Elko,Rural/Frontier,English,2025-11-29
+L00642,Clark,Southern Nevada,Unknown,2026-10-03
+L00643,Clark,Southern Nevada,English,2025-06-07
+L00644,Elko,Rural/Frontier,English,2026-06-20
+L00645,Clark,Southern Nevada,Spanish,2026-09-10
+L00646,Elko,Rural/Frontier,English,2025-11-28
+L00647,Clark,Southern Nevada,English,2025-03-25
+L00648,Washoe,Northern Nevada,Spanish,2026-05-31
+L00649,Washoe,Northern Nevada,Spanish,2025-06-19
+L00650,Washoe,Northern Nevada,English,2026-04-08
+L00651,Washoe,Northern Nevada,English,2023-12-11
+L00652,Washoe,Northern Nevada,English,2026-09-24
+L00653,Churchill,Rural/Frontier,Spanish,2025-10-04
+L00654,Clark,Southern Nevada,English,2024-12-22
+L00655,Clark,Southern Nevada,English,2025-12-01
+L00656,Clark,Southern Nevada,English,2024-09-12
+L00657,Clark,Southern Nevada,English,2025-03-16
+L00658,Washoe,Northern Nevada,English,2023-12-18
+L00659,Lyon,Rural/Frontier,Spanish,2025-04-06
+L00660,Clark,Southern Nevada,English,2024-03-14
+L00661,Carson City,Northern Nevada,Spanish,2024-06-10
+L00662,Clark,Southern Nevada,English,2024-09-22
+L00663,Clark,Southern Nevada,English,2023-12-17
+L00664,White Pine,Rural/Frontier,English,2025-12-03
+L00665,Clark,Southern Nevada,English,2024-03-19
+L00666,Elko,Rural/Frontier,English,2026-03-22
+L00667,Clark,Southern Nevada,English,2026-04-03
+L00668,Clark,Southern Nevada,English,2025-09-04
+L00669,Washoe,Northern Nevada,English,2026-03-24
+L00670,Clark,Southern Nevada,Spanish,2025-09-27
+L00671,Lincoln,Rural/Frontier,English,2025-06-02
+L00672,Clark,Southern Nevada,English,2026-04-01
+L00673,Clark,Southern Nevada,Unknown,2025-10-03
+L00674,Washoe,Northern Nevada,English,2024-09-10
+L00675,Lyon,Rural/Frontier,English,2023-12-13
+L00676,Washoe,Northern Nevada,English,2026-03-02
+L00677,Nye,Rural/Frontier,English,2025-01-02
+L00678,Clark,Southern Nevada,Spanish,2026-03-19
+L00679,Washoe,Northern Nevada,English,2026-02-24
+L00680,Clark,Southern Nevada,English,2024-09-16
+L00681,Clark,Southern Nevada,English,2025-12-18
+L00682,Carson City,Northern Nevada,English,2024-09-08
+L00683,Douglas,Northern Nevada,English,2026-06-05
+L00684,Douglas,Northern Nevada,English,2025-09-24
+L00685,Washoe,Northern Nevada,Spanish,2026-02-28
+L00686,Humboldt,Rural/Frontier,English,2025-11-23
+L00687,Lyon,Rural/Frontier,English,2025-02-27
+L00688,Washoe,Northern Nevada,English,2025-07-07
+L00689,Washoe,Northern Nevada,English,2024-03-20
+L00690,Clark,Southern Nevada,English,2024-12-25
+L00691,White Pine,Rural/Frontier,English,2026-03-28
+L00692,Esmeralda,Rural/Frontier,English,2024-03-06
+L00693,Washoe,Northern Nevada,English,2026-04-07
+L00694,Clark,Southern Nevada,English,2025-06-12
+L00695,Clark,Southern Nevada,English,2024-09-16
+L00696,Clark,Southern Nevada,Spanish,2025-06-29
+L00697,Washoe,Northern Nevada,English,2025-03-28
+L00698,Carson City,Northern Nevada,Other,2025-03-16
+L00699,Clark,Southern Nevada,Spanish,2025-09-18
+L00700,Douglas,Northern Nevada,English,2026-01-02
+L00701,Clark,Southern Nevada,English,2026-03-25
+L00702,Esmeralda,Rural/Frontier,English,2024-08-24
+L00703,Clark,Southern Nevada,English,2026-09-07
+L00704,Clark,Southern Nevada,English,2025-02-25
+L00705,Clark,Southern Nevada,English,2024-12-31
+L00706,Washoe,Northern Nevada,English,2024-06-16
+L00707,Clark,Southern Nevada,English,2026-05-25
+L00708,Clark,Southern Nevada,English,2025-05-29
+L00709,Lyon,Rural/Frontier,English,2025-09-26
+L00710,Clark,Southern Nevada,English,2025-06-03
+L00711,Clark,Southern Nevada,English,2026-09-17
+L00712,Clark,Southern Nevada,English,2024-09-19
+L00713,Carson City,Northern Nevada,English,2025-09-20
+L00714,Washoe,Northern Nevada,English,2023-11-23
+L00715,Clark,Southern Nevada,English,2024-11-27
+L00716,Esmeralda,Rural/Frontier,English,2024-12-22
+L00717,Eureka,Rural/Frontier,Spanish,2025-06-04
+L00718,Washoe,Northern Nevada,English,2023-12-10
+L00719,Lyon,Rural/Frontier,Spanish,2026-07-09
+L00720,Clark,Southern Nevada,English,2024-12-24
+L00721,Clark,Southern Nevada,English,2024-10-04
+L00722,Clark,Southern Nevada,English,2026-03-12
+L00723,Clark,Southern Nevada,English,2025-03-12
+L00724,Clark,Southern Nevada,Spanish,2026-07-06
+L00725,Clark,Southern Nevada,English,2024-12-18
+L00726,Clark,Southern Nevada,English,2023-12-21
+L00727,Clark,Southern Nevada,Other,2024-04-08
+L00728,Carson City,Northern Nevada,English,2026-10-06
+L00729,Clark,Southern Nevada,English,2026-06-20
+L00730,Elko,Rural/Frontier,English,2025-09-03
+L00731,Clark,Southern Nevada,English,2024-03-22
+L00732,Washoe,Northern Nevada,English,2025-03-09
+L00733,Washoe,Northern Nevada,English,2025-02-20
+L00734,Clark,Southern Nevada,English,2024-10-11
+L00735,Nye,Rural/Frontier,English,2025-09-21
+L00736,Washoe,Northern Nevada,English,2024-06-23
+L00737,Washoe,Northern Nevada,Other,2024-12-26
+L00738,White Pine,Rural/Frontier,English,2024-03-09
+L00739,Humboldt,Rural/Frontier,English,2026-09-18
+L00740,Clark,Southern Nevada,English,2026-03-17
+L00741,Lyon,Rural/Frontier,English,2024-12-28
+L00742,Washoe,Northern Nevada,English,2024-11-26
+L00743,Storey,Northern Nevada,Spanish,2026-06-01
+L00744,Clark,Southern Nevada,Spanish,2025-09-26
+L00745,Churchill,Rural/Frontier,Spanish,2024-12-16
+L00746,Lyon,Rural/Frontier,English,2026-03-24
+L00747,Washoe,Northern Nevada,English,2026-01-06
+L00748,Clark,Southern Nevada,English,2025-10-08
+L00749,Clark,Southern Nevada,Spanish,2023-12-24
+L00750,Churchill,Rural/Frontier,English,2025-08-31
+L00751,Nye,Rural/Frontier,English,2026-02-28
+L00752,Clark,Southern Nevada,English,2025-03-25
+L00753,Clark,Southern Nevada,English,2025-08-28
+L00754,Clark,Southern Nevada,English,2025-05-21
+L00755,Clark,Southern Nevada,English,2024-02-23
+L00756,Clark,Southern Nevada,English,2024-01-11
+L00757,Churchill,Rural/Frontier,English,2024-03-09
+L00758,Washoe,Northern Nevada,Spanish,2025-10-01
+L00759,Clark,Southern Nevada,Spanish,2025-06-29
+L00760,Clark,Southern Nevada,Spanish,2025-12-26
+L00761,Washoe,Northern Nevada,Spanish,2024-12-04
+L00762,Nye,Rural/Frontier,Spanish,2024-03-15
+L00763,Washoe,Northern Nevada,English,2024-06-14
+L00764,Washoe,Northern Nevada,Spanish,2026-09-01
+L00765,Clark,Southern Nevada,Spanish,2025-06-22
+L00766,Washoe,Northern Nevada,English,2025-03-19
+L00767,Clark,Southern Nevada,Spanish,2025-12-02
+L00768,Elko,Rural/Frontier,Spanish,2024-03-01
+L00769,Carson City,Northern Nevada,English,2024-03-14
+L00770,Elko,Rural/Frontier,English,2025-01-02
+L00771,Washoe,Northern Nevada,Spanish,2024-06-11
+L00772,Douglas,Northern Nevada,English,2026-08-27
+L00773,Clark,Southern Nevada,English,2026-03-11
+L00774,Clark,Southern Nevada,English,2026-08-24
+L00775,Nye,Rural/Frontier,English,2025-07-03
+L00776,Humboldt,Rural/Frontier,English,2024-03-21
+L00777,Clark,Southern Nevada,English,2024-03-12
+L00778,Washoe,Northern Nevada,Spanish,2025-06-17
+L00779,Unknown,Unknown,English,2026-06-07
+L00780,Clark,Southern Nevada,English,2024-09-21
+L00781,Nye,Rural/Frontier,English,2026-09-15
+L00782,Washoe,Northern Nevada,English,2025-06-19
+L00783,Washoe,Northern Nevada,English,2025-07-04
+L00784,Washoe,Northern Nevada,English,2023-12-19
+L00785,Clark,Southern Nevada,English,2025-06-11
+L00786,Washoe,Northern Nevada,English,2025-06-28
+L00787,Clark,Southern Nevada,English,2025-09-19
+L00788,Nye,Rural/Frontier,English,2023-12-06
+L00789,Washoe,Northern Nevada,English,2026-03-09
+L00790,Washoe,Northern Nevada,English,2026-03-07
+L00791,Clark,Southern Nevada,English,2026-05-25
+L00792,Elko,Rural/Frontier,English,2026-02-25
+L00793,Clark,Southern Nevada,English,2024-04-01
+L00794,Douglas,Northern Nevada,English,2026-03-24
+L00795,Clark,Southern Nevada,Other,2024-01-10
+L00796,Clark,Southern Nevada,English,2025-02-24
+L00797,Washoe,Northern Nevada,English,2024-12-30
+L00798,Clark,Southern Nevada,English,2024-12-22
+L00799,Carson City,Northern Nevada,Spanish,2024-12-27
+L00800,Washoe,Northern Nevada,Spanish,2024-09-01
+L00801,Clark,Southern Nevada,English,2026-06-16
+L00802,Carson City,Northern Nevada,Spanish,2025-09-20
+L00803,Clark,Southern Nevada,English,2023-12-08
+L00804,Humboldt,Rural/Frontier,English,2023-12-03
+L00805,Clark,Southern Nevada,English,2024-06-05
+L00806,Washoe,Northern Nevada,English,2026-04-09
+L00807,Clark,Southern Nevada,English,2024-06-04
+L00808,Douglas,Northern Nevada,Other,2024-09-21
+L00809,Washoe,Northern Nevada,Unknown,2025-01-05
+L00810,Clark,Southern Nevada,Spanish,2025-10-04
+L00811,Washoe,Northern Nevada,English,2024-09-03
+L00812,Washoe,Northern Nevada,English,2026-03-06
+L00813,Clark,Southern Nevada,English,2025-03-15
+L00814,Clark,Southern Nevada,English,2024-12-13
+L00815,Storey,Northern Nevada,English,2026-03-17
+L00816,Carson City,Northern Nevada,Spanish,2024-03-18
+L00817,Clark,Southern Nevada,English,2026-03-21
+L00818,Clark,Southern Nevada,English,2026-06-21
+L00819,Clark,Southern Nevada,English,2025-06-17
+L00820,Clark,Southern Nevada,English,2026-09-06
+L00821,Carson City,Northern Nevada,English,2024-02-28
+L00822,Clark,Southern Nevada,English,2025-10-03
+L00823,Clark,Southern Nevada,Spanish,2024-02-29
+L00824,Washoe,Northern Nevada,Spanish,2025-06-05
+L00825,Clark,Southern Nevada,English,2026-06-07
+L00826,Clark,Southern Nevada,English,2025-07-04
+L00827,Clark,Southern Nevada,English,2024-10-06
+L00828,Douglas,Northern Nevada,Spanish,2025-12-24
+L00829,Carson City,Northern Nevada,Spanish,2025-06-21
+L00830,Clark,Southern Nevada,Spanish,2024-05-22
+L00831,Clark,Southern Nevada,English,2025-12-10
+L00832,Clark,Southern Nevada,English,2024-12-03
+L00833,Douglas,Northern Nevada,Spanish,2024-11-30
+L00834,Clark,Southern Nevada,English,2025-03-06
+L00835,Clark,Southern Nevada,English,2026-04-06
+L00836,Clark,Southern Nevada,English,2024-05-30
+L00837,Washoe,Northern Nevada,English,2023-12-21
+L00838,White Pine,Rural/Frontier,English,2026-09-20
+L00839,Clark,Southern Nevada,English,2026-07-04
+L00840,Washoe,Northern Nevada,English,2024-03-22
+L00841,Washoe,Northern Nevada,English,2025-09-28
+L00842,Clark,Southern Nevada,English,2024-03-31
+L00843,Clark,Southern Nevada,English,2024-09-02
+L00844,Washoe,Northern Nevada,English,2026-01-11
+L00845,Pershing,Rural/Frontier,Other,2026-05-24
+L00846,Lyon,Rural/Frontier,English,2024-12-22
+L00847,Lyon,Rural/Frontier,English,2025-11-27
+L00848,Clark,Southern Nevada,English,2024-09-26
+L00849,Lyon,Rural/Frontier,English,2025-06-23
+L00850,Washoe,Northern Nevada,English,2025-03-17
+L00851,Clark,Southern Nevada,English,2025-12-11
+L00852,Clark,Southern Nevada,English,2024-09-06
+L00853,Washoe,Northern Nevada,English,2025-12-24
+L00854,Washoe,Northern Nevada,English,2026-03-27
+L00855,Clark,Southern Nevada,Spanish,2024-06-21
+L00856,Clark,Southern Nevada,English,2025-06-29
+L00857,Lincoln,Rural/Frontier,Spanish,2025-03-27
+L00858,Washoe,Northern Nevada,English,2024-09-05
+L00859,Clark,Southern Nevada,English,2024-07-06
+L00860,Douglas,Northern Nevada,English,2025-10-01
+L00861,Clark,Southern Nevada,English,2025-09-04
+L00862,Carson City,Northern Nevada,English,2023-12-14
+L00863,Clark,Southern Nevada,English,2025-04-08
+L00864,Clark,Southern Nevada,English,2025-10-08
+L00865,Washoe,Northern Nevada,English,2024-06-14
+L00866,Washoe,Northern Nevada,English,2026-04-01
+L00867,Lyon,Rural/Frontier,English,2025-07-06
+L00868,Clark,Southern Nevada,English,2024-11-30
+L00869,Lincoln,Rural/Frontier,Spanish,2025-12-15
+L00870,Clark,Southern Nevada,English,2026-03-01
+L00871,Clark,Southern Nevada,English,2025-09-12
+L00872,Washoe,Northern Nevada,English,2026-06-27
+L00873,Clark,Southern Nevada,English,2024-12-03
+L00874,Nye,Rural/Frontier,English,2025-10-08
+L00875,Clark,Southern Nevada,Spanish,2024-09-09
+L00876,Elko,Rural/Frontier,Other,2026-09-09
+L00877,Carson City,Northern Nevada,English,2024-06-24
+L00878,Clark,Southern Nevada,English,2025-09-03
+L00879,Clark,Southern Nevada,English,2024-06-07
+L00880,Clark,Southern Nevada,English,2025-03-19
+L00881,Clark,Southern Nevada,Spanish,2024-05-27
+L00882,White Pine,Rural/Frontier,Spanish,2025-03-31
+L00883,Clark,Southern Nevada,English,2026-09-08
+L00884,Lander,Rural/Frontier,Spanish,2026-05-30
+L00885,Clark,Southern Nevada,English,2024-02-23
+L00886,Washoe,Northern Nevada,English,2024-09-14
+L00887,Clark,Southern Nevada,English,2025-01-06
+L00888,White Pine,Rural/Frontier,English,2024-12-12
+L00889,Carson City,Northern Nevada,Spanish,2026-09-06
+L00890,White Pine,Rural/Frontier,English,2025-06-01
+L00891,Clark,Southern Nevada,English,2026-06-24
+L00892,Washoe,Northern Nevada,English,2025-09-23
+L00893,Washoe,Northern Nevada,English,2025-12-06
+L00894,Lincoln,Rural/Frontier,Spanish,2025-06-17
+L00895,Elko,Rural/Frontier,English,2024-02-24
+L00896,Washoe,Northern Nevada,English,2024-02-21
+L00897,Washoe,Northern Nevada,Spanish,2025-06-07
+L00898,Washoe,Northern Nevada,Spanish,2026-01-02
+L00899,Washoe,Northern Nevada,English,2024-01-03
+L00900,Washoe,Northern Nevada,English,2025-06-13
+L00901,Washoe,Northern Nevada,English,2026-06-25
+L00902,Washoe,Northern Nevada,English,2026-02-20
+L00903,Washoe,Northern Nevada,English,2026-09-08
+L00904,Clark,Southern Nevada,English,2026-03-13
+L00905,Clark,Southern Nevada,English,2024-07-06
+L00906,Clark,Southern Nevada,English,2025-09-25
+L00907,Clark,Southern Nevada,Spanish,2026-04-05
+L00908,Washoe,Northern Nevada,English,2025-05-28
+L00909,Washoe,Northern Nevada,English,2026-09-14
+L00910,Nye,Rural/Frontier,English,2025-03-23
+L00911,Clark,Southern Nevada,English,2025-03-19
+L00912,Clark,Southern Nevada,Spanish,2024-03-02
+L00913,Lander,Rural/Frontier,Spanish,2026-06-26
+L00914,Washoe,Northern Nevada,English,2024-07-02
+L00915,Nye,Rural/Frontier,English,2024-06-30
+L00916,Washoe,Northern Nevada,Spanish,2025-12-03
+L00917,Clark,Southern Nevada,English,2025-03-31
+L00918,Lander,Rural/Frontier,English,2026-04-03
+L00919,Humboldt,Rural/Frontier,English,2025-02-26
+L00920,Clark,Southern Nevada,English,2025-06-21
+L00921,Douglas,Northern Nevada,Spanish,2025-02-27
+L00922,Lyon,Rural/Frontier,Spanish,2024-03-02
+L00923,Clark,Southern Nevada,Spanish,2025-09-30
+L00924,Clark,Southern Nevada,English,2025-12-15
+L00925,Clark,Southern Nevada,English,2026-06-20
+L00926,Elko,Rural/Frontier,English,2023-12-10
+L00927,Clark,Southern Nevada,Other,2025-12-12
+L00928,Clark,Southern Nevada,English,2023-12-20
+L00929,Eureka,Rural/Frontier,English,2026-06-23
+L00930,Churchill,Rural/Frontier,English,2026-09-16
+L00931,Washoe,Northern Nevada,English,2025-08-31
+L00932,Clark,Southern Nevada,Unknown,2026-09-21
+L00933,Esmeralda,Rural/Frontier,English,2025-09-25
+L00934,Clark,Southern Nevada,English,2025-03-30
+L00935,Clark,Southern Nevada,English,2024-01-03
+L00936,Clark,Southern Nevada,Spanish,2025-09-04
+L00937,Clark,Southern Nevada,English,2026-09-16
+L00938,Elko,Rural/Frontier,English,2025-12-19
+L00939,Clark,Southern Nevada,English,2024-08-23
+L00940,Clark,Southern Nevada,English,2026-03-04
+L00941,Clark,Southern Nevada,Spanish,2024-03-21
+L00942,Eureka,Rural/Frontier,Spanish,2026-03-25
+L00943,Washoe,Northern Nevada,Spanish,2024-08-30
+L00944,Clark,Southern Nevada,Spanish,2026-06-13
+L00945,Washoe,Northern Nevada,English,2024-12-27
+L00946,Clark,Southern Nevada,Spanish,2024-06-20
+L00947,Washoe,Northern Nevada,English,2025-12-21
+L00948,Washoe,Northern Nevada,English,2025-03-08
+L00949,Carson City,Northern Nevada,English,2025-06-10
+L00950,Washoe,Northern Nevada,English,2025-04-05
+L00951,Lander,Rural/Frontier,English,2026-06-14
+L00952,Clark,Southern Nevada,Spanish,2024-03-14
+L00953,Washoe,Northern Nevada,English,2025-05-31
+L00954,Clark,Southern Nevada,English,2026-09-01
+L00955,Washoe,Northern Nevada,Spanish,2026-08-30
+L00956,Carson City,Northern Nevada,English,2024-12-02
+L00957,Clark,Southern Nevada,English,2026-09-27
+L00958,Clark,Southern Nevada,English,2025-05-22
+L00959,Clark,Southern Nevada,English,2025-12-05
+L00960,Lander,Rural/Frontier,English,2025-03-14
+L00961,Washoe,Northern Nevada,English,2025-06-24
+L00962,Clark,Southern Nevada,Spanish,2023-12-23
+L00963,Clark,Southern Nevada,Spanish,2025-12-26
+L00964,Clark,Southern Nevada,English,2024-12-03
+L00965,Washoe,Northern Nevada,Spanish,2025-02-22
+L00966,Clark,Southern Nevada,English,2026-06-20
+L00967,Washoe,Northern Nevada,English,2025-09-18
+L00968,Lyon,Rural/Frontier,English,2026-09-04
+L00969,Carson City,Northern Nevada,English,2026-08-27
+L00970,Clark,Southern Nevada,English,2024-03-17
+L00971,Clark,Southern Nevada,English,2026-03-08
+L00972,Carson City,Northern Nevada,English,2023-12-26
+L00973,Douglas,Northern Nevada,English,2026-04-01
+L00974,Mineral,Rural/Frontier,English,2024-05-27
+L00975,Lander,Rural/Frontier,English,2026-10-05
+L00976,Humboldt,Rural/Frontier,English,2025-06-04
+L00977,Clark,Southern Nevada,Spanish,2024-06-16
+L00978,Douglas,Northern Nevada,Spanish,2024-09-02
+L00979,Washoe,Northern Nevada,English,2024-02-24
+L00980,Churchill,Rural/Frontier,English,2025-03-15
+L00981,Clark,Southern Nevada,Spanish,2024-03-27
+L00982,Pershing,Rural/Frontier,Spanish,2024-12-14
+L00983,Lyon,Rural/Frontier,English,2026-08-24
+L00984,Clark,Southern Nevada,Unknown,2025-07-05
+L00985,Lander,Rural/Frontier,English,2024-06-09
+L00986,Washoe,Northern Nevada,English,2025-01-06
+L00987,Lyon,Rural/Frontier,Spanish,2024-12-06
+L00988,Clark,Southern Nevada,Spanish,2025-12-23
+L00989,Washoe,Northern Nevada,English,2026-04-11
+L00990,Lyon,Rural/Frontier,English,2024-12-03
+L00991,White Pine,Rural/Frontier,Spanish,2026-06-21
+L00992,Clark,Southern Nevada,Spanish,2025-11-30
+L00993,Lyon,Rural/Frontier,English,2026-09-30
+L00994,Clark,Southern Nevada,English,2024-12-08
+L00995,Washoe,Northern Nevada,English,2026-03-28
+L00996,Clark,Southern Nevada,Spanish,2025-03-08
+L00997,Washoe,Northern Nevada,English,2024-12-24
+L00998,Eureka,Rural/Frontier,English,2025-10-01
+L00999,Clark,Southern Nevada,English,2026-03-22
+L01000,Washoe,Northern Nevada,English,2025-06-11
+L01001,Clark,Southern Nevada,English,2026-07-02
+L01002,Washoe,Northern Nevada,English,2025-10-10
+L01003,Clark,Southern Nevada,English,2025-03-14
+L01004,Washoe,Northern Nevada,English,2026-06-13
+L01005,Washoe,Northern Nevada,English,2026-09-10
+L01006,Clark,Southern Nevada,English,2025-02-26
+L01007,White Pine,Rural/Frontier,English,2026-08-26
+L01008,Lander,Rural/Frontier,English,2025-02-28
+L01009,Carson City,Northern Nevada,English,2024-12-17
+L01010,Esmeralda,Rural/Frontier,English,2026-03-06
+L01011,Clark,Southern Nevada,English,2024-06-28
+L01012,Esmeralda,Rural/Frontier,English,2023-12-17
+L01013,Clark,Southern Nevada,Spanish,2024-06-11
+L01014,Lyon,Rural/Frontier,English,2024-07-02
+L01015,Clark,Southern Nevada,English,2024-06-16
+L01016,Washoe,Northern Nevada,Spanish,2025-09-21
+L01017,Washoe,Northern Nevada,Spanish,2026-09-22
+L01018,Nye,Rural/Frontier,Spanish,2024-02-23
+L01019,Carson City,Northern Nevada,Spanish,2026-09-14
+L01020,Humboldt,Rural/Frontier,English,2025-03-10
+L01021,Washoe,Northern Nevada,Spanish,2024-09-11
+L01022,Washoe,Northern Nevada,English,2025-06-09
+L01023,Lander,Rural/Frontier,Spanish,2026-03-04
+L01024,Humboldt,Rural/Frontier,English,2024-03-22
+L01025,Clark,Southern Nevada,English,2024-02-26
+L01026,Douglas,Northern Nevada,English,2026-10-02
+L01027,Carson City,Northern Nevada,English,2025-12-14
+L01028,Clark,Southern Nevada,English,2024-02-25
+L01029,Clark,Southern Nevada,English,2024-06-09
+L01030,Clark,Southern Nevada,Unknown,2025-01-03
+L01031,Clark,Southern Nevada,Spanish,2023-12-03
+L01032,Washoe,Northern Nevada,English,2024-12-16
+L01033,Clark,Southern Nevada,English,2025-05-27
+L01034,Carson City,Northern Nevada,English,2026-10-07
+L01035,White Pine,Rural/Frontier,English,2024-03-02
+L01036,Washoe,Northern Nevada,English,2024-03-07
+L01037,Lyon,Rural/Frontier,Spanish,2025-11-30
+L01038,Carson City,Northern Nevada,English,2025-12-14
+L01039,Clark,Southern Nevada,English,2026-04-02
+L01040,Humboldt,Rural/Frontier,English,2026-10-02
+L01041,Washoe,Northern Nevada,English,2024-03-10
+L01042,Clark,Southern Nevada,English,2026-09-04
+L01043,Clark,Southern Nevada,English,2025-12-02
+L01044,Clark,Southern Nevada,English,2026-02-25
+L01045,Elko,Rural/Frontier,English,2023-12-04
+L01046,Clark,Southern Nevada,Spanish,2026-03-27
+L01047,Clark,Southern Nevada,Spanish,2025-04-04
+L01048,Washoe,Northern Nevada,English,2024-04-06
+L01049,Washoe,Northern Nevada,English,2025-03-07
+L01050,Clark,Southern Nevada,Spanish,2024-03-07
+L01051,Clark,Southern Nevada,English,2026-01-09
+L01052,Elko,Rural/Frontier,English,2025-03-03
+L01053,Clark,Southern Nevada,Spanish,2024-10-08
+L01054,Esmeralda,Rural/Frontier,English,2024-09-06
+L01055,Douglas,Northern Nevada,English,2024-12-25
+L01056,Washoe,Northern Nevada,English,2025-12-05
+L01057,Churchill,Rural/Frontier,English,2026-09-25
+L01058,Clark,Southern Nevada,English,2025-10-03
+L01059,Humboldt,Rural/Frontier,English,2025-03-04
+L01060,Carson City,Northern Nevada,English,2025-09-30
+L01061,Clark,Southern Nevada,English,2025-06-17
+L01062,Clark,Southern Nevada,Spanish,2023-12-05
+L01063,Washoe,Northern Nevada,English,2024-09-05
+L01064,Elko,Rural/Frontier,English,2024-05-31
+L01065,Washoe,Northern Nevada,Spanish,2025-03-22
+L01066,Clark,Southern Nevada,English,2026-07-03
+L01067,Lyon,Rural/Frontier,Spanish,2023-11-21
+L01068,Clark,Southern Nevada,English,2024-12-23
+L01069,Washoe,Northern Nevada,English,2025-02-27
+L01070,Clark,Southern Nevada,English,2024-12-13
+L01071,Nye,Rural/Frontier,English,2025-06-02
+L01072,Nye,Rural/Frontier,Spanish,2024-03-30
+L01073,Clark,Southern Nevada,English,2024-03-17
+L01074,Clark,Southern Nevada,Spanish,2026-09-16
+L01075,Eureka,Rural/Frontier,English,2025-03-02
+L01076,Washoe,Northern Nevada,English,2024-01-11
+L01077,Clark,Southern Nevada,English,2024-06-17
+L01078,Nye,Rural/Frontier,English,2024-06-25
+L01079,Clark,Southern Nevada,English,2026-09-07
+L01080,Clark,Southern Nevada,English,2025-04-06
+L01081,Clark,Southern Nevada,Spanish,2025-08-30
+L01082,Lander,Rural/Frontier,English,2024-09-03
+L01083,Clark,Southern Nevada,English,2024-06-22
+L01084,Clark,Southern Nevada,English,2026-07-06
+L01085,Washoe,Northern Nevada,English,2025-10-08
+L01086,Washoe,Northern Nevada,English,2026-01-01
+L01087,Clark,Southern Nevada,Spanish,2024-11-27
+L01088,Clark,Southern Nevada,English,2023-12-17
+L01089,Washoe,Northern Nevada,English,2025-05-30
+L01090,Washoe,Northern Nevada,English,2024-08-25
+L01091,White Pine,Rural/Frontier,English,2025-12-11
+L01092,Carson City,Northern Nevada,Other,2025-11-24
+L01093,Clark,Southern Nevada,English,2025-06-26
+L01094,Clark,Southern Nevada,English,2025-03-29
+L01095,Clark,Southern Nevada,Spanish,2023-12-13
+L01096,Washoe,Northern Nevada,Spanish,2025-12-30
+L01097,Clark,Southern Nevada,English,2025-11-28
+L01098,Elko,Rural/Frontier,Spanish,2025-03-03
+L01099,Clark,Southern Nevada,English,2025-12-28
+L01100,White Pine,Rural/Frontier,Spanish,2026-06-19
+L01101,Clark,Southern Nevada,English,2026-09-08
+L01102,Clark,Southern Nevada,Spanish,2024-06-11
+L01103,Pershing,Rural/Frontier,English,2023-11-24
+L01104,Washoe,Northern Nevada,English,2025-09-29
+L01105,Clark,Southern Nevada,Spanish,2025-09-29
+L01106,Eureka,Rural/Frontier,English,2024-06-12
+L01107,Humboldt,Rural/Frontier,English,2023-11-30
+L01108,Lyon,Rural/Frontier,English,2026-06-15
+L01109,Unknown,Unknown,English,2026-06-06
+L01110,Washoe,Northern Nevada,English,2024-03-14
+L01111,Clark,Southern Nevada,English,2025-05-23
+L01112,Clark,Southern Nevada,English,2026-10-01
+L01113,Elko,Rural/Frontier,English,2025-06-09
+L01114,Washoe,Northern Nevada,English,2024-03-26
+L01115,Carson City,Northern Nevada,English,2026-01-07
+L01116,Washoe,Northern Nevada,English,2025-11-23
+L01117,Washoe,Northern Nevada,English,2026-06-23
+L01118,Clark,Southern Nevada,English,2025-03-06
+L01119,Clark,Southern Nevada,Spanish,2024-05-29
+L01120,Washoe,Northern Nevada,English,2025-05-31
+L01121,Clark,Southern Nevada,English,2024-09-18
+L01122,Churchill,Rural/Frontier,English,2023-12-21
+L01123,Lyon,Rural/Frontier,English,2024-07-05
+L01124,Unknown,Unknown,Spanish,2024-12-04
+L01125,Storey,Northern Nevada,English,2025-09-06
+L01126,Nye,Rural/Frontier,English,2025-12-03
+L01127,Clark,Southern Nevada,English,2026-03-15
+L01128,Eureka,Rural/Frontier,English,2026-09-30
+L01129,Washoe,Northern Nevada,English,2024-10-04
+L01130,Douglas,Northern Nevada,Spanish,2025-01-08
+L01131,Carson City,Northern Nevada,English,2025-12-26
+L01132,Clark,Southern Nevada,English,2025-11-28
+L01133,Washoe,Northern Nevada,English,2026-06-12
+L01134,Clark,Southern Nevada,Spanish,2024-03-04
+L01135,Clark,Southern Nevada,English,2023-12-08
+L01136,Nye,Rural/Frontier,English,2023-12-25
+L01137,Clark,Southern Nevada,English,2026-06-17
+L01138,Clark,Southern Nevada,English,2024-11-29
+L01139,Clark,Southern Nevada,Spanish,2024-12-02
+L01140,Nye,Rural/Frontier,English,2026-06-30
+L01141,Clark,Southern Nevada,English,2024-12-18
+L01142,Washoe,Northern Nevada,English,2024-09-03
+L01143,Clark,Southern Nevada,English,2026-09-15
+L01144,Clark,Southern Nevada,English,2026-05-24
+L01145,Douglas,Northern Nevada,English,2026-06-29
+L01146,Clark,Southern Nevada,English,2023-12-11
+L01147,Washoe,Northern Nevada,English,2025-06-22
+L01148,Washoe,Northern Nevada,English,2026-06-04
+L01149,Washoe,Northern Nevada,English,2024-06-21
+L01150,Clark,Southern Nevada,English,2024-06-21
+L01151,Washoe,Northern Nevada,English,2024-02-22
+L01152,Washoe,Northern Nevada,English,2025-12-28
+L01153,Clark,Southern Nevada,English,2026-01-08
+L01154,Washoe,Northern Nevada,English,2025-12-06
+L01155,Elko,Rural/Frontier,English,2025-06-18
+L01156,Lincoln,Rural/Frontier,English,2024-08-25
+L01157,Lyon,Rural/Frontier,English,2026-03-07
+L01158,Clark,Southern Nevada,English,2024-07-04
+L01159,Clark,Southern Nevada,English,2025-01-02
+L01160,Clark,Southern Nevada,Spanish,2024-06-04
+L01161,Clark,Southern Nevada,English,2025-04-06
+L01162,Washoe,Northern Nevada,English,2025-11-26
+L01163,Clark,Southern Nevada,English,2026-09-11
+L01164,Clark,Southern Nevada,English,2024-05-28
+L01165,Clark,Southern Nevada,English,2024-03-04
+L01166,Clark,Southern Nevada,English,2026-10-01
+L01167,Washoe,Northern Nevada,English,2024-03-18
+L01168,Washoe,Northern Nevada,English,2025-03-19
+L01169,Clark,Southern Nevada,English,2026-09-12
+L01170,Churchill,Rural/Frontier,English,2025-03-10
+L01171,Clark,Southern Nevada,Spanish,2025-06-24
+L01172,Clark,Southern Nevada,English,2024-09-22
+L01173,Washoe,Northern Nevada,English,2026-02-27
+L01174,Clark,Southern Nevada,English,2024-06-11
+L01175,White Pine,Rural/Frontier,English,2023-12-06
+L01176,Clark,Southern Nevada,Spanish,2025-03-11
+L01177,Unknown,Unknown,English,2025-07-02
+L01178,Clark,Southern Nevada,English,2024-09-02
+L01179,Washoe,Northern Nevada,English,2025-12-06
+L01180,Lyon,Rural/Frontier,English,2024-09-19
+L01181,Washoe,Northern Nevada,English,2023-12-31
+L01182,Washoe,Northern Nevada,English,2025-12-02
+L01183,Washoe,Northern Nevada,English,2024-03-28
+L01184,Storey,Northern Nevada,English,2025-09-01
+L01185,Clark,Southern Nevada,English,2024-08-30
+L01186,Clark,Southern Nevada,English,2026-06-21
+L01187,Washoe,Northern Nevada,English,2025-09-07
+L01188,Clark,Southern Nevada,Spanish,2026-09-21
+L01189,Elko,Rural/Frontier,English,2025-12-06
+L01190,Clark,Southern Nevada,English,2024-09-05
+L01191,Clark,Southern Nevada,English,2025-06-20
+L01192,Douglas,Northern Nevada,English,2024-06-12
+L01193,Washoe,Northern Nevada,English,2024-10-06
+L01194,Pershing,Rural/Frontier,English,2025-12-30
+L01195,Clark,Southern Nevada,English,2026-07-01
+L01196,Clark,Southern Nevada,English,2025-04-07
+L01197,Clark,Southern Nevada,English,2023-12-22
+L01198,Clark,Southern Nevada,English,2024-04-06
+L01199,Clark,Southern Nevada,English,2024-12-19
+L01200,Washoe,Northern Nevada,English,2024-09-27
+L01201,Clark,Southern Nevada,English,2024-03-31
+L01202,Lincoln,Rural/Frontier,English,2024-05-22
+L01203,Churchill,Rural/Frontier,English,2024-07-11
+L01204,Clark,Southern Nevada,English,2026-01-07
+L01205,Lander,Rural/Frontier,English,2026-08-26
+L01206,Clark,Southern Nevada,English,2026-10-06
+L01207,Elko,Rural/Frontier,English,2024-11-30
+L01208,Lyon,Rural/Frontier,English,2026-09-19
+L01209,Clark,Southern Nevada,English,2025-10-02
+L01210,Washoe,Northern Nevada,English,2025-01-07
+L01211,Clark,Southern Nevada,English,2025-12-01
+L01212,Washoe,Northern Nevada,English,2025-06-23
+L01213,Washoe,Northern Nevada,Unknown,2024-06-01
+L01214,Clark,Southern Nevada,English,2026-05-31
+L01215,Clark,Southern Nevada,English,2024-09-03
+L01216,Nye,Rural/Frontier,Spanish,2025-12-03
+L01217,Clark,Southern Nevada,English,2024-02-26
+L01218,Humboldt,Rural/Frontier,English,2024-05-28
+L01219,Churchill,Rural/Frontier,Spanish,2024-07-06
+L01220,Clark,Southern Nevada,Spanish,2025-12-15
+L01221,Washoe,Northern Nevada,Other,2025-12-27
+L01222,Lyon,Rural/Frontier,English,2024-05-27
+L01223,Clark,Southern Nevada,Unknown,2023-12-29
+L01224,Washoe,Northern Nevada,English,2026-04-10
+L01225,Clark,Southern Nevada,English,2024-06-18
+L01226,Clark,Southern Nevada,English,2026-07-06
+L01227,Clark,Southern Nevada,English,2026-09-05
+L01228,Carson City,Northern Nevada,Spanish,2024-09-08
+L01229,Clark,Southern Nevada,English,2024-02-26
+L01230,Washoe,Northern Nevada,English,2023-12-23
+L01231,Clark,Southern Nevada,Spanish,2026-10-10
+L01232,Clark,Southern Nevada,Spanish,2025-04-04
+L01233,Nye,Rural/Frontier,Spanish,2024-03-03
+L01234,Clark,Southern Nevada,English,2026-01-11
+L01235,Clark,Southern Nevada,English,2024-05-31
+L01236,Washoe,Northern Nevada,English,2026-02-21
+L01237,Washoe,Northern Nevada,English,2025-10-06
+L01238,Washoe,Northern Nevada,English,2025-05-23
+L01239,Clark,Southern Nevada,English,2026-03-08
+L01240,Washoe,Northern Nevada,English,2026-04-10
+L01241,Washoe,Northern Nevada,English,2026-06-03
+L01242,Esmeralda,Rural/Frontier,English,2025-03-30
+L01243,Clark,Southern Nevada,English,2025-12-01
+L01244,Clark,Southern Nevada,Spanish,2025-09-24
+L01245,Clark,Southern Nevada,English,2026-06-19
+L01246,Clark,Southern Nevada,English,2023-12-18
+L01247,Lincoln,Rural/Frontier,English,2025-04-02
+L01248,Churchill,Rural/Frontier,Spanish,2025-05-29
+L01249,Clark,Southern Nevada,English,2025-06-12
+L01250,Clark,Southern Nevada,Other,2024-06-16
+L01251,Carson City,Northern Nevada,Spanish,2026-02-24
+L01252,Unknown,Unknown,English,2024-03-13
+L01253,White Pine,Rural/Frontier,Spanish,2024-08-24
+L01254,Clark,Southern Nevada,English,2025-03-30
+L01255,Clark,Southern Nevada,Spanish,2024-08-26
+L01256,Clark,Southern Nevada,English,2026-04-06
+L01257,Washoe,Northern Nevada,Unknown,2025-02-19
+L01258,Clark,Southern Nevada,Spanish,2024-09-14
+L01259,Clark,Southern Nevada,Spanish,2023-11-28
+L01260,Clark,Southern Nevada,Spanish,2026-08-24
+L01261,Clark,Southern Nevada,English,2026-09-22
+L01262,Carson City,Northern Nevada,English,2025-03-25
+L01263,Clark,Southern Nevada,English,2024-01-01
+L01264,Elko,Rural/Frontier,English,2025-06-17
+L01265,Clark,Southern Nevada,English,2024-07-05
+L01266,Unknown,Unknown,English,2026-06-26
+L01267,Clark,Southern Nevada,English,2024-09-06
+L01268,Clark,Southern Nevada,English,2024-06-14
+L01269,Clark,Southern Nevada,English,2025-09-03
+L01270,Elko,Rural/Frontier,Spanish,2023-12-12
+L01271,Washoe,Northern Nevada,English,2026-06-10
+L01272,Clark,Southern Nevada,Spanish,2024-06-03
+L01273,Clark,Southern Nevada,English,2026-08-28
+L01274,Washoe,Northern Nevada,English,2026-03-11
+L01275,Washoe,Northern Nevada,Spanish,2025-04-01
+L01276,Clark,Southern Nevada,English,2024-09-15
+L01277,Washoe,Northern Nevada,English,2026-09-30
+L01278,Washoe,Northern Nevada,Spanish,2026-09-08
+L01279,Clark,Southern Nevada,English,2024-06-11
+L01280,Storey,Northern Nevada,Spanish,2026-03-15
+L01281,Clark,Southern Nevada,English,2025-01-03
+L01282,Lander,Rural/Frontier,English,2024-08-27
+L01283,Elko,Rural/Frontier,English,2026-10-01
+L01284,Washoe,Northern Nevada,English,2026-03-10
+L01285,Clark,Southern Nevada,English,2026-04-06
+L01286,Clark,Southern Nevada,English,2024-09-18
+L01287,Clark,Southern Nevada,English,2026-03-20
+L01288,Clark,Southern Nevada,English,2026-03-30
+L01289,Elko,Rural/Frontier,Spanish,2024-03-28
+L01290,Douglas,Northern Nevada,Spanish,2026-08-23
+L01291,Clark,Southern Nevada,Other,2026-10-07
+L01292,Washoe,Northern Nevada,English,2024-09-25
+L01293,Clark,Southern Nevada,English,2024-12-06
+L01294,Clark,Southern Nevada,English,2024-03-07
+L01295,Clark,Southern Nevada,Spanish,2024-05-24
+L01296,Clark,Southern Nevada,Spanish,2025-12-24
+L01297,Clark,Southern Nevada,English,2026-09-15
+L01298,Clark,Southern Nevada,English,2026-07-04
+L01299,Clark,Southern Nevada,English,2025-12-05
+L01300,Clark,Southern Nevada,English,2024-06-17
+L01301,Washoe,Northern Nevada,English,2025-10-02
+L01302,Washoe,Northern Nevada,English,2024-08-30
+L01303,Carson City,Northern Nevada,English,2025-09-23
+L01304,Clark,Southern Nevada,English,2023-12-06
+L01305,Washoe,Northern Nevada,English,2025-04-08
+L01306,Clark,Southern Nevada,Spanish,2024-12-25
+L01307,Lincoln,Rural/Frontier,English,2026-04-10
+L01308,Washoe,Northern Nevada,English,2024-12-31
+L01309,Elko,Rural/Frontier,English,2025-06-20
+L01310,Washoe,Northern Nevada,English,2026-09-27
+L01311,Washoe,Northern Nevada,English,2026-06-18
+L01312,Washoe,Northern Nevada,Spanish,2024-06-05
+L01313,Carson City,Northern Nevada,Spanish,2026-02-22
+L01314,Clark,Southern Nevada,Spanish,2026-02-28
+L01315,Clark,Southern Nevada,English,2025-10-04
+L01316,Lyon,Rural/Frontier,English,2023-12-15
+L01317,Clark,Southern Nevada,English,2026-06-27
+L01318,Washoe,Northern Nevada,English,2026-09-28
+L01319,Clark,Southern Nevada,English,2024-09-10
+L01320,Clark,Southern Nevada,Other,2023-12-08
+L01321,Clark,Southern Nevada,English,2023-11-26
+L01322,Storey,Northern Nevada,Spanish,2025-11-23
+L01323,Lyon,Rural/Frontier,English,2024-10-02
+L01324,Washoe,Northern Nevada,Spanish,2025-05-25
+L01325,Washoe,Northern Nevada,English,2023-12-10
+L01326,Washoe,Northern Nevada,English,2026-09-09
+L01327,Unknown,Unknown,English,2025-12-30
+L01328,Clark,Southern Nevada,English,2026-03-21
+L01329,Clark,Southern Nevada,English,2024-11-27
+L01330,Clark,Southern Nevada,English,2026-09-10
+L01331,Clark,Southern Nevada,English,2026-03-14
+L01332,Clark,Southern Nevada,Spanish,2024-03-23
+L01333,Carson City,Northern Nevada,English,2025-12-08
+L01334,Clark,Southern Nevada,Spanish,2026-07-04
+L01335,Clark,Southern Nevada,English,2026-03-26
+L01336,Clark,Southern Nevada,English,2025-09-16
+L01337,Washoe,Northern Nevada,Spanish,2025-12-09
+L01338,Nye,Rural/Frontier,English,2024-10-02
+L01339,Clark,Southern Nevada,English,2025-06-19
+L01340,Washoe,Northern Nevada,English,2025-05-25
+L01341,Carson City,Northern Nevada,Spanish,2023-12-09
+L01342,Clark,Southern Nevada,Spanish,2024-03-16
+L01343,Washoe,Northern Nevada,English,2026-03-29
+L01344,Pershing,Rural/Frontier,English,2024-01-06
+L01345,Clark,Southern Nevada,English,2026-02-19
+L01346,Washoe,Northern Nevada,English,2026-01-03
+L01347,Washoe,Northern Nevada,English,2025-09-06
+L01348,Unknown,Unknown,Spanish,2026-03-27
+L01349,Nye,Rural/Frontier,Spanish,2025-06-13
+L01350,Clark,Southern Nevada,English,2024-06-18
+L01351,Clark,Southern Nevada,English,2023-12-31
+L01352,Lyon,Rural/Frontier,English,2025-12-18
+L01353,Washoe,Northern Nevada,Spanish,2026-03-24
+L01354,Washoe,Northern Nevada,English,2026-03-11
+L01355,Clark,Southern Nevada,English,2025-10-05
+L01356,Washoe,Northern Nevada,English,2024-09-13
+L01357,Clark,Southern Nevada,English,2026-03-12
+L01358,Washoe,Northern Nevada,English,2025-03-25
+L01359,Mineral,Rural/Frontier,Unknown,2024-01-06
+L01360,Washoe,Northern Nevada,English,2023-12-05
+L01361,Clark,Southern Nevada,English,2023-11-28
+L01362,Clark,Southern Nevada,English,2024-09-02
+L01363,Washoe,Northern Nevada,English,2026-09-10
+L01364,Washoe,Northern Nevada,English,2026-07-08
+L01365,Clark,Southern Nevada,English,2025-12-02
+L01366,Clark,Southern Nevada,English,2023-12-12
+L01367,Clark,Southern Nevada,English,2026-09-11
+L01368,Clark,Southern Nevada,English,2025-11-26
+L01369,Clark,Southern Nevada,English,2023-12-16
+L01370,Elko,Rural/Frontier,English,2025-12-14
+L01371,Clark,Southern Nevada,English,2026-09-26
+L01372,Clark,Southern Nevada,Spanish,2026-03-09
+L01373,Clark,Southern Nevada,English,2025-09-10
+L01374,Clark,Southern Nevada,English,2024-10-06
+L01375,Washoe,Northern Nevada,Spanish,2024-06-27
+L01376,Clark,Southern Nevada,English,2026-03-25
+L01377,Clark,Southern Nevada,English,2024-01-03
+L01378,Washoe,Northern Nevada,Other,2024-03-30
+L01379,Clark,Southern Nevada,English,2025-06-03
+L01380,Clark,Southern Nevada,English,2025-08-31
+L01381,Washoe,Northern Nevada,English,2024-12-03
+L01382,Carson City,Northern Nevada,English,2024-01-04
+L01383,Washoe,Northern Nevada,English,2025-06-19
+L01384,Clark,Southern Nevada,English,2024-09-07
+L01385,Pershing,Rural/Frontier,English,2025-09-23
+L01386,Nye,Rural/Frontier,English,2026-07-04
+L01387,Washoe,Northern Nevada,English,2024-11-29
+L01388,Elko,Rural/Frontier,Spanish,2025-08-29
+L01389,Clark,Southern Nevada,English,2025-09-26
+L01390,Clark,Southern Nevada,Spanish,2025-09-07
+L01391,Lander,Rural/Frontier,English,2025-09-03
+L01392,Lyon,Rural/Frontier,English,2025-08-23
+L01393,Nye,Rural/Frontier,English,2025-12-22
+L01394,Lyon,Rural/Frontier,English,2024-07-03
+L01395,Washoe,Northern Nevada,Spanish,2024-06-17
+L01396,Clark,Southern Nevada,English,2025-03-19
+L01397,Washoe,Northern Nevada,English,2025-12-17
+L01398,Washoe,Northern Nevada,English,2026-09-16
+L01399,White Pine,Rural/Frontier,English,2024-12-05
+L01400,Douglas,Northern Nevada,English,2024-03-22
+L01401,Clark,Southern Nevada,English,2025-12-28
+L01402,Washoe,Northern Nevada,English,2025-08-25
+L01403,Washoe,Northern Nevada,English,2024-05-26
+L01404,Mineral,Rural/Frontier,English,2026-09-26
+L01405,Clark,Southern Nevada,English,2024-08-25
+L01406,Clark,Southern Nevada,Spanish,2025-06-14
+L01407,Douglas,Northern Nevada,Other,2024-03-10
+L01408,Lyon,Rural/Frontier,English,2026-09-04
+L01409,Washoe,Northern Nevada,English,2026-07-03
+L01410,Lincoln,Rural/Frontier,English,2025-09-02
+L01411,Humboldt,Rural/Frontier,Spanish,2024-02-27
+L01412,Douglas,Northern Nevada,English,2024-03-31
+L01413,Elko,Rural/Frontier,English,2024-06-10
+L01414,Washoe,Northern Nevada,English,2023-12-06
+L01415,Eureka,Rural/Frontier,English,2024-09-10
+L01416,Washoe,Northern Nevada,Spanish,2024-08-25
+L01417,Clark,Southern Nevada,English,2025-03-21
+L01418,Clark,Southern Nevada,English,2024-03-15
+L01419,Clark,Southern Nevada,English,2024-12-22
+L01420,Clark,Southern Nevada,English,2025-06-17
+L01421,Clark,Southern Nevada,English,2024-12-13
+L01422,Clark,Southern Nevada,English,2025-12-01
+L01423,Clark,Southern Nevada,English,2025-03-09
+L01424,Nye,Rural/Frontier,English,2024-03-03
+L01425,Clark,Southern Nevada,English,2024-12-30
+L01426,Nye,Rural/Frontier,English,2025-05-26
+L01427,Douglas,Northern Nevada,English,2024-12-07
+L01428,Clark,Southern Nevada,English,2026-06-20
+L01429,Pershing,Rural/Frontier,English,2023-12-16
+L01430,Clark,Southern Nevada,English,2023-12-18
+L01431,Douglas,Northern Nevada,Spanish,2025-08-30
+L01432,Clark,Southern Nevada,Other,2023-12-18
+L01433,Clark,Southern Nevada,English,2024-03-09
+L01434,Washoe,Northern Nevada,English,2026-06-14
+L01435,Clark,Southern Nevada,English,2025-12-24
+L01436,Pershing,Rural/Frontier,English,2025-03-12
+L01437,Elko,Rural/Frontier,English,2025-08-23
+L01438,Clark,Southern Nevada,English,2026-04-06
+L01439,Washoe,Northern Nevada,English,2023-12-16
+L01440,Humboldt,Rural/Frontier,English,2024-03-15
+L01441,Washoe,Northern Nevada,English,2024-09-01
+L01442,Clark,Southern Nevada,Spanish,2026-05-26
+L01443,Clark,Southern Nevada,English,2025-06-12
+L01444,Clark,Southern Nevada,Spanish,2026-04-04
+L01445,Washoe,Northern Nevada,English,2024-04-03
+L01446,Carson City,Northern Nevada,English,2026-09-28
+L01447,Clark,Southern Nevada,Spanish,2024-12-29
+L01448,Washoe,Northern Nevada,English,2026-06-17
+L01449,Clark,Southern Nevada,English,2025-12-08
+L01450,Elko,Rural/Frontier,English,2025-06-11
+L01451,Clark,Southern Nevada,Spanish,2026-09-29
+L01452,Washoe,Northern Nevada,English,2024-04-01
+L01453,Clark,Southern Nevada,Spanish,2024-11-28
+L01454,Clark,Southern Nevada,English,2025-03-21
+L01455,Humboldt,Rural/Frontier,English,2024-06-30
+L01456,Lyon,Rural/Frontier,English,2024-06-12
+L01457,Clark,Southern Nevada,English,2026-08-31
+L01458,Clark,Southern Nevada,English,2023-12-23
+L01459,Washoe,Northern Nevada,Other,2025-11-30
+L01460,Washoe,Northern Nevada,English,2024-12-26
+L01461,Washoe,Northern Nevada,Other,2023-12-21
+L01462,Carson City,Northern Nevada,Spanish,2026-02-27
+L01463,Washoe,Northern Nevada,Spanish,2025-06-22
+L01464,Clark,Southern Nevada,English,2025-03-22
+L01465,Lyon,Rural/Frontier,Spanish,2025-03-13
+L01466,Clark,Southern Nevada,Spanish,2024-06-18
+L01467,Clark,Southern Nevada,Spanish,2024-07-08
+L01468,Lyon,Rural/Frontier,English,2025-06-22
+L01469,Washoe,Northern Nevada,English,2024-04-08
+L01470,Lyon,Rural/Frontier,Spanish,2024-05-25
+L01471,Washoe,Northern Nevada,English,2025-09-02
+L01472,Clark,Southern Nevada,English,2024-08-23
+L01473,Clark,Southern Nevada,English,2025-12-28
+L01474,Washoe,Northern Nevada,Spanish,2025-08-29
+L01475,Lyon,Rural/Frontier,English,2025-03-26
+L01476,Nye,Rural/Frontier,Spanish,2024-03-25
+L01477,Nye,Rural/Frontier,Spanish,2023-12-16
+L01478,Washoe,Northern Nevada,Spanish,2025-02-25
+L01479,Washoe,Northern Nevada,English,2026-06-12
+L01480,Carson City,Northern Nevada,English,2025-04-05
+L01481,Humboldt,Rural/Frontier,English,2023-12-25
+L01482,Washoe,Northern Nevada,English,2026-03-19
+L01483,Elko,Rural/Frontier,Other,2023-11-29
+L01484,Washoe,Northern Nevada,English,2024-04-09
+L01485,Washoe,Northern Nevada,English,2026-02-24
+L01486,Washoe,Northern Nevada,English,2023-11-27
+L01487,Carson City,Northern Nevada,Spanish,2024-09-06
+L01488,Washoe,Northern Nevada,English,2025-12-24
+L01489,White Pine,Rural/Frontier,English,2025-07-01
+L01490,Nye,Rural/Frontier,English,2026-06-17
+L01491,Clark,Southern Nevada,English,2025-05-22
+L01492,Washoe,Northern Nevada,English,2025-09-04
+L01493,Clark,Southern Nevada,Spanish,2024-09-05
+L01494,Washoe,Northern Nevada,English,2026-05-26
+L01495,Lander,Rural/Frontier,English,2025-05-24
+L01496,Nye,Rural/Frontier,English,2024-03-03
+L01497,Douglas,Northern Nevada,English,2026-08-22
+L01498,Clark,Southern Nevada,English,2024-05-31
+L01499,Clark,Southern Nevada,English,2023-12-11
+L01500,Churchill,Rural/Frontier,English,2025-12-26
+L01501,Washoe,Northern Nevada,English,2026-03-02
+L01502,Elko,Rural/Frontier,Spanish,2024-12-18
+L01503,Clark,Southern Nevada,English,2024-05-31
+L01504,Clark,Southern Nevada,Spanish,2025-04-06
+L01505,Clark,Southern Nevada,English,2026-09-10
+L01506,Clark,Southern Nevada,English,2025-06-05
+L01507,Churchill,Rural/Frontier,English,2025-09-01
+L01508,Clark,Southern Nevada,English,2024-12-05
+L01509,Humboldt,Rural/Frontier,English,2025-03-15
+L01510,Washoe,Northern Nevada,English,2025-03-11
+L01511,Washoe,Northern Nevada,English,2025-12-13
+L01512,Clark,Southern Nevada,English,2026-10-04
+L01513,Clark,Southern Nevada,English,2024-09-28
+L01514,White Pine,Rural/Frontier,English,2026-09-23
+L01515,Douglas,Northern Nevada,English,2024-09-03
+L01516,Elko,Rural/Frontier,English,2024-12-28
+L01517,Washoe,Northern Nevada,English,2025-09-12
+L01518,Clark,Southern Nevada,English,2024-06-14
+L01519,Clark,Southern Nevada,English,2026-10-01
+L01520,Washoe,Northern Nevada,English,2025-06-25
+L01521,Clark,Southern Nevada,English,2024-10-03
+L01522,Washoe,Northern Nevada,Spanish,2026-01-06
+L01523,Clark,Southern Nevada,English,2024-07-07
+L01524,Washoe,Northern Nevada,English,2026-01-03
+L01525,Unknown,Unknown,English,2023-12-30
+L01526,Clark,Southern Nevada,Spanish,2024-12-04
+L01527,Washoe,Northern Nevada,English,2024-12-27
+L01528,Clark,Southern Nevada,English,2026-10-05
+L01529,Clark,Southern Nevada,English,2025-09-10
+L01530,Washoe,Northern Nevada,English,2025-01-04
+L01531,Eureka,Rural/Frontier,English,2024-12-06
+L01532,Washoe,Northern Nevada,English,2025-02-26
+L01533,Clark,Southern Nevada,English,2026-06-06
+L01534,Clark,Southern Nevada,English,2023-12-18
+L01535,Lyon,Rural/Frontier,English,2025-01-02
+L01536,Washoe,Northern Nevada,English,2025-09-08
+L01537,Washoe,Northern Nevada,Spanish,2025-12-17
+L01538,Churchill,Rural/Frontier,Spanish,2025-06-30
+L01539,Washoe,Northern Nevada,Spanish,2025-07-06
+L01540,Clark,Southern Nevada,Other,2024-12-28
+L01541,Carson City,Northern Nevada,Spanish,2025-11-21
+L01542,Humboldt,Rural/Frontier,English,2026-04-01
+L01543,Washoe,Northern Nevada,English,2026-09-11
+L01544,Clark,Southern Nevada,English,2025-08-27
+L01545,Clark,Southern Nevada,English,2025-12-21
+L01546,Clark,Southern Nevada,English,2024-06-27
+L01547,Clark,Southern Nevada,English,2026-10-06
+L01548,Washoe,Northern Nevada,English,2024-06-28
+L01549,Lyon,Rural/Frontier,English,2025-03-06
+L01550,Clark,Southern Nevada,English,2024-06-01
+L01551,Clark,Southern Nevada,English,2026-08-25
+L01552,Clark,Southern Nevada,English,2024-11-29
+L01553,Clark,Southern Nevada,English,2024-11-24
+L01554,Douglas,Northern Nevada,Spanish,2026-03-10
+L01555,Clark,Southern Nevada,English,2025-09-14
+L01556,Pershing,Rural/Frontier,Spanish,2024-11-28
+L01557,Clark,Southern Nevada,English,2026-09-11
+L01558,Elko,Rural/Frontier,English,2025-02-26
+L01559,Douglas,Northern Nevada,English,2024-01-09
+L01560,Clark,Southern Nevada,English,2024-03-06
+L01561,Clark,Southern Nevada,English,2024-01-02
+L01562,Clark,Southern Nevada,English,2026-02-27
+L01563,Clark,Southern Nevada,English,2026-03-09
+L01564,Clark,Southern Nevada,English,2026-09-29
+L01565,Douglas,Northern Nevada,English,2023-11-30
+L01566,Washoe,Northern Nevada,Spanish,2023-11-26
+L01567,Clark,Southern Nevada,English,2023-12-07
+L01568,Washoe,Northern Nevada,English,2024-11-23
+L01569,Clark,Southern Nevada,English,2025-09-01
+L01570,Clark,Southern Nevada,English,2025-03-25
+L01571,White Pine,Rural/Frontier,English,2024-12-17
+L01572,Nye,Rural/Frontier,English,2026-07-05
+L01573,Clark,Southern Nevada,Spanish,2026-03-01
+L01574,Washoe,Northern Nevada,Spanish,2026-06-18
+L01575,Douglas,Northern Nevada,English,2024-10-05
+L01576,Lyon,Rural/Frontier,Spanish,2023-11-29
+L01577,Washoe,Northern Nevada,English,2026-09-10
+L01578,Elko,Rural/Frontier,Spanish,2026-06-17
+L01579,Lyon,Rural/Frontier,English,2024-11-22
+L01580,Washoe,Northern Nevada,English,2025-03-25
+L01581,Washoe,Northern Nevada,English,2026-03-24
+L01582,Clark,Southern Nevada,English,2026-03-29
+L01583,Lander,Rural/Frontier,English,2025-09-17
+L01584,Washoe,Northern Nevada,English,2024-05-27
+L01585,Clark,Southern Nevada,English,2024-09-12
+L01586,Clark,Southern Nevada,Spanish,2024-12-07
+L01587,Clark,Southern Nevada,English,2026-06-25
+L01588,Clark,Southern Nevada,English,2024-12-21
+L01589,Clark,Southern Nevada,English,2025-03-24
+L01590,Clark,Southern Nevada,English,2024-09-26
+L01591,Clark,Southern Nevada,English,2024-10-11
+L01592,Clark,Southern Nevada,English,2023-11-21
+L01593,Washoe,Northern Nevada,English,2026-06-14
+L01594,Clark,Southern Nevada,Spanish,2025-05-31
+L01595,Washoe,Northern Nevada,Spanish,2024-03-29
+L01596,Washoe,Northern Nevada,English,2025-12-30
+L01597,Elko,Rural/Frontier,English,2026-03-25
+L01598,Nye,Rural/Frontier,English,2026-06-30
+L01599,Clark,Southern Nevada,English,2025-07-06
+L01600,Clark,Southern Nevada,English,2026-09-24
+L01601,Washoe,Northern Nevada,English,2024-05-22
+L01602,Clark,Southern Nevada,English,2023-12-03
+L01603,Eureka,Rural/Frontier,English,2026-06-11
+L01604,Clark,Southern Nevada,English,2025-03-08
+L01605,Storey,Northern Nevada,English,2024-09-28
+L01606,Douglas,Northern Nevada,English,2026-03-29
+L01607,Washoe,Northern Nevada,English,2025-03-06
+L01608,Douglas,Northern Nevada,English,2026-05-22
+L01609,Washoe,Northern Nevada,Spanish,2024-01-05
+L01610,Esmeralda,Rural/Frontier,English,2025-09-09
+L01611,Clark,Southern Nevada,English,2025-10-08
+L01612,Clark,Southern Nevada,English,2025-07-01
+L01613,Nye,Rural/Frontier,English,2024-03-24
+L01614,Clark,Southern Nevada,English,2026-09-15
+L01615,Clark,Southern Nevada,Spanish,2023-12-22
+L01616,Douglas,Northern Nevada,English,2025-06-01
+L01617,Carson City,Northern Nevada,Spanish,2026-06-12
+L01618,Clark,Southern Nevada,Spanish,2025-02-25
+L01619,Clark,Southern Nevada,English,2023-12-17
+L01620,Washoe,Northern Nevada,English,2023-12-07
+L01621,Clark,Southern Nevada,English,2024-09-22
+L01622,Clark,Southern Nevada,English,2026-09-04
+L01623,Douglas,Northern Nevada,English,2025-09-05
+L01624,Nye,Rural/Frontier,English,2026-03-23
+L01625,White Pine,Rural/Frontier,English,2025-08-23
+L01626,Clark,Southern Nevada,English,2024-12-11
+L01627,Washoe,Northern Nevada,Spanish,2025-06-08
+L01628,Clark,Southern Nevada,English,2025-12-17
+L01629,Nye,Rural/Frontier,English,2024-10-03
+L01630,Clark,Southern Nevada,English,2024-09-14
+L01631,Clark,Southern Nevada,English,2025-06-03
+L01632,Clark,Southern Nevada,English,2026-01-01
+L01633,Washoe,Northern Nevada,English,2023-12-26
+L01634,Clark,Southern Nevada,English,2023-12-16
+L01635,Pershing,Rural/Frontier,English,2024-03-22
+L01636,Washoe,Northern Nevada,Spanish,2024-12-07
+L01637,Lyon,Rural/Frontier,English,2024-01-07
+L01638,Clark,Southern Nevada,English,2026-06-07
+L01639,Clark,Southern Nevada,English,2026-08-27
+L01640,Clark,Southern Nevada,English,2024-12-31
+L01641,Clark,Southern Nevada,Spanish,2024-12-10
+L01642,Clark,Southern Nevada,English,2025-03-31
+L01643,Nye,Rural/Frontier,English,2024-03-09
+L01644,Clark,Southern Nevada,English,2024-09-04
+L01645,Eureka,Rural/Frontier,English,2024-12-08
+L01646,Washoe,Northern Nevada,English,2024-12-12
+L01647,Washoe,Northern Nevada,Spanish,2026-07-11
+L01648,Clark,Southern Nevada,Spanish,2024-08-24
+L01649,Washoe,Northern Nevada,English,2026-09-08
+L01650,Eureka,Rural/Frontier,Other,2024-03-25
+L01651,Mineral,Rural/Frontier,English,2024-05-31
+L01652,Washoe,Northern Nevada,Spanish,2025-03-06
+L01653,Washoe,Northern Nevada,Spanish,2024-03-04
+L01654,Washoe,Northern Nevada,Spanish,2025-03-09
+L01655,Clark,Southern Nevada,English,2025-06-26
+L01656,Clark,Southern Nevada,English,2024-07-10
+L01657,Lander,Rural/Frontier,English,2023-12-09
+L01658,Clark,Southern Nevada,English,2025-04-07
+L01659,Clark,Southern Nevada,English,2025-09-03
+L01660,Elko,Rural/Frontier,English,2025-03-28
+L01661,Clark,Southern Nevada,English,2024-06-02
+L01662,Clark,Southern Nevada,English,2026-09-25
+L01663,Clark,Southern Nevada,English,2024-03-11
+L01664,Churchill,Rural/Frontier,English,2025-05-21
+L01665,Clark,Southern Nevada,Spanish,2025-02-24
+L01666,Washoe,Northern Nevada,Spanish,2024-06-26
+L01667,Clark,Southern Nevada,English,2025-11-24
+L01668,Washoe,Northern Nevada,English,2025-12-18
+L01669,Nye,Rural/Frontier,English,2023-11-24
+L01670,Clark,Southern Nevada,English,2024-06-13
+L01671,Washoe,Northern Nevada,English,2025-03-28
+L01672,Washoe,Northern Nevada,English,2026-06-10
+L01673,Clark,Southern Nevada,English,2026-06-05
+L01674,Washoe,Northern Nevada,English,2024-05-31
+L01675,Washoe,Northern Nevada,English,2025-03-29
+L01676,Esmeralda,Rural/Frontier,Spanish,2026-10-09
+L01677,Clark,Southern Nevada,English,2025-03-24
+L01678,Washoe,Northern Nevada,Spanish,2024-06-29
+L01679,Clark,Southern Nevada,Spanish,2025-08-26
+L01680,Washoe,Northern Nevada,Other,2024-03-30
+L01681,Clark,Southern Nevada,English,2026-03-17
+L01682,Elko,Rural/Frontier,English,2025-09-18
+L01683,Clark,Southern Nevada,English,2025-08-31
+L01684,Washoe,Northern Nevada,Spanish,2024-04-07
+L01685,Clark,Southern Nevada,English,2023-12-06
+L01686,Clark,Southern Nevada,English,2024-09-23
+L01687,Washoe,Northern Nevada,English,2026-01-07
+L01688,Washoe,Northern Nevada,English,2024-09-01
+L01689,Washoe,Northern Nevada,English,2025-12-08
+L01690,Clark,Southern Nevada,English,2026-09-25
+L01691,Clark,Southern Nevada,English,2026-03-23
+L01692,Clark,Southern Nevada,English,2025-09-09
+L01693,Clark,Southern Nevada,Spanish,2025-12-09
+L01694,Clark,Southern Nevada,English,2026-09-05
+L01695,Pershing,Rural/Frontier,Other,2026-07-03
+L01696,Clark,Southern Nevada,Spanish,2024-02-28
+L01697,Clark,Southern Nevada,English,2025-06-22
+L01698,Carson City,Northern Nevada,English,2023-12-18
+L01699,Washoe,Northern Nevada,English,2024-09-06
+L01700,Washoe,Northern Nevada,English,2026-02-28
+L01701,Clark,Southern Nevada,English,2025-12-11
+L01702,Clark,Southern Nevada,English,2025-05-31
+L01703,Nye,Rural/Frontier,English,2023-11-28
+L01704,Clark,Southern Nevada,English,2026-03-09
+L01705,Clark,Southern Nevada,Spanish,2024-11-29
+L01706,Carson City,Northern Nevada,Spanish,2023-12-04
+L01707,Washoe,Northern Nevada,English,2025-01-04
+L01708,Nye,Rural/Frontier,English,2025-03-17
+L01709,Storey,Northern Nevada,English,2024-05-27
+L01710,Washoe,Northern Nevada,English,2026-06-21
+L01711,Storey,Northern Nevada,English,2023-12-06
+L01712,Clark,Southern Nevada,Spanish,2024-03-09
+L01713,Carson City,Northern Nevada,English,2024-10-04
+L01714,Clark,Southern Nevada,English,2024-12-28
+L01715,Washoe,Northern Nevada,English,2024-06-02
+L01716,Washoe,Northern Nevada,English,2026-05-25
+L01717,Lander,Rural/Frontier,Spanish,2025-12-16
+L01718,Nye,Rural/Frontier,English,2025-05-28
+L01719,Clark,Southern Nevada,English,2024-02-29
+L01720,White Pine,Rural/Frontier,Spanish,2026-02-21
+L01721,Washoe,Northern Nevada,English,2026-04-07
+L01722,Clark,Southern Nevada,English,2026-09-03
+L01723,Clark,Southern Nevada,English,2025-06-27
+L01724,Lincoln,Rural/Frontier,English,2026-03-30
+L01725,Clark,Southern Nevada,English,2025-05-31
+L01726,Clark,Southern Nevada,English,2026-03-13
+L01727,Humboldt,Rural/Frontier,English,2024-12-18
+L01728,Carson City,Northern Nevada,English,2025-03-20
+L01729,Clark,Southern Nevada,Other,2024-10-08
+L01730,Washoe,Northern Nevada,Spanish,2024-06-09
+L01731,Clark,Southern Nevada,English,2025-12-28
+L01732,Carson City,Northern Nevada,English,2023-12-25
+L01733,Washoe,Northern Nevada,English,2025-06-25
+L01734,Washoe,Northern Nevada,English,2025-03-11
+L01735,Clark,Southern Nevada,English,2024-11-26
+L01736,Washoe,Northern Nevada,English,2026-03-30
+L01737,Washoe,Northern Nevada,English,2026-08-31
+L01738,Churchill,Rural/Frontier,English,2024-09-22
+L01739,Washoe,Northern Nevada,English,2024-12-05
+L01740,Clark,Southern Nevada,Spanish,2026-04-08
+L01741,Douglas,Northern Nevada,English,2024-04-01
+L01742,Washoe,Northern Nevada,English,2024-09-14
+L01743,Washoe,Northern Nevada,English,2024-12-09
+L01744,Washoe,Northern Nevada,English,2025-10-03
+L01745,Clark,Southern Nevada,English,2024-10-03
+L01746,Washoe,Northern Nevada,English,2026-03-09
+L01747,Clark,Southern Nevada,English,2026-06-16
+L01748,Washoe,Northern Nevada,English,2024-08-28
+L01749,Washoe,Northern Nevada,English,2024-12-02
+L01750,Washoe,Northern Nevada,Spanish,2024-09-05
+L01751,Washoe,Northern Nevada,English,2024-06-09
+L01752,White Pine,Rural/Frontier,English,2026-07-03
+L01753,Clark,Southern Nevada,English,2026-03-02
+L01754,Clark,Southern Nevada,Spanish,2026-09-03
+L01755,Clark,Southern Nevada,Spanish,2026-06-16
+L01756,Clark,Southern Nevada,English,2025-08-29
+L01757,Washoe,Northern Nevada,Spanish,2024-06-09
+L01758,White Pine,Rural/Frontier,English,2025-05-25
+L01759,Clark,Southern Nevada,English,2026-07-01
+L01760,Clark,Southern Nevada,English,2024-01-01
+L01761,Clark,Southern Nevada,English,2023-12-02
+L01762,Unknown,Unknown,English,2026-09-21
+L01763,Washoe,Northern Nevada,English,2025-06-20
+L01764,Washoe,Northern Nevada,Spanish,2025-06-21
+L01765,Clark,Southern Nevada,Spanish,2026-09-10
+L01766,Washoe,Northern Nevada,English,2025-06-25
+L01767,Washoe,Northern Nevada,English,2024-03-08
+L01768,Clark,Southern Nevada,English,2026-09-13
+L01769,Clark,Southern Nevada,English,2025-07-02
+L01770,Churchill,Rural/Frontier,English,2026-01-03
+L01771,Washoe,Northern Nevada,Spanish,2026-09-25
+L01772,Washoe,Northern Nevada,English,2026-05-29
+L01773,Carson City,Northern Nevada,Spanish,2025-10-02
+L01774,Washoe,Northern Nevada,English,2026-01-10
+L01775,Clark,Southern Nevada,English,2025-12-09
+L01776,Washoe,Northern Nevada,English,2024-05-30
+L01777,Douglas,Northern Nevada,Spanish,2024-03-23
+L01778,Washoe,Northern Nevada,English,2025-09-11
+L01779,Clark,Southern Nevada,Spanish,2024-04-03
+L01780,Clark,Southern Nevada,Spanish,2026-08-31
+L01781,Nye,Rural/Frontier,English,2026-10-01
+L01782,Washoe,Northern Nevada,English,2024-12-22
+L01783,Clark,Southern Nevada,English,2024-03-14
+L01784,Esmeralda,Rural/Frontier,English,2025-09-04
+L01785,Clark,Southern Nevada,English,2025-01-06
+L01786,Clark,Southern Nevada,English,2025-04-10
+L01787,Storey,Northern Nevada,English,2026-08-24
+L01788,Washoe,Northern Nevada,English,2023-12-15
+L01789,Eureka,Rural/Frontier,Spanish,2024-02-28
+L01790,Clark,Southern Nevada,English,2024-06-14
+L01791,Clark,Southern Nevada,English,2026-02-26
+L01792,Storey,Northern Nevada,English,2026-09-19
+L01793,Washoe,Northern Nevada,English,2024-03-20
+L01794,Carson City,Northern Nevada,Spanish,2026-06-03
+L01795,Washoe,Northern Nevada,English,2025-12-05
+L01796,Washoe,Northern Nevada,English,2025-06-29
+L01797,Clark,Southern Nevada,English,2024-03-11
+L01798,Clark,Southern Nevada,English,2026-09-22
+L01799,Clark,Southern Nevada,Spanish,2026-08-27
+L01800,Churchill,Rural/Frontier,English,2024-06-26
+L01801,Clark,Southern Nevada,English,2025-03-15
+L01802,Clark,Southern Nevada,English,2024-07-04
+L01803,Clark,Southern Nevada,English,2024-03-09
+L01804,Clark,Southern Nevada,Spanish,2024-03-16
+L01805,Washoe,Northern Nevada,English,2026-10-08
+L01806,Washoe,Northern Nevada,English,2024-06-11
+L01807,Clark,Southern Nevada,English,2023-12-07
+L01808,Clark,Southern Nevada,English,2024-06-15
+L01809,Washoe,Northern Nevada,English,2026-03-20
+L01810,Clark,Southern Nevada,English,2025-06-20
+L01811,Clark,Southern Nevada,English,2024-06-14
+L01812,Washoe,Northern Nevada,English,2025-12-29
+L01813,Clark,Southern Nevada,English,2024-04-08
+L01814,Nye,Rural/Frontier,Spanish,2025-09-15
+L01815,Washoe,Northern Nevada,English,2026-06-20
+L01816,Clark,Southern Nevada,English,2025-03-08
+L01817,Washoe,Northern Nevada,English,2026-09-12
+L01818,Carson City,Northern Nevada,Spanish,2025-08-22
+L01819,Washoe,Northern Nevada,English,2026-10-01
+L01820,Washoe,Northern Nevada,Spanish,2024-06-26
+L01821,Clark,Southern Nevada,English,2025-12-31
+L01822,Churchill,Rural/Frontier,English,2023-12-02
+L01823,Washoe,Northern Nevada,English,2025-12-17
+L01824,Washoe,Northern Nevada,English,2026-03-02
+L01825,Clark,Southern Nevada,English,2024-03-29
+L01826,Clark,Southern Nevada,English,2024-09-26
+L01827,Lyon,Rural/Frontier,English,2024-12-22
+L01828,Washoe,Northern Nevada,Spanish,2024-12-09
+L01829,Clark,Southern Nevada,Spanish,2024-06-07
+L01830,Washoe,Northern Nevada,English,2025-09-15
+L01831,Washoe,Northern Nevada,English,2024-03-07
+L01832,Washoe,Northern Nevada,English,2024-06-26
+L01833,Clark,Southern Nevada,Spanish,2024-04-01
+L01834,Mineral,Rural/Frontier,English,2025-01-01
+L01835,Clark,Southern Nevada,English,2024-09-05
+L01836,Washoe,Northern Nevada,English,2023-12-11
+L01837,Clark,Southern Nevada,Spanish,2026-10-03
+L01838,Carson City,Northern Nevada,English,2025-06-09
+L01839,Storey,Northern Nevada,Spanish,2026-09-16
+L01840,Clark,Southern Nevada,English,2023-12-10
+L01841,Clark,Southern Nevada,English,2024-12-28
+L01842,Washoe,Northern Nevada,English,2025-03-22
+L01843,Clark,Southern Nevada,Spanish,2024-03-06
+L01844,Clark,Southern Nevada,English,2024-08-29
+L01845,Washoe,Northern Nevada,English,2024-12-30
+L01846,Clark,Southern Nevada,English,2024-04-06
+L01847,Elko,Rural/Frontier,English,2024-02-26
+L01848,Clark,Southern Nevada,English,2024-07-08
+L01849,Clark,Southern Nevada,English,2026-10-06
+L01850,Lyon,Rural/Frontier,English,2024-05-26
+L01851,Clark,Southern Nevada,Spanish,2025-04-10
+L01852,Elko,Rural/Frontier,English,2026-03-13
+L01853,Washoe,Northern Nevada,English,2026-03-02
+L01854,Clark,Southern Nevada,Spanish,2026-05-21
+L01855,Humboldt,Rural/Frontier,English,2024-07-04
+L01856,Clark,Southern Nevada,English,2025-11-28
+L01857,Clark,Southern Nevada,English,2025-09-04
+L01858,Clark,Southern Nevada,English,2026-03-04
+L01859,Clark,Southern Nevada,English,2026-08-29
+L01860,Clark,Southern Nevada,English,2025-03-21
+L01861,Washoe,Northern Nevada,English,2024-07-04
+L01862,Washoe,Northern Nevada,Spanish,2025-07-05
+L01863,Washoe,Northern Nevada,English,2025-03-13
+L01864,Clark,Southern Nevada,English,2025-09-21
+L01865,Lander,Rural/Frontier,English,2024-03-07
+L01866,Pershing,Rural/Frontier,English,2024-12-20
+L01867,Washoe,Northern Nevada,English,2024-03-17
+L01868,Washoe,Northern Nevada,Spanish,2026-06-25
+L01869,Clark,Southern Nevada,English,2024-09-22
+L01870,Washoe,Northern Nevada,English,2024-07-06
+L01871,Clark,Southern Nevada,English,2024-02-25
+L01872,Douglas,Northern Nevada,English,2024-06-05
+L01873,Washoe,Northern Nevada,Spanish,2024-08-30
+L01874,Nye,Rural/Frontier,Spanish,2026-09-01
+L01875,Clark,Southern Nevada,English,2025-03-10
+L01876,Esmeralda,Rural/Frontier,English,2024-04-03
+L01877,Eureka,Rural/Frontier,English,2025-07-04
+L01878,Clark,Southern Nevada,English,2024-01-04
+L01879,Washoe,Northern Nevada,English,2025-12-24
+L01880,Lyon,Rural/Frontier,English,2025-08-31
+L01881,Clark,Southern Nevada,English,2024-10-06
+L01882,Washoe,Northern Nevada,English,2024-06-01
+L01883,Clark,Southern Nevada,English,2024-03-27
+L01884,Clark,Southern Nevada,Spanish,2026-03-31
+L01885,Washoe,Northern Nevada,English,2025-03-21
+L01886,Clark,Southern Nevada,English,2026-02-27
+L01887,Clark,Southern Nevada,English,2024-01-06
+L01888,Clark,Southern Nevada,English,2025-09-22
+L01889,Clark,Southern Nevada,English,2024-03-25
+L01890,Clark,Southern Nevada,Spanish,2026-03-23
+L01891,Clark,Southern Nevada,English,2024-03-02
+L01892,Clark,Southern Nevada,English,2023-12-18
+L01893,Humboldt,Rural/Frontier,English,2025-09-07
+L01894,Washoe,Northern Nevada,English,2025-07-06
+L01895,Elko,Rural/Frontier,English,2026-06-03
+L01896,Washoe,Northern Nevada,English,2024-08-30
+L01897,Clark,Southern Nevada,Spanish,2024-06-30
+L01898,Lyon,Rural/Frontier,English,2024-12-22
+L01899,Clark,Southern Nevada,Unknown,2023-11-30
+L01900,Washoe,Northern Nevada,English,2024-08-29
+L01901,Washoe,Northern Nevada,English,2025-08-29
+L01902,Clark,Southern Nevada,English,2025-06-11
+L01903,Clark,Southern Nevada,English,2024-06-09
+L01904,Washoe,Northern Nevada,English,2024-04-01
+L01905,Washoe,Northern Nevada,English,2024-06-01
+L01906,Clark,Southern Nevada,English,2025-12-16
+L01907,Washoe,Northern Nevada,English,2025-03-14
+L01908,Humboldt,Rural/Frontier,English,2024-11-23
+L01909,Clark,Southern Nevada,English,2026-09-13
+L01910,Clark,Southern Nevada,English,2025-05-30
+L01911,Unknown,Unknown,English,2024-12-31
+L01912,Washoe,Northern Nevada,English,2024-10-06
+L01913,Carson City,Northern Nevada,English,2025-06-06
+L01914,Clark,Southern Nevada,Spanish,2024-03-05
+L01915,Clark,Southern Nevada,English,2025-03-09
+L01916,Washoe,Northern Nevada,English,2023-12-05
+L01917,Clark,Southern Nevada,English,2025-12-10
+L01918,Clark,Southern Nevada,English,2026-04-06
+L01919,Washoe,Northern Nevada,Other,2025-10-03
+L01920,Douglas,Northern Nevada,Other,2026-08-27
+L01921,Clark,Southern Nevada,English,2025-03-30
+L01922,Clark,Southern Nevada,English,2026-09-29
+L01923,Carson City,Northern Nevada,English,2024-04-06
+L01924,Carson City,Northern Nevada,English,2024-12-14
+L01925,Clark,Southern Nevada,Spanish,2024-06-02
+L01926,Lander,Rural/Frontier,English,2024-09-18
+L01927,Clark,Southern Nevada,Spanish,2026-03-18
+L01928,Washoe,Northern Nevada,English,2026-10-03
+L01929,Clark,Southern Nevada,Spanish,2025-02-28
+L01930,Washoe,Northern Nevada,English,2024-02-27
+L01931,Washoe,Northern Nevada,Spanish,2024-02-27
+L01932,Clark,Southern Nevada,English,2026-09-10
+L01933,Clark,Southern Nevada,English,2025-03-11
+L01934,Washoe,Northern Nevada,English,2025-03-26
+L01935,Washoe,Northern Nevada,English,2024-11-30
+L01936,Clark,Southern Nevada,English,2026-03-21
+L01937,Clark,Southern Nevada,English,2024-02-28
+L01938,Clark,Southern Nevada,English,2025-10-08
+L01939,Clark,Southern Nevada,English,2025-09-06
+L01940,Clark,Southern Nevada,English,2024-01-05
+L01941,Washoe,Northern Nevada,English,2025-02-21
+L01942,Clark,Southern Nevada,Spanish,2024-09-23
+L01943,Elko,Rural/Frontier,English,2026-07-04
+L01944,Washoe,Northern Nevada,English,2026-09-08
+L01945,Elko,Rural/Frontier,English,2025-09-07
+L01946,Washoe,Northern Nevada,English,2025-12-17
+L01947,Douglas,Northern Nevada,English,2025-09-25
+L01948,Lyon,Rural/Frontier,English,2025-04-01
+L01949,Clark,Southern Nevada,English,2024-12-07
+L01950,Clark,Southern Nevada,English,2026-06-21
+L01951,Carson City,Northern Nevada,English,2024-10-04
+L01952,Washoe,Northern Nevada,English,2024-03-06
+L01953,Unknown,Unknown,English,2025-05-30
+L01954,Clark,Southern Nevada,Other,2025-12-17
+L01955,Clark,Southern Nevada,Spanish,2026-06-29
+L01956,Washoe,Northern Nevada,English,2025-06-04
+L01957,Clark,Southern Nevada,English,2024-12-08
+L01958,Elko,Rural/Frontier,English,2025-10-05
+L01959,White Pine,Rural/Frontier,Spanish,2026-03-20
+L01960,Washoe,Northern Nevada,Unknown,2024-09-07
+L01961,Humboldt,Rural/Frontier,English,2025-06-26
+L01962,Washoe,Northern Nevada,Spanish,2025-03-13
+L01963,Washoe,Northern Nevada,Spanish,2024-06-29
+L01964,Esmeralda,Rural/Frontier,English,2025-12-15
+L01965,Clark,Southern Nevada,English,2025-02-26
+L01966,Clark,Southern Nevada,English,2024-03-05
+L01967,Elko,Rural/Frontier,English,2025-09-13
+L01968,Carson City,Northern Nevada,Spanish,2024-01-01
+L01969,Carson City,Northern Nevada,Spanish,2024-05-30
+L01970,Nye,Rural/Frontier,English,2025-06-24
+L01971,Carson City,Northern Nevada,English,2025-03-04
+L01972,Clark,Southern Nevada,English,2024-06-01
+L01973,Washoe,Northern Nevada,Spanish,2024-12-09
+L01974,Clark,Southern Nevada,English,2026-03-06
+L01975,Washoe,Northern Nevada,Unknown,2024-04-04
+L01976,Washoe,Northern Nevada,English,2025-01-02
+L01977,Clark,Southern Nevada,English,2025-09-18
+L01978,Clark,Southern Nevada,English,2026-06-30
+L01979,Churchill,Rural/Frontier,English,2024-02-20
+L01980,Clark,Southern Nevada,English,2024-12-24
+L01981,Washoe,Northern Nevada,English,2023-12-28
+L01982,Clark,Southern Nevada,English,2025-04-08
+L01983,Washoe,Northern Nevada,Spanish,2026-09-14
+L01984,Washoe,Northern Nevada,English,2024-11-23
+L01985,Clark,Southern Nevada,English,2024-03-26
+L01986,Nye,Rural/Frontier,English,2024-07-04
+L01987,Washoe,Northern Nevada,Spanish,2023-12-27
+L01988,Lincoln,Rural/Frontier,English,2024-10-09
+L01989,Washoe,Northern Nevada,English,2024-11-30
+L01990,Nye,Rural/Frontier,English,2025-09-12
+L01991,Washoe,Northern Nevada,English,2024-09-24
+L01992,Douglas,Northern Nevada,Spanish,2026-06-06
+L01993,Washoe,Northern Nevada,English,2024-11-29
+L01994,Clark,Southern Nevada,English,2026-08-28
+L01995,Lander,Rural/Frontier,English,2025-09-28
+L01996,Clark,Southern Nevada,English,2025-05-25
+L01997,Washoe,Northern Nevada,English,2025-10-08
+L01998,Mineral,Rural/Frontier,English,2026-09-13
+L01999,Washoe,Northern Nevada,English,2024-08-30
+L02000,Douglas,Northern Nevada,English,2026-03-18
+L02001,Clark,Southern Nevada,English,2024-12-17
+L02002,Clark,Southern Nevada,English,2024-09-03
+L02003,Washoe,Northern Nevada,English,2024-06-10
+L02004,Washoe,Northern Nevada,English,2025-05-26
+L02005,Clark,Southern Nevada,English,2024-09-28
+L02006,Washoe,Northern Nevada,English,2025-12-14
+L02007,Clark,Southern Nevada,English,2024-05-31
+L02008,Clark,Southern Nevada,English,2024-05-21
+L02009,Washoe,Northern Nevada,English,2026-06-23
+L02010,Humboldt,Rural/Frontier,Spanish,2025-06-07
+L02011,Nye,Rural/Frontier,English,2026-09-24
+L02012,Clark,Southern Nevada,English,2025-12-16
+L02013,Clark,Southern Nevada,Spanish,2024-12-21
+L02014,Nye,Rural/Frontier,English,2024-12-01
+L02015,Washoe,Northern Nevada,English,2026-03-12
+L02016,Clark,Southern Nevada,Spanish,2025-05-25
+L02017,Clark,Southern Nevada,English,2026-09-18
+L02018,Elko,Rural/Frontier,English,2026-03-07
+L02019,Carson City,Northern Nevada,English,2023-12-21
+L02020,Clark,Southern Nevada,English,2025-06-21
+L02021,Washoe,Northern Nevada,English,2025-06-04
+L02022,Clark,Southern Nevada,English,2026-06-15
+L02023,Nye,Rural/Frontier,English,2025-09-14
+L02024,Nye,Rural/Frontier,English,2026-03-09
+L02025,Clark,Southern Nevada,English,2024-05-25
+L02026,Clark,Southern Nevada,English,2024-12-31
+L02027,Clark,Southern Nevada,Spanish,2026-04-09
+L02028,Clark,Southern Nevada,English,2026-10-04
+L02029,Washoe,Northern Nevada,English,2023-12-22
+L02030,Clark,Southern Nevada,Spanish,2025-06-21
+L02031,Clark,Southern Nevada,English,2024-09-19
+L02032,Carson City,Northern Nevada,English,2025-09-16
+L02033,Elko,Rural/Frontier,English,2025-10-01
+L02034,Clark,Southern Nevada,English,2026-06-15
+L02035,Washoe,Northern Nevada,English,2026-09-03
+L02036,Clark,Southern Nevada,English,2024-12-04
+L02037,Elko,Rural/Frontier,English,2024-03-26
+L02038,Clark,Southern Nevada,English,2024-03-21
+L02039,Washoe,Northern Nevada,English,2025-03-04
+L02040,Clark,Southern Nevada,English,2024-10-05
+L02041,Washoe,Northern Nevada,Unknown,2025-01-04
+L02042,Washoe,Northern Nevada,English,2024-03-17
+L02043,Clark,Southern Nevada,English,2025-03-28
+L02044,Clark,Southern Nevada,English,2025-03-15
+L02045,Washoe,Northern Nevada,English,2025-03-14
+L02046,Washoe,Northern Nevada,English,2025-03-05
+L02047,Washoe,Northern Nevada,English,2025-09-04
+L02048,Elko,Rural/Frontier,English,2024-08-23
+L02049,Clark,Southern Nevada,English,2024-12-11
+L02050,Clark,Southern Nevada,English,2025-11-24
+L02051,Clark,Southern Nevada,English,2026-06-13
+L02052,Washoe,Northern Nevada,English,2025-12-16
+L02053,Elko,Rural/Frontier,English,2024-09-09
+L02054,Washoe,Northern Nevada,English,2024-09-08
+L02055,Washoe,Northern Nevada,English,2025-06-10
+L02056,Clark,Southern Nevada,English,2025-12-18
+L02057,Carson City,Northern Nevada,Spanish,2024-06-16
+L02058,Clark,Southern Nevada,Spanish,2025-02-27
+L02059,Nye,Rural/Frontier,English,2024-09-24
+L02060,Clark,Southern Nevada,English,2025-06-14
+L02061,Washoe,Northern Nevada,Spanish,2026-03-23
+L02062,Clark,Southern Nevada,Spanish,2025-03-05
+L02063,Elko,Rural/Frontier,Other,2024-03-14
+L02064,Clark,Southern Nevada,English,2025-09-14
+L02065,Clark,Southern Nevada,English,2025-03-02
+L02066,Clark,Southern Nevada,English,2024-09-13
+L02067,Washoe,Northern Nevada,English,2024-09-04
+L02068,Clark,Southern Nevada,English,2024-09-04
+L02069,Clark,Southern Nevada,English,2025-08-25
+L02070,Lyon,Rural/Frontier,English,2025-09-30
+L02071,Clark,Southern Nevada,English,2023-12-03
+L02072,Clark,Southern Nevada,English,2026-06-25
+L02073,Douglas,Northern Nevada,English,2026-10-06
+L02074,Elko,Rural/Frontier,English,2025-03-30
+L02075,Clark,Southern Nevada,English,2024-09-01
+L02076,Douglas,Northern Nevada,English,2025-05-23
+L02077,Elko,Rural/Frontier,English,2024-12-26
+L02078,Washoe,Northern Nevada,English,2026-03-20
+L02079,Clark,Southern Nevada,Spanish,2023-11-24
+L02080,Clark,Southern Nevada,English,2023-12-07
+L02081,Clark,Southern Nevada,English,2025-12-05
+L02082,Douglas,Northern Nevada,English,2024-06-02
+L02083,Clark,Southern Nevada,English,2024-03-07
+L02084,Lyon,Rural/Frontier,English,2025-07-03
+L02085,Clark,Southern Nevada,English,2026-01-06
+L02086,Humboldt,Rural/Frontier,English,2024-11-25
+L02087,Clark,Southern Nevada,English,2024-03-09
+L02088,Clark,Southern Nevada,English,2026-06-29
+L02089,White Pine,Rural/Frontier,English,2024-07-05
+L02090,Elko,Rural/Frontier,English,2025-04-01
+L02091,Washoe,Northern Nevada,English,2023-11-29
+L02092,Esmeralda,Rural/Frontier,English,2025-12-28
+L02093,Washoe,Northern Nevada,Spanish,2025-10-03
+L02094,Pershing,Rural/Frontier,English,2023-12-04
+L02095,Washoe,Northern Nevada,English,2025-03-18
+L02096,Clark,Southern Nevada,English,2024-05-26
+L02097,Clark,Southern Nevada,English,2024-08-31
+L02098,Washoe,Northern Nevada,English,2026-09-06
+L02099,Clark,Southern Nevada,English,2024-12-09
+L02100,Clark,Southern Nevada,English,2026-06-28
+L02101,Washoe,Northern Nevada,English,2025-08-28
+L02102,Unknown,Unknown,English,2024-09-03
+L02103,Clark,Southern Nevada,English,2025-08-28
+L02104,Washoe,Northern Nevada,English,2025-06-27
+L02105,Washoe,Northern Nevada,Spanish,2024-09-05
+L02106,Washoe,Northern Nevada,Spanish,2024-01-02
+L02107,Washoe,Northern Nevada,English,2026-08-29
+L02108,Washoe,Northern Nevada,English,2024-03-15
+L02109,Mineral,Rural/Frontier,English,2026-09-13
+L02110,Lyon,Rural/Frontier,English,2025-09-05
+L02111,Washoe,Northern Nevada,English,2026-06-15
+L02112,Clark,Southern Nevada,English,2024-03-08
+L02113,Washoe,Northern Nevada,Spanish,2026-03-27
+L02114,Mineral,Rural/Frontier,English,2025-12-10
+L02115,Clark,Southern Nevada,English,2024-04-06
+L02116,Clark,Southern Nevada,Unknown,2024-06-15
+L02117,Washoe,Northern Nevada,English,2024-12-09
+L02118,Washoe,Northern Nevada,English,2023-12-10
+L02119,Clark,Southern Nevada,Other,2026-03-20
+L02120,Clark,Southern Nevada,English,2024-09-17
+L02121,Washoe,Northern Nevada,English,2025-08-24
+L02122,Clark,Southern Nevada,English,2025-09-06
+L02123,Nye,Rural/Frontier,Spanish,2026-03-25
+L02124,Churchill,Rural/Frontier,Spanish,2025-11-29
+L02125,Clark,Southern Nevada,English,2024-03-18
+L02126,Clark,Southern Nevada,English,2025-10-05
+L02127,White Pine,Rural/Frontier,English,2025-09-19
+L02128,Pershing,Rural/Frontier,English,2023-12-22
+L02129,Clark,Southern Nevada,English,2025-12-24
+L02130,Clark,Southern Nevada,English,2025-06-28
+L02131,Washoe,Northern Nevada,English,2025-12-07
+L02132,Clark,Southern Nevada,English,2025-03-01
+L02133,Humboldt,Rural/Frontier,English,2024-09-10
+L02134,Washoe,Northern Nevada,English,2026-06-07
+L02135,Clark,Southern Nevada,English,2025-12-28
+L02136,Clark,Southern Nevada,English,2026-10-07
+L02137,Clark,Southern Nevada,English,2024-02-27
+L02138,Clark,Southern Nevada,English,2025-01-01
+L02139,Washoe,Northern Nevada,English,2024-11-24
+L02140,Washoe,Northern Nevada,English,2024-06-06
+L02141,Pershing,Rural/Frontier,English,2026-02-20
+L02142,White Pine,Rural/Frontier,English,2026-08-31
+L02143,Nye,Rural/Frontier,Spanish,2024-03-11
+L02144,Lander,Rural/Frontier,Unknown,2026-10-04
+L02145,Clark,Southern Nevada,English,2026-03-23
+L02146,Esmeralda,Rural/Frontier,Spanish,2025-10-05
+L02147,Clark,Southern Nevada,English,2025-03-03
+L02148,Clark,Southern Nevada,English,2025-05-27
+L02149,Carson City,Northern Nevada,English,2025-12-10
+L02150,Clark,Southern Nevada,English,2025-09-12
+L02151,Washoe,Northern Nevada,Spanish,2025-12-15
+L02152,Clark,Southern Nevada,English,2024-12-13
+L02153,Washoe,Northern Nevada,English,2025-07-01
+L02154,Clark,Southern Nevada,English,2025-06-01
+L02155,Clark,Southern Nevada,English,2024-06-30
+L02156,Washoe,Northern Nevada,English,2025-10-08
+L02157,Clark,Southern Nevada,English,2024-09-06
+L02158,Clark,Southern Nevada,Spanish,2026-03-18
+L02159,Washoe,Northern Nevada,English,2026-03-27
+L02160,Washoe,Northern Nevada,English,2026-04-05
+L02161,Humboldt,Rural/Frontier,English,2026-06-04
+L02162,Washoe,Northern Nevada,Spanish,2025-12-21
+L02163,Clark,Southern Nevada,English,2024-09-08
+L02164,Washoe,Northern Nevada,English,2023-12-06
+L02165,Elko,Rural/Frontier,English,2026-03-21
+L02166,Clark,Southern Nevada,Spanish,2026-04-01
+L02167,Clark,Southern Nevada,English,2024-05-25
+L02168,Washoe,Northern Nevada,Spanish,2023-12-09
+L02169,Unknown,Unknown,English,2026-10-03
+L02170,Washoe,Northern Nevada,Spanish,2025-09-23
+L02171,Clark,Southern Nevada,English,2026-09-07
+L02172,Clark,Southern Nevada,English,2023-12-01
+L02173,Clark,Southern Nevada,English,2025-12-19
+L02174,Clark,Southern Nevada,English,2024-03-30
+L02175,Washoe,Northern Nevada,English,2025-03-27
+L02176,Clark,Southern Nevada,English,2023-12-24
+L02177,Washoe,Northern Nevada,Spanish,2024-09-05
+L02178,Carson City,Northern Nevada,Unknown,2025-09-13
+L02179,Clark,Southern Nevada,English,2025-12-09
+L02180,Clark,Southern Nevada,English,2023-12-29
+L02181,Clark,Southern Nevada,English,2025-04-04
+L02182,Washoe,Northern Nevada,English,2026-09-02
+L02183,Clark,Southern Nevada,English,2024-03-23
+L02184,Clark,Southern Nevada,English,2025-03-02
+L02185,Clark,Southern Nevada,English,2026-07-08
+L02186,Pershing,Rural/Frontier,English,2026-08-27
+L02187,Unknown,Unknown,English,2024-03-02
+L02188,Washoe,Northern Nevada,English,2025-05-29
+L02189,Churchill,Rural/Frontier,English,2024-06-12
+L02190,Washoe,Northern Nevada,English,2026-09-21
+L02191,Washoe,Northern Nevada,English,2025-12-10
+L02192,Clark,Southern Nevada,English,2024-06-10
+L02193,Churchill,Rural/Frontier,English,2025-04-05
+L02194,Clark,Southern Nevada,Spanish,2025-02-24
+L02195,Washoe,Northern Nevada,English,2025-03-09
+L02196,Nye,Rural/Frontier,English,2026-10-04
+L02197,Washoe,Northern Nevada,English,2024-02-21
+L02198,Clark,Southern Nevada,English,2023-12-18
+L02199,Clark,Southern Nevada,English,2025-03-26
+L02200,Clark,Southern Nevada,English,2024-06-16
+L02201,Washoe,Northern Nevada,Spanish,2025-03-15
+L02202,Clark,Southern Nevada,English,2024-04-01
+L02203,Clark,Southern Nevada,English,2024-11-27
+L02204,Elko,Rural/Frontier,English,2024-09-21
+L02205,Washoe,Northern Nevada,English,2024-02-22
+L02206,Clark,Southern Nevada,Spanish,2024-04-03
+L02207,Washoe,Northern Nevada,English,2024-05-25
+L02208,Clark,Southern Nevada,English,2024-04-05
+L02209,Clark,Southern Nevada,English,2025-05-30
+L02210,Clark,Southern Nevada,English,2026-01-11
+L02211,Douglas,Northern Nevada,Spanish,2024-03-24
+L02212,Clark,Southern Nevada,English,2024-08-25
+L02213,Storey,Northern Nevada,English,2024-09-08
+L02214,Clark,Southern Nevada,English,2026-03-23
+L02215,Washoe,Northern Nevada,English,2026-05-26
+L02216,Washoe,Northern Nevada,English,2024-06-19
+L02217,Clark,Southern Nevada,English,2025-09-23
+L02218,Clark,Southern Nevada,English,2024-03-22
+L02219,Carson City,Northern Nevada,English,2026-03-19
+L02220,Douglas,Northern Nevada,English,2024-03-27
+L02221,Mineral,Rural/Frontier,English,2024-06-22
+L02222,Humboldt,Rural/Frontier,English,2024-04-04
+L02223,Clark,Southern Nevada,English,2025-04-08
+L02224,Washoe,Northern Nevada,Spanish,2025-02-26
+L02225,Washoe,Northern Nevada,English,2025-09-09
+L02226,Elko,Rural/Frontier,English,2025-07-08
+L02227,Washoe,Northern Nevada,Spanish,2025-12-07
+L02228,Clark,Southern Nevada,English,2025-06-19
+L02229,Lyon,Rural/Frontier,English,2026-03-24
+L02230,Clark,Southern Nevada,English,2024-12-05
+L02231,Washoe,Northern Nevada,English,2024-06-25
+L02232,Clark,Southern Nevada,English,2024-12-07
+L02233,Carson City,Northern Nevada,English,2025-03-08
+L02234,Clark,Southern Nevada,Other,2025-09-18
+L02235,Clark,Southern Nevada,English,2023-12-12
+L02236,Clark,Southern Nevada,English,2025-09-07
+L02237,Clark,Southern Nevada,English,2026-07-07
+L02238,Clark,Southern Nevada,English,2024-02-26
+L02239,Clark,Southern Nevada,English,2025-12-08
+L02240,Mineral,Rural/Frontier,English,2023-12-30
+L02241,Douglas,Northern Nevada,English,2023-12-17
+L02242,Clark,Southern Nevada,English,2026-01-08
+L02243,Washoe,Northern Nevada,Spanish,2024-12-01
+L02244,Washoe,Northern Nevada,English,2025-06-19
+L02245,Clark,Southern Nevada,English,2023-11-26
+L02246,Washoe,Northern Nevada,English,2023-12-12
+L02247,White Pine,Rural/Frontier,English,2026-03-17
+L02248,Clark,Southern Nevada,English,2025-10-06
+L02249,Clark,Southern Nevada,English,2024-06-21
+L02250,Washoe,Northern Nevada,English,2024-06-30
+L02251,Washoe,Northern Nevada,Spanish,2026-07-04
+L02252,Washoe,Northern Nevada,English,2024-09-09
+L02253,Nye,Rural/Frontier,English,2026-02-26
+L02254,Washoe,Northern Nevada,English,2024-01-06
+L02255,Clark,Southern Nevada,English,2024-12-24
+L02256,Unknown,Unknown,English,2025-10-01
+L02257,Carson City,Northern Nevada,English,2024-03-02
+L02258,Clark,Southern Nevada,English,2024-09-30
+L02259,Churchill,Rural/Frontier,English,2024-06-13
+L02260,Washoe,Northern Nevada,English,2025-09-23
+L02261,Clark,Southern Nevada,English,2026-03-29
+L02262,Clark,Southern Nevada,Spanish,2024-01-04
+L02263,Nye,Rural/Frontier,English,2024-03-01
+L02264,Clark,Southern Nevada,Spanish,2026-03-29
+L02265,Clark,Southern Nevada,Spanish,2026-09-06
+L02266,Humboldt,Rural/Frontier,English,2025-01-03
+L02267,Pershing,Rural/Frontier,English,2025-04-09
+L02268,Douglas,Northern Nevada,Other,2023-11-24
+L02269,Clark,Southern Nevada,English,2023-12-16
+L02270,Clark,Southern Nevada,English,2024-07-04
+L02271,Clark,Southern Nevada,English,2025-06-18
+L02272,Clark,Southern Nevada,English,2024-09-16
+L02273,Carson City,Northern Nevada,English,2025-04-04
+L02274,Clark,Southern Nevada,English,2025-07-02
+L02275,Lincoln,Rural/Frontier,English,2024-09-27
+L02276,Washoe,Northern Nevada,English,2025-12-22
+L02277,Washoe,Northern Nevada,English,2024-07-02
+L02278,Washoe,Northern Nevada,English,2024-06-14
+L02279,Clark,Southern Nevada,English,2025-09-28
+L02280,Lander,Rural/Frontier,English,2026-09-07
+L02281,Washoe,Northern Nevada,English,2026-03-09
+L02282,Washoe,Northern Nevada,English,2025-10-08
+L02283,Lyon,Rural/Frontier,English,2026-03-31
+L02284,Clark,Southern Nevada,English,2024-05-27
+L02285,Lyon,Rural/Frontier,Spanish,2026-09-15
+L02286,Washoe,Northern Nevada,Spanish,2024-12-04
+L02287,Clark,Southern Nevada,Spanish,2025-06-21
+L02288,Lincoln,Rural/Frontier,English,2025-03-21
+L02289,Clark,Southern Nevada,English,2024-12-29
+L02290,Washoe,Northern Nevada,English,2025-06-26
+L02291,Eureka,Rural/Frontier,English,2025-07-03
+L02292,Lyon,Rural/Frontier,Spanish,2025-05-25
+L02293,Elko,Rural/Frontier,Spanish,2025-12-13
+L02294,Clark,Southern Nevada,English,2024-03-03
+L02295,Carson City,Northern Nevada,English,2023-12-28
+L02296,Washoe,Northern Nevada,English,2025-07-04
+L02297,Clark,Southern Nevada,English,2025-12-01
+L02298,Clark,Southern Nevada,English,2025-10-06
+L02299,Humboldt,Rural/Frontier,English,2025-12-23
+L02300,Washoe,Northern Nevada,English,2024-12-14
+L02301,Washoe,Northern Nevada,English,2026-07-01
+L02302,Clark,Southern Nevada,English,2026-10-11
+L02303,Washoe,Northern Nevada,English,2024-08-28
+L02304,Washoe,Northern Nevada,English,2026-04-03
+L02305,Elko,Rural/Frontier,Spanish,2024-10-09
+L02306,Churchill,Rural/Frontier,English,2026-03-02
+L02307,Washoe,Northern Nevada,English,2024-06-18
+L02308,Washoe,Northern Nevada,English,2025-07-06
+L02309,Clark,Southern Nevada,English,2023-12-19
+L02310,Clark,Southern Nevada,English,2024-04-02
+L02311,White Pine,Rural/Frontier,English,2025-06-21
+L02312,Washoe,Northern Nevada,Spanish,2026-02-28
+L02313,Clark,Southern Nevada,English,2025-03-11
+L02314,Washoe,Northern Nevada,English,2026-06-05
+L02315,Clark,Southern Nevada,English,2026-03-19
+L02316,Clark,Southern Nevada,English,2024-06-01
+L02317,White Pine,Rural/Frontier,English,2026-08-21
+L02318,Carson City,Northern Nevada,English,2025-04-05
+L02319,Clark,Southern Nevada,English,2024-02-20
+L02320,Washoe,Northern Nevada,English,2026-05-27
+L02321,Clark,Southern Nevada,Spanish,2024-04-05
+L02322,Clark,Southern Nevada,English,2026-03-10
+L02323,Clark,Southern Nevada,English,2025-11-27
+L02324,Washoe,Northern Nevada,Spanish,2026-06-02
+L02325,Clark,Southern Nevada,English,2025-04-03
+L02326,Elko,Rural/Frontier,English,2024-11-27
+L02327,Clark,Southern Nevada,English,2026-05-30
+L02328,Humboldt,Rural/Frontier,English,2026-07-06
+L02329,Carson City,Northern Nevada,English,2026-07-10
+L02330,Clark,Southern Nevada,English,2025-11-22
+L02331,Lincoln,Rural/Frontier,Spanish,2025-07-01
+L02332,Humboldt,Rural/Frontier,Other,2026-06-09
+L02333,Clark,Southern Nevada,English,2026-07-10
+L02334,Washoe,Northern Nevada,English,2026-04-06
+L02335,Clark,Southern Nevada,English,2025-01-09
+L02336,Clark,Southern Nevada,English,2026-08-30
+L02337,Churchill,Rural/Frontier,English,2025-03-02
+L02338,Unknown,Unknown,Spanish,2024-07-05
+L02339,Washoe,Northern Nevada,English,2025-01-01
+L02340,Clark,Southern Nevada,English,2024-09-29
+L02341,Clark,Southern Nevada,English,2026-03-28
+L02342,Washoe,Northern Nevada,English,2025-11-30
+L02343,Washoe,Northern Nevada,English,2024-03-30
+L02344,Elko,Rural/Frontier,English,2024-03-02
+L02345,Washoe,Northern Nevada,English,2026-03-29
+L02346,Clark,Southern Nevada,English,2024-12-23
+L02347,Clark,Southern Nevada,English,2024-05-26
+L02348,Washoe,Northern Nevada,English,2024-12-16
+L02349,Washoe,Northern Nevada,English,2025-06-13
+L02350,Storey,Northern Nevada,English,2026-07-02
+L02351,White Pine,Rural/Frontier,English,2026-09-04
+L02352,Clark,Southern Nevada,English,2025-06-03
+L02353,Washoe,Northern Nevada,Spanish,2025-06-08
+L02354,Washoe,Northern Nevada,English,2026-03-28
+L02355,Clark,Southern Nevada,English,2024-06-06
+L02356,Washoe,Northern Nevada,English,2025-03-07
+L02357,Washoe,Northern Nevada,English,2024-12-27
+L02358,Washoe,Northern Nevada,English,2025-06-14
+L02359,Clark,Southern Nevada,English,2026-05-25
+L02360,Washoe,Northern Nevada,English,2025-05-30
+L02361,Clark,Southern Nevada,English,2025-08-26
+L02362,Clark,Southern Nevada,English,2024-03-30
+L02363,Washoe,Northern Nevada,English,2023-12-31
+L02364,Clark,Southern Nevada,Spanish,2024-12-08
+L02365,Clark,Southern Nevada,English,2023-12-13
+L02366,Humboldt,Rural/Frontier,English,2025-09-11
+L02367,Nye,Rural/Frontier,English,2024-09-12
+L02368,Washoe,Northern Nevada,Spanish,2026-08-24
+L02369,Clark,Southern Nevada,English,2024-06-04
+L02370,Clark,Southern Nevada,English,2024-09-15
+L02371,Washoe,Northern Nevada,English,2026-06-15
+L02372,Clark,Southern Nevada,English,2024-03-06
+L02373,Washoe,Northern Nevada,English,2025-06-28
+L02374,Clark,Southern Nevada,English,2024-10-08
+L02375,Carson City,Northern Nevada,Spanish,2025-01-06
+L02376,Clark,Southern Nevada,Spanish,2024-12-24
+L02377,Clark,Southern Nevada,English,2024-03-18
+L02378,Washoe,Northern Nevada,English,2024-04-05
+L02379,Washoe,Northern Nevada,English,2025-02-22
+L02380,Lyon,Rural/Frontier,English,2024-06-27
+L02381,Lyon,Rural/Frontier,Spanish,2024-08-27
+L02382,Washoe,Northern Nevada,English,2025-09-11
+L02383,Washoe,Northern Nevada,Unknown,2026-06-15
+L02384,Carson City,Northern Nevada,English,2026-03-25
+L02385,Clark,Southern Nevada,English,2024-06-13
+L02386,Clark,Southern Nevada,English,2026-06-20
+L02387,Clark,Southern Nevada,English,2024-05-31
+L02388,Clark,Southern Nevada,English,2026-09-19
+L02389,Clark,Southern Nevada,English,2025-06-12
+L02390,Clark,Southern Nevada,English,2026-02-28
+L02391,Clark,Southern Nevada,English,2024-07-06
+L02392,Lander,Rural/Frontier,Spanish,2024-10-05
+L02393,Clark,Southern Nevada,English,2026-01-05
+L02394,Washoe,Northern Nevada,English,2025-09-21
+L02395,Clark,Southern Nevada,English,2025-09-25
+L02396,Washoe,Northern Nevada,English,2024-04-03
+L02397,Clark,Southern Nevada,English,2024-03-19
+L02398,Clark,Southern Nevada,English,2024-06-12
+L02399,Carson City,Northern Nevada,Spanish,2025-07-07
+L02400,Pershing,Rural/Frontier,English,2024-05-29
+L02401,Douglas,Northern Nevada,English,2025-12-10
+L02402,Lincoln,Rural/Frontier,English,2025-03-15
+L02403,Elko,Rural/Frontier,English,2024-12-17
+L02404,White Pine,Rural/Frontier,English,2024-12-07
+L02405,Washoe,Northern Nevada,English,2024-06-19
+L02406,Elko,Rural/Frontier,Spanish,2025-09-18
+L02407,Clark,Southern Nevada,Spanish,2024-11-30
+L02408,Washoe,Northern Nevada,English,2024-09-27
+L02409,Clark,Southern Nevada,English,2023-12-14
+L02410,Clark,Southern Nevada,English,2025-12-17
+L02411,Clark,Southern Nevada,English,2026-09-04
+L02412,Washoe,Northern Nevada,English,2024-09-24
+L02413,Clark,Southern Nevada,English,2026-03-16
+L02414,Storey,Northern Nevada,Spanish,2024-07-05
+L02415,Clark,Southern Nevada,English,2025-09-01
+L02416,Washoe,Northern Nevada,Spanish,2024-06-06
+L02417,Clark,Southern Nevada,English,2026-04-01
+L02418,Washoe,Northern Nevada,English,2024-12-18
+L02419,Clark,Southern Nevada,English,2025-09-22
+L02420,Clark,Southern Nevada,English,2024-08-31
+L02421,Lyon,Rural/Frontier,Spanish,2026-03-21
+L02422,White Pine,Rural/Frontier,Spanish,2024-11-24
+L02423,Mineral,Rural/Frontier,English,2026-03-27
+L02424,Clark,Southern Nevada,English,2024-09-17
+L02425,Clark,Southern Nevada,Spanish,2024-03-28
+L02426,Carson City,Northern Nevada,English,2025-09-20
+L02427,Clark,Southern Nevada,English,2026-02-24
+L02428,Pershing,Rural/Frontier,English,2025-02-24
+L02429,Mineral,Rural/Frontier,English,2024-06-06
+L02430,Washoe,Northern Nevada,English,2026-09-17
+L02431,Douglas,Northern Nevada,English,2024-03-16
+L02432,Elko,Rural/Frontier,English,2025-06-22
+L02433,Churchill,Rural/Frontier,English,2024-07-03
+L02434,Clark,Southern Nevada,Spanish,2024-06-12
+L02435,Clark,Southern Nevada,Spanish,2023-12-06
+L02436,Clark,Southern Nevada,English,2026-04-03
+L02437,Washoe,Northern Nevada,Spanish,2024-05-24
+L02438,Washoe,Northern Nevada,English,2024-09-23
+L02439,Washoe,Northern Nevada,English,2024-03-14
+L02440,Clark,Southern Nevada,Spanish,2026-03-04
+L02441,Clark,Southern Nevada,Spanish,2025-12-19
+L02442,Clark,Southern Nevada,English,2023-12-15
+L02443,Clark,Southern Nevada,English,2024-12-12
+L02444,Washoe,Northern Nevada,English,2025-10-04
+L02445,Washoe,Northern Nevada,English,2024-06-22
+L02446,Clark,Southern Nevada,Spanish,2026-03-15
+L02447,Esmeralda,Rural/Frontier,English,2024-04-04
+L02448,Clark,Southern Nevada,Spanish,2024-03-13
+L02449,Carson City,Northern Nevada,English,2026-03-29
+L02450,Clark,Southern Nevada,English,2024-07-02

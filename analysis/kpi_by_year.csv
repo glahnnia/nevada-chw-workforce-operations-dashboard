@@ -1,0 +1,4 @@
+year,enrollments,unique_learners,completion_eligible_enrollments,completed_enrollments,withdrawn_enrollments,completion_rate_pct,withdrawal_rate_pct,average_module_progress_pct,median_days_to_completion
+2024,836,820,836,631,144,75.48,17.22,81.68,79
+2025,867,858,867,665,135,76.7,15.57,82.67,79
+2026,913,874,669,513,113,76.68,16.89,73.03,78

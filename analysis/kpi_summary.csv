@@ -1,0 +1,15 @@
+kpi_id,kpi_name,value,unit,numerator,denominator,as_of_date,methodology_note
+K01,Total enrollments,2616,enrollments,,2616,2026-11-16,All enrollment records
+K02,Unique learners,2450,people,,2616,2026-11-16,Distinct people across all enrollments
+K03,Enrollment by region,2616,enrollments,,2616,2026-11-16,Disaggregated in kpi_by_region.csv; Unknown retained
+K04,Cohort fill rate,,percent,,,2026-11-16,Cohort-specific metric in kpi_by_cohort.csv; do not average cohort rates without weights
+K05,Completion rate,76.26,percent,1809,2372,2026-11-16,Completed / completion-eligible enrollments
+K06,Withdrawal rate,16.53,percent,392,2372,2026-11-16,Withdrawn / completion-eligible enrollments
+K07,Average module progress,78.99,percent,,2616,2026-11-16,Mean modules_completed / modules_required across all valid enrollments
+K08,Median days to completion,79,days,,1809,2026-11-16,Calendar days from enrollment to completion
+K09,Certification follow-up coverage,69.87,percent,1111,1590,2026-11-16,Latest completion >=3 months ago; any valid post-completion milestone
+K10,Observed certification attainment,41.94,percent,466,1111,2026-11-16,Latest post-qualifying-completion milestone is Certified; synthetic scenario source
+K11,Employment follow-up coverage (3 months),74.84,percent,1190,1590,2026-11-16,3-month observation / 3-month eligible completers
+K12,Observed CHW employment rate (3 months),50.09,percent,562,1122,2026-11-16,"Known-status observations at 3 months only, not placement"
+K13,Observed CHW retention 3-to-6 months,78.15,percent,236,302,2026-11-16,"3-month CHW employed & 6-month observed known; employment retention, not same-employer"
+K14,Completion trend,,percent,,,2026-11-16,Quarterly rate in kpi_by_end_quarter.csv; eligibility-filtered

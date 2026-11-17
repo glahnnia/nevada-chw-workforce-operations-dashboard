@@ -1,0 +1,1560 @@
+certification_record_id,learner_id,certification_level,milestone,milestone_date,verification_source
+CF00001,L00292,CHW I,Certified,2024-05-07,Synthetic scenario
+CF00002,L00295,CHW I,Not Certified,2024-04-14,Synthetic scenario
+CF00003,L00458,CHW I,Certified,2024-03-24,Synthetic scenario
+CF00004,L00583,CHW II,Certified,2024-03-12,Synthetic scenario
+CF00005,L00624,CHW I,Certified,2024-05-01,Synthetic scenario
+CF00006,L00714,CHW II,Planning to Apply,2024-05-02,Synthetic scenario
+CF00007,L00788,CHW I,Planning to Apply,2024-03-24,Synthetic scenario
+CF00008,L00926,CHW I,Planning to Apply,2024-04-23,Synthetic scenario
+CF00009,L01067,CHW I,Applied,2024-04-06,Synthetic scenario
+CF00010,L01103,CHW I,Applied,2024-03-30,Synthetic scenario
+CF00011,L01122,CHW I,Applied,2024-03-25,Synthetic scenario
+CF00012,L01122,CHW I,Certified,2024-04-02,Synthetic scenario
+CF00013,L01135,CHW I,Applied,2024-03-17,Synthetic scenario
+CF00014,L01246,CHW I,Certified,2024-04-05,Synthetic scenario
+CF00015,L01259,CHW I,Applied,2024-04-02,Synthetic scenario
+CF00016,L01316,CHW I,Certified,2024-04-26,Synthetic scenario
+CF00017,L01320,CHW I,Applied,2024-04-09,Synthetic scenario
+CF00018,L01320,CHW I,Applied,2024-05-14,Synthetic scenario
+CF00019,L01321,CHW I,Planning to Apply,2024-05-12,Synthetic scenario
+CF00020,L01430,CHW I,Certified,2024-03-21,Synthetic scenario
+CF00021,L01481,CHW I,Planning to Apply,2024-04-09,Synthetic scenario
+CF00022,L01486,CHW I,Certified,2024-05-06,Synthetic scenario
+CF00023,L01499,CHW I,Planning to Apply,2024-05-01,Synthetic scenario
+CF00024,L01566,CHW I,Certified,2024-03-18,Synthetic scenario
+CF00025,L01567,CHW I,Planning to Apply,2024-04-19,Synthetic scenario
+CF00026,L01634,CHW I,Not Certified,2024-04-13,Synthetic scenario
+CF00027,L01703,CHW I,Applied,2024-05-02,Synthetic scenario
+CF00028,L01706,CHW I,Certified,2024-04-04,Synthetic scenario
+CF00029,L01836,CHW I,Planning to Apply,2024-05-04,Synthetic scenario
+CF00030,L01892,CHW I,Not Certified,2024-04-16,Synthetic scenario
+CF00031,L02091,CHW II,Applied,2024-04-19,Synthetic scenario
+CF00032,L02091,CHW II,Applied,2024-05-12,Synthetic scenario
+CF00033,L02180,CHW I,Applied,2024-04-02,Synthetic scenario
+CF00034,L02180,CHW I,Certified,2024-04-30,Synthetic scenario
+CF00035,L02246,CHW I,Planning to Apply,2024-04-16,Synthetic scenario
+CF00036,L02269,CHW I,Unknown,2024-04-03,Synthetic scenario
+CF00037,L00009,CHW I,Applied,2024-04-14,Synthetic scenario
+CF00038,L00025,CHW I,Applied,2024-04-11,Synthetic scenario
+CF00039,L00122,CHW I,Unknown,2024-05-09,Synthetic scenario
+CF00040,L00256,CHW I,Planning to Apply,2024-03-31,Synthetic scenario
+CF00041,L00268,CHW I,Unknown,2024-03-31,Synthetic scenario
+CF00042,L00288,CHW I,Planning to Apply,2024-04-04,Synthetic scenario
+CF00043,L00299,CHW I,Not Certified,2024-04-28,Synthetic scenario
+CF00044,L00408,CHW I,Applied,2024-05-17,Synthetic scenario
+CF00045,L00463,CHW I,Certified,2024-04-03,Synthetic scenario
+CF00046,L00474,CHW II,Applied,2024-05-02,Synthetic scenario
+CF00047,L00565,CHW I,Planning to Apply,2024-04-11,Synthetic scenario
+CF00048,L00726,CHW I,Certified,2024-04-13,Synthetic scenario
+CF00049,L01045,CHW I,Certified,2024-04-12,Synthetic scenario
+CF00050,L01107,CHW I,Applied,2024-05-20,Synthetic scenario
+CF00051,L01223,CHW I,Applied,2024-04-16,Synthetic scenario
+CF00052,L01230,CHW I,Applied,2024-03-11,Synthetic scenario
+CF00053,L01230,CHW I,Applied,2024-03-30,Synthetic scenario
+CF00054,L01270,CHW I,Certified,2024-03-24,Synthetic scenario
+CF00055,L01360,CHW I,Applied,2024-04-05,Synthetic scenario
+CF00056,L01360,CHW I,Certified,2024-04-16,Synthetic scenario
+CF00057,L01534,CHW I,Planning to Apply,2024-05-09,Synthetic scenario
+CF00058,L01968,CHW I,Applied,2024-03-15,Synthetic scenario
+CF00059,L02019,CHW I,Applied,2024-03-22,Synthetic scenario
+CF00060,L02019,CHW I,Certified,2024-03-31,Synthetic scenario
+CF00061,L02079,CHW I,Certified,2025-12-18,Synthetic scenario
+CF00062,L02106,CHW II,Not Certified,2024-04-20,Synthetic scenario
+CF00063,L02198,CHW I,Applied,2024-04-28,Synthetic scenario
+CF00064,L02241,CHW I,Certified,2024-05-16,Synthetic scenario
+CF00065,L00020,CHW I,Certified,2024-03-31,Synthetic scenario
+CF00066,L00059,CHW I,Applied,2024-04-22,Synthetic scenario
+CF00067,L00059,CHW I,Certified,2024-05-01,Synthetic scenario
+CF00068,L00168,CHW I,Certified,2024-05-27,Synthetic scenario
+CF00069,L00184,CHW I,Applied,2024-04-14,Synthetic scenario
+CF00070,L00184,CHW I,Certified,2024-05-29,Synthetic scenario
+CF00071,L00520,CHW I,Certified,2024-05-16,Synthetic scenario
+CF00072,L00675,CHW I,Planning to Apply,2024-04-25,Synthetic scenario
+CF00073,L00795,CHW I,Not Certified,2024-03-29,Synthetic scenario
+CF00074,L00862,CHW I,Applied,2024-04-28,Synthetic scenario
+CF00075,L00862,CHW I,Applied,2024-04-13,Synthetic scenario
+CF00076,L00935,CHW I,Not Certified,2024-04-21,Synthetic scenario
+CF00077,L00972,CHW I,Applied,2024-05-10,Synthetic scenario
+CF00078,L01076,CHW I,Applied,2024-03-30,Synthetic scenario
+CF00079,L01076,CHW I,Certified,2024-04-08,Synthetic scenario
+CF00080,L01304,CHW I,Certified,2024-05-23,Synthetic scenario
+CF00081,L01351,CHW I,Applied,2024-05-19,Synthetic scenario
+CF00082,L01361,CHW I,Not Certified,2024-05-04,Synthetic scenario
+CF00083,L01369,CHW I,Applied,2024-04-17,Synthetic scenario
+CF00084,L01369,CHW I,Certified,2024-05-08,Synthetic scenario
+CF00085,L01382,CHW I,Planning to Apply,2024-05-26,Synthetic scenario
+CF00086,L01429,CHW II,Applied,2024-04-08,Synthetic scenario
+CF00087,L01429,CHW II,Applied,2024-05-07,Synthetic scenario
+CF00088,L01525,CHW I,Applied,2024-04-13,Synthetic scenario
+CF00089,L01525,CHW I,Certified,2024-05-08,Synthetic scenario
+CF00090,L01615,CHW I,Applied,2024-11-07,Synthetic scenario
+CF00091,L01637,CHW I,Unknown,2024-04-19,Synthetic scenario
+CF00092,L01698,CHW I,Planning to Apply,2024-05-14,Synthetic scenario
+CF00093,L01760,CHW I,Applied,2024-04-01,Synthetic scenario
+CF00094,L01760,CHW I,Applied,2024-04-20,Synthetic scenario
+CF00095,L01788,CHW I,Certified,2024-09-27,Synthetic scenario
+CF00096,L01840,CHW I,Certified,2024-04-29,Synthetic scenario
+CF00097,L01878,CHW I,Planning to Apply,2024-05-03,Synthetic scenario
+CF00098,L01887,CHW I,Applied,2024-04-27,Synthetic scenario
+CF00099,L01940,CHW I,Certified,2024-04-17,Synthetic scenario
+CF00100,L02029,CHW II,Applied,2024-04-29,Synthetic scenario
+CF00101,L02029,CHW II,Certified,2024-05-12,Synthetic scenario
+CF00102,L02094,CHW I,Applied,2024-03-30,Synthetic scenario
+CF00103,L02094,CHW I,Applied,2024-04-13,Synthetic scenario
+CF00104,L02240,CHW I,Planning to Apply,2024-04-12,Synthetic scenario
+CF00105,L02254,CHW I,Planning to Apply,2024-03-28,Synthetic scenario
+CF00106,L02409,CHW I,Planning to Apply,2024-03-31,Synthetic scenario
+CF00107,L00038,CHW I,Applied,2024-06-15,Synthetic scenario
+CF00108,L00038,CHW I,Applied,2024-08-09,Synthetic scenario
+CF00109,L00157,CHW I,Unknown,2024-08-10,Synthetic scenario
+CF00110,L00220,CHW I,Certified,2024-07-08,Synthetic scenario
+CF00111,L00372,CHW I,Certified,2026-04-19,Synthetic scenario
+CF00112,L00423,CHW I,Certified,2024-06-21,Synthetic scenario
+CF00113,L00533,CHW I,Planning to Apply,2024-07-25,Synthetic scenario
+CF00114,L00731,CHW I,Applied,2026-07-08,Synthetic scenario
+CF00115,L00731,CHW I,Applied,2026-08-11,Synthetic scenario
+CF00116,L00793,CHW I,Certified,2024-07-23,Synthetic scenario
+CF00117,L00896,CHW I,Certified,2024-07-10,Synthetic scenario
+CF00118,L00952,CHW I,Planning to Apply,2024-08-09,Synthetic scenario
+CF00119,L01025,CHW I,Certified,2024-07-16,Synthetic scenario
+CF00120,L01036,CHW I,Applied,2024-07-11,Synthetic scenario
+CF00121,L01050,CHW I,Applied,2024-07-02,Synthetic scenario
+CF00122,L01050,CHW I,Certified,2024-07-10,Synthetic scenario
+CF00123,L01183,CHW II,Planning to Apply,2024-06-30,Synthetic scenario
+CF00124,L01229,CHW II,Certified,2024-06-19,Synthetic scenario
+CF00125,L01332,CHW I,Applied,2024-06-23,Synthetic scenario
+CF00126,L01332,CHW I,Certified,2024-07-29,Synthetic scenario
+CF00127,L01400,CHW I,Unknown,2024-07-30,Synthetic scenario
+CF00128,L01407,CHW I,Unknown,2024-08-07,Synthetic scenario
+CF00129,L01433,CHW I,Planning to Apply,2024-07-22,Synthetic scenario
+CF00130,L01496,CHW I,Applied,2024-07-19,Synthetic scenario
+CF00131,L01595,CHW I,Planning to Apply,2024-08-14,Synthetic scenario
+CF00132,L01613,CHW I,Planning to Apply,2024-06-24,Synthetic scenario
+CF00133,L01663,CHW I,Planning to Apply,2024-06-21,Synthetic scenario
+CF00134,L01680,CHW I,Certified,2024-07-20,Synthetic scenario
+CF00135,L01779,CHW I,Unknown,2024-07-26,Synthetic scenario
+CF00136,L01803,CHW I,Applied,2024-06-26,Synthetic scenario
+CF00137,L01803,CHW I,Certified,2024-08-03,Synthetic scenario
+CF00138,L01833,CHW I,Certified,2024-06-26,Synthetic scenario
+CF00139,L01891,CHW I,Applied,2024-07-23,Synthetic scenario
+CF00140,L01891,CHW I,Certified,2024-08-09,Synthetic scenario
+CF00141,L01923,CHW I,Applied,2024-06-16,Synthetic scenario
+CF00142,L01923,CHW I,Certified,2024-08-04,Synthetic scenario
+CF00143,L01930,CHW I,Not Certified,2024-06-29,Synthetic scenario
+CF00144,L01966,CHW I,Applied,2024-07-09,Synthetic scenario
+CF00145,L01966,CHW I,Certified,2024-07-27,Synthetic scenario
+CF00146,L02205,CHW I,Applied,2024-07-20,Synthetic scenario
+CF00147,L02205,CHW I,Certified,2024-07-25,Synthetic scenario
+CF00148,L02238,CHW II,Not Certified,2024-08-13,Synthetic scenario
+CF00149,L02425,CHW II,Not Certified,2024-08-03,Synthetic scenario
+CF00150,L00069,CHW I,Certified,2024-07-15,Synthetic scenario
+CF00151,L00141,CHW II,Planning to Apply,2024-06-22,Synthetic scenario
+CF00152,L00187,CHW I,Not Certified,2024-08-03,Synthetic scenario
+CF00153,L00196,CHW I,Applied,2024-08-05,Synthetic scenario
+CF00154,L00231,CHW I,Applied,2024-07-06,Synthetic scenario
+CF00155,L00231,CHW I,Applied,2024-07-07,Synthetic scenario
+CF00156,L00277,CHW I,Applied,2024-06-22,Synthetic scenario
+CF00157,L00277,CHW I,Certified,2024-07-18,Synthetic scenario
+CF00158,L00304,CHW I,Not Certified,2024-07-28,Synthetic scenario
+CF00159,L00357,CHW I,Applied,2024-06-12,Synthetic scenario
+CF00160,L00357,CHW I,Certified,2024-06-20,Synthetic scenario
+CF00161,L00364,CHW I,Unknown,2024-07-30,Synthetic scenario
+CF00162,L00409,CHW I,Planning to Apply,2024-07-09,Synthetic scenario
+CF00163,L00428,CHW I,Certified,2024-06-25,Synthetic scenario
+CF00164,L00460,CHW I,Applied,2026-07-08,Synthetic scenario
+CF00165,L00460,CHW I,Applied,2026-08-22,Synthetic scenario
+CF00166,L00464,CHW I,Not Certified,2025-02-02,Synthetic scenario
+CF00167,L00665,CHW I,Unknown,2026-03-23,Synthetic scenario
+CF00168,L00692,CHW II,Applied,2024-12-21,Synthetic scenario
+CF00169,L00692,CHW II,Applied,2024-12-22,Synthetic scenario
+CF00170,L00757,CHW I,Certified,2024-06-23,Synthetic scenario
+CF00171,L00768,CHW I,Planning to Apply,2024-08-03,Synthetic scenario
+CF00172,L00821,CHW I,Certified,2024-08-12,Synthetic scenario
+CF00173,L00840,CHW I,Applied,2024-08-01,Synthetic scenario
+CF00174,L00885,CHW I,Planning to Apply,2026-01-16,Synthetic scenario
+CF00175,L00912,CHW I,Not Certified,2024-08-05,Synthetic scenario
+CF00176,L01035,CHW I,Applied,2024-06-17,Synthetic scenario
+CF00177,L01035,CHW I,Applied,2024-06-27,Synthetic scenario
+CF00178,L01072,CHW I,Not Certified,2024-07-15,Synthetic scenario
+CF00179,L01134,CHW I,Certified,2024-08-03,Synthetic scenario
+CF00180,L01233,CHW I,Applied,2024-06-24,Synthetic scenario
+CF00181,L01233,CHW I,Certified,2024-08-13,Synthetic scenario
+CF00182,L01342,CHW I,Planning to Apply,2024-06-20,Synthetic scenario
+CF00183,L01378,CHW I,Planning to Apply,2024-07-22,Synthetic scenario
+CF00184,L01411,CHW I,Planning to Apply,2024-08-08,Synthetic scenario
+CF00185,L01418,CHW II,Certified,2024-06-17,Synthetic scenario
+CF00186,L01424,CHW I,Applied,2024-06-12,Synthetic scenario
+CF00187,L01424,CHW I,Applied,2024-08-04,Synthetic scenario
+CF00188,L01452,CHW I,Applied,2024-07-14,Synthetic scenario
+CF00189,L01452,CHW I,Applied,2024-06-25,Synthetic scenario
+CF00190,L01476,CHW I,Applied,2024-06-18,Synthetic scenario
+CF00191,L01476,CHW I,Applied,2024-07-12,Synthetic scenario
+CF00192,L01560,CHW I,Applied,2024-06-29,Synthetic scenario
+CF00193,L01560,CHW I,Applied,2024-07-30,Synthetic scenario
+CF00194,L01712,CHW I,Certified,2025-04-19,Synthetic scenario
+CF00195,L01777,CHW II,Unknown,2024-07-16,Synthetic scenario
+CF00196,L01783,CHW I,Applied,2024-07-08,Synthetic scenario
+CF00197,L01783,CHW I,Certified,2024-07-09,Synthetic scenario
+CF00198,L01793,CHW I,Applied,2024-06-20,Synthetic scenario
+CF00199,L01793,CHW I,Applied,2024-07-15,Synthetic scenario
+CF00200,L01797,CHW I,Applied,2026-01-06,Synthetic scenario
+CF00201,L01797,CHW I,Applied,2026-01-11,Synthetic scenario
+CF00202,L01804,CHW I,Applied,2024-08-20,Synthetic scenario
+CF00203,L01825,CHW I,Applied,2024-07-13,Synthetic scenario
+CF00204,L01825,CHW I,Certified,2024-07-22,Synthetic scenario
+CF00205,L01865,CHW II,Certified,2024-06-22,Synthetic scenario
+CF00206,L01883,CHW I,Not Certified,2024-08-05,Synthetic scenario
+CF00207,L01931,CHW I,Applied,2024-07-03,Synthetic scenario
+CF00208,L01931,CHW I,Certified,2024-07-20,Synthetic scenario
+CF00209,L01985,CHW II,Applied,2026-01-18,Synthetic scenario
+CF00210,L01985,CHW II,Certified,2026-01-24,Synthetic scenario
+CF00211,L02108,CHW I,Applied,2024-06-21,Synthetic scenario
+CF00212,L02115,CHW I,Planning to Apply,2026-04-21,Synthetic scenario
+CF00213,L02220,CHW I,Planning to Apply,2026-08-25,Synthetic scenario
+CF00214,L02257,CHW I,Planning to Apply,2025-11-05,Synthetic scenario
+CF00215,L02321,CHW I,Applied,2025-12-22,Synthetic scenario
+CF00216,L02343,CHW I,Unknown,2024-06-23,Synthetic scenario
+CF00217,L02372,CHW I,Applied,2024-08-09,Synthetic scenario
+CF00218,L02377,CHW I,Certified,2026-01-14,Synthetic scenario
+CF00219,L00016,CHW I,Certified,2024-07-09,Synthetic scenario
+CF00220,L00055,CHW I,Applied,2024-07-12,Synthetic scenario
+CF00221,L00055,CHW I,Certified,2024-08-27,Synthetic scenario
+CF00222,L00079,CHW I,Unknown,2024-07-29,Synthetic scenario
+CF00223,L00470,CHW I,Certified,2024-08-14,Synthetic scenario
+CF00224,L00738,CHW I,Applied,2024-07-11,Synthetic scenario
+CF00225,L00738,CHW I,Applied,2024-07-12,Synthetic scenario
+CF00226,L00762,CHW II,Certified,2024-07-11,Synthetic scenario
+CF00227,L00777,CHW I,Applied,2024-07-25,Synthetic scenario
+CF00228,L00777,CHW I,Certified,2024-08-01,Synthetic scenario
+CF00229,L00941,CHW I,Not Certified,2024-07-15,Synthetic scenario
+CF00230,L01041,CHW I,Not Certified,2024-07-03,Synthetic scenario
+CF00231,L01048,CHW I,Certified,2024-07-05,Synthetic scenario
+CF00232,L01653,CHW I,Unknown,2024-06-22,Synthetic scenario
+CF00233,L01684,CHW I,Applied,2024-06-29,Synthetic scenario
+CF00234,L01831,CHW I,Not Certified,2024-07-19,Synthetic scenario
+CF00235,L01847,CHW I,Not Certified,2024-08-05,Synthetic scenario
+CF00236,L01876,CHW I,Applied,2024-07-30,Synthetic scenario
+CF00237,L01876,CHW I,Applied,2024-07-04,Synthetic scenario
+CF00238,L01889,CHW I,Applied,2024-08-01,Synthetic scenario
+CF00239,L02037,CHW I,Applied,2024-07-27,Synthetic scenario
+CF00240,L02037,CHW I,Applied,2024-07-18,Synthetic scenario
+CF00241,L02038,CHW I,Unknown,2024-06-22,Synthetic scenario
+CF00242,L02063,CHW I,Applied,2024-07-05,Synthetic scenario
+CF00243,L02063,CHW I,Certified,2024-08-19,Synthetic scenario
+CF00244,L02294,CHW I,Certified,2024-08-15,Synthetic scenario
+CF00245,L02362,CHW I,Planning to Apply,2024-06-27,Synthetic scenario
+CF00246,L02397,CHW I,Not Certified,2024-07-30,Synthetic scenario
+CF00247,L00027,CHW I,Planning to Apply,2024-10-24,Synthetic scenario
+CF00248,L00086,CHW II,Applied,2024-09-06,Synthetic scenario
+CF00249,L00287,CHW I,Unknown,2024-10-03,Synthetic scenario
+CF00250,L00426,CHW I,Applied,2026-09-19,Synthetic scenario
+CF00251,L00426,CHW I,Certified,2026-11-04,Synthetic scenario
+CF00252,L00453,CHW I,Unknown,2024-10-04,Synthetic scenario
+CF00253,L00491,CHW I,Planning to Apply,2024-09-25,Synthetic scenario
+CF00254,L00536,CHW I,Planning to Apply,2024-11-04,Synthetic scenario
+CF00255,L00538,CHW I,Applied,2024-10-09,Synthetic scenario
+CF00256,L00538,CHW I,Certified,2024-10-12,Synthetic scenario
+CF00257,L00830,CHW I,Not Certified,2024-11-01,Synthetic scenario
+CF00258,L00859,CHW I,Applied,2024-10-11,Synthetic scenario
+CF00259,L00859,CHW I,Certified,2024-11-11,Synthetic scenario
+CF00260,L00879,CHW I,Applied,2024-10-13,Synthetic scenario
+CF00261,L00881,CHW I,Applied,2024-09-25,Synthetic scenario
+CF00262,L00881,CHW I,Applied,2024-10-24,Synthetic scenario
+CF00263,L00905,CHW I,Planning to Apply,2024-10-18,Synthetic scenario
+CF00264,L00946,CHW I,Not Certified,2024-09-22,Synthetic scenario
+CF00265,L01064,CHW I,Applied,2024-10-13,Synthetic scenario
+CF00266,L01064,CHW I,Applied,2024-10-11,Synthetic scenario
+CF00267,L01077,CHW I,Certified,2024-10-09,Synthetic scenario
+CF00268,L01202,CHW I,Applied,2024-09-20,Synthetic scenario
+CF00269,L01202,CHW I,Certified,2024-10-31,Synthetic scenario
+CF00270,L01225,CHW I,Planning to Apply,2024-11-13,Synthetic scenario
+CF00271,L01279,CHW I,Applied,2024-10-16,Synthetic scenario
+CF00272,L01279,CHW I,Applied,2024-09-30,Synthetic scenario
+CF00273,L01601,CHW I,Certified,2024-11-21,Synthetic scenario
+CF00274,L01666,CHW I,Applied,2026-04-14,Synthetic scenario
+CF00275,L01666,CHW I,Certified,2026-04-29,Synthetic scenario
+CF00276,L01709,CHW I,Certified,2024-10-18,Synthetic scenario
+CF00277,L01715,CHW I,Applied,2024-09-14,Synthetic scenario
+CF00278,L01715,CHW I,Certified,2024-11-08,Synthetic scenario
+CF00279,L01730,CHW I,Applied,2026-06-24,Synthetic scenario
+CF00280,L01730,CHW I,Certified,2026-07-03,Synthetic scenario
+CF00281,L01751,CHW I,Applied,2024-09-22,Synthetic scenario
+CF00282,L01751,CHW I,Certified,2024-10-21,Synthetic scenario
+CF00283,L01800,CHW I,Certified,2024-11-09,Synthetic scenario
+CF00284,L01808,CHW I,Certified,2024-10-03,Synthetic scenario
+CF00285,L01925,CHW II,Certified,2024-09-30,Synthetic scenario
+CF00286,L01972,CHW I,Applied,2025-10-31,Synthetic scenario
+CF00287,L02025,CHW I,Unknown,2024-09-27,Synthetic scenario
+CF00288,L02082,CHW II,Not Certified,2024-10-08,Synthetic scenario
+CF00289,L02089,CHW II,Planning to Apply,2024-10-15,Synthetic scenario
+CF00290,L02405,CHW I,Planning to Apply,2024-10-08,Synthetic scenario
+CF00291,L00036,CHW II,Planning to Apply,2024-10-25,Synthetic scenario
+CF00292,L00047,CHW I,Applied,2024-09-26,Synthetic scenario
+CF00293,L00047,CHW I,Certified,2024-10-06,Synthetic scenario
+CF00294,L00144,CHW I,Certified,2024-11-22,Synthetic scenario
+CF00295,L00172,CHW I,Certified,2025-02-20,Synthetic scenario
+CF00296,L00222,CHW I,Planning to Apply,2024-10-30,Synthetic scenario
+CF00297,L00234,CHW I,Applied,2024-09-25,Synthetic scenario
+CF00298,L00234,CHW I,Certified,2024-11-16,Synthetic scenario
+CF00299,L00373,CHW I,Applied,2025-06-25,Synthetic scenario
+CF00300,L00373,CHW I,Certified,2025-07-16,Synthetic scenario
+CF00301,L00435,CHW I,Planning to Apply,2024-11-07,Synthetic scenario
+CF00302,L00494,CHW I,Planning to Apply,2024-11-02,Synthetic scenario
+CF00303,L00554,CHW I,Planning to Apply,2024-09-17,Synthetic scenario
+CF00304,L00595,CHW I,Applied,2024-09-19,Synthetic scenario
+CF00305,L00595,CHW I,Certified,2024-11-09,Synthetic scenario
+CF00306,L00603,CHW I,Applied,2024-09-21,Synthetic scenario
+CF00307,L00608,CHW I,Applied,2024-10-06,Synthetic scenario
+CF00308,L00608,CHW I,Applied,2024-10-18,Synthetic scenario
+CF00309,L00661,CHW I,Certified,2024-10-07,Synthetic scenario
+CF00310,L00736,CHW I,Applied,2024-09-26,Synthetic scenario
+CF00311,L00736,CHW I,Certified,2024-11-06,Synthetic scenario
+CF00312,L00915,CHW I,Not Certified,2024-11-13,Synthetic scenario
+CF00313,L00974,CHW I,Unknown,2024-09-30,Synthetic scenario
+CF00314,L01083,CHW I,Applied,2024-09-26,Synthetic scenario
+CF00315,L01083,CHW I,Certified,2024-09-29,Synthetic scenario
+CF00316,L01272,CHW I,Unknown,2024-11-02,Synthetic scenario
+CF00317,L01350,CHW I,Planning to Apply,2024-10-27,Synthetic scenario
+CF00318,L01375,CHW I,Certified,2024-09-21,Synthetic scenario
+CF00319,L01394,CHW I,Certified,2024-10-16,Synthetic scenario
+CF00320,L01395,CHW I,Applied,2024-09-22,Synthetic scenario
+CF00321,L01413,CHW I,Applied,2024-09-30,Synthetic scenario
+CF00322,L01413,CHW I,Certified,2024-10-16,Synthetic scenario
+CF00323,L01466,CHW I,Certified,2024-11-06,Synthetic scenario
+CF00324,L01518,CHW I,Applied,2024-09-28,Synthetic scenario
+CF00325,L01518,CHW I,Certified,2024-10-08,Synthetic scenario
+CF00326,L01548,CHW II,Not Certified,2024-10-19,Synthetic scenario
+CF00327,L01550,CHW I,Applied,2024-10-09,Synthetic scenario
+CF00328,L01550,CHW I,Certified,2024-11-03,Synthetic scenario
+CF00329,L01776,CHW I,Applied,2024-10-01,Synthetic scenario
+CF00330,L01776,CHW I,Applied,2024-10-18,Synthetic scenario
+CF00331,L01855,CHW I,Applied,2024-09-28,Synthetic scenario
+CF00332,L01986,CHW I,Applied,2024-10-13,Synthetic scenario
+CF00333,L01986,CHW I,Certified,2024-10-18,Synthetic scenario
+CF00334,L02155,CHW I,Applied,2024-09-19,Synthetic scenario
+CF00335,L02155,CHW I,Certified,2024-09-30,Synthetic scenario
+CF00336,L02207,CHW I,Planning to Apply,2024-09-20,Synthetic scenario
+CF00337,L02231,CHW I,Applied,2024-10-30,Synthetic scenario
+CF00338,L02259,CHW I,Not Certified,2024-11-16,Synthetic scenario
+CF00339,L02284,CHW II,Not Certified,2024-09-26,Synthetic scenario
+CF00340,L02338,CHW I,Certified,2024-11-11,Synthetic scenario
+CF00341,L02347,CHW I,Certified,2024-10-01,Synthetic scenario
+CF00342,L02369,CHW II,Certified,2024-11-17,Synthetic scenario
+CF00343,L02437,CHW I,Not Certified,2024-10-18,Synthetic scenario
+CF00344,L02445,CHW II,Planning to Apply,2024-10-31,Synthetic scenario
+CF00345,L02450,CHW I,Applied,2024-11-02,Synthetic scenario
+CF00346,L00073,CHW I,Applied,2024-10-25,Synthetic scenario
+CF00347,L00073,CHW I,Certified,2024-10-27,Synthetic scenario
+CF00348,L00167,CHW I,Applied,2024-10-02,Synthetic scenario
+CF00349,L00273,CHW I,Planning to Apply,2024-11-02,Synthetic scenario
+CF00350,L00305,CHW II,Certified,2024-11-16,Synthetic scenario
+CF00351,L00499,CHW I,Unknown,2024-11-23,Synthetic scenario
+CF00352,L00706,CHW I,Planning to Apply,2024-11-23,Synthetic scenario
+CF00353,L00807,CHW I,Not Certified,2024-10-04,Synthetic scenario
+CF00354,L00836,CHW I,Applied,2024-10-01,Synthetic scenario
+CF00355,L00836,CHW I,Certified,2024-10-30,Synthetic scenario
+CF00356,L00877,CHW II,Unknown,2024-09-25,Synthetic scenario
+CF00357,L00914,CHW I,Planning to Apply,2024-11-27,Synthetic scenario
+CF00358,L00977,CHW II,Applied,2024-09-25,Synthetic scenario
+CF00359,L00977,CHW II,Certified,2024-10-31,Synthetic scenario
+CF00360,L01013,CHW I,Not Certified,2024-11-05,Synthetic scenario
+CF00361,L01160,CHW I,Certified,2024-10-18,Synthetic scenario
+CF00362,L01203,CHW I,Planning to Apply,2024-10-06,Synthetic scenario
+CF00363,L01213,CHW I,Applied,2024-10-15,Synthetic scenario
+CF00364,L01213,CHW I,Certified,2024-11-15,Synthetic scenario
+CF00365,L01268,CHW I,Unknown,2024-11-01,Synthetic scenario
+CF00366,L01312,CHW I,Certified,2024-10-20,Synthetic scenario
+CF00367,L01498,CHW I,Applied,2024-10-31,Synthetic scenario
+CF00368,L01498,CHW I,Applied,2024-10-14,Synthetic scenario
+CF00369,L01503,CHW I,Certified,2024-11-11,Synthetic scenario
+CF00370,L01523,CHW I,Applied,2024-10-11,Synthetic scenario
+CF00371,L01523,CHW I,Certified,2024-11-11,Synthetic scenario
+CF00372,L01546,CHW I,Applied,2024-09-25,Synthetic scenario
+CF00373,L01546,CHW I,Certified,2024-11-04,Synthetic scenario
+CF00374,L01651,CHW I,Applied,2024-10-15,Synthetic scenario
+CF00375,L01651,CHW I,Applied,2024-09-26,Synthetic scenario
+CF00376,L01670,CHW I,Applied,2024-10-24,Synthetic scenario
+CF00377,L01670,CHW I,Certified,2024-11-01,Synthetic scenario
+CF00378,L01806,CHW I,Applied,2024-10-21,Synthetic scenario
+CF00379,L01806,CHW I,Applied,2024-09-27,Synthetic scenario
+CF00380,L01850,CHW I,Applied,2024-10-06,Synthetic scenario
+CF00381,L01870,CHW I,Certified,2024-10-25,Synthetic scenario
+CF00382,L02189,CHW I,Planning to Apply,2024-11-15,Synthetic scenario
+CF00383,L02270,CHW I,Planning to Apply,2024-11-17,Synthetic scenario
+CF00384,L02355,CHW I,Not Certified,2024-09-25,Synthetic scenario
+CF00385,L02385,CHW I,Not Certified,2024-10-10,Synthetic scenario
+CF00386,L02391,CHW I,Certified,2024-10-04,Synthetic scenario
+CF00387,L02398,CHW I,Certified,2024-10-11,Synthetic scenario
+CF00388,L02414,CHW I,Planning to Apply,2024-11-27,Synthetic scenario
+CF00389,L02429,CHW I,Applied,2024-10-24,Synthetic scenario
+CF00390,L00021,CHW I,Applied,2025-01-01,Synthetic scenario
+CF00391,L00021,CHW I,Applied,2025-01-04,Synthetic scenario
+CF00392,L00083,CHW I,Not Certified,2025-02-04,Synthetic scenario
+CF00393,L00200,CHW I,Certified,2025-01-27,Synthetic scenario
+CF00394,L00254,CHW I,Applied,2025-01-06,Synthetic scenario
+CF00395,L00254,CHW I,Certified,2025-02-06,Synthetic scenario
+CF00396,L00308,CHW I,Planning to Apply,2025-02-12,Synthetic scenario
+CF00397,L00325,CHW I,Applied,2025-01-08,Synthetic scenario
+CF00398,L00325,CHW I,Certified,2025-02-06,Synthetic scenario
+CF00399,L00562,CHW I,Planning to Apply,2025-01-17,Synthetic scenario
+CF00400,L00582,CHW I,Planning to Apply,2025-01-11,Synthetic scenario
+CF00401,L00843,CHW I,Unknown,2025-01-04,Synthetic scenario
+CF00402,L00848,CHW I,Applied,2025-01-16,Synthetic scenario
+CF00403,L01063,CHW I,Certified,2025-01-20,Synthetic scenario
+CF00404,L01185,CHW I,Unknown,2025-02-02,Synthetic scenario
+CF00405,L01193,CHW I,Planning to Apply,2025-02-21,Synthetic scenario
+CF00406,L01215,CHW II,Planning to Apply,2025-01-09,Synthetic scenario
+CF00407,L01253,CHW I,Applied,2025-01-19,Synthetic scenario
+CF00408,L01253,CHW I,Applied,2025-02-14,Synthetic scenario
+CF00409,L01292,CHW I,Applied,2025-01-20,Synthetic scenario
+CF00410,L01292,CHW I,Certified,2025-02-08,Synthetic scenario
+CF00411,L01416,CHW I,Unknown,2025-01-31,Synthetic scenario
+CF00412,L01441,CHW I,Certified,2025-01-02,Synthetic scenario
+CF00413,L01493,CHW I,Certified,2025-02-12,Synthetic scenario
+CF00414,L01699,CHW I,Planning to Apply,2025-02-07,Synthetic scenario
+CF00415,L01738,CHW I,Planning to Apply,2024-12-31,Synthetic scenario
+CF00416,L01745,CHW I,Not Certified,2025-01-18,Synthetic scenario
+CF00417,L01813,CHW I,Not Certified,2025-01-09,Synthetic scenario
+CF00418,L01826,CHW I,Planning to Apply,2025-01-28,Synthetic scenario
+CF00419,L01869,CHW I,Applied,2025-01-16,Synthetic scenario
+CF00420,L01926,CHW II,Not Certified,2025-01-27,Synthetic scenario
+CF00421,L01942,CHW I,Certified,2024-12-27,Synthetic scenario
+CF00422,L02002,CHW I,Applied,2025-01-18,Synthetic scenario
+CF00423,L02002,CHW I,Certified,2025-01-28,Synthetic scenario
+CF00424,L02059,CHW I,Applied,2025-01-13,Synthetic scenario
+CF00425,L02059,CHW I,Certified,2025-01-23,Synthetic scenario
+CF00426,L02066,CHW I,Not Certified,2025-01-01,Synthetic scenario
+CF00427,L02075,CHW I,Applied,2025-01-29,Synthetic scenario
+CF00428,L02105,CHW I,Planning to Apply,2024-12-17,Synthetic scenario
+CF00429,L02204,CHW II,Certified,2025-01-04,Synthetic scenario
+CF00430,L02213,CHW I,Planning to Apply,2024-12-19,Synthetic scenario
+CF00431,L02275,CHW II,Applied,2024-12-21,Synthetic scenario
+CF00432,L02275,CHW II,Certified,2025-02-04,Synthetic scenario
+CF00433,L02381,CHW II,Not Certified,2025-01-17,Synthetic scenario
+CF00434,L02412,CHW I,Unknown,2024-12-21,Synthetic scenario
+CF00435,L02424,CHW I,Certified,2025-02-13,Synthetic scenario
+CF00436,L00075,CHW I,Applied,2025-02-09,Synthetic scenario
+CF00437,L00118,CHW I,Applied,2024-12-12,Synthetic scenario
+CF00438,L00118,CHW I,Applied,2025-01-17,Synthetic scenario
+CF00439,L00134,CHW I,Unknown,2025-01-17,Synthetic scenario
+CF00440,L00139,CHW I,Applied,2024-12-23,Synthetic scenario
+CF00441,L00139,CHW I,Applied,2024-12-24,Synthetic scenario
+CF00442,L00173,CHW I,Applied,2025-01-31,Synthetic scenario
+CF00443,L00201,CHW I,Applied,2025-01-16,Synthetic scenario
+CF00444,L00201,CHW I,Certified,2025-01-21,Synthetic scenario
+CF00445,L00297,CHW I,Unknown,2025-01-30,Synthetic scenario
+CF00446,L00312,CHW I,Not Certified,2025-01-15,Synthetic scenario
+CF00447,L00354,CHW I,Applied,2024-12-29,Synthetic scenario
+CF00448,L00354,CHW I,Applied,2025-01-15,Synthetic scenario
+CF00449,L00405,CHW I,Applied,2024-12-24,Synthetic scenario
+CF00450,L00405,CHW I,Certified,2025-01-03,Synthetic scenario
+CF00451,L00454,CHW I,Applied,2025-02-14,Synthetic scenario
+CF00452,L00487,CHW I,Certified,2025-02-15,Synthetic scenario
+CF00453,L00500,CHW II,Applied,2024-12-14,Synthetic scenario
+CF00454,L00500,CHW II,Certified,2025-02-06,Synthetic scenario
+CF00455,L00635,CHW I,Not Certified,2024-12-28,Synthetic scenario
+CF00456,L00674,CHW II,Certified,2025-02-11,Synthetic scenario
+CF00457,L00695,CHW I,Planning to Apply,2026-04-20,Synthetic scenario
+CF00458,L00712,CHW I,Applied,2024-12-18,Synthetic scenario
+CF00459,L00712,CHW I,Certified,2025-01-05,Synthetic scenario
+CF00460,L00780,CHW I,Applied,2024-12-22,Synthetic scenario
+CF00461,L00780,CHW I,Applied,2025-01-02,Synthetic scenario
+CF00462,L00852,CHW II,Applied,2025-01-30,Synthetic scenario
+CF00463,L01021,CHW I,Applied,2024-12-31,Synthetic scenario
+CF00464,L01054,CHW I,Not Certified,2025-02-04,Synthetic scenario
+CF00465,L01129,CHW II,Not Certified,2025-02-07,Synthetic scenario
+CF00466,L01172,CHW I,Unknown,2024-12-20,Synthetic scenario
+CF00467,L01178,CHW I,Planning to Apply,2025-01-08,Synthetic scenario
+CF00468,L01228,CHW I,Applied,2025-01-08,Synthetic scenario
+CF00469,L01228,CHW I,Certified,2025-01-11,Synthetic scenario
+CF00470,L01319,CHW I,Applied,2025-01-26,Synthetic scenario
+CF00471,L01356,CHW I,Applied,2025-01-07,Synthetic scenario
+CF00472,L01362,CHW I,Applied,2025-01-07,Synthetic scenario
+CF00473,L01362,CHW I,Certified,2025-01-15,Synthetic scenario
+CF00474,L01630,CHW I,Planning to Apply,2024-12-21,Synthetic scenario
+CF00475,L01648,CHW II,Applied,2024-12-29,Synthetic scenario
+CF00476,L01648,CHW II,Certified,2025-01-30,Synthetic scenario
+CF00477,L01686,CHW I,Applied,2024-12-20,Synthetic scenario
+CF00478,L01896,CHW I,Applied,2024-12-24,Synthetic scenario
+CF00479,L01900,CHW I,Planning to Apply,2024-12-26,Synthetic scenario
+CF00480,L02102,CHW I,Applied,2024-12-24,Synthetic scenario
+CF00481,L02157,CHW I,Planning to Apply,2025-02-04,Synthetic scenario
+CF00482,L02163,CHW I,Applied,2025-01-16,Synthetic scenario
+CF00483,L02163,CHW I,Applied,2025-01-21,Synthetic scenario
+CF00484,L02212,CHW I,Applied,2025-01-07,Synthetic scenario
+CF00485,L02212,CHW I,Applied,2024-12-14,Synthetic scenario
+CF00486,L02258,CHW I,Applied,2024-12-25,Synthetic scenario
+CF00487,L02258,CHW I,Certified,2025-01-08,Synthetic scenario
+CF00488,L02272,CHW I,Applied,2025-02-01,Synthetic scenario
+CF00489,L02370,CHW II,Applied,2025-01-21,Synthetic scenario
+CF00490,L02392,CHW I,Certified,2024-12-28,Synthetic scenario
+CF00491,L00032,CHW I,Applied,2025-01-01,Synthetic scenario
+CF00492,L00032,CHW I,Applied,2025-01-14,Synthetic scenario
+CF00493,L00302,CHW I,Certified,2025-02-02,Synthetic scenario
+CF00494,L00349,CHW I,Applied,2024-12-22,Synthetic scenario
+CF00495,L00427,CHW I,Unknown,2024-12-28,Synthetic scenario
+CF00496,L00451,CHW I,Planning to Apply,2025-02-06,Synthetic scenario
+CF00497,L00510,CHW I,Planning to Apply,2025-01-06,Synthetic scenario
+CF00498,L00513,CHW II,Applied,2025-02-03,Synthetic scenario
+CF00499,L00567,CHW I,Applied,2025-01-01,Synthetic scenario
+CF00500,L00567,CHW I,Certified,2025-02-09,Synthetic scenario
+CF00501,L00622,CHW II,Certified,2025-02-19,Synthetic scenario
+CF00502,L00633,CHW I,Planning to Apply,2025-01-29,Synthetic scenario
+CF00503,L00656,CHW II,Applied,2024-12-26,Synthetic scenario
+CF00504,L00656,CHW II,Certified,2025-01-05,Synthetic scenario
+CF00505,L00680,CHW I,Not Certified,2024-12-30,Synthetic scenario
+CF00506,L00682,CHW I,Not Certified,2025-01-19,Synthetic scenario
+CF00507,L00734,CHW I,Certified,2025-01-13,Synthetic scenario
+CF00508,L00800,CHW I,Applied,2025-01-18,Synthetic scenario
+CF00509,L00811,CHW I,Applied,2025-02-08,Synthetic scenario
+CF00510,L01053,CHW II,Certified,2025-01-15,Synthetic scenario
+CF00511,L01384,CHW II,Unknown,2025-01-13,Synthetic scenario
+CF00512,L01521,CHW I,Not Certified,2025-02-16,Synthetic scenario
+CF00513,L01591,CHW I,Applied,2025-01-10,Synthetic scenario
+CF00514,L01591,CHW I,Certified,2025-01-18,Synthetic scenario
+CF00515,L01629,CHW I,Certified,2025-02-13,Synthetic scenario
+CF00516,L01729,CHW I,Applied,2024-12-29,Synthetic scenario
+CF00517,L01729,CHW I,Applied,2025-02-13,Synthetic scenario
+CF00518,L01844,CHW I,Planning to Apply,2025-03-01,Synthetic scenario
+CF00519,L01912,CHW I,Planning to Apply,2025-01-20,Synthetic scenario
+CF00520,L01988,CHW I,Planning to Apply,2025-01-19,Synthetic scenario
+CF00521,L01999,CHW I,Applied,2024-12-31,Synthetic scenario
+CF00522,L01999,CHW I,Certified,2025-01-04,Synthetic scenario
+CF00523,L02031,CHW II,Certified,2025-02-03,Synthetic scenario
+CF00524,L02053,CHW I,Certified,2025-02-17,Synthetic scenario
+CF00525,L02068,CHW I,Unknown,2025-02-18,Synthetic scenario
+CF00526,L02120,CHW I,Planning to Apply,2025-01-05,Synthetic scenario
+CF00527,L02305,CHW I,Applied,2025-01-04,Synthetic scenario
+CF00528,L02305,CHW I,Applied,2025-01-30,Synthetic scenario
+CF00529,L00010,CHW I,Planning to Apply,2025-03-28,Synthetic scenario
+CF00530,L00017,CHW I,Applied,2025-03-31,Synthetic scenario
+CF00531,L00017,CHW I,Certified,2025-05-03,Synthetic scenario
+CF00532,L00227,CHW I,Planning to Apply,2025-05-20,Synthetic scenario
+CF00533,L00261,CHW I,Planning to Apply,2025-03-29,Synthetic scenario
+CF00534,L00332,CHW I,Planning to Apply,2025-03-19,Synthetic scenario
+CF00535,L00360,CHW I,Applied,2025-03-19,Synthetic scenario
+CF00536,L00360,CHW I,Applied,2025-04-30,Synthetic scenario
+CF00537,L00383,CHW I,Planning to Apply,2025-05-08,Synthetic scenario
+CF00538,L00448,CHW I,Applied,2025-05-06,Synthetic scenario
+CF00539,L00573,CHW I,Unknown,2025-03-11,Synthetic scenario
+CF00540,L00600,CHW I,Applied,2025-03-18,Synthetic scenario
+CF00541,L00600,CHW I,Certified,2025-04-29,Synthetic scenario
+CF00542,L00625,CHW I,Applied,2025-03-14,Synthetic scenario
+CF00543,L00625,CHW I,Applied,2025-04-12,Synthetic scenario
+CF00544,L00654,CHW II,Unknown,2025-05-19,Synthetic scenario
+CF00545,L00677,CHW I,Applied,2025-03-20,Synthetic scenario
+CF00546,L00677,CHW I,Applied,2025-05-13,Synthetic scenario
+CF00547,L00770,CHW I,Applied,2026-03-27,Synthetic scenario
+CF00548,L00770,CHW I,Certified,2026-04-26,Synthetic scenario
+CF00549,L00798,CHW I,Certified,2025-04-28,Synthetic scenario
+CF00550,L00809,CHW I,Applied,2025-04-05,Synthetic scenario
+CF00551,L00809,CHW I,Applied,2025-04-21,Synthetic scenario
+CF00552,L00986,CHW I,Applied,2025-04-05,Synthetic scenario
+CF00553,L01281,CHW II,Planning to Apply,2025-04-25,Synthetic scenario
+CF00554,L01399,CHW I,Applied,2025-03-21,Synthetic scenario
+CF00555,L01421,CHW I,Unknown,2026-06-20,Synthetic scenario
+CF00556,L01453,CHW II,Applied,2025-04-14,Synthetic scenario
+CF00557,L01453,CHW II,Certified,2025-05-06,Synthetic scenario
+CF00558,L01508,CHW I,Planning to Apply,2025-04-13,Synthetic scenario
+CF00559,L01552,CHW I,Not Certified,2025-04-06,Synthetic scenario
+CF00560,L01553,CHW I,Certified,2025-04-24,Synthetic scenario
+CF00561,L01579,CHW I,Certified,2025-03-24,Synthetic scenario
+CF00562,L01714,CHW I,Certified,2025-05-06,Synthetic scenario
+CF00563,L01782,CHW II,Certified,2025-04-08,Synthetic scenario
+CF00564,L01834,CHW I,Applied,2026-04-26,Synthetic scenario
+CF00565,L01834,CHW I,Applied,2026-05-04,Synthetic scenario
+CF00566,L01841,CHW II,Certified,2025-03-23,Synthetic scenario
+CF00567,L01908,CHW I,Applied,2025-03-16,Synthetic scenario
+CF00568,L01908,CHW I,Certified,2025-04-24,Synthetic scenario
+CF00569,L01976,CHW I,Unknown,2025-03-29,Synthetic scenario
+CF00570,L02049,CHW I,Applied,2025-04-02,Synthetic scenario
+CF00571,L02049,CHW I,Applied,2025-05-05,Synthetic scenario
+CF00572,L02139,CHW I,Applied,2025-04-13,Synthetic scenario
+CF00573,L02139,CHW I,Certified,2025-04-27,Synthetic scenario
+CF00574,L02152,CHW I,Certified,2025-05-23,Synthetic scenario
+CF00575,L02203,CHW I,Certified,2025-03-31,Synthetic scenario
+CF00576,L02230,CHW I,Planning to Apply,2025-03-14,Synthetic scenario
+CF00577,L02255,CHW I,Applied,2025-04-15,Synthetic scenario
+CF00578,L02255,CHW I,Certified,2025-05-15,Synthetic scenario
+CF00579,L02266,CHW II,Applied,2025-05-15,Synthetic scenario
+CF00580,L02286,CHW I,Not Certified,2025-04-09,Synthetic scenario
+CF00581,L02300,CHW I,Planning to Apply,2025-04-28,Synthetic scenario
+CF00582,L02422,CHW I,Certified,2025-04-21,Synthetic scenario
+CF00583,L00064,CHW I,Applied,2025-04-24,Synthetic scenario
+CF00584,L00229,CHW I,Applied,2025-04-06,Synthetic scenario
+CF00585,L00229,CHW I,Applied,2025-04-24,Synthetic scenario
+CF00586,L00251,CHW I,Unknown,2025-05-11,Synthetic scenario
+CF00587,L00294,CHW I,Planning to Apply,2025-05-04,Synthetic scenario
+CF00588,L00331,CHW I,Applied,2025-04-24,Synthetic scenario
+CF00589,L00331,CHW I,Certified,2025-05-03,Synthetic scenario
+CF00590,L00362,CHW I,Not Certified,2025-05-03,Synthetic scenario
+CF00591,L00388,CHW I,Certified,2025-05-09,Synthetic scenario
+CF00592,L00413,CHW I,Planning to Apply,2025-05-07,Synthetic scenario
+CF00593,L00419,CHW I,Applied,2025-04-23,Synthetic scenario
+CF00594,L00419,CHW I,Certified,2025-04-30,Synthetic scenario
+CF00595,L00441,CHW II,Unknown,2025-05-24,Synthetic scenario
+CF00596,L00485,CHW II,Applied,2025-03-29,Synthetic scenario
+CF00597,L00485,CHW II,Applied,2025-05-18,Synthetic scenario
+CF00598,L00558,CHW I,Planning to Apply,2025-05-01,Synthetic scenario
+CF00599,L00598,CHW II,Not Certified,2025-04-11,Synthetic scenario
+CF00600,L00636,CHW I,Applied,2025-03-28,Synthetic scenario
+CF00601,L00737,CHW I,Applied,2025-04-18,Synthetic scenario
+CF00602,L00745,CHW I,Planning to Apply,2025-04-24,Synthetic scenario
+CF00603,L00814,CHW I,Applied,2025-04-26,Synthetic scenario
+CF00604,L00814,CHW I,Certified,2025-05-10,Synthetic scenario
+CF00605,L00832,CHW I,Certified,2025-03-24,Synthetic scenario
+CF00606,L00833,CHW I,Planning to Apply,2025-03-31,Synthetic scenario
+CF00607,L00873,CHW I,Planning to Apply,2025-03-29,Synthetic scenario
+CF00608,L01055,CHW I,Certified,2026-07-12,Synthetic scenario
+CF00609,L01070,CHW I,Unknown,2025-04-28,Synthetic scenario
+CF00610,L01087,CHW I,Applied,2025-03-17,Synthetic scenario
+CF00611,L01087,CHW I,Certified,2025-03-20,Synthetic scenario
+CF00612,L01138,CHW I,Not Certified,2025-04-30,Synthetic scenario
+CF00613,L01139,CHW I,Certified,2025-03-25,Synthetic scenario
+CF00614,L01159,CHW I,Planning to Apply,2026-02-18,Synthetic scenario
+CF00615,L01198,CHW I,Planning to Apply,2025-03-29,Synthetic scenario
+CF00616,L01207,CHW I,Certified,2025-04-26,Synthetic scenario
+CF00617,L01210,CHW I,Unknown,2025-05-07,Synthetic scenario
+CF00618,L01306,CHW I,Planning to Apply,2025-05-04,Synthetic scenario
+CF00619,L01329,CHW I,Certified,2025-04-23,Synthetic scenario
+CF00620,L01530,CHW I,Planning to Apply,2025-05-01,Synthetic scenario
+CF00621,L01531,CHW I,Not Certified,2025-05-14,Synthetic scenario
+CF00622,L01568,CHW I,Certified,2025-03-30,Synthetic scenario
+CF00623,L01586,CHW I,Planning to Apply,2025-03-27,Synthetic scenario
+CF00624,L01626,CHW II,Applied,2025-03-21,Synthetic scenario
+CF00625,L01626,CHW II,Certified,2025-04-25,Synthetic scenario
+CF00626,L01636,CHW I,Applied,2025-05-16,Synthetic scenario
+CF00627,L01727,CHW I,Not Certified,2025-03-20,Synthetic scenario
+CF00628,L01749,CHW I,Applied,2025-04-18,Synthetic scenario
+CF00629,L01749,CHW I,Certified,2025-04-27,Synthetic scenario
+CF00630,L01828,CHW I,Certified,2025-05-06,Synthetic scenario
+CF00631,L01866,CHW I,Applied,2025-04-15,Synthetic scenario
+CF00632,L01866,CHW I,Certified,2025-05-19,Synthetic scenario
+CF00633,L01949,CHW I,Applied,2025-04-21,Synthetic scenario
+CF00634,L01957,CHW I,Applied,2025-03-30,Synthetic scenario
+CF00635,L01957,CHW I,Applied,2025-03-21,Synthetic scenario
+CF00636,L01973,CHW II,Certified,2025-04-22,Synthetic scenario
+CF00637,L01993,CHW I,Not Certified,2025-04-29,Synthetic scenario
+CF00638,L02026,CHW I,Planning to Apply,2025-05-23,Synthetic scenario
+CF00639,L02086,CHW I,Certified,2025-04-03,Synthetic scenario
+CF00640,L02138,CHW I,Planning to Apply,2025-03-30,Synthetic scenario
+CF00641,L02357,CHW I,Unknown,2025-04-26,Synthetic scenario
+CF00642,L02376,CHW I,Applied,2025-04-01,Synthetic scenario
+CF00643,L02376,CHW I,Certified,2025-05-14,Synthetic scenario
+CF00644,L02407,CHW I,Planning to Apply,2026-04-12,Synthetic scenario
+CF00645,L02418,CHW I,Applied,2025-03-29,Synthetic scenario
+CF00646,L02418,CHW I,Certified,2025-04-08,Synthetic scenario
+CF00647,L00012,CHW I,Certified,2025-04-08,Synthetic scenario
+CF00648,L00028,CHW I,Certified,2025-03-29,Synthetic scenario
+CF00649,L00040,CHW I,Unknown,2025-04-08,Synthetic scenario
+CF00650,L00046,CHW I,Applied,2025-04-09,Synthetic scenario
+CF00651,L00046,CHW I,Certified,2025-04-26,Synthetic scenario
+CF00652,L00142,CHW I,Applied,2025-04-22,Synthetic scenario
+CF00653,L00142,CHW I,Applied,2025-04-27,Synthetic scenario
+CF00654,L00210,CHW I,Certified,2025-03-29,Synthetic scenario
+CF00655,L00232,CHW II,Planning to Apply,2025-05-13,Synthetic scenario
+CF00656,L00248,CHW II,Applied,2025-04-23,Synthetic scenario
+CF00657,L00248,CHW II,Applied,2025-04-03,Synthetic scenario
+CF00658,L00462,CHW I,Applied,2025-04-25,Synthetic scenario
+CF00659,L00462,CHW I,Applied,2025-05-10,Synthetic scenario
+CF00660,L00476,CHW I,Not Certified,2025-05-23,Synthetic scenario
+CF00661,L00482,CHW I,Unknown,2025-05-19,Synthetic scenario
+CF00662,L00547,CHW I,Applied,2025-04-02,Synthetic scenario
+CF00663,L00547,CHW I,Certified,2025-04-04,Synthetic scenario
+CF00664,L00690,CHW I,Certified,2026-10-20,Synthetic scenario
+CF00665,L00705,CHW I,Planning to Apply,2025-04-22,Synthetic scenario
+CF00666,L00742,CHW I,Applied,2025-04-03,Synthetic scenario
+CF00667,L00742,CHW I,Certified,2025-04-12,Synthetic scenario
+CF00668,L00797,CHW I,Planning to Apply,2025-05-30,Synthetic scenario
+CF00669,L00945,CHW I,Planning to Apply,2025-04-06,Synthetic scenario
+CF00670,L00987,CHW II,Applied,2025-04-27,Synthetic scenario
+CF00671,L00987,CHW II,Certified,2025-04-28,Synthetic scenario
+CF00672,L00994,CHW I,Planning to Apply,2025-04-18,Synthetic scenario
+CF00673,L01009,CHW I,Planning to Apply,2025-04-30,Synthetic scenario
+CF00674,L01030,CHW I,Applied,2025-04-12,Synthetic scenario
+CF00675,L01030,CHW I,Certified,2025-04-13,Synthetic scenario
+CF00676,L01124,CHW I,Planning to Apply,2025-05-08,Synthetic scenario
+CF00677,L01199,CHW II,Unknown,2025-04-05,Synthetic scenario
+CF00678,L01419,CHW II,Planning to Apply,2025-04-27,Synthetic scenario
+CF00679,L01427,CHW I,Certified,2025-04-26,Synthetic scenario
+CF00680,L01447,CHW II,Applied,2025-03-31,Synthetic scenario
+CF00681,L01447,CHW II,Applied,2025-05-27,Synthetic scenario
+CF00682,L01460,CHW I,Certified,2025-04-09,Synthetic scenario
+CF00683,L01641,CHW I,Applied,2025-04-08,Synthetic scenario
+CF00684,L01641,CHW I,Certified,2025-05-20,Synthetic scenario
+CF00685,L01645,CHW II,Certified,2025-05-04,Synthetic scenario
+CF00686,L01827,CHW I,Not Certified,2025-05-04,Synthetic scenario
+CF00687,L01898,CHW I,Applied,2025-04-30,Synthetic scenario
+CF00688,L01911,CHW I,Planning to Apply,2025-05-08,Synthetic scenario
+CF00689,L01935,CHW I,Planning to Apply,2025-04-27,Synthetic scenario
+CF00690,L01989,CHW I,Certified,2025-05-22,Synthetic scenario
+CF00691,L02077,CHW I,Planning to Apply,2025-05-10,Synthetic scenario
+CF00692,L02099,CHW II,Applied,2025-04-27,Synthetic scenario
+CF00693,L02099,CHW II,Certified,2025-05-03,Synthetic scenario
+CF00694,L02364,CHW I,Applied,2025-04-01,Synthetic scenario
+CF00695,L02364,CHW I,Certified,2025-05-19,Synthetic scenario
+CF00696,L02403,CHW II,Certified,2025-05-24,Synthetic scenario
+CF00697,L00006,CHW I,Applied,2025-06-26,Synthetic scenario
+CF00698,L00006,CHW I,Certified,2025-07-30,Synthetic scenario
+CF00699,L00018,CHW I,Applied,2025-06-29,Synthetic scenario
+CF00700,L00018,CHW I,Certified,2025-08-09,Synthetic scenario
+CF00701,L00133,CHW II,Unknown,2025-07-03,Synthetic scenario
+CF00702,L00301,CHW II,Certified,2025-08-03,Synthetic scenario
+CF00703,L00316,CHW I,Not Certified,2025-07-03,Synthetic scenario
+CF00704,L00319,CHW I,Applied,2025-07-19,Synthetic scenario
+CF00705,L00319,CHW I,Applied,2025-08-09,Synthetic scenario
+CF00706,L00320,CHW I,Certified,2025-07-29,Synthetic scenario
+CF00707,L00379,CHW I,Applied,2025-07-22,Synthetic scenario
+CF00708,L00379,CHW I,Certified,2025-07-24,Synthetic scenario
+CF00709,L00387,CHW I,Unknown,2025-08-12,Synthetic scenario
+CF00710,L00504,CHW I,Applied,2025-06-10,Synthetic scenario
+CF00711,L00504,CHW I,Certified,2025-08-08,Synthetic scenario
+CF00712,L00630,CHW I,Certified,2025-07-11,Synthetic scenario
+CF00713,L00732,CHW I,Planning to Apply,2025-06-21,Synthetic scenario
+CF00714,L00766,CHW II,Applied,2025-06-26,Synthetic scenario
+CF00715,L00766,CHW II,Applied,2025-08-01,Synthetic scenario
+CF00716,L00796,CHW I,Applied,2025-08-12,Synthetic scenario
+CF00717,L00910,CHW II,Certified,2025-06-22,Synthetic scenario
+CF00718,L00911,CHW I,Not Certified,2025-08-09,Synthetic scenario
+CF00719,L00960,CHW I,Planning to Apply,2025-08-11,Synthetic scenario
+CF00720,L01003,CHW I,Applied,2025-07-07,Synthetic scenario
+CF00721,L01003,CHW I,Certified,2025-07-16,Synthetic scenario
+CF00722,L01006,CHW I,Certified,2025-08-12,Synthetic scenario
+CF00723,L01069,CHW I,Applied,2025-06-28,Synthetic scenario
+CF00724,L01069,CHW I,Certified,2025-07-31,Synthetic scenario
+CF00725,L01094,CHW I,Certified,2025-07-04,Synthetic scenario
+CF00726,L01098,CHW I,Applied,2025-06-19,Synthetic scenario
+CF00727,L01098,CHW I,Certified,2025-07-15,Synthetic scenario
+CF00728,L01232,CHW I,Unknown,2025-07-06,Synthetic scenario
+CF00729,L01257,CHW I,Applied,2025-07-07,Synthetic scenario
+CF00730,L01454,CHW I,Certified,2025-07-24,Synthetic scenario
+CF00731,L01475,CHW I,Applied,2025-07-11,Synthetic scenario
+CF00732,L01570,CHW I,Applied,2025-07-05,Synthetic scenario
+CF00733,L01570,CHW I,Applied,2025-07-24,Synthetic scenario
+CF00734,L01604,CHW I,Certified,2025-07-21,Synthetic scenario
+CF00735,L01675,CHW I,Certified,2025-06-08,Synthetic scenario
+CF00736,L01708,CHW I,Certified,2025-07-31,Synthetic scenario
+CF00737,L01885,CHW II,Certified,2025-07-21,Synthetic scenario
+CF00738,L01921,CHW II,Applied,2025-06-15,Synthetic scenario
+CF00739,L01941,CHW I,Applied,2025-07-23,Synthetic scenario
+CF00740,L01948,CHW I,Certified,2025-06-19,Synthetic scenario
+CF00741,L02043,CHW I,Applied,2025-07-16,Synthetic scenario
+CF00742,L02043,CHW I,Certified,2025-07-18,Synthetic scenario
+CF00743,L02147,CHW I,Applied,2025-07-01,Synthetic scenario
+CF00744,L02147,CHW I,Certified,2025-07-15,Synthetic scenario
+CF00745,L02201,CHW I,Certified,2025-07-04,Synthetic scenario
+CF00746,L02233,CHW I,Certified,2025-06-26,Synthetic scenario
+CF00747,L02288,CHW I,Certified,2025-07-28,Synthetic scenario
+CF00748,L02337,CHW I,Certified,2025-08-14,Synthetic scenario
+CF00749,L02379,CHW I,Planning to Apply,2025-07-03,Synthetic scenario
+CF00750,L02428,CHW I,Applied,2025-06-11,Synthetic scenario
+CF00751,L02428,CHW I,Applied,2025-07-16,Synthetic scenario
+CF00752,L00024,CHW I,Certified,2025-07-27,Synthetic scenario
+CF00753,L00067,CHW I,Certified,2025-06-20,Synthetic scenario
+CF00754,L00070,CHW II,Unknown,2025-06-10,Synthetic scenario
+CF00755,L00175,CHW I,Applied,2025-07-16,Synthetic scenario
+CF00756,L00175,CHW I,Certified,2025-07-25,Synthetic scenario
+CF00757,L00259,CHW I,Planning to Apply,2025-07-04,Synthetic scenario
+CF00758,L00281,CHW I,Applied,2025-07-15,Synthetic scenario
+CF00759,L00281,CHW I,Certified,2025-07-19,Synthetic scenario
+CF00760,L00291,CHW I,Certified,2025-08-02,Synthetic scenario
+CF00761,L00400,CHW I,Applied,2025-07-24,Synthetic scenario
+CF00762,L00400,CHW I,Applied,2025-08-10,Synthetic scenario
+CF00763,L00417,CHW I,Applied,2025-07-11,Synthetic scenario
+CF00764,L00417,CHW I,Certified,2025-07-20,Synthetic scenario
+CF00765,L00559,CHW I,Certified,2025-07-05,Synthetic scenario
+CF00766,L00574,CHW I,Applied,2025-07-04,Synthetic scenario
+CF00767,L00574,CHW I,Applied,2025-06-20,Synthetic scenario
+CF00768,L00586,CHW I,Applied,2025-06-20,Synthetic scenario
+CF00769,L00586,CHW I,Certified,2025-08-09,Synthetic scenario
+CF00770,L00637,CHW I,Applied,2025-07-12,Synthetic scenario
+CF00771,L00659,CHW I,Applied,2025-06-16,Synthetic scenario
+CF00772,L00659,CHW I,Applied,2025-08-11,Synthetic scenario
+CF00773,L00698,CHW I,Unknown,2025-08-23,Synthetic scenario
+CF00774,L00813,CHW I,Applied,2025-07-17,Synthetic scenario
+CF00775,L00813,CHW I,Certified,2025-07-28,Synthetic scenario
+CF00776,L00857,CHW II,Planning to Apply,2025-08-07,Synthetic scenario
+CF00777,L00921,CHW I,Planning to Apply,2025-08-02,Synthetic scenario
+CF00778,L00948,CHW I,Applied,2025-06-21,Synthetic scenario
+CF00779,L01020,CHW II,Planning to Apply,2025-08-12,Synthetic scenario
+CF00780,L01049,CHW I,Certified,2025-07-18,Synthetic scenario
+CF00781,L01358,CHW I,Certified,2025-07-07,Synthetic scenario
+CF00782,L01510,CHW I,Certified,2025-07-22,Synthetic scenario
+CF00783,L01558,CHW I,Applied,2025-08-13,Synthetic scenario
+CF00784,L01652,CHW I,Not Certified,2025-07-12,Synthetic scenario
+CF00785,L01665,CHW I,Applied,2025-06-29,Synthetic scenario
+CF00786,L01665,CHW I,Certified,2025-07-29,Synthetic scenario
+CF00787,L01860,CHW I,Certified,2025-06-22,Synthetic scenario
+CF00788,L01915,CHW I,Applied,2025-06-20,Synthetic scenario
+CF00789,L01915,CHW I,Certified,2025-07-20,Synthetic scenario
+CF00790,L01929,CHW I,Applied,2025-07-14,Synthetic scenario
+CF00791,L01929,CHW I,Applied,2025-07-06,Synthetic scenario
+CF00792,L02045,CHW I,Applied,2025-07-19,Synthetic scenario
+CF00793,L02181,CHW I,Not Certified,2025-07-01,Synthetic scenario
+CF00794,L02193,CHW I,Not Certified,2025-08-08,Synthetic scenario
+CF00795,L02199,CHW I,Certified,2025-07-02,Synthetic scenario
+CF00796,L02318,CHW I,Applied,2025-07-15,Synthetic scenario
+CF00797,L02318,CHW I,Applied,2025-08-16,Synthetic scenario
+CF00798,L00063,CHW I,Certified,2025-07-15,Synthetic scenario
+CF00799,L00085,CHW I,Certified,2025-08-18,Synthetic scenario
+CF00800,L00090,CHW I,Certified,2026-07-20,Synthetic scenario
+CF00801,L00101,CHW I,Unknown,2025-08-21,Synthetic scenario
+CF00802,L00166,CHW II,Applied,2025-08-22,Synthetic scenario
+CF00803,L00205,CHW I,Applied,2025-07-01,Synthetic scenario
+CF00804,L00205,CHW I,Certified,2025-08-16,Synthetic scenario
+CF00805,L00697,CHW I,Certified,2025-06-28,Synthetic scenario
+CF00806,L00704,CHW I,Planning to Apply,2025-07-14,Synthetic scenario
+CF00807,L00863,CHW I,Applied,2025-06-29,Synthetic scenario
+CF00808,L00863,CHW I,Certified,2025-07-18,Synthetic scenario
+CF00809,L01059,CHW I,Applied,2025-07-13,Synthetic scenario
+CF00810,L01059,CHW I,Applied,2025-08-15,Synthetic scenario
+CF00811,L01075,CHW I,Certified,2025-06-25,Synthetic scenario
+CF00812,L01161,CHW I,Planning to Apply,2025-07-08,Synthetic scenario
+CF00813,L01168,CHW I,Applied,2025-08-02,Synthetic scenario
+CF00814,L01168,CHW I,Certified,2025-08-09,Synthetic scenario
+CF00815,L01176,CHW I,Applied,2025-06-28,Synthetic scenario
+CF00816,L01176,CHW I,Certified,2025-08-13,Synthetic scenario
+CF00817,L01196,CHW I,Unknown,2025-08-16,Synthetic scenario
+CF00818,L01242,CHW I,Planning to Apply,2025-07-21,Synthetic scenario
+CF00819,L01465,CHW I,Unknown,2025-08-17,Synthetic scenario
+CF00820,L01580,CHW I,Unknown,2025-08-11,Synthetic scenario
+CF00821,L01589,CHW I,Applied,2025-08-12,Synthetic scenario
+CF00822,L01654,CHW I,Applied,2025-08-20,Synthetic scenario
+CF00823,L01660,CHW I,Applied,2025-07-06,Synthetic scenario
+CF00824,L01660,CHW I,Applied,2025-07-10,Synthetic scenario
+CF00825,L01734,CHW I,Applied,2025-07-11,Synthetic scenario
+CF00826,L01734,CHW I,Applied,2025-07-29,Synthetic scenario
+CF00827,L01875,CHW I,Unknown,2025-06-20,Synthetic scenario
+CF00828,L01934,CHW I,Certified,2025-08-23,Synthetic scenario
+CF00829,L01962,CHW I,Planning to Apply,2025-08-28,Synthetic scenario
+CF00830,L01982,CHW I,Applied,2025-08-06,Synthetic scenario
+CF00831,L02046,CHW I,Planning to Apply,2025-08-13,Synthetic scenario
+CF00832,L02195,CHW I,Unknown,2025-08-18,Synthetic scenario
+CF00833,L02325,CHW I,Unknown,2025-08-16,Synthetic scenario
+CF00834,L00007,CHW I,Applied,2025-10-10,Synthetic scenario
+CF00835,L00007,CHW I,Applied,2025-10-01,Synthetic scenario
+CF00836,L00053,CHW I,Applied,2025-09-10,Synthetic scenario
+CF00837,L00053,CHW I,Certified,2025-10-09,Synthetic scenario
+CF00838,L00061,CHW I,Applied,2025-10-04,Synthetic scenario
+CF00839,L00061,CHW I,Certified,2025-11-14,Synthetic scenario
+CF00840,L00102,CHW I,Applied,2025-10-13,Synthetic scenario
+CF00841,L00109,CHW I,Not Certified,2025-10-05,Synthetic scenario
+CF00842,L00115,CHW II,Applied,2025-10-07,Synthetic scenario
+CF00843,L00115,CHW II,Certified,2025-10-10,Synthetic scenario
+CF00844,L00183,CHW I,Certified,2025-10-26,Synthetic scenario
+CF00845,L00529,CHW I,Certified,2025-10-18,Synthetic scenario
+CF00846,L00549,CHW I,Planning to Apply,2025-11-08,Synthetic scenario
+CF00847,L00643,CHW II,Applied,2025-09-06,Synthetic scenario
+CF00848,L00717,CHW I,Certified,2025-10-08,Synthetic scenario
+CF00849,L00783,CHW I,Certified,2025-12-26,Synthetic scenario
+CF00850,L00785,CHW I,Certified,2025-11-06,Synthetic scenario
+CF00851,L00824,CHW I,Certified,2025-10-25,Synthetic scenario
+CF00852,L00890,CHW II,Applied,2025-09-30,Synthetic scenario
+CF00853,L00890,CHW II,Certified,2025-11-20,Synthetic scenario
+CF00854,L00894,CHW I,Planning to Apply,2025-10-01,Synthetic scenario
+CF00855,L00920,CHW I,Applied,2025-10-16,Synthetic scenario
+CF00856,L00958,CHW I,Applied,2025-10-18,Synthetic scenario
+CF00857,L00958,CHW I,Certified,2025-11-17,Synthetic scenario
+CF00858,L00976,CHW I,Certified,2025-11-12,Synthetic scenario
+CF00859,L01000,CHW II,Certified,2025-10-30,Synthetic scenario
+CF00860,L01113,CHW I,Applied,2025-11-15,Synthetic scenario
+CF00861,L01171,CHW I,Not Certified,2025-09-22,Synthetic scenario
+CF00862,L01212,CHW I,Applied,2025-11-18,Synthetic scenario
+CF00863,L01309,CHW I,Applied,2025-11-05,Synthetic scenario
+CF00864,L01340,CHW I,Applied,2025-10-13,Synthetic scenario
+CF00865,L01340,CHW I,Applied,2025-09-21,Synthetic scenario
+CF00866,L01450,CHW I,Certified,2025-10-17,Synthetic scenario
+CF00867,L01491,CHW II,Applied,2025-09-26,Synthetic scenario
+CF00868,L01491,CHW II,Applied,2025-09-24,Synthetic scenario
+CF00869,L01506,CHW I,Planning to Apply,2025-10-04,Synthetic scenario
+CF00870,L01631,CHW I,Certified,2025-10-11,Synthetic scenario
+CF00871,L01664,CHW I,Applied,2025-10-05,Synthetic scenario
+CF00872,L01725,CHW I,Certified,2025-09-21,Synthetic scenario
+CF00873,L01764,CHW I,Planning to Apply,2025-10-03,Synthetic scenario
+CF00874,L01766,CHW I,Not Certified,2025-10-22,Synthetic scenario
+CF00875,L01842,CHW I,Unknown,2025-11-15,Synthetic scenario
+CF00876,L01910,CHW I,Planning to Apply,2025-09-25,Synthetic scenario
+CF00877,L01913,CHW II,Applied,2025-09-21,Synthetic scenario
+CF00878,L01913,CHW II,Applied,2025-11-12,Synthetic scenario
+CF00879,L01953,CHW I,Applied,2025-09-16,Synthetic scenario
+CF00880,L01953,CHW I,Applied,2025-11-04,Synthetic scenario
+CF00881,L02021,CHW II,Applied,2025-09-16,Synthetic scenario
+CF00882,L02021,CHW II,Certified,2025-09-30,Synthetic scenario
+CF00883,L02228,CHW I,Not Certified,2025-09-24,Synthetic scenario
+CF00884,L02311,CHW I,Planning to Apply,2025-10-21,Synthetic scenario
+CF00885,L02331,CHW I,Not Certified,2025-10-29,Synthetic scenario
+CF00886,L02360,CHW I,Planning to Apply,2025-10-27,Synthetic scenario
+CF00887,L00074,CHW I,Certified,2025-11-03,Synthetic scenario
+CF00888,L00119,CHW I,Applied,2025-09-18,Synthetic scenario
+CF00889,L00119,CHW I,Certified,2025-10-27,Synthetic scenario
+CF00890,L00126,CHW I,Applied,2025-10-15,Synthetic scenario
+CF00891,L00126,CHW I,Certified,2025-10-17,Synthetic scenario
+CF00892,L00293,CHW I,Applied,2025-09-26,Synthetic scenario
+CF00893,L00343,CHW I,Applied,2025-10-08,Synthetic scenario
+CF00894,L00343,CHW I,Applied,2025-10-28,Synthetic scenario
+CF00895,L00418,CHW II,Certified,2026-08-18,Synthetic scenario
+CF00896,L00447,CHW I,Certified,2025-10-29,Synthetic scenario
+CF00897,L00535,CHW II,Applied,2025-10-24,Synthetic scenario
+CF00898,L00639,CHW I,Applied,2025-10-16,Synthetic scenario
+CF00899,L00639,CHW I,Certified,2025-10-21,Synthetic scenario
+CF00900,L00671,CHW I,Planning to Apply,2025-11-13,Synthetic scenario
+CF00901,L00696,CHW I,Not Certified,2025-10-21,Synthetic scenario
+CF00902,L00708,CHW I,Applied,2025-10-14,Synthetic scenario
+CF00903,L00708,CHW I,Certified,2025-10-24,Synthetic scenario
+CF00904,L00778,CHW II,Planning to Apply,2025-10-09,Synthetic scenario
+CF00905,L00819,CHW I,Applied,2025-10-07,Synthetic scenario
+CF00906,L00908,CHW I,Not Certified,2025-11-20,Synthetic scenario
+CF00907,L00949,CHW I,Unknown,2025-09-18,Synthetic scenario
+CF00908,L01089,CHW I,Applied,2025-09-28,Synthetic scenario
+CF00909,L01111,CHW I,Certified,2025-10-07,Synthetic scenario
+CF00910,L01155,CHW I,Applied,2025-09-13,Synthetic scenario
+CF00911,L01155,CHW I,Certified,2025-11-09,Synthetic scenario
+CF00912,L01339,CHW I,Applied,2025-10-24,Synthetic scenario
+CF00913,L01339,CHW I,Certified,2025-10-25,Synthetic scenario
+CF00914,L01420,CHW II,Certified,2025-09-30,Synthetic scenario
+CF00915,L01612,CHW I,Unknown,2025-09-21,Synthetic scenario
+CF00916,L01723,CHW I,Certified,2025-11-02,Synthetic scenario
+CF00917,L01763,CHW I,Applied,2025-10-06,Synthetic scenario
+CF00918,L01763,CHW I,Certified,2025-10-12,Synthetic scenario
+CF00919,L01796,CHW I,Unknown,2025-11-02,Synthetic scenario
+CF00920,L01810,CHW I,Applied,2025-10-04,Synthetic scenario
+CF00921,L01838,CHW I,Certified,2025-10-10,Synthetic scenario
+CF00922,L01877,CHW I,Planning to Apply,2025-09-11,Synthetic scenario
+CF00923,L01894,CHW II,Applied,2025-10-12,Synthetic scenario
+CF00924,L01894,CHW II,Certified,2025-10-22,Synthetic scenario
+CF00925,L01956,CHW I,Applied,2025-11-16,Synthetic scenario
+CF00926,L02060,CHW I,Certified,2025-10-31,Synthetic scenario
+CF00927,L02130,CHW I,Unknown,2025-10-24,Synthetic scenario
+CF00928,L02244,CHW II,Certified,2025-10-28,Synthetic scenario
+CF00929,L00072,CHW I,Certified,2025-10-07,Synthetic scenario
+CF00930,L00199,CHW I,Not Certified,2025-10-14,Synthetic scenario
+CF00931,L00221,CHW I,Applied,2025-10-09,Synthetic scenario
+CF00932,L00221,CHW I,Certified,2025-10-13,Synthetic scenario
+CF00933,L00252,CHW I,Unknown,2025-10-25,Synthetic scenario
+CF00934,L00303,CHW I,Unknown,2025-11-13,Synthetic scenario
+CF00935,L00329,CHW I,Applied,2025-09-28,Synthetic scenario
+CF00936,L00329,CHW I,Certified,2025-10-28,Synthetic scenario
+CF00937,L00367,CHW I,Certified,2025-11-04,Synthetic scenario
+CF00938,L00407,CHW I,Applied,2025-10-21,Synthetic scenario
+CF00939,L00407,CHW I,Certified,2025-11-05,Synthetic scenario
+CF00940,L00585,CHW I,Not Certified,2025-09-23,Synthetic scenario
+CF00941,L00694,CHW I,Certified,2025-11-06,Synthetic scenario
+CF00942,L00786,CHW I,Certified,2025-11-26,Synthetic scenario
+CF00943,L00856,CHW I,Planning to Apply,2025-11-02,Synthetic scenario
+CF00944,L00961,CHW I,Not Certified,2025-10-28,Synthetic scenario
+CF00945,L01022,CHW I,Certified,2025-10-21,Synthetic scenario
+CF00946,L01120,CHW I,Unknown,2025-11-13,Synthetic scenario
+CF00947,L01177,CHW I,Unknown,2025-11-23,Synthetic scenario
+CF00948,L01264,CHW I,Applied,2025-09-30,Synthetic scenario
+CF00949,L01264,CHW I,Certified,2025-10-05,Synthetic scenario
+CF00950,L01468,CHW I,Planning to Apply,2025-10-07,Synthetic scenario
+CF00951,L01627,CHW I,Planning to Apply,2025-10-17,Synthetic scenario
+CF00952,L01718,CHW II,Planning to Apply,2025-11-01,Synthetic scenario
+CF00953,L01769,CHW I,Planning to Apply,2025-11-01,Synthetic scenario
+CF00954,L01902,CHW I,Certified,2025-10-02,Synthetic scenario
+CF00955,L01970,CHW II,Applied,2025-10-19,Synthetic scenario
+CF00956,L01970,CHW II,Applied,2025-10-27,Synthetic scenario
+CF00957,L02104,CHW I,Applied,2025-09-24,Synthetic scenario
+CF00958,L02104,CHW I,Certified,2025-11-14,Synthetic scenario
+CF00959,L02153,CHW I,Applied,2025-10-23,Synthetic scenario
+CF00960,L02153,CHW I,Certified,2025-11-22,Synthetic scenario
+CF00961,L02154,CHW I,Applied,2025-10-16,Synthetic scenario
+CF00962,L02226,CHW I,Certified,2025-11-03,Synthetic scenario
+CF00963,L02291,CHW I,Unknown,2025-10-31,Synthetic scenario
+CF00964,L02308,CHW I,Applied,2025-09-29,Synthetic scenario
+CF00965,L02308,CHW I,Certified,2025-10-05,Synthetic scenario
+CF00966,L02358,CHW II,Certified,2025-11-09,Synthetic scenario
+CF00967,L02389,CHW I,Applied,2025-10-09,Synthetic scenario
+CF00968,L02389,CHW I,Certified,2025-10-19,Synthetic scenario
+CF00969,L00151,CHW I,Planning to Apply,2026-02-10,Synthetic scenario
+CF00970,L00211,CHW I,Planning to Apply,2026-01-17,Synthetic scenario
+CF00971,L00276,CHW II,Applied,2025-12-22,Synthetic scenario
+CF00972,L00276,CHW II,Certified,2026-01-02,Synthetic scenario
+CF00973,L00361,CHW I,Applied,2026-01-14,Synthetic scenario
+CF00974,L00389,CHW I,Applied,2026-01-25,Synthetic scenario
+CF00975,L00397,CHW I,Certified,2026-01-18,Synthetic scenario
+CF00976,L00404,CHW I,Certified,2025-12-20,Synthetic scenario
+CF00977,L00495,CHW I,Certified,2026-02-05,Synthetic scenario
+CF00978,L00568,CHW I,Applied,2026-01-09,Synthetic scenario
+CF00979,L00568,CHW I,Certified,2026-01-13,Synthetic scenario
+CF00980,L00570,CHW I,Planning to Apply,2026-02-05,Synthetic scenario
+CF00981,L00610,CHW I,Planning to Apply,2025-12-11,Synthetic scenario
+CF00982,L00612,CHW I,Applied,2026-01-09,Synthetic scenario
+CF00983,L00612,CHW I,Certified,2026-01-17,Synthetic scenario
+CF00984,L00615,CHW I,Applied,2025-12-28,Synthetic scenario
+CF00985,L00615,CHW I,Applied,2026-01-27,Synthetic scenario
+CF00986,L00628,CHW I,Applied,2026-01-07,Synthetic scenario
+CF00987,L00628,CHW I,Certified,2026-01-25,Synthetic scenario
+CF00988,L00631,CHW I,Applied,2026-01-17,Synthetic scenario
+CF00989,L00631,CHW I,Certified,2026-01-27,Synthetic scenario
+CF00990,L00861,CHW I,Certified,2026-01-22,Synthetic scenario
+CF00991,L01187,CHW II,Unknown,2026-01-22,Synthetic scenario
+CF00992,L01303,CHW I,Planning to Apply,2026-02-06,Synthetic scenario
+CF00993,L01315,CHW I,Certified,2026-01-05,Synthetic scenario
+CF00994,L01373,CHW I,Applied,2026-02-11,Synthetic scenario
+CF00995,L01385,CHW I,Applied,2026-04-15,Synthetic scenario
+CF00996,L01385,CHW I,Certified,2026-04-16,Synthetic scenario
+CF00997,L01392,CHW I,Planning to Apply,2026-01-09,Synthetic scenario
+CF00998,L01402,CHW II,Unknown,2025-12-24,Synthetic scenario
+CF00999,L01410,CHW II,Certified,2026-02-02,Synthetic scenario
+CF01000,L01431,CHW I,Certified,2025-12-12,Synthetic scenario
+CF01001,L01536,CHW I,Planning to Apply,2026-01-08,Synthetic scenario
+CF01002,L01682,CHW I,Applied,2025-12-12,Synthetic scenario
+CF01003,L01784,CHW I,Applied,2026-01-06,Synthetic scenario
+CF01004,L01784,CHW I,Certified,2026-01-30,Synthetic scenario
+CF01005,L01864,CHW I,Applied,2025-12-22,Synthetic scenario
+CF01006,L01864,CHW I,Certified,2026-01-11,Synthetic scenario
+CF01007,L01901,CHW I,Applied,2026-01-16,Synthetic scenario
+CF01008,L01901,CHW I,Certified,2026-01-26,Synthetic scenario
+CF01009,L01919,CHW II,Planning to Apply,2025-12-20,Synthetic scenario
+CF01010,L01995,CHW I,Applied,2026-01-11,Synthetic scenario
+CF01011,L01995,CHW I,Applied,2025-12-22,Synthetic scenario
+CF01012,L02033,CHW I,Unknown,2026-02-03,Synthetic scenario
+CF01013,L02101,CHW II,Planning to Apply,2026-02-07,Synthetic scenario
+CF01014,L02103,CHW I,Certified,2026-01-28,Synthetic scenario
+CF01015,L02121,CHW I,Certified,2025-12-18,Synthetic scenario
+CF01016,L02395,CHW I,Applied,2025-12-15,Synthetic scenario
+CF01017,L02395,CHW I,Applied,2025-12-12,Synthetic scenario
+CF01018,L00015,CHW I,Certified,2026-01-19,Synthetic scenario
+CF01019,L00057,CHW I,Unknown,2026-04-19,Synthetic scenario
+CF01020,L00060,CHW I,Unknown,2026-11-13,Synthetic scenario
+CF01021,L00190,CHW I,Certified,2026-01-14,Synthetic scenario
+CF01022,L00228,CHW I,Applied,2026-01-14,Synthetic scenario
+CF01023,L00228,CHW I,Certified,2026-01-19,Synthetic scenario
+CF01024,L00237,CHW I,Certified,2026-10-27,Synthetic scenario
+CF01025,L00266,CHW I,Certified,2026-01-18,Synthetic scenario
+CF01026,L00420,CHW I,Applied,2026-01-11,Synthetic scenario
+CF01027,L00420,CHW I,Applied,2025-12-20,Synthetic scenario
+CF01028,L00473,CHW II,Not Certified,2026-08-05,Synthetic scenario
+CF01029,L00483,CHW I,Not Certified,2026-01-28,Synthetic scenario
+CF01030,L00514,CHW I,Applied,2026-01-06,Synthetic scenario
+CF01031,L00514,CHW I,Applied,2025-12-23,Synthetic scenario
+CF01032,L00557,CHW I,Not Certified,2026-05-01,Synthetic scenario
+CF01033,L00584,CHW I,Certified,2026-01-09,Synthetic scenario
+CF01034,L00673,CHW II,Not Certified,2025-12-13,Synthetic scenario
+CF01035,L00699,CHW I,Certified,2025-12-22,Synthetic scenario
+CF01036,L00713,CHW I,Applied,2026-01-11,Synthetic scenario
+CF01037,L00713,CHW I,Certified,2026-01-17,Synthetic scenario
+CF01038,L00744,CHW I,Applied,2026-02-19,Synthetic scenario
+CF01039,L00753,CHW I,Applied,2026-01-18,Synthetic scenario
+CF01040,L00753,CHW I,Certified,2026-01-25,Synthetic scenario
+CF01041,L00841,CHW II,Applied,2026-02-02,Synthetic scenario
+CF01042,L00860,CHW I,Applied,2026-01-06,Synthetic scenario
+CF01043,L00860,CHW I,Applied,2026-01-21,Synthetic scenario
+CF01044,L01119,CHW II,Applied,2025-12-19,Synthetic scenario
+CF01045,L01119,CHW II,Applied,2026-01-08,Synthetic scenario
+CF01046,L01269,CHW I,Applied,2026-01-18,Synthetic scenario
+CF01047,L01301,CHW I,Certified,2026-02-22,Synthetic scenario
+CF01048,L01380,CHW I,Planning to Apply,2026-09-28,Synthetic scenario
+CF01049,L01507,CHW I,Applied,2026-01-09,Synthetic scenario
+CF01050,L01507,CHW I,Certified,2026-02-03,Synthetic scenario
+CF01051,L01517,CHW I,Certified,2026-01-18,Synthetic scenario
+CF01052,L01555,CHW I,Applied,2026-01-09,Synthetic scenario
+CF01053,L01555,CHW I,Applied,2026-01-07,Synthetic scenario
+CF01054,L01569,CHW I,Certified,2026-02-12,Synthetic scenario
+CF01055,L01692,CHW II,Certified,2025-12-28,Synthetic scenario
+CF01056,L01756,CHW I,Unknown,2026-01-28,Synthetic scenario
+CF01057,L01830,CHW II,Applied,2026-01-12,Synthetic scenario
+CF01058,L01880,CHW I,Not Certified,2025-12-30,Synthetic scenario
+CF01059,L01893,CHW I,Applied,2026-01-13,Synthetic scenario
+CF01060,L01893,CHW I,Certified,2026-01-19,Synthetic scenario
+CF01061,L01939,CHW I,Certified,2026-01-10,Synthetic scenario
+CF01062,L01945,CHW I,Applied,2026-01-01,Synthetic scenario
+CF01063,L02032,CHW I,Applied,2025-12-20,Synthetic scenario
+CF01064,L02032,CHW I,Certified,2026-01-31,Synthetic scenario
+CF01065,L02069,CHW II,Planning to Apply,2025-12-26,Synthetic scenario
+CF01066,L02146,CHW I,Applied,2026-01-12,Synthetic scenario
+CF01067,L02150,CHW I,Applied,2026-01-19,Synthetic scenario
+CF01068,L02150,CHW I,Certified,2026-02-13,Synthetic scenario
+CF01069,L02170,CHW I,Unknown,2025-12-24,Synthetic scenario
+CF01070,L02217,CHW I,Certified,2025-12-31,Synthetic scenario
+CF01071,L02248,CHW II,Certified,2025-12-09,Synthetic scenario
+CF01072,L02298,CHW I,Unknown,2025-12-23,Synthetic scenario
+CF01073,L02419,CHW I,Certified,2026-02-01,Synthetic scenario
+CF01074,L00077,CHW I,Certified,2026-02-04,Synthetic scenario
+CF01075,L00081,CHW II,Applied,2026-01-18,Synthetic scenario
+CF01076,L00081,CHW II,Certified,2026-01-27,Synthetic scenario
+CF01077,L00135,CHW I,Certified,2026-01-09,Synthetic scenario
+CF01078,L00198,CHW I,Not Certified,2025-12-20,Synthetic scenario
+CF01079,L00219,CHW I,Applied,2026-01-22,Synthetic scenario
+CF01080,L00219,CHW I,Applied,2026-01-14,Synthetic scenario
+CF01081,L00306,CHW I,Applied,2026-01-27,Synthetic scenario
+CF01082,L00306,CHW I,Certified,2026-01-29,Synthetic scenario
+CF01083,L00605,CHW I,Applied,2026-01-21,Synthetic scenario
+CF01084,L00684,CHW I,Certified,2026-02-07,Synthetic scenario
+CF01085,L00709,CHW I,Applied,2026-02-12,Synthetic scenario
+CF01086,L00758,CHW I,Applied,2026-01-07,Synthetic scenario
+CF01087,L00758,CHW I,Applied,2026-01-14,Synthetic scenario
+CF01088,L00874,CHW I,Certified,2026-01-28,Synthetic scenario
+CF01089,L00923,CHW I,Unknown,2026-02-26,Synthetic scenario
+CF01090,L00998,CHW I,Applied,2025-12-25,Synthetic scenario
+CF01091,L00998,CHW I,Applied,2026-01-30,Synthetic scenario
+CF01092,L01002,CHW I,Planning to Apply,2026-02-06,Synthetic scenario
+CF01093,L01016,CHW I,Applied,2025-12-30,Synthetic scenario
+CF01094,L01016,CHW I,Certified,2026-02-23,Synthetic scenario
+CF01095,L01081,CHW II,Applied,2026-01-18,Synthetic scenario
+CF01096,L01081,CHW II,Applied,2026-02-14,Synthetic scenario
+CF01097,L01244,CHW I,Applied,2026-01-15,Synthetic scenario
+CF01098,L01388,CHW I,Applied,2026-02-19,Synthetic scenario
+CF01099,L01389,CHW I,Applied,2025-12-22,Synthetic scenario
+CF01100,L01389,CHW I,Certified,2026-01-22,Synthetic scenario
+CF01101,L01474,CHW I,Unknown,2026-02-22,Synthetic scenario
+CF01102,L01683,CHW I,Certified,2026-01-22,Synthetic scenario
+CF01103,L01778,CHW I,Planning to Apply,2026-01-21,Synthetic scenario
+CF01104,L01857,CHW II,Certified,2026-01-29,Synthetic scenario
+CF01105,L01947,CHW I,Planning to Apply,2026-01-15,Synthetic scenario
+CF01106,L01958,CHW I,Applied,2026-01-07,Synthetic scenario
+CF01107,L01967,CHW I,Planning to Apply,2026-02-20,Synthetic scenario
+CF01108,L01997,CHW II,Planning to Apply,2025-12-25,Synthetic scenario
+CF01109,L02093,CHW I,Planning to Apply,2025-12-27,Synthetic scenario
+CF01110,L02122,CHW I,Planning to Apply,2026-01-01,Synthetic scenario
+CF01111,L02156,CHW I,Applied,2026-01-13,Synthetic scenario
+CF01112,L02156,CHW I,Certified,2026-03-01,Synthetic scenario
+CF01113,L02225,CHW I,Certified,2026-02-11,Synthetic scenario
+CF01114,L00030,CHW I,Planning to Apply,2026-03-22,Synthetic scenario
+CF01115,L00087,CHW II,Certified,2026-03-28,Synthetic scenario
+CF01116,L00177,CHW I,Applied,2026-03-17,Synthetic scenario
+CF01117,L00177,CHW I,Certified,2026-04-09,Synthetic scenario
+CF01118,L00246,CHW II,Applied,2026-03-25,Synthetic scenario
+CF01119,L00246,CHW II,Applied,2026-04-24,Synthetic scenario
+CF01120,L00324,CHW II,Applied,2026-04-18,Synthetic scenario
+CF01121,L00406,CHW I,Unknown,2026-08-15,Synthetic scenario
+CF01122,L00422,CHW I,Applied,2026-04-16,Synthetic scenario
+CF01123,L00422,CHW I,Certified,2026-05-03,Synthetic scenario
+CF01124,L00436,CHW I,Certified,2026-04-06,Synthetic scenario
+CF01125,L00439,CHW I,Unknown,2026-03-30,Synthetic scenario
+CF01126,L00469,CHW I,Unknown,2026-04-19,Synthetic scenario
+CF01127,L00532,CHW I,Certified,2026-04-26,Synthetic scenario
+CF01128,L00664,CHW I,Not Certified,2026-05-09,Synthetic scenario
+CF01129,L00747,CHW I,Not Certified,2026-04-11,Synthetic scenario
+CF01130,L00851,CHW I,Applied,2026-04-30,Synthetic scenario
+CF01131,L00853,CHW I,Unknown,2026-04-01,Synthetic scenario
+CF01132,L00869,CHW I,Not Certified,2026-05-11,Synthetic scenario
+CF01133,L00893,CHW I,Applied,2026-03-21,Synthetic scenario
+CF01134,L00893,CHW I,Certified,2026-04-25,Synthetic scenario
+CF01135,L00963,CHW I,Certified,2026-05-10,Synthetic scenario
+CF01136,L00988,CHW I,Certified,2026-07-07,Synthetic scenario
+CF01137,L00992,CHW I,Applied,2026-05-11,Synthetic scenario
+CF01138,L01092,CHW I,Applied,2026-03-24,Synthetic scenario
+CF01139,L01092,CHW I,Certified,2026-03-27,Synthetic scenario
+CF01140,L01096,CHW I,Planning to Apply,2026-04-25,Synthetic scenario
+CF01141,L01099,CHW I,Applied,2026-04-15,Synthetic scenario
+CF01142,L01099,CHW I,Applied,2026-04-14,Synthetic scenario
+CF01143,L01116,CHW I,Applied,2026-04-18,Synthetic scenario
+CF01144,L01116,CHW I,Certified,2026-05-18,Synthetic scenario
+CF01145,L01131,CHW I,Unknown,2026-04-20,Synthetic scenario
+CF01146,L01154,CHW II,Certified,2026-05-01,Synthetic scenario
+CF01147,L01194,CHW I,Applied,2026-04-14,Synthetic scenario
+CF01148,L01194,CHW I,Certified,2026-04-18,Synthetic scenario
+CF01149,L01220,CHW I,Not Certified,2026-05-03,Synthetic scenario
+CF01150,L01296,CHW I,Certified,2026-03-26,Synthetic scenario
+CF01151,L01352,CHW I,Applied,2026-04-05,Synthetic scenario
+CF01152,L01352,CHW I,Applied,2026-04-03,Synthetic scenario
+CF01153,L01370,CHW I,Applied,2026-05-01,Synthetic scenario
+CF01154,L01397,CHW I,Applied,2026-03-27,Synthetic scenario
+CF01155,L01397,CHW I,Certified,2026-03-31,Synthetic scenario
+CF01156,L01449,CHW I,Applied,2026-04-07,Synthetic scenario
+CF01157,L01449,CHW I,Certified,2026-04-18,Synthetic scenario
+CF01158,L01522,CHW I,Applied,2026-04-07,Synthetic scenario
+CF01159,L01522,CHW I,Applied,2026-04-08,Synthetic scenario
+CF01160,L01524,CHW I,Applied,2026-03-26,Synthetic scenario
+CF01161,L01524,CHW I,Certified,2026-05-04,Synthetic scenario
+CF01162,L01668,CHW I,Applied,2026-04-18,Synthetic scenario
+CF01163,L01701,CHW I,Applied,2026-04-07,Synthetic scenario
+CF01164,L01701,CHW I,Applied,2026-05-12,Synthetic scenario
+CF01165,L01731,CHW I,Planning to Apply,2026-04-01,Synthetic scenario
+CF01166,L01823,CHW I,Certified,2026-04-01,Synthetic scenario
+CF01167,L02004,CHW I,Applied,2026-04-29,Synthetic scenario
+CF01168,L02012,CHW I,Certified,2026-04-08,Synthetic scenario
+CF01169,L02149,CHW II,Applied,2026-04-03,Synthetic scenario
+CF01170,L02149,CHW II,Certified,2026-04-08,Synthetic scenario
+CF01171,L02151,CHW I,Certified,2026-04-22,Synthetic scenario
+CF01172,L02179,CHW I,Applied,2026-03-14,Synthetic scenario
+CF01173,L02179,CHW I,Certified,2026-04-03,Synthetic scenario
+CF01174,L02239,CHW I,Certified,2026-03-25,Synthetic scenario
+CF01175,L00212,CHW II,Applied,2026-03-29,Synthetic scenario
+CF01176,L00212,CHW II,Applied,2026-03-23,Synthetic scenario
+CF01177,L00262,CHW II,Applied,2026-04-12,Synthetic scenario
+CF01178,L00262,CHW II,Certified,2026-05-10,Synthetic scenario
+CF01179,L00280,CHW I,Applied,2026-04-20,Synthetic scenario
+CF01180,L00280,CHW I,Certified,2026-04-30,Synthetic scenario
+CF01181,L00328,CHW I,Certified,2026-04-07,Synthetic scenario
+CF01182,L00333,CHW II,Planning to Apply,2026-03-30,Synthetic scenario
+CF01183,L00377,CHW I,Planning to Apply,2026-04-24,Synthetic scenario
+CF01184,L00445,CHW I,Applied,2026-03-25,Synthetic scenario
+CF01185,L00445,CHW I,Certified,2026-04-20,Synthetic scenario
+CF01186,L00555,CHW I,Unknown,2026-05-24,Synthetic scenario
+CF01187,L00646,CHW I,Certified,2026-05-15,Synthetic scenario
+CF01188,L00655,CHW I,Planning to Apply,2026-05-09,Synthetic scenario
+CF01189,L00760,CHW I,Applied,2026-08-08,Synthetic scenario
+CF01190,L00916,CHW I,Certified,2026-05-18,Synthetic scenario
+CF01191,L01038,CHW I,Unknown,2026-03-23,Synthetic scenario
+CF01192,L01086,CHW I,Not Certified,2026-03-30,Synthetic scenario
+CF01193,L01091,CHW I,Applied,2026-04-14,Synthetic scenario
+CF01194,L01091,CHW I,Certified,2026-04-21,Synthetic scenario
+CF01195,L01153,CHW I,Certified,2026-04-07,Synthetic scenario
+CF01196,L01189,CHW I,Applied,2026-04-10,Synthetic scenario
+CF01197,L01189,CHW I,Certified,2026-04-16,Synthetic scenario
+CF01198,L01333,CHW I,Certified,2026-04-15,Synthetic scenario
+CF01199,L01365,CHW I,Applied,2026-04-01,Synthetic scenario
+CF01200,L01393,CHW I,Applied,2026-03-29,Synthetic scenario
+CF01201,L01393,CHW I,Certified,2026-04-08,Synthetic scenario
+CF01202,L01401,CHW I,Planning to Apply,2026-03-21,Synthetic scenario
+CF01203,L01459,CHW II,Certified,2026-05-25,Synthetic scenario
+CF01204,L01473,CHW I,Certified,2026-04-19,Synthetic scenario
+CF01205,L01596,CHW I,Certified,2026-04-22,Synthetic scenario
+CF01206,L01628,CHW II,Certified,2026-03-12,Synthetic scenario
+CF01207,L01689,CHW I,Applied,2026-05-17,Synthetic scenario
+CF01208,L01717,CHW I,Applied,2026-04-07,Synthetic scenario
+CF01209,L01717,CHW I,Applied,2026-04-28,Synthetic scenario
+CF01210,L01812,CHW I,Certified,2026-05-08,Synthetic scenario
+CF01211,L01906,CHW I,Planning to Apply,2026-05-09,Synthetic scenario
+CF01212,L02050,CHW I,Certified,2026-04-09,Synthetic scenario
+CF01213,L02092,CHW I,Planning to Apply,2026-03-15,Synthetic scenario
+CF01214,L02191,CHW I,Applied,2026-04-04,Synthetic scenario
+CF01215,L00035,CHW I,Certified,2026-04-13,Synthetic scenario
+CF01216,L00120,CHW I,Certified,2026-04-14,Synthetic scenario
+CF01217,L00137,CHW I,Applied,2026-04-25,Synthetic scenario
+CF01218,L00137,CHW I,Certified,2026-05-16,Synthetic scenario
+CF01219,L00158,CHW I,Applied,2026-04-12,Synthetic scenario
+CF01220,L00396,CHW I,Applied,2026-05-14,Synthetic scenario
+CF01221,L00512,CHW I,Certified,2026-04-11,Synthetic scenario
+CF01222,L00528,CHW II,Applied,2026-04-03,Synthetic scenario
+CF01223,L00560,CHW I,Applied,2026-05-02,Synthetic scenario
+CF01224,L00560,CHW I,Applied,2026-05-24,Synthetic scenario
+CF01225,L00589,CHW I,Applied,2026-05-27,Synthetic scenario
+CF01226,L00599,CHW I,Not Certified,2026-03-31,Synthetic scenario
+CF01227,L00641,CHW I,Applied,2026-04-05,Synthetic scenario
+CF01228,L00641,CHW I,Certified,2026-04-22,Synthetic scenario
+CF01229,L00700,CHW I,Applied,2026-04-12,Synthetic scenario
+CF01230,L00700,CHW I,Certified,2026-04-16,Synthetic scenario
+CF01231,L00831,CHW I,Not Certified,2026-04-23,Synthetic scenario
+CF01232,L00844,CHW I,Certified,2026-05-05,Synthetic scenario
+CF01233,L00847,CHW I,Certified,2026-05-29,Synthetic scenario
+CF01234,L00924,CHW II,Applied,2026-03-31,Synthetic scenario
+CF01235,L00924,CHW II,Certified,2026-05-21,Synthetic scenario
+CF01236,L00947,CHW I,Applied,2026-04-19,Synthetic scenario
+CF01237,L00947,CHW I,Applied,2026-04-30,Synthetic scenario
+CF01238,L00959,CHW I,Applied,2026-03-23,Synthetic scenario
+CF01239,L01027,CHW I,Applied,2026-04-08,Synthetic scenario
+CF01240,L01027,CHW I,Applied,2026-04-18,Synthetic scenario
+CF01241,L01056,CHW I,Planning to Apply,2026-04-07,Synthetic scenario
+CF01242,L01097,CHW I,Applied,2026-04-09,Synthetic scenario
+CF01243,L01126,CHW I,Applied,2026-03-31,Synthetic scenario
+CF01244,L01126,CHW I,Certified,2026-04-08,Synthetic scenario
+CF01245,L01211,CHW I,Certified,2026-04-27,Synthetic scenario
+CF01246,L01216,CHW I,Applied,2026-04-01,Synthetic scenario
+CF01247,L01221,CHW I,Applied,2026-03-24,Synthetic scenario
+CF01248,L01234,CHW I,Applied,2026-04-05,Synthetic scenario
+CF01249,L01234,CHW I,Certified,2026-05-12,Synthetic scenario
+CF01250,L01337,CHW I,Applied,2026-04-28,Synthetic scenario
+CF01251,L01337,CHW I,Certified,2026-04-30,Synthetic scenario
+CF01252,L01422,CHW I,Applied,2026-04-26,Synthetic scenario
+CF01253,L01511,CHW I,Applied,2026-04-11,Synthetic scenario
+CF01254,L01511,CHW I,Certified,2026-05-01,Synthetic scenario
+CF01255,L01545,CHW I,Not Certified,2026-05-28,Synthetic scenario
+CF01256,L01659,CHW I,Applied,2026-04-26,Synthetic scenario
+CF01257,L01659,CHW I,Certified,2026-05-05,Synthetic scenario
+CF01258,L01821,CHW I,Certified,2026-04-29,Synthetic scenario
+CF01259,L01917,CHW II,Unknown,2026-04-02,Synthetic scenario
+CF01260,L02052,CHW I,Planning to Apply,2026-05-21,Synthetic scenario
+CF01261,L02056,CHW II,Not Certified,2026-04-09,Synthetic scenario
+CF01262,L02114,CHW II,Applied,2026-04-03,Synthetic scenario
+CF01263,L02114,CHW II,Certified,2026-04-30,Synthetic scenario
+CF01264,L02131,CHW I,Planning to Apply,2026-04-21,Synthetic scenario
+CF01265,L02173,CHW I,Certified,2026-05-14,Synthetic scenario
+CF01266,L02299,CHW II,Planning to Apply,2026-05-11,Synthetic scenario
+CF01267,L02323,CHW I,Applied,2026-04-17,Synthetic scenario
+CF01268,L02323,CHW I,Certified,2026-05-05,Synthetic scenario
+CF01269,L02342,CHW I,Applied,2026-03-27,Synthetic scenario
+CF01270,L02342,CHW I,Applied,2026-04-05,Synthetic scenario
+CF01271,L02441,CHW I,Applied,2026-06-01,Synthetic scenario
+CF01272,L00023,CHW I,Planning to Apply,2026-07-01,Synthetic scenario
+CF01273,L00127,CHW I,Applied,2026-07-02,Synthetic scenario
+CF01274,L00189,CHW I,Planning to Apply,2026-08-08,Synthetic scenario
+CF01275,L00310,CHW I,Applied,2026-06-16,Synthetic scenario
+CF01276,L00310,CHW I,Applied,2026-08-07,Synthetic scenario
+CF01277,L00380,CHW II,Applied,2026-07-05,Synthetic scenario
+CF01278,L00414,CHW I,Applied,2026-07-16,Synthetic scenario
+CF01279,L00414,CHW I,Certified,2026-07-19,Synthetic scenario
+CF01280,L00421,CHW I,Unknown,2026-06-18,Synthetic scenario
+CF01281,L00425,CHW I,Planning to Apply,2026-06-30,Synthetic scenario
+CF01282,L00479,CHW I,Not Certified,2026-08-04,Synthetic scenario
+CF01283,L00507,CHW I,Certified,2026-07-05,Synthetic scenario
+CF01284,L00572,CHW I,Certified,2026-07-15,Synthetic scenario
+CF01285,L00618,CHW I,Applied,2026-06-08,Synthetic scenario
+CF01286,L00618,CHW I,Certified,2026-07-06,Synthetic scenario
+CF01287,L00666,CHW I,Planning to Apply,2026-08-01,Synthetic scenario
+CF01288,L00672,CHW I,Applied,2026-06-23,Synthetic scenario
+CF01289,L00672,CHW I,Applied,2026-07-12,Synthetic scenario
+CF01290,L00691,CHW I,Applied,2026-06-30,Synthetic scenario
+CF01291,L00691,CHW I,Certified,2026-07-01,Synthetic scenario
+CF01292,L00790,CHW I,Not Certified,2026-06-20,Synthetic scenario
+CF01293,L00866,CHW I,Applied,2026-07-01,Synthetic scenario
+CF01294,L00902,CHW I,Applied,2026-07-04,Synthetic scenario
+CF01295,L00902,CHW I,Applied,2026-07-23,Synthetic scenario
+CF01296,L01044,CHW I,Certified,2026-07-06,Synthetic scenario
+CF01297,L01562,CHW II,Certified,2026-07-17,Synthetic scenario
+CF01298,L01691,CHW I,Applied,2026-07-04,Synthetic scenario
+CF01299,L01691,CHW I,Certified,2026-07-10,Synthetic scenario
+CF01300,L01746,CHW II,Certified,2026-06-30,Synthetic scenario
+CF01301,L01886,CHW II,Not Certified,2026-07-20,Synthetic scenario
+CF01302,L01936,CHW I,Applied,2026-06-18,Synthetic scenario
+CF01303,L01936,CHW I,Certified,2026-07-07,Synthetic scenario
+CF01304,L01974,CHW II,Applied,2026-07-13,Synthetic scenario
+CF01305,L01974,CHW II,Certified,2026-07-24,Synthetic scenario
+CF01306,L02141,CHW II,Not Certified,2026-08-06,Synthetic scenario
+CF01307,L02159,CHW I,Applied,2026-06-30,Synthetic scenario
+CF01308,L02159,CHW I,Certified,2026-07-06,Synthetic scenario
+CF01309,L02304,CHW I,Certified,2026-07-30,Synthetic scenario
+CF01310,L02334,CHW I,Applied,2026-07-13,Synthetic scenario
+CF01311,L02345,CHW I,Applied,2026-07-18,Synthetic scenario
+CF01312,L02446,CHW I,Applied,2026-10-09,Synthetic scenario
+CF01313,L02446,CHW I,Certified,2026-11-01,Synthetic scenario
+CF01314,L00008,CHW I,Planning to Apply,2026-07-04,Synthetic scenario
+CF01315,L00049,CHW I,Applied,2026-06-18,Synthetic scenario
+CF01316,L00049,CHW I,Certified,2026-07-09,Synthetic scenario
+CF01317,L00093,CHW I,Certified,2026-06-22,Synthetic scenario
+CF01318,L00179,CHW I,Certified,2026-07-18,Synthetic scenario
+CF01319,L00411,CHW I,Planning to Apply,2026-08-18,Synthetic scenario
+CF01320,L00541,CHW I,Applied,2026-06-28,Synthetic scenario
+CF01321,L00541,CHW I,Certified,2026-07-22,Synthetic scenario
+CF01322,L00553,CHW I,Applied,2026-08-03,Synthetic scenario
+CF01323,L00590,CHW I,Certified,2026-06-26,Synthetic scenario
+CF01324,L00617,CHW II,Applied,2026-07-12,Synthetic scenario
+CF01325,L00617,CHW II,Applied,2026-07-12,Synthetic scenario
+CF01326,L00650,CHW I,Applied,2026-06-14,Synthetic scenario
+CF01327,L00676,CHW I,Certified,2026-08-01,Synthetic scenario
+CF01328,L00678,CHW II,Planning to Apply,2026-08-09,Synthetic scenario
+CF01329,L00773,CHW I,Applied,2026-06-15,Synthetic scenario
+CF01330,L00773,CHW I,Certified,2026-07-08,Synthetic scenario
+CF01331,L00812,CHW I,Not Certified,2026-07-09,Synthetic scenario
+CF01332,L00815,CHW I,Planning to Apply,2026-07-25,Synthetic scenario
+CF01333,L00973,CHW I,Applied,2026-06-27,Synthetic scenario
+CF01334,L01046,CHW I,Certified,2026-06-29,Synthetic scenario
+CF01335,L01331,CHW I,Not Certified,2026-07-15,Synthetic scenario
+CF01336,L01438,CHW I,Applied,2026-06-11,Synthetic scenario
+CF01337,L01554,CHW I,Applied,2026-07-09,Synthetic scenario
+CF01338,L01554,CHW I,Certified,2026-07-13,Synthetic scenario
+CF01339,L01582,CHW I,Planning to Apply,2026-08-12,Synthetic scenario
+CF01340,L01597,CHW I,Planning to Apply,2026-08-08,Synthetic scenario
+CF01341,L01685,CHW I,Planning to Apply,2026-07-20,Synthetic scenario
+CF01342,L01720,CHW I,Unknown,2026-08-11,Synthetic scenario
+CF01343,L01724,CHW I,Applied,2026-07-14,Synthetic scenario
+CF01344,L01724,CHW I,Certified,2026-07-23,Synthetic scenario
+CF01345,L01824,CHW I,Certified,2026-08-12,Synthetic scenario
+CF01346,L01852,CHW I,Planning to Apply,2026-06-26,Synthetic scenario
+CF01347,L01858,CHW I,Applied,2026-11-04,Synthetic scenario
+CF01348,L01884,CHW I,Not Certified,2026-06-29,Synthetic scenario
+CF01349,L02061,CHW II,Applied,2026-07-02,Synthetic scenario
+CF01350,L02061,CHW II,Certified,2026-07-05,Synthetic scenario
+CF01351,L02229,CHW I,Applied,2026-08-05,Synthetic scenario
+CF01352,L02283,CHW I,Planning to Apply,2026-06-24,Synthetic scenario
+CF01353,L02322,CHW I,Planning to Apply,2026-07-08,Synthetic scenario
+CF01354,L02413,CHW I,Applied,2026-07-07,Synthetic scenario
+CF01355,L02413,CHW I,Applied,2026-08-25,Synthetic scenario
+CF01356,L02421,CHW I,Applied,2026-07-23,Synthetic scenario
+CF01357,L02423,CHW I,Applied,2026-06-24,Synthetic scenario
+CF01358,L02440,CHW I,Not Certified,2026-08-16,Synthetic scenario
+CF01359,L00002,CHW I,Unknown,2026-08-14,Synthetic scenario
+CF01360,L00003,CHW I,Not Certified,2026-07-14,Synthetic scenario
+CF01361,L00039,CHW I,Applied,2026-07-02,Synthetic scenario
+CF01362,L00039,CHW I,Applied,2026-08-03,Synthetic scenario
+CF01363,L00041,CHW I,Unknown,2026-07-26,Synthetic scenario
+CF01364,L00131,CHW I,Applied,2026-06-21,Synthetic scenario
+CF01365,L00131,CHW I,Applied,2026-08-03,Synthetic scenario
+CF01366,L00185,CHW I,Certified,2026-08-06,Synthetic scenario
+CF01367,L00217,CHW I,Applied,2026-06-27,Synthetic scenario
+CF01368,L00235,CHW I,Not Certified,2026-08-31,Synthetic scenario
+CF01369,L00269,CHW I,Planning to Apply,2026-06-30,Synthetic scenario
+CF01370,L00307,CHW I,Planning to Apply,2026-06-30,Synthetic scenario
+CF01371,L00309,CHW I,Certified,2026-08-06,Synthetic scenario
+CF01372,L00314,CHW I,Certified,2026-07-03,Synthetic scenario
+CF01373,L00321,CHW I,Applied,2026-07-05,Synthetic scenario
+CF01374,L00371,CHW I,Unknown,2026-07-20,Synthetic scenario
+CF01375,L00375,CHW I,Certified,2026-08-08,Synthetic scenario
+CF01376,L00457,CHW I,Applied,2026-08-04,Synthetic scenario
+CF01377,L00457,CHW I,Applied,2026-07-20,Synthetic scenario
+CF01378,L00459,CHW I,Applied,2026-06-30,Synthetic scenario
+CF01379,L00459,CHW I,Applied,2026-06-30,Synthetic scenario
+CF01380,L00588,CHW I,Certified,2026-07-15,Synthetic scenario
+CF01381,L00626,CHW I,Applied,2026-07-17,Synthetic scenario
+CF01382,L00626,CHW I,Certified,2026-09-03,Synthetic scenario
+CF01383,L00701,CHW I,Applied,2026-07-24,Synthetic scenario
+CF01384,L00701,CHW I,Applied,2026-08-28,Synthetic scenario
+CF01385,L00746,CHW I,Planning to Apply,2026-07-22,Synthetic scenario
+CF01386,L00751,CHW I,Applied,2026-07-05,Synthetic scenario
+CF01387,L00751,CHW I,Certified,2026-08-04,Synthetic scenario
+CF01388,L00789,CHW I,Applied,2026-07-20,Synthetic scenario
+CF01389,L00789,CHW I,Applied,2026-07-09,Synthetic scenario
+CF01390,L00806,CHW I,Applied,2026-07-05,Synthetic scenario
+CF01391,L00806,CHW I,Certified,2026-08-07,Synthetic scenario
+CF01392,L00907,CHW I,Applied,2026-06-26,Synthetic scenario
+CF01393,L00907,CHW I,Applied,2026-08-10,Synthetic scenario
+CF01394,L00971,CHW I,Certified,2026-06-26,Synthetic scenario
+CF01395,L00989,CHW I,Applied,2026-07-09,Synthetic scenario
+CF01396,L00989,CHW I,Certified,2026-07-27,Synthetic scenario
+CF01397,L00999,CHW I,Applied,2026-06-29,Synthetic scenario
+CF01398,L00999,CHW I,Certified,2026-07-30,Synthetic scenario
+CF01399,L01023,CHW I,Applied,2026-07-08,Synthetic scenario
+CF01400,L01060,CHW I,Planning to Apply,2026-07-05,Synthetic scenario
+CF01401,L01157,CHW I,Applied,2026-07-29,Synthetic scenario
+CF01402,L01157,CHW I,Certified,2026-08-07,Synthetic scenario
+CF01403,L01240,CHW I,Planning to Apply,2026-08-27,Synthetic scenario
+CF01404,L01274,CHW I,Certified,2026-08-16,Synthetic scenario
+CF01405,L01288,CHW II,Not Certified,2026-08-10,Synthetic scenario
+CF01406,L01307,CHW I,Planning to Apply,2026-08-23,Synthetic scenario
+CF01407,L01353,CHW I,Planning to Apply,2026-08-14,Synthetic scenario
+CF01408,L01357,CHW I,Unknown,2026-08-07,Synthetic scenario
+CF01409,L01372,CHW I,Certified,2026-08-17,Synthetic scenario
+CF01410,L01482,CHW II,Planning to Apply,2026-07-20,Synthetic scenario
+CF01411,L01501,CHW I,Certified,2026-08-21,Synthetic scenario
+CF01412,L01563,CHW I,Certified,2026-07-31,Synthetic scenario
+CF01413,L01573,CHW I,Applied,2026-06-30,Synthetic scenario
+CF01414,L01573,CHW I,Certified,2026-08-19,Synthetic scenario
+CF01415,L01606,CHW I,Planning to Apply,2026-07-09,Synthetic scenario
+CF01416,L01624,CHW I,Applied,2026-06-30,Synthetic scenario
+CF01417,L01681,CHW I,Certified,2026-08-09,Synthetic scenario
+CF01418,L01721,CHW I,Planning to Apply,2026-06-30,Synthetic scenario
+CF01419,L01736,CHW I,Certified,2026-08-10,Synthetic scenario
+CF01420,L01740,CHW I,Certified,2026-07-25,Synthetic scenario
+CF01421,L02015,CHW I,Applied,2026-07-16,Synthetic scenario
+CF01422,L02024,CHW II,Planning to Apply,2026-09-03,Synthetic scenario
+CF01423,L02027,CHW I,Certified,2026-06-30,Synthetic scenario
+CF01424,L02165,CHW I,Planning to Apply,2026-07-01,Synthetic scenario
+CF01425,L02166,CHW I,Planning to Apply,2026-08-04,Synthetic scenario
+CF01426,L02214,CHW I,Applied,2026-07-18,Synthetic scenario
+CF01427,L02214,CHW I,Certified,2026-08-05,Synthetic scenario
+CF01428,L02253,CHW I,Certified,2026-08-16,Synthetic scenario
+CF01429,L02312,CHW I,Applied,2026-07-27,Synthetic scenario
+CF01430,L02312,CHW I,Certified,2026-08-13,Synthetic scenario
+CF01431,L02341,CHW II,Not Certified,2026-06-30,Synthetic scenario
+CF01432,L02354,CHW I,Applied,2026-07-01,Synthetic scenario
+CF01433,L02354,CHW I,Certified,2026-07-10,Synthetic scenario
+CF01434,L02390,CHW I,Applied,2026-07-14,Synthetic scenario
+CF01435,L02390,CHW I,Applied,2026-08-02,Synthetic scenario
+CF01436,L02427,CHW I,Certified,2026-07-19,Synthetic scenario
+CF01437,L02449,CHW I,Planning to Apply,2026-07-31,Synthetic scenario
+CF01438,L00136,CHW I,Planning to Apply,2026-10-29,Synthetic scenario
+CF01439,L00296,CHW I,Planning to Apply,2026-10-26,Synthetic scenario
+CF01440,L00384,CHW I,Applied,2026-10-02,Synthetic scenario
+CF01441,L00384,CHW I,Certified,2026-10-10,Synthetic scenario
+CF01442,L00429,CHW I,Planning to Apply,2026-09-29,Synthetic scenario
+CF01443,L00481,CHW I,Not Certified,2026-10-27,Synthetic scenario
+CF01444,L00561,CHW I,Applied,2026-09-30,Synthetic scenario
+CF01445,L00561,CHW I,Certified,2026-10-10,Synthetic scenario
+CF01446,L00566,CHW I,Applied,2026-10-14,Synthetic scenario
+CF01447,L00566,CHW I,Applied,2026-11-06,Synthetic scenario
+CF01448,L00593,CHW I,Certified,2026-10-23,Synthetic scenario
+CF01449,L00644,CHW I,Certified,2026-09-14,Synthetic scenario
+CF01450,L00648,CHW I,Applied,2026-09-10,Synthetic scenario
+CF01451,L00648,CHW I,Applied,2026-10-06,Synthetic scenario
+CF01452,L00729,CHW I,Certified,2026-11-05,Synthetic scenario
+CF01453,L00743,CHW I,Applied,2026-09-20,Synthetic scenario
+CF01454,L00743,CHW I,Applied,2026-09-22,Synthetic scenario
+CF01455,L00779,CHW II,Applied,2026-09-13,Synthetic scenario
+CF01456,L00779,CHW II,Applied,2026-11-10,Synthetic scenario
+CF01457,L00818,CHW I,Applied,2026-10-23,Synthetic scenario
+CF01458,L00884,CHW I,Planning to Apply,2026-09-16,Synthetic scenario
+CF01459,L00892,CHW II,Applied,2026-09-13,Synthetic scenario
+CF01460,L00892,CHW II,Certified,2026-09-24,Synthetic scenario
+CF01461,L01100,CHW I,Applied,2026-10-07,Synthetic scenario
+CF01462,L01100,CHW I,Applied,2026-11-03,Synthetic scenario
+CF01463,L01271,CHW I,Applied,2026-10-24,Synthetic scenario
+CF01464,L01490,CHW I,Planning to Apply,2026-10-24,Synthetic scenario
+CF01465,L01572,CHW I,Not Certified,2026-10-08,Synthetic scenario
+CF01466,L01578,CHW I,Applied,2026-10-15,Synthetic scenario
+CF01467,L01593,CHW I,Applied,2026-11-12,Synthetic scenario
+CF01468,L01608,CHW II,Planning to Apply,2026-10-10,Synthetic scenario
+CF01469,L01815,CHW I,Applied,2026-09-21,Synthetic scenario
+CF01470,L01815,CHW I,Certified,2026-09-27,Synthetic scenario
+CF01471,L01943,CHW II,Certified,2026-10-08,Synthetic scenario
+CF01472,L01955,CHW I,Not Certified,2026-11-15,Synthetic scenario
+CF01473,L01992,CHW I,Unknown,2026-10-25,Synthetic scenario
+CF01474,L02088,CHW I,Certified,2026-11-09,Synthetic scenario
+CF01475,L02100,CHW I,Not Certified,2026-10-24,Synthetic scenario
+CF01476,L02327,CHW II,Applied,2026-10-28,Synthetic scenario
+CF01477,L02332,CHW I,Certified,2026-10-13,Synthetic scenario
+CF01478,L00089,CHW I,Unknown,2026-11-14,Synthetic scenario
+CF01479,L00128,CHW I,Certified,2026-10-05,Synthetic scenario
+CF01480,L00241,CHW I,Applied,2026-09-20,Synthetic scenario
+CF01481,L00263,CHW I,Certified,2026-09-27,Synthetic scenario
+CF01482,L00335,CHW I,Planning to Apply,2026-10-13,Synthetic scenario
+CF01483,L00355,CHW I,Planning to Apply,2026-10-25,Synthetic scenario
+CF01484,L00394,CHW I,Planning to Apply,2026-09-27,Synthetic scenario
+CF01485,L00467,CHW I,Applied,2026-10-10,Synthetic scenario
+CF01486,L00467,CHW I,Certified,2026-11-04,Synthetic scenario
+CF01487,L00508,CHW I,Applied,2026-09-11,Synthetic scenario
+CF01488,L00508,CHW I,Applied,2026-09-25,Synthetic scenario
+CF01489,L00522,CHW I,Planning to Apply,2026-11-14,Synthetic scenario
+CF01490,L00534,CHW I,Applied,2026-09-19,Synthetic scenario
+CF01491,L00534,CHW I,Certified,2026-09-29,Synthetic scenario
+CF01492,L00621,CHW I,Unknown,2026-10-08,Synthetic scenario
+CF01493,L00724,CHW I,Applied,2026-10-06,Synthetic scenario
+CF01494,L00724,CHW I,Certified,2026-11-11,Synthetic scenario
+CF01495,L00839,CHW I,Certified,2026-09-26,Synthetic scenario
+CF01496,L00845,CHW I,Applied,2026-10-12,Synthetic scenario
+CF01497,L00891,CHW I,Certified,2026-09-29,Synthetic scenario
+CF01498,L00966,CHW I,Planning to Apply,2026-10-27,Synthetic scenario
+CF01499,L00996,CHW I,Certified,2026-09-30,Synthetic scenario
+CF01500,L01066,CHW I,Applied,2026-09-20,Synthetic scenario
+CF01501,L01109,CHW I,Applied,2026-10-07,Synthetic scenario
+CF01502,L01109,CHW I,Certified,2026-10-08,Synthetic scenario
+CF01503,L01117,CHW I,Planning to Apply,2026-11-12,Synthetic scenario
+CF01504,L01148,CHW I,Certified,2026-11-16,Synthetic scenario
+CF01505,L01195,CHW I,Applied,2026-09-29,Synthetic scenario
+CF01506,L01195,CHW I,Applied,2026-10-20,Synthetic scenario
+CF01507,L01241,CHW I,Not Certified,2026-10-12,Synthetic scenario
+CF01508,L01245,CHW I,Certified,2026-11-03,Synthetic scenario
+CF01509,L01311,CHW I,Unknown,2026-09-28,Synthetic scenario
+CF01510,L01434,CHW I,Planning to Apply,2026-09-27,Synthetic scenario
+CF01511,L01533,CHW I,Applied,2026-10-10,Synthetic scenario
+CF01512,L01533,CHW I,Certified,2026-11-13,Synthetic scenario
+CF01513,L01541,CHW I,Certified,2026-10-22,Synthetic scenario
+CF01514,L01574,CHW I,Applied,2026-10-18,Synthetic scenario
+CF01515,L01574,CHW I,Applied,2026-09-29,Synthetic scenario
+CF01516,L01598,CHW I,Certified,2026-11-12,Synthetic scenario
+CF01517,L01638,CHW I,Planning to Apply,2026-10-01,Synthetic scenario
+CF01518,L01673,CHW I,Certified,2026-09-24,Synthetic scenario
+CF01519,L01755,CHW I,Not Certified,2026-10-21,Synthetic scenario
+CF01520,L02034,CHW I,Planning to Apply,2026-10-25,Synthetic scenario
+CF01521,L02237,CHW I,Unknown,2026-10-01,Synthetic scenario
+CF01522,L02324,CHW I,Applied,2026-10-02,Synthetic scenario
+CF01523,L02324,CHW I,Certified,2026-11-09,Synthetic scenario
+CF01524,L02359,CHW I,Not Certified,2026-09-28,Synthetic scenario
+CF01525,L00051,CHW I,Certified,2026-10-27,Synthetic scenario
+CF01526,L00446,CHW I,Applied,2026-10-23,Synthetic scenario
+CF01527,L00446,CHW I,Certified,2026-10-26,Synthetic scenario
+CF01528,L00452,CHW I,Certified,2026-10-26,Synthetic scenario
+CF01529,L00480,CHW II,Not Certified,2026-10-02,Synthetic scenario
+CF01530,L00527,CHW I,Certified,2026-10-25,Synthetic scenario
+CF01531,L00587,CHW I,Applied,2026-11-12,Synthetic scenario
+CF01532,L00602,CHW I,Not Certified,2026-10-21,Synthetic scenario
+CF01533,L00627,CHW II,Certified,2026-11-12,Synthetic scenario
+CF01534,L00719,CHW I,Applied,2026-10-26,Synthetic scenario
+CF01535,L00719,CHW I,Applied,2026-10-15,Synthetic scenario
+CF01536,L00872,CHW I,Certified,2026-11-12,Synthetic scenario
+CF01537,L00901,CHW I,Unknown,2026-11-03,Synthetic scenario
+CF01538,L00991,CHW I,Applied,2026-10-28,Synthetic scenario
+CF01539,L00991,CHW I,Applied,2026-10-29,Synthetic scenario
+CF01540,L01001,CHW I,Applied,2026-10-13,Synthetic scenario
+CF01541,L01137,CHW II,Planning to Apply,2026-10-06,Synthetic scenario
+CF01542,L01214,CHW I,Applied,2026-10-10,Synthetic scenario
+CF01543,L01214,CHW I,Applied,2026-10-27,Synthetic scenario
+CF01544,L01428,CHW I,Unknown,2026-11-12,Synthetic scenario
+CF01545,L01587,CHW I,Unknown,2026-10-15,Synthetic scenario
+CF01546,L01617,CHW II,Applied,2026-09-30,Synthetic scenario
+CF01547,L01617,CHW II,Certified,2026-10-27,Synthetic scenario
+CF01548,L01647,CHW I,Applied,2026-11-02,Synthetic scenario
+CF01549,L01672,CHW I,Planning to Apply,2026-11-12,Synthetic scenario
+CF01550,L01695,CHW I,Certified,2026-10-30,Synthetic scenario
+CF01551,L01794,CHW I,Applied,2026-10-24,Synthetic scenario
+CF01552,L01895,CHW I,Applied,2026-10-06,Synthetic scenario
+CF01553,L02161,CHW I,Applied,2026-11-10,Synthetic scenario
+CF01554,L02301,CHW I,Certified,2026-10-26,Synthetic scenario
+CF01555,L02314,CHW II,Applied,2026-10-20,Synthetic scenario
+CF01556,L02328,CHW I,Applied,2026-10-28,Synthetic scenario
+CF01557,L02328,CHW I,Applied,2026-10-03,Synthetic scenario
+CF01558,L02329,CHW I,Certified,2026-10-09,Synthetic scenario
+CF01559,L02371,CHW II,Applied,2026-11-05,Synthetic scenario
