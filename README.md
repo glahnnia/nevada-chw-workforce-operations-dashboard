@@ -2,10 +2,6 @@
 
 ### Public Health Informatics | Workforce Analytics | Python | Google Data Studio
 
-![Nevada CHW Workforce Dashboard — Overview](dashboard_preview_1.png)
-
-![Nevada CHW Workforce Dashboard — Geographic Analysis](dashboard_preview_2.png)
-
 **Project Overview**
 
 The Nevada CHW Workforce Operations Dashboard is a public health informatics demonstration project designed to explore how standardized data collection, workforce analytics, and interactive reporting can support Community Health Worker (CHW) training programs across Nevada.
