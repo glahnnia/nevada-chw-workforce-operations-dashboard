@@ -9,13 +9,7 @@
 ## Dashboard Preview
 
 ### Workforce Overview & Annual Trends
-![Nevada CHW Workforce Dashboard - Overview](dashboard_preview_1.png)
 
-### Completion Rates by Language and Region
-![Nevada CHW Workforce Dashboard - Completion Rates](dashboard_preview_2.png)
-
-### Nevada County Workforce Reach
-![Nevada CHW Workforce Dashboard - County Map](dashboard_preview_3.png)
 
 **Project Overview**
 
