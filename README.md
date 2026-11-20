@@ -9,7 +9,13 @@
 ## Dashboard Preview
 
 ### Workforce Overview & Annual Trends
+![Dashboard Overview](dashboard_preview_1.png)
 
+### Completion Rates by Language and Region
+![Completion Rates](dashboard_preview_2.png)
+
+### Nevada County Workforce Reach
+![Nevada County Map](dashboard_preview_3.png)
 
 **Project Overview**
 
