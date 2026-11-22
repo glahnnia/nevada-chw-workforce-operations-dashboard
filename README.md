@@ -9,13 +9,22 @@
 ## Dashboard Preview
 
 ### Workforce Overview & Annual Trends
-![Dashboard Overview](dashboard_preview_1.png)
+
+![Nevada CHW Workforce Operations Dashboard showing enrollment, learner, cohort and completion indicators](screenshots/dashboard_preview_1.png)
+
+*The workforce overview combines enrollment and completion KPIs with annual trends for 2024–2026, demonstrating how training programs can monitor participation and outcomes over time.*
 
 ### Completion Rates by Language and Region
-![Completion Rates](dashboard_preview_2.png)
+
+![Nevada CHW training completion rate comparisons by language and geographic region](screenshots/dashboard_preview_2.png)
+
+*Comparative charts display training completion rates by English- and Spanish-language classes and across Nevada regions, illustrating the value of disaggregated workforce reporting.*
 
 ### Nevada County Workforce Reach
-![Nevada County Map](dashboard_preview_3.png)
+
+![Nevada county map showing the geographic distribution of synthetic CHW training enrollments](screenshots/dashboard_preview_3.png)
+
+*The geographic dashboard displays synthetic training enrollments across Nevada counties, supporting exploration of county-level workforce reach and participation patterns.*
 
 **Project Overview**
 
@@ -97,23 +106,26 @@ GitHub serves as the repository for the project's analysis scripts, synthetic da
 
 ```text
 nevada-chw-workforce-operations-dashboard/
-│
 ├── analysis/
-│   └── Python analysis and KPI outputs
-│
+│   ├── CHW_Workforce_KPI_Analysis.ipynb
+│   ├── build_chw_phase3.py
+│   └── KPI summaries, analysis reports, and related outputs
 ├── dashboard/
-│   └── Dashboard development resources
-│
+│   └── looker_enrollment_detail.csv
 ├── data/
-│   └── Synthetic CHW workforce datasets
-│
+│   ├── DATA_DICTIONARY_v1.md
+│   └── Synthetic learner, enrollment, cohort, and follow-up datasets
 ├── documentation/
-│   └── Project methodology and supporting documentation
-│
+│   └── Methodology, validation reports, and development resources
+├── screenshots/
+│   ├── dashboard_preview_1.png
+│   ├── dashboard_preview_2.png
+│   └── dashboard_preview_3.png
 ├── .gitignore
-│
 └── README.md
 ```
+
+The [`screenshots/`](screenshots/) folder contains the three dashboard preview images displayed above. Analysis outputs and source datasets remain in their existing directories to preserve the project structure and notebook references.
 
 ## Data Sources and Methodology
 
